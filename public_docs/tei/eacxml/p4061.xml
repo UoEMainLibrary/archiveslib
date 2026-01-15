@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4061</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-12-07">7 December 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>15 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1869 0066/02 0008</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1891 census for Gairloch</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 006/02 007/02 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1911 006/02 0011</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW117/86</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4061</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Dingwall</part>
+                <part localType="given">William</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter, Strath, Gairloch, Ross and Cromarty</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1832" notBefore="1827" notAfter="1837">c1832</fromDate>
+                    <toDate standardDate="1911-05-31">31 May 1911</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>William Dingwall was born to Malcolm Dingwall, farm servant, and Margaret
+                    Dingwall née MacKenzie. He married Jessie MacLean,  daughter of John MacLean and
+                    Isabella MacLeannée MacKenzie, on 10 June 1869. In 1891 census there are two
+                    sons recorded as living with them: John (20) and Malcolm (16). </p>
+                <p>William died in 1911, a widower, as a result of an enlarged prostate, cystitis
+                    and heart failure. His son John Dingwall was the informant. </p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1832" notBefore="1827" notAfter="1837">c1832</date>
+                        <placeEntry>Gairloch, Ross and Cromarty</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1869-06-10">10 June 1869</date>
+                        <placeEntry>Gairloch, Ross and Cromarty</placeEntry>
+                        <event>marriage</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1909-09-06">6 September 1909</date>
+                        <placeEntry>Gairloch, Ross and Cromarty</placeEntry>
+                        <event>met with Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1911-05-31">31 May 1911</date><placeEntry>Strath,
+                            Gairloch, Ross and Cromarty</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

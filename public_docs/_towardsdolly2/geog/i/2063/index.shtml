@@ -1,0 +1,17 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Iceland </title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/geog/a/">Authority terms: geographic names</a> &gt; <a href="/towardsdolly/geog/i/">i</a><h1>Iceland </h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=geog&id=2063&term=Iceland " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-209&view=basic">Relationship between the bovine MHC (BoLA) and mastitis, cell count, ATP and antitrypsin levels in Icelandic cattle </a> (1987) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-380&view=basic">Relationship between the bovine major histocompatibility complex (BoLA), erythrocyte markers and susceptibility to mastitis in Icelandic cattle </a> (1988) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-782&view=basic">Associations between the bovine major histocompatibility complex (BoLA) and milk production in Icelandic dairy cattle </a> (1990) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

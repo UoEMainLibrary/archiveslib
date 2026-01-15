@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-46">GB 237
+		Coll-46</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>HMS Challenger Papers, 1872-1876 </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-46">
+    <did>
+      <unittitle>HMS Challenger Papers, 1872-1876 </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-46</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 28-31 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">HMS Challenger Papers, 1872-1876
+		  </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1872-1876">1872-1876 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>5 boxes (1
+		  m). </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">Sir Charles Wyville
+		  Thomson, et al. </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The Challenger Expedition of 1872-76 was the first great voyage of
+		  oceanographical exploration. In forty-one months from December 1872 to May 1876
+		  the wooden steam corvette HMS Challenger visited all the oceans of the world,
+		  with the exception of the Arctic. The vessel and crew were provided by the
+		  Admiralty, and the naval command was given to Captain (later Sir) George Strong
+		  Nares. The scientific staff were supervised by Charles Wyville Thomson
+		  (knighted in 1876), a Scottish naturalist and student of marine invertebrates.
+		  The expedition was charged to determine deep sea physical conditions including
+		  depth, temperature and ocean currents. Charting, surveying, and biological
+		  investigations were also carried out. In this programme of oceanographical
+		  research , the expedition covered 127,600 kilometres (68,890 nautical miles),
+		  gathering observations from 362 stations and making 492 deep soundings and 133
+		  dredgings. Thomson had been appointed Professor of Natural History at Edinburgh
+		  University in 1870, and much of the preparation for this voyage of
+		  oceanographic exploration took place in Edinburgh. At the end of the expedition
+		  the Challenger Office was set up there. The 
+		Report on the Scientific Results of the Voyage of H.M.S.
+		  Challenger  was issued in fifty volumes between 1850 and 1895. When
+		Thomson died in 1882, John Murray succeeded him as Director of the Challenger
+		Office and editor of the Report. Much of the information gathered by the
+		Challenger Expedition is still used today. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Challenger Papers contain sheets of plates illustrating various
+		  marine life forms, and original drawings of marine life forms; engravings,
+		  lithographs, photographs, etc. of marine life forms; drawing and engravings of
+		  Challenger equipment; and, statistical material, graphs, charts and maps. There
+		  are drawings, engravings and photographs of Challenger personnel at various
+		  tasks, and of Challenger and its interiors; and, pictures of people and places
+		  (not Challenger personnel), and large and small original drawings, engravings,
+		  and photographs. There is also miscellaneous textual material, and engraved
+		  proof illustrations. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H46 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

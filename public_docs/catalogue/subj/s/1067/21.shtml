@@ -1,0 +1,23 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Sheep</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/s/">s</a><h1>Sheep</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=1067&term=Sheep" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-327&view=basic">Prayer entitled 'Urn[a]igh Rusgai[dh] Chaor[aich]' </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-173&view=basic">Notes and vocabulary notes about sheep in the St Kilda archipelago </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-30&view=basic">Proverb beginning 'Biodh aithne mhath agad an cor do chaorach' </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-26&view=basic">Song beginning 'A liud fear agus [eadside]' </a> (1890) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-18&view=basic">Story about Prince Charles Edward Stuart </a> (1890) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-137&view=basic">Vocabulary note relating to deargadh and dearg </a> (1894) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-166&view=basic">Vocabulary note which reads 'Minicneag = Skin of a young lamb' </a> (1894) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-79&view=basic">Vocabulary note for Barrfeal [wool] </a> (1895) The Carmichael Watson Collection</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

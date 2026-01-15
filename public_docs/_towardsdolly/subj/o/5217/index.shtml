@@ -1,0 +1,17 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Osteoarthritis</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/o/">o</a><h1>Osteoarthritis</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=5217&term=Osteoarthritis" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-279&view=basic">An avian model for osteoarthrosis? Early results show similarity to dog models </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-280&view=basic">Cartilage composition in fowl varies with strain susceptibility to degenerative joint disease </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-666&view=basic">Avian degenerative joint disease; an in vivo loading study </a> (1995) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

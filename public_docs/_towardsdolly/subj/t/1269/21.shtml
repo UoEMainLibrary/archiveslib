@@ -1,0 +1,21 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Theology</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/t/">t</a><h1>Theology</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=1269&term=Theology" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1-3&view=basic">Commonplace Book 1 </a> (1928) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-8-1-1&view=basic">The Bedmakers' Sermon </a> (1928-1960) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1-4&view=basic">Commonplace Book 2 </a> (1934) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-8-1-2&view=basic">Introduction (Fraenkel) </a> (1946) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1-5&view=basic">Commonplace Book 3 </a> (1953-1963) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-13-14&view=basic">Conversion </a> (1958-1963) Papers of Professor John Baillie, and Baillie Family Papers</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

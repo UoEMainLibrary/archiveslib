@@ -1,0 +1,24 @@
+<!--#include virtual="/catalogue2/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Chemistry</title>
+<!--#include virtual="/catalogue2/includes/lower_header.php" -->
+
+
+<h2>Authority term: Chemistry</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-1&view=basic">Students of the College of Chemistry (William Cullen)</a> (1755-1765)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-2&view=basic">Class Register (TC Hope)</a> (1830-1843)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-3&view=basic">Student Records</a> (1839)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-4&view=basic">Chemistry Class Album</a> (1844-1858)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-6&view=basic">Practical Chemistry Classbook</a> (1854-1874)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-5&view=basic">Chemistry Class Registration Book (Sir Lyon Playfair and Alexander Crum Brown)</a> (1858-1873)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-13&view=basic">Laboratory Apparatus</a> (1859-1860)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-12&view=basic">Examination Book (Sir Lyon Playfair and Alexander Crum Brown)</a> (1866-1873)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-9&view=basic">Lectures on Chemistry</a> (1873-1885)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-11&view=basic">Laboratory Classbook</a> (1873-1908)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-7&view=basic">Practical Chemistry</a> (1874-1884)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-8&view=basic">Practical Chemistry</a> (1891-1904)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-ACU-C2-1-10&view=basic">Lectures on Chemistry</a> (1899-1904)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue2/includes/footer.php" -->

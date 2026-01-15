@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control>
+        <recordId>GB-237-eac-p4856</recordId>
+        <maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency>
+        <languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration>
+        <conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-01-11">3 May 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+                <eventDescription>draft in progress</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2012-11-26">26 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Kirsty M Stewart</agent>
+                <eventDescription>revision</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>5 February 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 Census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 118/00 005/00 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 Census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 118/00 005/00 013</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1855 118/00 0078</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Transcribed notes</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW244 f.139</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4856</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacCalmain</part>
+                <part localType="given">Somhairle</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter, Uachdar, Benbecula</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1775" notBefore="1770" notAfter="1780">c1775</fromDate>
+                    <toDate standardDate="1855-08">August 1855</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Somhairle MacCalmain also appears in official records as Somerled MacCalamain and
+                    Samuel Murchison. He was born around 1775 to Donald Murchison, farmer, and
+                    Catherine Murchison née Bethune in Duirnish parish, Isle of Skye. He is recorded
+                    in the 1841 census as Samuel Murchison, farmer, aged 65, living at Lionacleit,
+                    Benbecula. His wife was Catherine (60) and his children John (20), Mary (20),
+                    Flory (15), all of whom were born in the county of Inverness-shire. Also living
+                    at the address are Samuel MacRae aged 2 and John MacIntyre (15) and a male
+                    servant, both also born in Inverness-shire. In the 1851 census, the family is
+                    still living at Lionacleit. Samuel is aged 77 and recorded as a crofter born in
+                    Skye. His wife Catherine (74); his son John (32), who is described as being
+                    employed at home; and daughter Flora (25) are all recorded as being born in
+                    South Uist parish, Flora and John being unmarried. Donald MacRae aged 8 and a
+                    scholar is described as a visitor also born in South Uist parish. </p>
+                <p>Somhairle was predeceased by his wife by a few months. He died of natural decay
+                    in August 1855 and he was buried at Cladh Mhuire, Benbecula.</p>
+                <p>Somhairle MacCalmain is mentioned in manuscripts by Dugald MacAulay, Hacleit,
+                    Benbecula from whom Alexander Carmichael collected verses which MacAulay styled
+                    'Altach Somhairle Mac Calmain'. </p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1775" notBefore="1770" notAfter="1780">c1775</date>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1855-08">August 1855</date>
+                        <placeEntry>Lionacleit, Benbecula, South Uist parish,
+                            Inverness-shire</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

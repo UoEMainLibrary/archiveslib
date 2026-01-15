@@ -1,0 +1,16 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: World War, 1939-1945</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/w/">w</a><h1>World War, 1939-1945</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2160&term=World War, 1939-1945" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="81">
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-E-1-3-1&view=basic">Saint Paul's Cathedral Precinct: papers and photographs </a> (1956-1959) The Percy Johnson-Marshall Collection</li>
+</ul>
+<a href="61.shtml">Previous</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

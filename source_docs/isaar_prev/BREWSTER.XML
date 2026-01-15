@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0353 20020401 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0353</titleproper> 
+		  <subtitle>Brewster | David | 1781-1868 | natural philosopher and
+			 vice-chancellor, University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 01 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020401">01 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 GB 0237 NAHSTE P0353</titleproper> 
+		<subtitle>Brewster | David | 1781-1868 | natural philosopher and
+		  vice-chancellor, University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 01 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020401">01 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0353"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 GB 0237 NAHSTE P0353</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0353" normal="Brewster, David">Brewster | David
+		  | 1781-1868 | natural philosopher and vice-chancellor, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>David Brewster (<date normal="1781/1868"
+			 type="life-span">1781-1868</date>) was an eminent physicist, university
+			 principal and prolific writer of scientific literature. Concentrating on the
+			 science of optics, Brewster made significant discoveries about polarisation of
+			 light and absorption spectra, invented the kaleidoscope and developed the
+			 stereoscope. Born in Jedburgh, Scotland, Brewster was a devout evangelical
+			 protestant who trained initially in theology. Though a succesful preacher in
+			 the Church of Scotland, his phobia of public speaking curtailed his involvement
+			 in the church. However, his faith continued to play an important role in his
+			 life, and his support for the Free Church of Scotland in 
+			 <date normal="1843" type="single">1843</date> nearly led to his
+			 dismissal from the University of Edinburgh. His religious faith is also thought
+			 to have played a part in his scepticism about the wave theory of light.</p> 
+		  <p>In his lifetime, he published an impressive 315 scientific papers
+			 and articles, mostly on his pet subject of optics. His experiments in
+			 polarisation, which represent the bulk of his work, investigated in particular
+			 the different forms of polarisation that occur when light is reflected or
+			 refracted by various materials. Brewster's investigations of spectra included
+			 analysis of Newton's theory of colours and experiments on the absorption
+			 spectra shown in light shone through gases, and the similar lines seen in the
+			 sun's spectrum. He never abandoned the emission theory of light, and never
+			 accepted as true the theory that light was a wave - he preferred to see this as
+			 a convenient tool for calculation.</p> 
+		  <p>Brewster's invention of the kaleidoscope, popular as the instrument
+			 was, brought him little pecuniary benefit because of a botched patent
+			 application that left the design unprotected from unauthorised reproduction. He
+			 had a keen interest in photography from its infancy, and though he wrote about
+			 it and received a medal from the Photographic Society of Paris in 
+			 <date normal="1865" type="single">1865</date>, he never found time to
+			 experiment properly with the chemistry of light. Brewster also promoted the use
+			 of the Fresnel lens in lighthouses, and oversaw a series of succesful
+			 experiments with these in 
+			 <date normal="1833" type="single">1833</date>. Brewster's finances
+			 were improved in his later life by his appointment by the crown as principal of
+			 the United Colleges of St. Salvator and St. Leonard in St. Andrews in 
+			 <date normal="1837" type="appointmentdate">1837</date>, and his
+			 subsequent election by Edinburgh town council to the principalship of the
+			 University of Edinburgh in 
+			 <date normal="1859" type="appointmentdate">1859</date>, a post he
+			 held until his death in 
+			 <date normal="1868" type="death">1868</date>. Brewster was also a
+			 founder member of the British Association for the Advancement of Science and a
+			 keen, active participant in it.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Received encouragement and advice from astronomer and mathematician
+			 James Veitch when a child in Jedburgh.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable Publications:</p> 
+		  <p><bibref> <title render="italic">A Treatise on New Philosophical
+			 Instruments</title>, (<imprint> 
+			 <date type="publication" normal="1813"
+			 certainty="certain">1813</date>)</imprint></bibref></p> 
+		  <p><bibref> <title render="italic">Treatise on the
+			 Kaleidoscope</title>, (<imprint> 
+			 <date type="publication" normal="1819"
+			 certainty="certain">1819</date>)</imprint></bibref></p> 
+		  <p><bibref> <title render="italic">Treatise on Optics</title>, ( 
+			 <imprint> 
+			 <date type="publication" normal="1831"
+			 certainty="certain">1831</date>)</imprint></bibref></p> 
+		  <p><bibref> , <title render="italic">Memoirs of the Life, Writings and
+			 Discoveries of Sir Isaac Newton</title>, (<imprint><date type="publication"
+			 normal="1855" certainty="certain">1855</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Letters on Natural Magic</title></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date normal="1807" type="single">1807</date>: Awarded Doctor of Law
+			 (DCL), University of Oxford</p> 
+		  <p><date normal="1822" type="single">1822</date>: Awarded membership,
+			 Royal Irish Academy of Arts and Sciences</p> 
+		  <p><date normal="1825" type="appointmentdate">1825</date>: Elected
+			 foreign associate of Institut Fran&#x00C3;&#x00A7;ais</p> 
+		  <p><date normal="1831" type="single">1831</date>: Awarded Doctor of Law
+			 (LLD), University of Aberdeen</p> 
+		  <p><date normal="1860" type="appointmentdate">1860</date>: Appointed
+			 Vice-Chancellor of the University of Edinburgh</p> 
+		  <p><date normal="1860" type="single">1860</date>: Awarded Doctor of
+			 Medicine (MD), University of Berlin</p> 
+		  <p><date normal="1864" type="appointmentdate">1864</date>: Appointed
+			 President of the Royal Society of Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			 role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol II</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970"
+			  certainty="certain">1970</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 II</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			  certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Encyclopaedia Britannica, vol
+			 4</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			  normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			  certainty="certain">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020401">01 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

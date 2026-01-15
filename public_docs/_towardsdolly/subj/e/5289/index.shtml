@@ -1,0 +1,26 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Exports</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/e/">e</a><h1>Exports</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=5289&term=Exports" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3316&view=basic">Exports - Animal and Agricultural Produce - Canada </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3318&view=basic">Exports of Dairy Products, Home Production, Canada </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3322&view=basic">Export Produce of Canada </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3324&view=basic">Exports of Live Cattle and Sheep (Produce of Canada) to Great Britain and the United States Between 1874-1904 </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3335&view=basic">Quantities of Meats of All Kinds Exported From Canada During the Years Ended June 30, 1868-1904 </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3338&view=basic">Cheese and Butter Exported From United States </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3339&view=basic">Newfoundland and Labrador Cheese Exports between 1868 and 1904 </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3355&view=basic">Imports and Exports of Sheep 1901-1907 </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-2768&view=basic">Fat Lambs for Export </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1185&view=basic">Bags of Mealies Ready for Export </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3195&view=basic">Cheese for Export </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-79&view=basic">Quantities of Breadstuffs (domestic produce) Exported from Canada, during the years 1868 and 1904. </a> (1870-1930) Roslin/Ewart Slides</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

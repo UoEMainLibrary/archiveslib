@@ -1,0 +1,18 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Penguins</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/p/">p</a><h1>Penguins</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=790&term=Penguins" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-28-8&view=basic">Letter to James Cossar Ewart from Dorothy Thursby-Pelham </a> (1922) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-36-10&view=basic">Letter to James Cossar Ewart from William Thomas Astbury </a> (1930) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-36-5&view=basic">Letter to James Cossar Ewart from William Thomas Calman </a> (1930) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-263&view=basic">Plasma prolactin during the breeding season in adult and immature macaroni (Eudyptes chrysolophus) and gentoo (Pygoscelis papua) penguins </a> (1993) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

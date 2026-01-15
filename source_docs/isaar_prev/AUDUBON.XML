@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0796 20020507 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0796</titleproper> 
+		  <subtitle>Audubon | John James | 1785-1851 | American
+			 ornithologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+			 University Library Special Collections Division, 07 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020507">07 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0796</titleproper> 
+		<subtitle>Audubon | John James | 1785-1851 | American
+		  ornithologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 07 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020507">07 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0796"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0796</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0796" normal="Audubon, John James">Audubon |
+		  John James | 1785-1851 | American ornithologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>John James Audubon (<date type="life-span"
+			 normal="1785/1851">1785-1851</date>) - real name Jean Jacques
+			 Foug&#x00C3;&#x00A8;re Audubon - the French-American artist and ornithologist,
+			 was a figure whose life was shrouded in mystery. Born in Haiti, the son of a
+			 French father who was having an extra-marital affair with a Creole woman,
+			 Audubon was brought up in rural France by his father's wife while his father
+			 was a leading revolutionary in Paris. He had a very limited education and no
+			 specific artistic or ornithological training. He was sent to the United States
+			 when a young man to become a businessman, but he led a bohemian lifestyle,
+			 moving from town to town, running unsuccessful businesses and hunting. He spent
+			 a period of time in jail for bankruptcy, but was eventually freed with only his
+			 gun and the clothes he was standing in.</p> 
+		  <p>Over a period of several years, he travelled through the Southern
+			 and Mid-Western United States to shoot and paint birds, paying his expenses by
+			 painting people's portraits. He was an exceptionally talented artist, and,
+			 despite their occasional inaccuracies, his were the best illustrations of
+			 American birds to date. Audubon travelled to Britain to find a publisher, and
+			 his "<bibref><title>The Birds of America</title>", (<imprint><date
+			 type="publication" normal="1827/1838">1827-1838</date></imprint>)</bibref> was
+			 published in episodes over a period of 11 years.</p> 
+		  <p>Inconsistency was the only continuous factor in his life. When
+			 young, Audubon had carried out a number of ingenious experiments on birds, but
+			 carelessness and lack of method discredited his results. The notes he took
+			 while travelling are disorganised, undetailed and only semi-literate, leaving
+			 many of his discoveries to his memory, which cannot have enhanced the accuracy
+			 of his books. His recklessness can also be seen in the episode when he gave
+			 pictures of imaginary animals to a gullible naturalist as a joke - pictures
+			 which went on to be published, causing great confusion. However, he was also
+			 the first to attach markers to birds to see if they returned to the same
+			 nesting place each year, fifty years before the introduction of bird
+			 banding.</p> 
+		  <p>Scientifically, his books are of very limited interest - the text
+			 merely gives the birds' names along with very general descriptions and a few
+			 anecdotes about each. Their true worth is in the illustrations they contain and
+			 in the way they popularised ornithology, and made the fauna of the United
+			 States known in Europe.</p> 
+		  <p>The image of him left behind is romanticised and exaggerated, and
+			 bears little resemblance to the man he was.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>The Birds of America</title>, (<imprint><date
+			 type="publication" normal="1827/1839"
+			 certainty="certain">1827-1838</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Ornithological Biography</title>, (<imprint><date
+			 type="publication" normal="1831/1839"
+			 certainty="certain">1831-1839</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Synopsis of the Birds of America</title>, ( 
+			 <imprint><date type="publication" normal="1839"
+			 certainty="certain">1839</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Viviparous Quadripeds of North America</title>, ( 
+			 <imprint><date type="publication" normal="1845/1846"
+			 certainty="certain">1845-1846</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1830">1830</date>: Elected
+			 Fellow of the American Academy</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname role="editor" normal="Johnson, Allen">Johnson,
+			 Allen</persname><title>Dictionary of American Biography, vol I</title>( 
+			 <imprint><geogname normal="London (England)" authfilenumber="530"
+			 source="lcsh">London</geogname>,<publisher>Humphrey Milford for the Oxford
+				University Press</publisher>,<date type="publication"
+			 normal="1928">1928</date>)</imprint></bibref> </p> 
+		  <p><bibref><persname role="editor"
+			 normal="Gillispie, Charles C">Gillispie, Charles C</persname><title>Dictionary
+			 of Scientific Biography, vol I</title>(<imprint><geogname
+			 normal="New York (N.Y., United States)" authfilenumber="483" source="lcsh">New
+			 York</geogname>,<publisher>Scribner's</publisher>,<date type="publication"
+			 normal="1970">1970</date>)</imprint></bibref> </p> 
+		  <p> <bibref><title render="italic">Encyclopaedia Britannica, vol
+			 2</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			  normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			  certainty="certain">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020507">07 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

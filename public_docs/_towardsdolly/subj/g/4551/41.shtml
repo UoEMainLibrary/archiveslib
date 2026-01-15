@@ -1,0 +1,18 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Genetic polymorphisms</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/g/">g</a><h1>Genetic polymorphisms</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4551&term=Genetic polymorphisms" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="41">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-293&view=basic">RFLP and linkage analysis of the porcine casein loci - CASAS1, CASAS2, CASB and CASK </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-702&view=basic">Two porcine polymorphic microsatellite loci (S0033 and S0035) </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-703&view=basic">A porcine polymorphic locus (S0040) revealsed with primers for a mouse microsatellite </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="21.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

@@ -1,0 +1,4 @@
+AuthName "Directory of Photographs"
+AuthType Basic
+AuthUserFile /data/d4/archives/public_docs/photographs/.htpasswd
+Require valid-user

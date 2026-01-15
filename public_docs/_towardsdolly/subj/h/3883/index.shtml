@@ -1,0 +1,17 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Herders</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/h/">h</a><h1>Herders</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=3883&term=Herders" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-990&view=basic">Cattle Herders, Central Estates </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-2446&view=basic">Robbins, for 28 Years the King's Herdsman, with a Prize Steer, at Sandringham </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-2922&view=basic">Goat Keepers Near Eagle Pass, Texas </a> (1870-1930) Roslin/Ewart Slides</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

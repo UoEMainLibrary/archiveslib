@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1057">GB
+		237 Coll-1057 </eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of Dr. Alan W. Greenwood
+			 (1897-c.1980)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20050718" certainty="certain">18 July
+			 2005</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-Coll-1057"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1057 </unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2005.09</physloc><unittitle
+		encodinganalog="isadg(2)312">Papers of Dr. Alan W. Greenwood
+		  (1897-c.1980)</unittitle><unitdate normal="1919/1974"
+		encodinganalog="isadg(2)313">1919-1974</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">5 boxes </extent></physdesc> 
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Greenwood, Alan William</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>Alan William Greenwood was born on 29 June 1897, in Melbourne,
+		  Australia. He was educated at Wesley College and then entered Melbourne
+		  University in 1915. During the First World War he served with the Australian
+		  Imperial Forces in Palestine. In 1920 he graduated with the degree of B.Sc. in
+		  Chemistry and Zoology. In 1921 he took the degree of M.Sc., and then in 1922
+		  undertook work in cytology.</p> 
+		<p>In 1923, Greenwood went abroad, coming to Britain, and intended
+		  working at Cambridge - but came to Edinburgh to the Animal Breeding Research
+		  Department on the advice of Professor Cossar Ewart.</p> 
+		<p>In 1925, Greenwood graduated with degree of Ph.D. (Edinburgh), and in
+		  1931 took the degree of D.Sc. (Melbourne). His Edinburgh thesis was submitted
+		  in three papers, on sex studies in the fowl and on the growth rate in
+		  hypophysectomised axolotls, and were entitled 
+		<title>Gonad grafts in embryonic chicks and their relation to sexual
+		  differentiation</title>, 
+		<title>Gonad grafts in the fowl</title>, and 
+		<title>The growth rate in hypophysectomised salamander larvae</title>.
+		Between these two degrees, in 1927, he made an extensive tour of universities
+		and research laboratories in Poland. In 1931 he went to the USA to study at
+		Columbia and at Chicago. In 1932, he was awarded the Keith Prize from the Royal
+		Society of Edinburgh for his contribution to the study of the biology of the
+		fowl.</p> 
+		<p>From 1928, Greenwood had been engaged largely on investigations into
+		  the inheritance of productive qualities. He had published widely on the
+		  domestic fowl.</p> 
+		<p>Latterly, Dr. Alan William Greenwood was Director of the Poultry
+		  Research Centre, Edinburgh University.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The collection is composed of: 3 copies of Greenwood's CV and work
+		  history; visitors book, 1947-1964, with various inserts; entertainment book
+		  containing notes of menus and visitors to the B.E.C.C. Environment Unit at Bush
+		  Estate, 1963-1968; postcard album of the USA; book containing publications list
+		  of staff at the Institute of Animal Genetics; notebook with growth data and
+		  notes on grafts, with some photographic inserts; collection of photographs
+		  contained in 3 folders; framed portrait (standing) of Alan W. Greenwood;
+		  portrait photograph (unmounted) of Greenwood in military coat; 2 small
+		  portraits of children; 5 degree or diploma scrolls; large scrapbook or album
+		  containing newspaper cuttings and articles about the animal research unit from
+		  its earliest days, with off-prints inserted; 3 folders containing articles by
+		  Greenwood, 1923-1974; and, 1 box of unsorted articles and off-prints relating
+		  to domestic fowl and related research.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researcher, but please contact repository for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using material
+			 contained in the collection:</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph
+			 altrender="surname">Greenwood</emph><emph altrender="title">Dr.</emph><emph
+			 altrender="forename">Alan William</emph><emph
+			 altrender="dates">1897-c.1980</emph><emph altrender="epithet">Genetical
+			 physiologist, Director of the Poultry Research Centre, University of
+			 Edinburgh</emph><emph altrender="other"></emph></persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses &amp; Organisations</head>		  <!-- NCA Rules -->
+		  <corpname rules="ncarules"><emph altrender="a">University of
+			 Edinburgh.</emph><emph altrender="x"></emph><emph altrender="y"></emph><emph
+			 altrender="z"></emph></corpname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

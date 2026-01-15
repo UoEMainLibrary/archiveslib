@@ -1,0 +1,16 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Manuscripts</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/m/">m</a><h1>Manuscripts</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=1219&term=Manuscripts" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-2-1-7&view=basic">Draft manuscript of 'New Patterns of Genetics and Development', with handwritten notes and corrections. </a> (1957-1967) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-2-1-12&view=basic">Draft manuscript of 'Principles Of Development And Differentiation' </a> (1961-1971) Papers of Conrad Hal Waddington</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

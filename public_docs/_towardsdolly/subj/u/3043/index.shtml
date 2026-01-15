@@ -1,0 +1,16 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Universities and Colleges</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/u/">u</a><h1>Universities and Colleges</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=3043&term=Universities and Colleges" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-3270&view=basic">Missouri State University, [University of Missouri, Columbia] </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-269&view=basic">Ontario Provincial and Kingston Dairy Schools </a> (1870-1930) Roslin/Ewart Slides</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

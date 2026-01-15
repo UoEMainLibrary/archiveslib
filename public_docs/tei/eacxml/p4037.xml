@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4037</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-01-11">12 March 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>15 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source><sourceEntry>1841 census for Lochs</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid" xmlns:ns1="http://www.w3.org/1999/xlink">Census
+                            1841 087/00 001/00 001</span><span localType="ead-repository"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">General Register Office for
+                            Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>1851 census for Uig</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid" xmlns:ns1="http://www.w3.org/1999/xlink">Census
+                            1851 089/00 004/00 005</span><span localType="ead-repository"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">General Register Office for
+                            Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>1861 census for Uig</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid" xmlns:ns1="http://www.w3.org/1999/xlink">Census
+                            1861 089/00 005/00 004</span><span localType="ead-repository"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">General Register Office for
+                            Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>1871 census for Uig</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid" xmlns:ns1="http://www.w3.org/1999/xlink">Census
+                            1871 089/00 005/00 007</span><span localType="ead-repository"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">General Register Office for
+                            Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1881 census for Uig</sourceEntry>
+                <descriptiveNote>
+                    <p>
+                        <span localType="ead-unitid">Census 1881 089/00 005/00 017</span><span
+                            localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Marriage certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1840 088/0020 0382 Stornoway</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Marriage certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1840 089/0010 0112 Uig [Ross and
+                            Cromarty]</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1887 089/00 0011</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97 CW108/131</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span>GB 237 Coll-97 CW108/132</span><span>Edinburgh University
+                            Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span>GB 237 Coll-97 CW108/147</span><span>Edinburgh University
+                            Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4037</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacLeod</part>
+                <part localType="given">John</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter; Bhaltos, Isle of Lewis.</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1808" notBefore="1803" notAfter="1813">c1808</fromDate>
+                    <toDate standardDate="1887-05-02">2 May 1887</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>John MacLeod, crofter, was born to John MacLeod, crofter, and Isabella MacLeod
+                    neé MacLeod. He married Lilly MacIver on 27 May 1840 and they had at least 3
+                    children: Catherine, Anne and John. He died, a pauper and widower, in 1887 of
+                    chronic bronchitis and his son John MacLeod witnessed the certificate. </p>
+                <p>Carmichael recorded two fairy stories and a story about a water horse in
+                    Carishader, Lewis from John. </p>
+            </biogHist>
+            <biogHist>
+                <chronList>
+                    <chronItem>
+                        <date notAfter="1813" notBefore="1803" standardDate="1808">c1808</date>
+                        <placeEntry>Lewis</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1840-05-27">27 May 1840</date>
+                        <placeEntry>Bhaltos, Isle of Lewis</placeEntry>
+                        <event>marriage</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1874-05-06">6 May 1874</date>
+                        <placeEntry>Bhaltos, Isle of Lewis</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1887-05-02">2 May 1887</date><placeEntry>Bhaltos,
+                            Isle of Lewis</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

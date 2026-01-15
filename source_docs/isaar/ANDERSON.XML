@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0383 20020402 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0383</titleproper> 
+		  <subtitle>Anderson | Thomas | 1819-1874 | professor of chemistry,
+			 University of Glasgow</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 02 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020402">02 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0383</titleproper> 
+		<subtitle>Anderson | Thomas | 1819-1874 | professor of chemistry,
+		  University of Glasgow</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 02 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020402">02 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0383"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0383</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0383" normal="Anderson, Thomas">Anderson |
+		  Thomas | 1819-1874 | professor of chemistry, University of Glasgow</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Thomas Anderson (<date type="life-span"
+			 normal="1819/1874">1819-1874</date>) was an organic chemist. Born and brought
+			 up in Leith, near Edinburgh, the son of a physician, Anderson was educated at
+			 the High School of Leith, Edinburgh Academy and the University of Edinburgh,
+			 where he gained an MD degree in 
+			 <date type="single" normal="1841">1841</date>.</p> 
+		  <p>Anderson is primarily remembered for his discovery of picoline (an
+			 isomer of aniline) and the base pyridine in a series of experiments carried out
+			 between 
+			 <date normal="1848/1868" type="inclusive">1848-1868</date> in which
+			 he distilled bone oil and investigated the concentrated fractions of organic
+			 bases created. He was also known at the time for his work on agriculture - he
+			 was chemist to the Highland and Agricultural Society of Scotland from 
+			 <date type="appointmentdate" normal="1848">1848</date>. In this role,
+			 he wrote <bibref><title>'Elements of Agricultural Chemistry''</title> <imprint>
+			 (<date type="publication" normal="1860">1860</date>)</imprint></bibref>,
+			 considered to be an accurate picture of the state of science at the time, but
+			 otherwise largely unremarkable.</p> 
+		  <p>Anderson also looked at physiology in humans, particularly the
+			 chemical changes that occur in the body during physiological processes such as
+			 eating. In addition, Anderson worked for some time on codeine and other
+			 opiates, leading to his discovery of the composition of a number of
+			 alkaloids.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Elements of Agricultural Chemistry</title>, ( 
+			 <imprint><date type="publication" normal="1860"
+			 certainty="certain">1860</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1845">1845</date>: Elected
+			 Fellow, Royal Society of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1848">1848</date>: Appointed
+			 Chemist, Highland and Agricultural Society of Scotland</p> 
+		  <p><date type="chairdate" normal="1852">1852</date>: Appointed Regius
+			 Professor of Chemistry, University of Glasgow</p> 
+		  <p><date type="single" normal="1855">1855</date>: Awarded Keith
+			 Medal</p> 
+		  <p><date type="appointmentdate" normal="1859">1859</date>: Elected
+			 President, Glasgow Philosophical Society</p> 
+		  <p><date type="appointmentdate" normal="1867">1867</date>: Elected
+			 President, Chemical Section of the British Association for the Advancement of
+			 Science</p> 
+		  <p><date type="single" normal="1872">1872</date>: Awarded Royal Society
+			 Royal Medal</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname role="editor"
+			 normal="Gillispie, Charles C">Gillispie, Charles C</persname>,
+			 <title>Dictionary of Scientific Biography, vol I,</title> (<imprint><geogname
+			 normal="New York (N.Y., United States)" authfilenumber="483" source="lcsh">New
+			 York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication"
+			  normal="1970">1970</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 I</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			  certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Encyclopaedia Britannica, vol
+			 1</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			  normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			  certainty="certain">1964</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Encyclopaedia Britannica, vol
+			 18</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			  normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			  certainty="certain">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020402">02 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

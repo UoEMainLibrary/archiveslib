@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-85"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-85</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Professor David Talbot Rice (1903-1972) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-85</unitid>
+		
+		<physloc>Gen. 2168 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Professor David Talbot Rice
+		  (1903-1972) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1938-1972">circa 1938-1972 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>2 boxes.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>David Talbot Rice was born in Gloucestershire on 11 July 1903. He was
+		  educated at Eton and then went to Christ Church, Oxford, where he studied
+		  Archaeology and Anthropology, graduating in 1925. Prior to joining the British
+		  Academy expedition to Istanbul (then Constantinople) and excavating there
+		  1927-1932 and 1952-1954, he had been part of the staff of the Oxford Field
+		  Museum archaeological excavation at Kish in Iraq. The study of the art of
+		  Byzantium was one of his chief interests and he travelled extensively in the
+		  Near East to pursue this. He was involved in various expeditions to Cyprus,
+		  Asia Minor, Iraq and Iran. In 1932, Rice was appointed Lecturer in Byzantine
+		  and Near Eastern Art at the newly founded Courtauld Institute in London. Then,
+		  in 1934, he was appointed to the Watson Gordon Chair of Fine Art at Edinburgh
+		  University which he held almost until his death. During the Second World War,
+		  Rice worked with the Intelligence Directorate of the War Office becoming head
+		  of the Near East section, but was later transferred to the Special Operations
+		  Executive serving in North Africa and Italy with the rank of
+		  Lieutenant-Colonel. After the war he continued to build up the Department of
+		  Fine Art at Edinburgh University and he served on a number of national
+		  committees. He was an Honorary member of the Royal Scottish Academy, a member
+		  of the Independent Television Authority, 1958 to 1963, a member of the Scottish
+		  Arts Council, 1963 to 1968, and a member of the reviewing Committee on the
+		  export of works of art, 1967 until his death. During his service as Professor
+		  he produced a series of scholarly and popular works on the subject of Byzantine
+		  and Islamic art, and in 1958 he was responsible for a major exhibition of
+		  Byzantine art for the Edinburgh International Festival which later went on to
+		  London. His publications include 
+		<title>The birth of western painting </title> (1930), 
+		<title>Byzantine glazed pottery </title> (1930), 
+		<title>Byzantine art </title> (1935), 
+		<title>Byzantine painting and developments in the West before A.D. 1200
+		  </title> (1948), 
+		<title>English art, 871-1100 </title> (1952), 
+		<title>Art of the Byzantine era </title> (1963), and 
+		<title>Byzantine art, the last phase </title> (1968). In January 1967,
+		Rice was appointed Vice-Principal of Edinburgh University. He was awarded the
+		MBE in 1943, and the CBE in 1968. Professor David Talbot Rice died at Coln
+		Rogers, Gloucestershire, on 12 March 1972. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of Professor David Talbot Rice are mainly notes for Fine
+		  Art lectures in the 20th century. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) 
+		  <title>The university portraits </title>, Second series, compiled by
+		  John H. Burnett [et al.], Edinburgh: Eyre &amp;amp; Spottiswoode Ltd., 1986.
+		  (2) 
+		  <title>University of Edinburgh Journal </title>, Vol.23. 1967-1968,
+		  p.7, Edinburgh: Oliver and Boyd. (3) 
+		  <title>University of Edinburgh Journal </title>, Vol.25. 1971-1972,
+		  p.338, Edinburgh: Oliver and Boyd. (4) 
+		  <title>Who's who 1968-1969 </title>, New York: St. Martin's Press,
+		  1968. </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Rice</emph> <emph altrender="forename">David Talbot</emph>
+		  <emph altrender="dates">1903-1972</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  Festival</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Art, Byzantine</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Arts</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Art, Islamic</emph> </subject> 
+		<geogname source="aacr2" encodinganalog="marc 651"> <emph
+		  altrender="a">Istanbul (Turkey)</emph> </geogname> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows a reference to an address given at the
+		  memorial service to David Talbot Rice at Gen. 2180/13. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

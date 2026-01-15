@@ -1,0 +1,20 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Dogs</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/d/">d</a><h1>Dogs</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=327&term=Dogs" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-13-22&view=basic">Letter to James Cossar Ewart from Sr George Archdall Reid </a> (1907) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-18-62&view=basic">Letter to James Cossar Ewart from Kathleen Haddon </a> (1912) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-67&view=basic">Inherited defects of dogs </a> (1955) Roslin Offprints and Related Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-87&view=basic">Blood grouping in domestic animals </a> (1959) Roslin Offprints and Related Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-231&view=basic">Differential effectiveness of complement fixed by IgG and IgM antibodies in the cytolysis of dog kidney tissue culture cells </a> (1966) Roslin Offprints and Related Papers</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

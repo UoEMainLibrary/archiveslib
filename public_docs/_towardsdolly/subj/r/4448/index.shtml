@@ -1,0 +1,17 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Regression analysis</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/r/">r</a><h1>Regression analysis</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4448&term=Regression analysis" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-119&view=basic">Correction for regression on a secondary trait as a method of increasing the efficiency of selective breeding </a> (1957) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-709&view=basic">Testing for inconsistent uses of variates in regression models </a> (1980) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-897&view=basic">Estimating the heritability of all-or-none and categorical traits by offspring-parent regression </a> (1985) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

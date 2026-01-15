@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4179</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-08-10">10 August 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>14 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 529/00 002/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 529/00 002/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 529/00 002/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 529/00 002/00 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 529/00 002/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 523/00 013/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1839 529/0020 0078</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1891 523/00 0080</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/120/67</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4179</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Livingston</part>
+                <part localType="given">Ann</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter, Airds Bay, Muckairn</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1810" notAfter="1815" notBefore="1805"
+                        >c1810</fromDate><toDate standardDate="1891-09-26">26 September
+                        1891</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Ann MacPherson was born in Glen Kinglass, Loch Etive, in the Parish of
+                    Ardchattan, c. 1810 [CG iii, 141]. Her birth does not appear to have been
+                    registered, but Ann told Alexander Carmichael that her mother was a MacCallum
+                    ‘from Laudal[e] in Morvern &amp; a beautiful singer’ [CW102-121]. In 1851 Ann’s
+                    maternal uncle Alexander MacCallum, a house carpenter staying with them at the
+                    time, is recorded as having been born in the Parish of Ardchattan, so the
+                    Morvern connection may have been further back in the family.</p>
+                <p>On 27 December 1839 Ann married William Livingston (1810–1872), ‘Uilleam Mòr’,
+                    who was born in Wilsontown, Parish of Carnwath, Lanarkshire. Livingston was the
+                    son of Donald Livingston, tailor, and Ann Livingston née MacMillan, both parents
+                    probably of Highland origin. At the time of their marriage, both Ann and William
+                    were living at Airds Bay, Parish of Muckairn, in present-day Taynuilt. There
+                    they would stay for the rest of their lives.</p>
+                <p>At the time of the 1841 census William Livingston is recorded as a ‘fisher’. His
+                    death certificate, giving him as ‘Farmer &amp; tenant of Salmon Fishings’,
+                    suggests that the couple were relatively well off in their community, a
+                    supposition strengthened by the three servants recorded as employed in their
+                    household by the 1861 census.</p>
+                <p>Although they had no children, a young niece of Ann, Margaret MacPherson, born in
+                    Glasgow, is recorded as living with them in the 1841 and 1851 censuses. The
+                    censuses between 1851 and 1871 also record a James Campbell from Lanarkshire,
+                    either a retired ensign or lieutenant, who had served in the 92nd Regiment (the
+                    Gordon Highlanders), staying with the couple as a boarder. Campbell may well
+                    have been served under Lieutenant Colonel John Cameron in the heavy fighting at
+                    Quatre Bras during the campaign at Waterloo in 1815.</p>
+                <p>William Livingston died on 17 March 1872 of heart disease. By 1881 Ann was
+                    clearly living in somewhat reduced circumstances. Her niece, now the widow
+                    Margaret MacDougall, was back living in the household, along with her two sons
+                    John, 17, and William, 10, the former born in Muckairn, the latter in Barony,
+                    Glasgow. A groom named Duncan MacDougall, evidently another relative, was also
+                    present. The house in which they lived, Airds Bay Cottage, was relatively large
+                    with seven rooms. This may have encouraged Ann to take in lodgers. It is
+                    possible that among them was Alexander Carmichael and his family, who spent some
+                    summers at least at Airds Bay from the early 1880s onwards. Indeed, it seems as
+                    if Ann Livingston had already moved out of her house into a smaller one by the
+                    time Carmichael made her acquaintance. The folklorist himself was staying at
+                    ‘Bay Cottage’ in September 1884, while Ann, ‘my aged friend and kind neighbour’
+                    was by then living alone, ‘the last of her kindred, in a small cottage near us
+                    at Bunawe’ [Lord Archibald Campbell (ed.), Records of Argyll (Edinburgh: William
+                    Blackwood and Sons, 1885), 501, 502].</p>
+                <p>Carmichael records that he first came to know Ann Livingston, an ‘intelligent and
+                    educated woman’ in 1882 [CG iii, 141]. Although ‘already old’:</p>
+                <p>‘she was still full of the songs and rimes, the hymns and ballads and traditions,
+                    of her native Gleann Conghlais, Glen Kinglass, on Loch Etive. With graphic power
+                    and pathetic interest she described the people of her own district and her own
+                    day, simple, noble, and neighbourly, the men big and powerful, and women strong
+                    and handsome, whom to see was to admire and to know was to love.’ [CG iii,
+                    141]</p>
+                <p>‘She says that she often tries to soothe her loneliness by singing to herself the
+                    old ballads, songs, lullabies, and hymns with which her beloved mother used to
+                    soothe her own childhood eyes to sleep nearly eighty years ago.’ [Campbell
+                    (ed.), Records, 502]</p>
+                <p>From Ann Livingston Carmichael wrote down information regarding Fèill Chonnain,
+                    St Connan’s Fair in Glen Orchy; Fèill Mìcheil, the Feast of St Michael; as well
+                    as local clearances during the early nineteenth century [CG iii, 141–2]. On the
+                    night of Friday 18 September 1884 he took down from her MacNeacain an Dùin, the
+                    ‘interesting and instructive’ poem, ‘sung to me with a weird old air’ [Campbell
+                    (ed.), Records, 500–1], later written up with an extended essay and printed in
+                    Campbell’s Records of Argyll [see CW102-121; CW244; Campbell (ed.), Records,
+                    489–505]. It may be that he also recorded from Ann the local lore – including
+                    Gaelic terms for the different stages of salmon which she may well have learnt
+                    from her husband – preceding and following the song in the field notebook
+                    [CW102-121]. Two other items are attributed to Ann Livingston in Carmina
+                    Gadelica: an Òra Dìona or Prayer of Protection, and a prayer to Mìcheil Mìl,
+                    Michael Militant [CG iii, 108–9, 144–7]. These ascriptions, however, seem rather
+                    uncertain.</p>
+                <p>By 1891 Ann Livingston, now incapacitated by blindness, was an inmate in the Lorn
+                    Combination Poorhouse in Oban. The inaccurate description of her as ‘Formerly
+                    Ho[use]maid, Domestic Ser[van]t’ with her age given as 94 (suggesting that she
+                    appeared considerably older than she actually was) might imply that she was by
+                    that time uncommunicative, a supposition strengthened by the fact that no
+                    parents are recorded on her death certificate. Ann Livingston died in Lorn
+                    Combination Poorhouse of cancer of the breast on 26 September 1891. Alexander
+                    Carmichael would contine to spend summers at her old house, Airds Bay Cottage,
+                    until 1900. </p>
+                <chronList>
+                    <chronItem><date standardDate="1810" notAfter="1815" notBefore="1805"
+                            >c1810</date><placeEntry>Glen Kinglass,
+                            Ardchattan</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1839-12-27">27 December
+                            1839</date><placeEntry>Muckairn</placeEntry><event>marriage</event></chronItem>
+                    <chronItem><date standardDate="1884-09-18">18 September
+                            1884</date><placeEntry>Airds Bay, Muckairn</placeEntry><event>visited by
+                            Alexander Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1891-09-26">26 September
+                            1891</date><placeEntry>Oban,
+                        Argyll</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+        <relations>
+                <cpfRelation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple"
+                cpfRelationType="family" ns1:href="p4560">
+                <relationEntry>William Livingston</relationEntry>
+                <descriptiveNote>
+                    <p>Husband</p>
+                </descriptiveNote>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
+</eac-cpf>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-62"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-62</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of John
+			 Middleton Murry </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-62</unitid>
+		
+		<physloc>MSS 2506-2518 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of John Middleton Murry
+		  </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1912-1959">1912-1959 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>13 boxes (2
+		  linear metres). </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Writer and reviewer John Middleton Murry was born in Peckham, London,
+		  6 August 1889. In 1901 he won a scholarship to Christ's Hospital, and reached
+		  Brasenose College, Oxford, also on a scholarship, and studied Classics. His
+		  literary career began in 1911 with the establishment of 
+		<title>Rhythm </title>, a quarterly. This ceased after only two years but
+		in 1912 he had begun a journalistic career as a reviewer for the 
+		<title>Westminster Gazette </title>, and later the 
+		<title>Times Literary Supplement </title>. Between 1919 and 1921, Murry
+		edited the 
+		<title>Athenaeum </title>, and he founded the magazine 
+		<title>Adelphi </title> (1923), later the 
+		<title>New Adelphi </title>. His first books were 
+		<title>Fyodor Dostoevsky: a critical study </title> (1916) and a work of
+		fiction 
+		<title>Still life </title> (1916). Murry's second work of fiction was 
+		<title>The things we are </title> (1922). Lyric poetry, poetry, verse
+		drama, and series of lectures on style followed, and then a third novel 
+		<title>The voyage </title> (1924). In the 1920s, Murry's interests
+		shifted from literature to religious philosophy, and in the 1930s he converted
+		to Marxism and then moved politically towards pacifism. His writing of the
+		period reflected these shifts in interest. Long an admirer of Keats, he wrote 
+		<title>Keats and Shakespeare: a study of Keats' poetic life from 1816 to
+		  1820 </title> (1925), and 
+		<title>Studies in Keats </title> (1930). Another literary portrait was 
+		<title>Jonathan Swift: a critical biography </title> (1954). Murry
+		promoted the work of his wife, Katherine Mansfield, after her death in 1923,
+		and his friendship with D. H. Lawrence inspired an autobiography of the great
+		novelist after his death in 1930, 
+		<title>Son of woman: the story of D. H. Lawrence </title> (1931). His
+		last book was 
+		<title>Love, freedom and society </title> (1957). Murry died 12 March
+		1957. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The collection includes critical reviews, including typescripts and
+		  proof sheets of some of these; poems, possibly by Katherine Mansfield;
+		  typescript notes of work; typescripts of articles; galley proofs; manuscript
+		  notebooks; bundles of notes on Keats; lectures and speeches; and , essays.
+		  There are also albums of press cuttings between 1939-47, and letters,
+		  letterbooks, diary, and contracts. Some material unidentified or undated. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Murry</emph> <emph altrender="forename">John
+		  Middleton</emph> <emph altrender="dates">1889-1957</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Mansfield</emph> <emph
+		  altrender="forename">Katherine</emph> <emph altrender="dates">1888-1923</emph>
+		  </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Lawrence</emph> <emph altrender="forename">David
+		  Herbert</emph> <emph altrender="dates">1885-1930</emph>
+		  <emph altrender="epithet">Poet Novelist and Essayist</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> <emph altrender="x">Criticism,
+		  Textual</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> <emph altrender="y">20th century</emph>
+		  </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H62 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

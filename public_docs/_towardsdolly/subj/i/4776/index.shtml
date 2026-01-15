@@ -1,0 +1,18 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Immunoglobulins</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/i/">i</a><h1>Immunoglobulins</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4776&term=Immunoglobulins" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1317&view=basic">TGF-beta in chicken bone growth plate </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1318&view=basic">TGF-beta localization in bone cell during normal and abnormal endochondral ossification </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1321&view=basic">TGF-betas 1, 2 and 3 in cartilage and bone cells during endochondral ossification in the chick </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1322&view=basic">Transforming growth factor beta-1, beta-2 and beta-3 in cartilage and bone cells during endochondral ossification in the chick </a> (1992) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

@@ -1,0 +1,35 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Street Addresses</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/s/">s</a><h1>Street Addresses</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2826&term=Street Addresses" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-96&view=basic">Possibly notes for contacts [writing smudged and illegible] </a> (1867-1877) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-212&view=basic">Note which reads 'Jackson Gorgie Road Dalry Road, Tanner' </a> (1884) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-58&view=basic">Address for Mrs Hollingworth, Inchture </a> (1886) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-44&view=basic">Note that Donald MacMhuirich lives in Bailmeanach </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-3&view=basic">Note of Alexander Carmichael's address </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-98&view=basic">Address for Mr Cameron Young </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-102&view=basic">Note about Miss Cameron and Mrs Cameron née Macnicol </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-116&view=basic">Address for Charles W Ralston </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-80&view=basic">Address for 'R. M. Lewis 17 Russell St Swansea' </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-115&view=basic">Address for a MacLeod who owns a brooch </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-95&view=basic">Address for Don[ald] Macmurdoch, Islay and accompanying note </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-19&view=basic">Address for a Mal[colm] Macdonald </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-21&view=basic">Address for a William Scott </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-23&view=basic">Address for Don[ald] MacDonald who 'Has old hymns' </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-92&view=basic">Postal address for Janet Buchanan, Gallowgate, Glasgow </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-46&view=basic">Address for Mrs Dowie, Edinburgh </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-17&view=basic">Addresses of 'Arch[ibald] Maccoll' and 'R Macdonald' </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-64&view=basic">Postal address for David Macbean, Glasgow </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g&view=basic">Notebook belonging to Alexander Carmichael </a> (1893) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-131&view=basic">Addresses for Mrs MacKay and Mal[colm] Macleod </a> (1894) The Carmichael Watson Collection</li>
+</ul>
+<a href="21.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

@@ -1,0 +1,22 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Tides</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/t/">t</a><h1>Tides</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2027&term=Tides" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-204-33&view=basic">Tides &amp;c. </a> (1775-1808) Lecture Notes of John Robison</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-12-14&view=basic">Correspondence: Joseph Wilson Lowry to HR Mill </a> (1839-1909) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW90-69&view=basic">Note about Dùn an Daill, South Uist and fish caught around it </a> (1867-1877) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW150-31&view=basic">Account of a fishing trip around Mingulay with accompanying place-name notes, descriptions and stories </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-147&view=basic">Story about the theft of a corpse </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-151&view=basic">Story of how Caisteal Stornaway was taken from the MacLeods by the MacKenzies </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-6-18&view=basic">5 Lectures on geology </a> (1874-1884) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-214&view=basic">Note about Calum Paton/Beaton </a> (1884) The Carmichael Watson Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

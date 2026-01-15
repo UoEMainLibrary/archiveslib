@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 EUA IN18">GB
+		237 EUA IN18</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Records of the United Free Church of Scotland Training
+			 College, Edinburgh</titleproper> 
+		</titlestmt> 
+		<publicationstmt audience="internal"><publisher>Edinburgh University
+			 Library, Special Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20050526" certainty="certain">26 May
+			 2005</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="fonds" id="REPLACE"> 
+	 <did id="GB-237-IN18"> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA
+		  IN18</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="tempea1">MHA</physloc><unittitle
+		encodinganalog="isadg(2)312">Records of the United Free Church of Scotland
+		  Training College, Edinburgh</unittitle><unitdate normal="1847/1968"
+		encodinganalog="isadg(2)313"
+		certainty="certain">1847-1968</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1.5 metres </extent></physdesc> 
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">United Free Church Training College,
+		  Edinburgh</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>The creation of the United Free Church Training College followed the
+		  disruption of the Church of Scotland in 
+		  <date type="single" normal="1843" certainty="certain"
+			audience="external">1843</date> , when the United Free Church of Scotland
+		  established its own teacher training college. The College officially welcomed
+		  students after considerable alterations, in 
+		  <date type="single" normal="1848" certainty="certain"
+			audience="external">1848</date> . In 
+		  <date type="single" normal="1907" certainty="certain"
+			audience="external">1907</date> it merged with the Church of Scotland College
+		  to become the Edinburgh Provincial Training Centre.</p> 
+		<p>All classes and teaching practice took place at Moray House,
+		  Edinburgh. This accommodation continued to be used after the merger in 
+		  <date type="single" normal="1907" certainty="certain"
+			audience="external">1907</date> .</p> 
+		<p>Subjects that the trainee teachers had to be proficient in included
+		  Religious Knowledge, English, Geography, History, Penmanship, Arithmetic,
+		  French, Vocal Music, Drawing, Algebra, Geometry, Latin, Domestic Economy, Greek
+		  Trigonometry, and School Management. Trainee Teachers were not only assessed by
+		  examination in subjects set, but also at their skill in teaching and in their
+		  general conduct.</p> 
+		<p>The former student society 'The Moray House Club' continued long after
+		  the college changed its name, status and structure.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p> 
+		  <list> 
+			 <item>Student records: certificate registers 1873-1907, progress and
+				character of students catalogue 1849-1856.</item> 
+			 <item>Moray House Club records: minutes 1877-1968, accounts
+				1907-1968, annual reports 1881-1948.</item> 
+		  </list>.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<arrangement encodinganalog="isadg(2)334"> 
+		  <head>System of Arrangement</head> 
+		  <p>Records are maintained chronologically and by original provenance
+			 where possible.</p> 
+		</arrangement> 
+		<custodhist> 
+		  <head>Archival History</head> 
+		  <p>Records were identified and listed as part of the 1995-1999
+			 Non-Formula Funding Scottish Higher Education Funding Council specialised
+			 research collections in the Humanities.</p> 
+		</custodhist> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p> Moray House Institute of Education</p> 
+		</acqinfo> 
+		<appraisal encodinganalog="isadg(2)332"> 
+		  <head>Appraisal</head> 
+		  <p>This material has been appraised in line with standard GB 237
+			 procedures</p> 
+		</appraisal> 
+		<accruals encodinganalog="isadg(2)333"> 
+		  <head>Accruals</head> 
+		  <p>None expected</p> 
+		</accruals> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>By appointment only. Access is subject to the Data Protection Act
+			 (1998).</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="isadg(2)342"> 
+		  <head>Conditions Governing Reproduction</head> 
+		  <p>Property of the University of Edinburgh</p> 
+		  <p>Applications for permission to quote should be sent to the Director
+			 of University Collections.</p> 
+		  <p>Reproduction subject to usual conditions: educational use and
+			 condition of documents.</p> 
+		</userestrict> 
+		<altformavail encodinganalog="isadg(2)352"> 
+		  <head>Existence and Locations of Copies</head> 
+		  <p>No known copies</p> 
+		</altformavail><originalsloc encodinganalog="isadg(2)351"> 
+		  <head>Existence and Locations of Originals</head> 
+		  <p>This material is original</p></originalsloc> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>More detailed handlist available.</p> 
+		</otherfindaid> 
+		<relatedmaterial encodinganalog="isadg(2)353"> 
+		  <head>Related Material</head> 
+		  <p>GB 237 EUA IN17: Records of the United Free Church of Scotland
+			 Training College Normal School and Moray House Demonstration School</p> 
+		  <p>GB 237 EUA IN10: Records of Edinburgh Provincial Training Centre</p>
+		  
+		</relatedmaterial> 
+		<bibliography encodinganalog="isadg(2)354"> 
+		  <head>Publication note</head> 
+		  <p> 
+			 <bibref> 
+				<persname role="editor"> Kirk, G. (ed.).</persname> 
+				<title>Moray House and Professional Education, 1835-1985</title>.
+				<imprint> 
+				<geogname normal="Edinburgh, Scotland">Edinburgh</geogname>: 
+				<publisher>Scottish Academic Press</publisher>, 
+				<date type="publication" normal="1985"
+				 certainty="certain">1985</date>.</imprint></bibref></p> 
+		</bibliography> 
+	 </descgrp> 
+  </archdesc>
+</ead>

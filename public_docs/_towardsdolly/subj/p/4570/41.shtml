@@ -1,0 +1,23 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Proteins</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/p/">p</a><h1>Proteins</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4570&term=Proteins" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="41">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1123&view=basic">Evolutionary origins of the transforming growth factor-beta gene family </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1201&view=basic">Muscle protein degradation assessed by Nt-methylhistidine excretion in mature White Leghorn, dwarf broiler and normal broiler males maintained on either low- or high-protein diets </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1125&view=basic">Identification of chicken (Gallus domesticus) adipocyte plasma membrane and differentiation specific proteins using SDS-page and western blotting </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1372&view=basic">The effect of dietary protein on metabolite concentrations during fasting in calves differing genetically in dairy merit </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1136&view=basic">True available amino acids in corn and protein sources for turkeys </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-511&view=basic">Imbalanced amino acid mixtures, low and high protein: energy ratios: their effects on energy metabolism </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-716&view=basic">Identification of alternative transcripts of preadipocyte factor-1: regulation by growth factors </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-678&view=basic">Function and immunolocalisation of tyrosine rich acidic matrix protein (TRAMP) in the extracellular matrix </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="21.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

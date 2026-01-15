@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-27"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-27</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Sir Robert Lorimer Papers </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections</corpname>
+		  </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-27 </unitid>
+		
+		<physloc>Gen. 1963/1-68; MSS 2482-2494 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Sir Robert Lorimer Papers </unittitle>
+		
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1901-1949">1901-1949 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>87 boxes
+		  (12 m); 1 volume; 4 folders. </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>The architect Robert Stodart Lorimer, the son of a law professor at
+		  Edinburgh University, was born in Edinburgh, 4 November 1864. He was raised in
+		  a Georgian townhouse in Edinburgh's New Town and was educated at Edinburgh
+		  Academy and Edinburgh University. In 1885 he started his career in architecture
+		  with the practice of Sir Robert Rowan Anderson in Edinburgh, and he served
+		  there for four and a half years. After travelling in England, he entered the
+		  London office of G. F. Bodley, R.A., where he remained for eighteen months
+		  before returning to Edinburgh. During his career, Lorimer became interested in
+		  the Arts and Crafts Movement and in Scottish Vernacular architecture. These
+		  interests led Lorimer to undertake the Thistle Chapel in the High Kirk of St.
+		  Giles, Edinburgh, in 1909 (the chapel of the Knights of the Thistle). Over the
+		  years he also remodelled suburban villas and built cottages in various parts of
+		  the city. Another major project was the Scottish National War Memorial within
+		  Edinburgh Castle. He also created similar memorials in Italy, Egypt and in
+		  Greece. Towards the end of his career he restored Paisley Abbey. Sir Robert
+		  Lorimer died in 1929. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Lorimer Papers (office letters) have been sorted and numbered with
+		  a full inventory on typed sheets. The Papers relate to projects in Edinburgh
+		  and all over Scotland, and elsewhere in the United Kingdom. There are some
+		  plans of buildings and building details. Material in some boxes have been
+		  sorted but not numbered. Some Papers are still in bundles with only rudimentary
+		  sorting. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Lorimer</emph> <emph altrender="forename">Robert
+		  Stodart</emph> <emph altrender="title">Sir</emph> <emph
+		  altrender="dates">1864-1929</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Architects</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Architecture</emph> <emph altrender="z">Scotland</emph>
+		  </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H27 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

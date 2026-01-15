@@ -1,0 +1,20 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Factories</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/f/">f</a><h1>Factories</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=105&term=Factories" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-201&view=basic">A Lac Factory, Ranchi </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1083&view=basic">Cotton Factory, "Jauja", Tepic [Mexico] </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-2568&view=basic">Kaikorai Woollen Factory (Ross &amp; Glendining's), Dunedin, New Zealand </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-2569&view=basic">Early Morning at the Condensed Milk Factory, Wallacetown, Southland, New Zealand </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-66&view=basic">Atherton Estate Factory </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-67&view=basic">Interior of Coagulating Shed and Interior of Drying Shed </a> (1870-1930) Roslin/Ewart Slides</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

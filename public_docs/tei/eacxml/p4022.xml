@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4022</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-03-16">9 November 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Aimee Shaw</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>12 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 181/00 005/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 118/02 004/02 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1880 118/02 0034</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Transcription notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW108/66</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4022</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Birnie</part>
+                <part localType="given">William</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Land Stewart, South Uist</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1807" notAfter="1812" notBefore="1802">c1807</fromDate>
+                    <toDate standardDate="1880-11-01">1 November 1880</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>William Birnie, land stewart and factor, was the son of John Birnie, farmer, and
+                    Isabella Birnie née Slorach. He married Marjory [May] Calder and in the 1861
+                    census there are two daughers recorded in the household: Mary (18) and Isabella
+                    (13). </p>
+                <p>He died in 1880 of nervous exhaustion and 12 months of general decay and his
+                    grandson William Nicol witnessed the certificate. </p>
+                <chronList>
+                    <chronItem>
+                        <date notAfter="1812" notBefore="1802" standardDate="1807">c1807</date>
+                        <placeEntry>South Uist</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1885-09-14">14 September 1885</date>
+                        <placeEntry>South Uist</placeEntry>
+                        <event>story collected by Alexander Carmichael about Birnie</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1880-11-01">1 November 1880</date>
+                        <placeEntry>Groigearraidh, South Uist</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

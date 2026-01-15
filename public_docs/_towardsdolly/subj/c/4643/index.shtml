@@ -1,0 +1,23 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Cashmere</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/c/">c</a><h1>Cashmere</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4643&term=Cashmere" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-18-18&view=basic">Letter to James Cossar Ewart from Harry Sanderson </a> (1912) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-770&view=basic">Breeding for cashmere in feral and imported goats in Scotland </a> (1990) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-17&view=basic">Genetics of fibre production in cashmere goats </a> (1993) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-305&view=basic">Strain comparisons in cashmere goats in the United Kingdom </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-309&view=basic">Defining selection objectives for cashmere goats in the UK </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-307&view=basic">Strain comparisons and genetic parameters for cashmere goats </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-311&view=basic">Cashmere production from feral and imported cashmere goat kids </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-304&view=basic">Genetic parameters and selection objectives for cashmere goats </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-687&view=basic">Initial responses to selection for fibre value and fibre diameter in cashmere goats </a> (1995) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

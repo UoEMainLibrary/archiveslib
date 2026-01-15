@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 EUA GD38">GB
+		237 EUA GD38</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Records of the Friends of Edinburgh University
+			 Library</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20070515" certainty="certain">15 May
+			 2007</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-EUA-GD38"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA
+		  GD38</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">Da.3</physloc><unittitle
+		encodinganalog="isadg(2)312">Records of Friends of Edinburgh University
+		  Library</unittitle><unitdate normal="1962-2006"
+		encodinganalog="isadg(2)313">1962-2006</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 box </extent></physdesc> 
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Friends of Edinburgh University
+		  Library</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>The establishment of the Friends of Edinburgh University Library (a
+		  recognised charity) followed an appeal made in 1962, with a leaflet sent to
+		  arround 22,000 people, most of whom were former staff or students of the
+		  University. An inagural meeting was held on 1 November 1962, where a
+		  constitution was adopted. </p>
+		<p>The Friends act as a channel for and assist in the purchase of rare
+		  and valuable items, which the Library could not otherwise acquire, and
+		  otherwise promote the reputation of the Library and its collections.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>
+		  <list>
+			 <item>Various papers: minutes, agenda, circulars (very incomplete),
+				1964-1992</item>
+			 <item>Friends Newsletter, issues 1-20 (some duplicates),
+				1981-1990</item>
+			 <item><title>The Piper</title> (Friends newsletter), issues 1-16
+				(1991-2000) and 28 (November 2006): 2001 - May 2006 wanting</item>
+			 <item>Photographs taken at the naming of the Brenda Moon Room, 9
+				December 1997</item>
+			 <item>Annual Reports, 1963-1996</item>
+		  </list></p> 
+	 </scopecontent> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" authfilenumber="2834">Charities</subject>
+		  <subject source="lcsh" authfilenumber="2558">Libraries</subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses and Organisations</head> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 EUA C3469"
+			normal="Friends of Edinburgh University Library">Friends of Edinburgh
+			 University Library | 1962- | charitable organisation</corpname>
+		</controlaccess> 
+	 </controlaccess><descgrp> 
+		<head>Administrative Information</head> 
+		<custodhist> 
+		  <head>Archival History</head> 
+		  <p>Most material has been in the custody of Library staff members since
+			 creation, before being passed to University Archives.</p> 
+		</custodhist> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Acc 98/038: Photographs taken at the naming of the Brenda Moon
+			 Room</p>
+		  <p>Acc 06/070: The Piper, no. 28</p> 
+		</acqinfo> 
+		<appraisal encodinganalog="isadg(2)332"> 
+		  <head>Appraisal</head> 
+		  <p>This has been appraised.</p> 
+		</appraisal> 
+		<accruals encodinganalog="isadg(2)333"> 
+		  <head>Accruals</head> 
+		  <p>Accurals likely</p> 
+		</accruals> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>None.</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="isadg(2)342"> 
+		  <head>Conditions Governing Reproduction</head> 
+		  <p>Copyright rests with the Friends of Edinburgh University Library.
+			 Permissiom to reporoduce must be obtained from them.</p> 
+		</userestrict> 
+		<altformavail encodinganalog="isadg(2)352"> 
+		  <head>Existence and Locations of Copies</head> 
+		  <p>Some issues of 
+		  <title>The Piper</title> are available amongst the periodcals within
+		  Library General Collections.</p> 
+		</altformavail> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Catalogued by Grant Buttars, 15 May 2007</p> 
+		</processinfo></descgrp> 
+  </archdesc>
+</ead>

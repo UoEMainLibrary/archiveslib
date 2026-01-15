@@ -1,0 +1,17 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Fife (Scotland)</title>
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<h2>Authority term: Fife (Scotland)</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-99-11-7&view=basic">Coloured map of south Fife</a> (1860-1900)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-99-11-13&view=basic">Geological Map of southern Fife and northern East Lothian</a> (1860-1900)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-99-11-3-2&view=basic">Geological Survey of Scotland: Sheet 48</a> (1883)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-99-11-3-3&view=basic">Geological Survey of Scotland: Sheet 49</a> (1884)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-99-11-4-7&view=basic">Geological Survey of Scotland: Sheet 49</a> (1888)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-99-11-4-6&view=basic">Geological Survey of Scotland: Sheet 41</a> (1889)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

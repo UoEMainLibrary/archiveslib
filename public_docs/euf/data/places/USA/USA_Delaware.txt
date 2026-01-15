@@ -1,0 +1,5 @@
+<!-- @version $Id: USA_Delaware.txt,v 1.2 2005/03/30 23:44:41 yalnifj Exp $ -->
+<!-- @see http://countyhunter.com/counties.htm -->
+Kent
+New Castle
+Sussex

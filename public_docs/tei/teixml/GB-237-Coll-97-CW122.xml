@@ -1,0 +1,2395 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 SYSTEM "uoe-crc-tei.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>CW 122</title>
+                <author>Carmichael&comma; Alexander Archibald &lpar;1832&hyphen;1912&rpar;</author>
+                <sponsor>Edinburgh University Library and the Department of Scottish and Celtic Studies</sponsor>
+                <sponsor>
+                    <address>
+                        <addrLine>Edinburgh University Library</addrLine>
+                        <addrLine>Collections Division</addrLine>
+                        <addrLine>George Square</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                        <addrLine>EH8 9LJ</addrLine>
+                        <addrLine>United Kingdom</addrLine>
+                    </address>
+                </sponsor>
+                <funder>Arts &amp; Humanities Research Council&lpar;AHRC&rpar;</funder>
+                <principal>Dr John Scally</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition lang="EN">First edition<date> February 2010</date>
+                </edition>
+            </editionStmt>
+            <extent>107 KB</extent>
+            <publicationStmt>
+                <publisher>
+                    <address>
+                        <addrLine>Edinburgh University Library</addrLine>
+                        <addrLine>Collections Division</addrLine>
+                        <addrLine>George Square</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                        <addrLine>EH8 9LJ</addrLine>
+                        <addrLine>United Kingdom</addrLine>
+                    </address>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>CW 122</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <interpretation>
+                    <!-- Interpretation describes the scope of any analytic or interpretive information added to the text in addition to the transcription. -->
+                    <p>All digital surrogates of the original source are linked with the markup textfile&period;
+                    </p>
+                    <p>All Gaelic &lpar;and some English&rpar; texts have an English summary&comma; keywords&comma; and&comma; where
+                        applicable&comma; a taxonomic reference&period;
+                    </p>
+                    <p>For some Gaelic &lpar;and English&rpar; texts a bibliographic reference&lpar;s&rpar; will be provided to printed texts&period;
+                    </p>
+                </interpretation>
+                <correction>
+                    <!-- States how and under what circumstances corrections have been made in the text. This should include the degree of correction applied to the text and the method
+                        adopted to indicate corrections within the text. -->
+                    <!-- Editorial practice should take into account: Was the text corrected during or after data capture? If so, were corrections made silently 
+                        or are they marked using the tags described in section Simple Editorial Changes? What principles have been adopted with respect to omissions,
+                        truncations, dubious corrections, alternate readings, false starts, repetitions, etc.? -->
+                    <p>Errors from the original source transcription have been kept to a minimum by employing a double re&hyphen;keying method when typed out&period; In
+                        addition&comma; all re&hyphen;keyed texts have been proof&hyphen;read by the text editors&period;
+                    </p>
+                    <p>A guiding principle of the Alexander Carmichael notebooks markup procedure is to approximate the original document as closely as possible&comma; so that
+                        the character of Carmichael&apos;s transcriptions is preserved along with its content&period; XML &lpar;eXtensible Markup Language&rpar;&comma; with its
+                        capacity to convey emendations such as deletions &lpar;crossed out&rpar; and supralinear additions and so forth&comma; can digitally reproduce an authentic
+                        version which reflects the source documents&period;
+                    </p>
+                    <p>Where authorial changes&comma; e&period;g&period; substitution&comma; have occurred in the text then this has been annotated&period;
+                    </p>
+                    <p>All words have been retained as written in the source text even when there are apparent errors in either spelling or when there has been either an omission
+                        in punctuation or grammar&period;
+                    </p>
+                    <p>In such cases missing words or letters have not been supplied&period; Quotation marks and other missing grammatical marks have not been
+                        supplied&period; Where there are gaps in the text usually because the word was inaudible &lpar;some background noise&comma; perhaps&rpar;
+                        or where the transcriber could not make out what was being said in the act of transcription &lpar;perhaps the speaker was inarticulate or mumbling
+                        or for whatever reason&rpar; then these have been tagged&comma; though not explained; where a word is now difficult&comma; illegible or just unclear&comma;
+                        then this has also been tagged&period;
+                    </p>
+                    <p>All such changes have been annotated in accordance with TEI 5 procedures&period;
+                    </p>
+                </correction>
+                <normalization>
+                    <!-- Editorial practice should take into account: Was the text normalized, for example by regularizing any non-standard spellings, dialect forms, etc.? If so, were normalizations performed silently or are they marked using the tags described in section Simple Editorial Changes? What authority was used for the regularization? Also, what principles were used when normalizing dates or numbers to provide the standard values for the value attribute described in sections Numbers and Measures and Dates and Times and what format used for them? -->
+                    <p>No normalization of the words such as changing the source text to conform with current Gaelic orthographic conventions has been undertaken&period;
+                        The texts are as given with only minor editorial changes&period; in order to preserve the integrity of the original texts&period;</p>
+                </normalization>
+                <quotation marks="all" form="std">
+                    <!-- Quotation specifies editorial practice adopted with respect to quotation marks in the original. It should be indicated whether or not quotation marks have been retained as content within the text and how these quotation marks have been indicated within the text-->
+                    <!-- Editorial practice should take into account: How were quotation marks processed? Are apostrophes and quotation marks distinguished? How? Are quotation marks retained as content in the text or replaced by markup? Was the rendition attribute used to record the specific appearance of any quotation marks removed from the text? Are there any special conventions regarding for example the use of single or double quotation marks when nested? Is the file consistent in its practice or has this not been checked? -->
+                    <p>All opening quotation marks&comma; hyphens&comma; dashes&comma; apostrophes&comma; periods&comma; colons&comma; etc&period;
+                        have been retained in the source text and have been encoded in accodance  with ISO entity references&comma; etc&period;
+                    </p>
+                    <p>All double marks have been processed using straight quotation marks&comma; that is&comma; &quot;&period; All single quotation marks have been rendered using apostrophe&period;
+                    </p>
+                </quotation>
+                <hyphenation>
+                    <!-- hyphenation summarizes the way in which hyphenation in a source text has been treated in an encoded version of it -->
+                    <!-- Editorial practice should take into account: Does the encoding distinguish "soft" and "hard" hyphens? What principle has been adopted with respect to end-of-line hyphenation where source lineation has not been retained? Have soft hyphens been silently removed, and if so what is the effect on lineation and pagination? -->
+                    <p>End&hyphen;of&hyphen;line hyphenation has been retained&period; All unambiguous end&hyphen;of&hyphen;line hyphens have been retained&comma; and the trailing part of a word has not been joined to
+                        the preceding line&period;of&hyphen;line hyphenation has been retained&period; All unambiguous end&hyphen;of&hyphen;line hyphens have been retained&comma; and the trailing part of a word has
+                        not been joined to the preceding line&period;
+                    </p>
+                </hyphenation>
+                <segmentation>
+                    <!-- segmentation describes the principles according to which the text has been segmented, for example into paragraphs, sentences, etc -->
+                    <!-- Editorial practice should take into account: How is the text segmented? If s or seg segmentation units have been used to divide up the text for analysis, how are they marked and how was the segmentation arrived at? -->
+                    <p>Folio numbers have been added in pencil at the top of each notebook page are retained using the pb &lpar;pagebreak&rpar; element together with the n attribute for
+                        the page number and the ed attribute to specify the edition&period;
+                    </p>
+                    <p>When an tale&hyphen;text or song which&comma; more often than not&comma; fills more than one page&comma; it is segmented with page break&period;
+                    </p>
+                    <p>A reference system has been built up using the identifiers of the following text units&colon; text&comma; division&comma;
+                        paragraph&period; Each nested division has an identifier which is built up by successively adding to the identifier of the text&period; Each
+                        paragraph has an identifier which adds yet another layer to the immediately superordinate identifier&period;
+                    </p>
+                </segmentation>
+            </editorialDecl>
+            <!-- End of the Editorial Declaration -->
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="gd"/>
+                <language id="en"/>
+                <language id="la"/>
+                <language id="ga">Approximately 95% of the texts are Scottish Gaelic&comma; 2&period;5% of the texts are in Irish Gaelic and the remainder being roughly
+                    divided between English and Scots&period;</language>
+            </langUsage>
+        </profileDesc>
+        <!-- The dates on which the text last edited (in reverse chronological order) is placed here which provides a change log in which is recorded any change made to a text. 
+            The date should be recorded, the name of of the editor responsible for the change should be appended and lastly the nature of the work carried out on the text -->
+        <revisionDesc>
+            <change>
+                <date value="2011-06-07">6 June 2011</date>
+                <respStmt>
+                    <name>Andrew Wiseman</name>
+                    <resp>Editor</resp>
+                </respStmt>
+                <item>Proof-read item and made corrections as well as updating the catalogue entries.</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text lang="EN" id="EN">
+        <front/>
+        <body>
+            <!-- REPLACE THIS with the notebook div for the whole of the item of the item -->
+            <div type="series" id="GB-237-Coll-97-CW122">          
+                <!-- REPLACE THIS with the id of the item -->
+                <div type="item" id="GB-237-Coll-97-CW122-1">
+                    <!-- REPLACE THIS with the number of the page  -->
+                    <pb id="CW122-1r" n="001r"/>
+                    <!-- Pages follow Coll_97_cw_notebook_cw_foliation
+                        e.g. cw117-1v refers notebook 117 and folio 1 verso  -->
+                    <!-- REPLACE THIS by placing the content of the paragraph in     between the paragraph elements -->
+                    <!-- The edited text should follow the editorial policy given in the Tagging Guidelines -->
+                    <!-- Beginning of notebook -->
+                    <!-- this item has been scored through as if transcribed elsewhere-->
+                    <title>Coisrigeadh an Aodaich</title>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p><name type="person" key="4285"><choice><abbr type="abbreviation">Dun.</abbr><expan>Duncan</expan></choice> Cameron</name> Police Officer<lb/>
+                        <name type="place" key="517"><choice><abbr type="abbreviation">Edinbgh.</abbr><expan>Edinburgh</expan></choice></name> <date value="1866-08-07">7<hi rend="superscript">th</hi> <choice><abbr type="abbreviation">Aug</abbr><expan>August</expan></choice> 1886</date>
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>(Cuimhne an fheidh = Croic an<lb/>
+                        fheidh. "Cridhe do chuimhne<lb/>
+                        air a comhdach le stailinn")
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <lg>
+                        <l>S math <choice><abbr type="abbreviation">gha'ainsa</abbr><expan>ghabhainnsa</expan></choice> mo rann</l>
+                        <l>A <choice><abbr type="abbreviation">teurn</abbr><expan>teurnadh</expan></choice> le gleann</l>
+                        <l>Aon rann, da rann,</l>
+                        <l>Tri rann, 4 <choice><abbr type="abbreviation">ran</abbr><expan>rann</expan></choice>, coig <choice><abbr type="abbreviation">r</abbr><expan>rann</expan></choice></l>
+                        <l>Sia rann, <choice><abbr type="abbreviation">seac</abbr><expan>seachd</expan></choice> gu'n leth rann</l>
+                        <l>Nar a ghoinnar fear an side</l>
+                        <l>Naonar reubar a gu brath</l>
+                        <l>Nuair a theid e 'n cath no <choice><abbr type="abbreviation">corag</abbr><expan>comhrag</expan></choice> <add place="infralinear" indicator="no">dha</add></l>
+                        <l>{<choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> chomaraich an Domhnaich</l>
+                        <l><choice><abbr type="abbreviation">{Lomnoc</abbr><expan>Lomnochd</expan></choice> an <gap reason="omitted" extent="one or two words"/></l>
+                        <l>Biolair air a buan ro <add place="supralinear" indicator="no">fo ro</add> lic</l>
+                        <l>'S air a toirt do <choice><sic>mhnai</sic><corr>mhnaoi</corr></choice> gun <del rend="overstrike">fhi</del>] <add place="supralinear" indicator="no">bhios</add></l>
+                        <l>Lurg} <add place="infralinear" indicator="no">Cuimhne}</add>an fheidh an ceann<lb/>
+                         an sgadan</l>
+                        <l>San caol chalp a bhradain bhric</l>                
+                    <pb id="CW122-1v" n="001v"/>
+                        <l>S a'adach so 's chan aoibh <add place="supralinear" indicator="no">fhaoibh</add> e </l>
+                        <l>S cha chuid cleir no sagart e</l>
+                    </lg>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>The web is made into a roll<lb/>
+                        All the women work at the<lb/>
+                        roll patting it and the <choice><abbr type="abbreviation">ran</abbr><expan>rann</expan></choice><lb/>
+                        is said three times over –<lb/>
+                        Then at the end the roll is<lb/>
+                        tossed end over and say<lb/>
+                        A a<del rend="overstrike">adh</del> aodach seo &amp;c<lb/>
+                        chan fhaoibh e.
+                    </p>
+                    <p>Then turn it back and<lb/>
+                        say S cha chuid cleir<lb/>
+                        no sagart e.
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                </div>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-2">
+                    <p><name type="place" key="4933">Sgairinish</name> <name type="place" key="4103">Tiree</name>
+                    </p>
+                    <p><name type="person" key="4285">Duncan Cameron</name> Police-<lb/>
+                        man saw lump of peat<lb/>
+                        as large as houses on the<lb/>
+                        shore landed by the sea full<lb/>
+                        thick bark 1½ thick nuts<lb/>
+                        seed like lintseed = bog myrtle<lb/>
+                        seed the Knots of the wood 
+                        <pb id="CW122-2r" n="002r"/>
+                        above remaining. Cameron dug<lb/>
+                        for lugachan and under the<lb/>
+                        sand found peat moss full<lb/>
+                        of seeds <name type="person">Dugald Macdugald</name><lb/>
+                        dug his peats there for several<lb/>
+                        years some feet in depth.<lb/>
+                        <name type="place" key="4934"><choice><sic>Bhile</sic><corr>Baile</corr></choice> Pheatrais</name> = full of round<lb/>
+                        molags. Plants like iris then<lb/>
+                        pressed west end of <name type="place" key="4934"><choice><abbr type="abbreviation">B</abbr><expan>Baile</expan></choice> Pheatrais</name><lb/>
+                        near <name type="place">Ceann a Bhaigh</name>
+                    </p>     
+                    <space dim="vertical" extent="1" unit="lines"/>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-3">
+                    <p><name type="place" key="3336">Eilean Druidhneach</name> = <name type="place" key="3336">Iona</name><lb/>
+                        <add place="intralinear">The Isle of Sculptures</add>
+                    </p>
+                    <p><term>Maranach</term> = <gloss>wool of sheep dying of braxy</gloss><lb/>
+                        &amp;c &amp;c
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-4">
+                    <p><name type="place" key="4935">Port nan lunn</name> Bail <choice><abbr type="abbreviation">iocrach</abbr><expan>iochdrach</expan></choice><lb/>
+                        <name type="place" key="4937">Maoinish</name> (<term>Lunn</term> = <gloss>waves</gloss>) The<lb/>
+                        foam Great <choice><abbr type="abbreviation">accumull</abbr><expan>accumulation</expan></choice> of foam<lb/>
+                        here – flying like sea gulls.
+                    </p>  
+                </div>    
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-5">
+                    <p>Innis Draoineach, <name type="place">Eilean nan <choice><abbr type="abbreviation">Dra</abbr><expan>Draoineach</expan></choice></name><lb/>
+                        <name type="place" key="3336">Iona</name>. <name type="place" key="4196">Draoineach</name> in <name type="place" key="1034">Skye</name><lb/>
+                        <name type="place">Innis Draoineach</name> Droineach<lb/>
+                        on <name type="place" key="4090">Lochawe</name> is the isle of<lb/>
+                        the sculptors – Sculpturing
+                    </p>                       
+                </div>
+                <pb id="CW122-2v" n="002v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-6">
+                    <title><choice><abbr type="abbreviation">Nes</abbr><expan>Neas</expan></choice></title>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p><name type="place"><choice><abbr type="abbreviation">Airi</abbr><expan>Airidh</expan></choice>-mùseig</name> <name type="person" key="4285"><choice><abbr type="abbreviation">Dun</abbr><expan>Duncan</expan></choice> Cameron</name><lb/>
+                        cut with spade the cos of a <del rend="overstrike">nes</del><lb/>
+                        neas under the big stone<lb/>
+                        nothing but fionndach fhail<lb/>
+                        (mole) agus Seach <unclear reason="hand" cert="low">ian</unclear><lb/>
+                        This was a big roomy place as<lb/>
+                        big as a big basket. He<lb/>
+                        saw nothing &amp; he left. He<lb/>
+                        went a mile when he heard<lb/>
+                        Ness hissing at his heel and look<lb/>
+                        ing round he saw the neas.<lb/>
+                        She fled into a dyke a seideil<lb/>
+                        &amp; <choice><abbr type="abbreviation">hisg</abbr><expan>hissing</expan></choice>. As he went on the neas<lb/> 
+                        kept up going into the dyke <choice><abbr type="abbreviation">divg</abbr><expan>diving</expan></choice><lb/>
+                        in &amp; out and the <choice><abbr type="abbreviation">kepg.</abbr><expan>keeping</expan></choice> up with<lb/>
+                        him he pelting her with stones.
+                    </p>
+                    <p>He came to the house of <name type="person">Angus<lb/>
+                        Carmichael</name> at <name type="place" key="4936">Bailiocrach</name><lb/>
+                        &amp; was telling this to <name type="person" key="4653">Eon <choice><abbr type="abbreviation">Carm.</abbr><expan>Carmichael</expan></choice></name><lb/>
+                        son of Angus. <choice><abbr type="abbreviation">Dat</abbr><expan>Daughter</expan></choice> of <del rend="overstrike">Isebal</del><lb/>
+                        Angus Isebal went to the door<lb/>
+                        &amp; there the neas was standing<lb/>
+                        in the door. <name type="person" key="4285"><choice><abbr type="abbreviation">Dun.</abbr><expan>Duncan</expan></choice> Cameron</name><lb/>
+                        &amp; <name type="person" key="4653">Eon Carmichael</name> rushed
+                        <pb id="CW122-3r" n="003r"/>
+                        to the door then to t<add place="supralinear" indicator="no">r</add>ample<lb/>
+                        the neas but it eluded them<lb/>
+                        &amp; eventually escaped into a<lb/> 
+                        dyke – no more seen –
+                    </p>
+                    <p><name type="person" key="4653">Eon Carmichael</name> said. I will<lb/>
+                        not <unclear reason="hand" cert="low">stop</unclear> you lest she <choice><abbr type="abbreviation">shd</abbr><expan>should</expan></choice><lb/>
+                        <del rend="overstrike">cup</del> cut <del rend="overstrike">y</del> my throat <choice><abbr type="abbreviation">inst</abbr><expan>instead</expan></choice> of<lb/>
+                        yours but they <unclear reason="hand" cert="low">went</unclear> –                        
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-7">
+                    <p><name type="person" key="4654">Myles Fletcher</name> <choice><abbr type="abbreviation">fr</abbr><expan>from</expan></choice> <name type="place" key="4903"><choice><sic>Glenorchy</sic><corr>Glenorchy</corr></choice></name><lb/>
+                        <del rend="overstrike">Cen</del> <name type="place">Laggan</name> <name type="place">Ulva</name> he found<lb/>
+                        the <choice><sic>coas</sic><corr>cos</corr></choice> of the neas &amp; he came<lb/>
+                        to the <choice><abbr type="abbreviation">airi</abbr><expan>airidh</expan></choice> the isein of the neas.
+                    </p>
+                    <p>The neas came &amp; put two or<lb/>
+                        three buicein into a measair<lb/>
+                        bhan on a <unclear reason="hand" cert="low">bench</unclear> = Send him<lb/>
+                        the isean said her mother –<lb/>
+                        he saw &amp; after a while the neas<lb/>
+                        even scraped <gap reason="illegible" extent="one word"/> of <unclear reason="hand" cert="low">davuits</unclear> into<lb/>
+                        this measair bhainne.
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-8">
+                    <p><name type="person" key="4655">John Maclean</name> <name type="person">Saor</name> <name type="place" key="1033"><choice><abbr type="abbreviation">Tobery</abbr><expan>Tobermory</expan></choice></name><lb/>
+                        <choice><abbr type="abbreviation">Fr</abbr><expan>From</expan></choice> <name type="place" key="4939">Sorne</name> was in his barn
+                        <pb id="CW122-3v" n="003v"/>
+                        was in his barn when he saw<lb/>
+                        a neas among the daviots<lb/>
+                        &amp; thatch above him. He ran<lb/>
+                        in and got a teth-thiallach<lb/>
+                        (spit) and progged the neas<lb/>
+                        When <unclear reason="hand" cert="low">ever</unclear> <unclear reason="hand" cert="low">it</unclear> <choice><abbr type="abbreviation">app</abbr><expan>appeared</expan></choice> – That night<lb/>
+                        his best calf was dead
+                    </p>
+                    <p>This the man told me.
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-9">
+                   <p><name type="person" key="4653">Eon Carmichael</name> was hiring<lb/>
+                       a contract in <add place="supralinear" indicator="yes"><name type="place" key="4940">Tom a chrochadair</name></add> <name type="place" key="4941">Cill a choain</name><lb/>
+                        at <lb/>
+                        <name type="place" key="4715">Ardnamurchan</name>. The<lb/>
+                        chickens were <choice><abbr type="abbreviation">disapping</abbr><expan>diasappearing</expan></choice>. A<lb/>
+                        screech <del rend="overstrike">of a</del> was heard early<lb/>
+                        in <choice><abbr type="abbreviation">sum</abbr><expan>summer</expan></choice> <choice><abbr type="abbreviation">morng</abbr><expan>morning</expan></choice> &amp; the <del rend="overstrike">girl</del><lb/>
+                        <choice><abbr type="abbreviation">dat</abbr><expan>daughter</expan></choice> of house ran to a cliabh<lb/>
+                        down in end of house &amp; she<lb/>
+                        found a neas <choice><abbr type="abbreviation">killg</abbr><expan>killing</expan></choice> the <choice><abbr type="abbreviation">chick</abbr><expan>chicken</expan></choice><lb/>
+                        The girl <choice><abbr type="abbreviation">caut</abbr><expan>caught</expan></choice> chicken an in<lb/>
+                        one hand &amp; neas in the other<lb/>
+                        &amp; <choice><abbr type="abbreviation">brot</abbr><expan>brought</expan></choice> them up. <name type="person" key="4653">Eon <choice><abbr type="abbreviation">Carm</abbr><expan>Carmichael</expan></choice></name><lb/>
+                        took hold of neas with tongs                        
+                        <pb id="CW122-4r" n="004r"/>                        
+                        &amp; killed it but not before<lb/>
+                        it killed <choice><abbr type="abbreviation">chick</abbr><expan>chicken</expan></choice> – never relaxing<lb/>
+                        its hold
+                    </p>
+                    <p>The stink of the neas is<lb/>
+                        horrible – poisonous in extreme<lb/>
+                        no living <choice><abbr type="abbreviation">creat</abbr><expan>creature</expan></choice> can stand it
+                    </p>      
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-10">
+                    <p><choice><abbr type="abbreviation">Airi.</abbr><expan>Airidh</expan></choice>-miseig = Miseig, young<lb/>
+                        goat before it kids
+                    </p>    
+                    <lg>
+                        <l>Le <choice><abbr type="abbreviation">chai</abbr><expan>chaidh</expan></choice> a cuid</l>
+                        <l>Gun chaora gun uaisg</l>
+                        <l>Gun <choice><abbr type="abbreviation">ghoar</abbr><expan>ghobhar</expan></choice> gun mhiseig</l>
+                        <l>Och mar tha mise</l>
+                        <l>Gun fhios ciod a ni mi</l>
+                        <l>Mo lomadh</l>
+                        <l>{Gun searrach gun lair</l>
+                        <l>Gun chaora gun uaisg</l>
+                        <l>Gun <choice><abbr type="abbreviation">ghoar</abbr><expan>ghobhar</expan></choice> gun mhiseach</l>
+                        <l>Gun a mart min a chuir<lb/>
+                            las an lar</l>
+                    </lg>                    
+                </div>                
+                <div type="item" id="GB-237-Coll-97-CW122-11">
+                    <p>The neas hates the smell of<lb/>
+                        burning. So the people burn
+                        <pb id="CW122-4v" n="004v"/>
+                        the tail &amp; cas of the calf when<lb/>
+                        calved or burn dry old shoe<lb/>
+                        or leather. A calf <gap reason="illegible" extent="one word"/>
+                    </p>       
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-12">
+                    <p>Saw two <choice><abbr type="abbreviation">maidean</abbr><expan>maighdeann</expan></choice> bhuana<lb/>
+                        in house of <name type="person" key="4656"><choice><abbr type="abbreviation">Don</abbr><expan>Donald</expan></choice> Maclean</name> <name type="place" key="1033">Tober-<lb/>
+                        mory</name>. Try who can <choice><abbr type="abbreviation">harv</abbr><expan>harvest</expan></choice> it. This<lb/>
+                        again is given to horses in first<lb/>
+                        sgriob turadh.
+                    </p>            
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-13">
+                    <p>Seamalach = Heifer whose calf<lb/>
+                        was killed – no calf of heifer kept<lb/>
+                        in olden times. In caraideach<lb/>
+                        adh = The calf of one cow <add place="supralinear" indicator="no"><choice><abbr type="abbreviation">heif</abbr><expan>heifer</expan></choice></add> is<lb/>
+                        killed &amp; tail cut off &amp; tied to clook<lb/>
+                        placed on the <choice><abbr type="abbreviation">livg</abbr><expan>living</expan></choice> calf &amp; he <choice><abbr type="abbreviation">sukd</abbr><expan>suckled</expan></choice><lb/>
+                        the two dams. This was caraid<lb/>
+                        eachadh
+                    </p>              
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-14">
+                    <p><term>Stōdh</term> = <gloss>Stewing</gloss></p>            
+                </div>
+                <space dim="vertical" extent="3" unit="lines"/>
+                <pb id="CW122-5r" n="005r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-15">
+                <lg>
+                    <l>Fear air muin eich bhain<lb/>
+                        dol gu gach taigh <unclear reason="hand" cert="low">saigh</unclear></l>
+                    <l>Da chois chapuill chaoil<lb/>
+                        an cro?
+                    </l>
+                    <l>1<hi rend="superscript">st</hi> Bhuainn ghoid <choice><abbr type="abbreviation">u</abbr><expan>thu</expan></choice> na <choice><abbr type="abbreviation">caor</abbr><expan>caoraich</expan></choice></l>
+                    <l>Shaoil <choice><abbr type="abbreviation">u</abbr><expan>thu</expan></choice> gur an n chon</l>
+                    <l>Theid do chioch leis na taodaibh</l>
+                    <l>Dar chois chapaill <add place="supralinear" indicator="yes">chaoil</add> an cro?</l>
+                    <l>Le rain <gap reason="omitted" extent="three or four words"/></l>
+                    <l>Dar seana bhodaich air muin</l>
+                    <l>Seana Gheamair muilichine-<lb/>
+                    buic</l>
+                    <l>Da chois &amp;c</l>
+                    <l>Suai aidh an eala ban fhaoil</l>
+                    <l>Da chois?</l>
+                    <l>Tri aoisean caorach dui <add place="supralinear" indicator="yes">crithe</add> cridh<lb/>
+                        anaich a sior mhuilt
+                    </l>
+                </lg>  
+                    <p>Beann = Horn Caor bean<lb/>
+                        ach
+                    </p>
+                    <p>Fhuair mi deoch a lamh <choice><abbr type="abbreviation">ri</abbr><expan>righ</expan></choice><lb/>
+                        Alba a cup airgid agus oir<lb/>
+                        Fhuair mi rud nach saoil<lb/>
+                        ri <choice><abbr type="abbreviation">fhaot</abbr><expan>fhaotainn</expan></choice> Da chois?
+                    </p>   
+                    <pb id="CW122-5v" n="005v"/>
+                    <p>An <choice><abbr type="abbreviation">aghai</abbr><expan>aghaidh</expan></choice> a cluig<lb/>
+                        Thighin an fheadag air a bhiodaig<lb/>
+                        S theap mi manadh<lb/>
+                        Deoch ceol air an tapadh<lb/>
+                        Suraig nach ainireamh<lb/>
+                        Air a mhiapadh.
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>Bha mi 7 <choice><abbr type="abbreviation">seac</abbr><expan>seachd</expan></choice> sabh<del rend="overstrike">a</del><add place="supralinear" indicator="no">u</add>il<lb/>
+                        Air urlar <choice><abbr type="abbreviation">cruai</abbr><expan>cruaidh</expan></choice> foghair<lb/>
+                        S gad <choice><abbr type="abbreviation">gheo'ain</abbr><expan>gheobhainn</expan></choice> am bas<lb/>
+                        anns a bhrochain<lb/>
+                        S chan <choice><sic>fheigh</sic><corr>fhaigh</corr></choice> deoch bhon<lb/>
+                        chuadan
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-16">
+                    <p>"T fhalt <choice><abbr type="abbreviation">ag</abbr><expan>agus</expan></choice> t fhiona <choice><abbr>D. haoin</abbr><expan>Diahaoine</expan></choice><lb/>
+                        T ionga m<del rend="overstrike">h</del>aol <choice><abbr type="abbreviation">D sathurn</abbr><expan>Diasathurna</expan></choice>"
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-17">
+                <lg>
+                    <l>"Air a bhiolain san an t siutha</l>
+                    <l>Air a ghuthan an ni an t eun</l>
+                    <l><choice><abbr type="abbreviation">San</abbr><expan>Sann</expan></choice> a choilll ud thall fo dhuil</l>
+                    <l>Cha <choice><abbr type="abbreviation">d idir</abbr><expan>d fhidir</expan></choice> duine mo sgeul</l>
+                </lg>    
+                    <p><name type="person" key="4285"><choice><abbr type="abbreviation">Dun</abbr><expan>Duncan</expan></choice> Cameron</name>, <name type="place" key="4194">Lochaline</name>,
+                    </p>    
+                </div>
+                <pb id="CW122-6r" n="006r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-18">
+                    <p>Hug o hug o the f<choice><abbr type="abbreviation">fullg</abbr><expan>fulling</expan></choice> song<lb/>
+                        Six women working like furies One women<lb/>
+                        sang the rest sang chorus. No song<lb/>
+                        must be sang twice or else it takes<lb/>
+                        back the cloth
+                    </p>    
+                    <p>Cailin og is stiurami<lb/>
+                        They lift the cloth bodily off the cliath<lb/>
+                        Work like furies at fulling
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>Failil o ro hill oro</p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-19">
+                    <p><del rend="overstrike">E</del> <term>Eiteag</term> = <gloss>Quay stone egg shaped</gloss><lb/>
+                        Deideag = <gap reason="omitted" extent="one or two words"/>
+                    </p>    
+                    <lg>
+                        <l><choice><abbr type="abbreviation">San</abbr><expan>Sann</expan></choice> aig <choice><abbr type="abbreviation">tai</abbr><expan>taigh</expan></choice> ghlas a bha <choice><abbr type="abbreviation">n</abbr><expan>an</expan></choice> <choice><abbr type="abbreviation">Deieg</abbr><expan>Deideag</expan></choice></l>
+                        <l><choice><abbr type="abbreviation">San</abbr><expan>Sann</expan></choice> aig <choice><abbr type="abbreviation">tai</abbr><expan>taigh</expan></choice> ghlas a mhuim</l>
+                        <l><choice><abbr type="abbreviation">"</abbr><expan><choice><abbr type="abbreviation">San</abbr><expan>Sann</expan></choice> aig <choice><abbr type="abbreviation">tai</abbr><expan>taigh</expan></choice> ghlas a mhuim</expan></choice></l>
+                        <l>Chaidil mi fhein air a cul</l>
+                    </lg>
+                    <p><unclear reason="hand" cert="low">See</unclear> All – an t <unclear reason="hand" cert="low">suain</unclear>
+                    </p>        
+                    <space dim="vertical" extent="1" unit="lines"/>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-20">
+                    <p>Aithean guail 6 or 7 of got in<lb/>
+                        <name type="place" key="4936">Bail <choice><abbr type="abbreviation">iocrach</abbr><expan>iochdrach</expan></choice></name> <del rend="overstrike">n</del> <name type="place" key="1976">Mull</name>. <del rend="overstrike">Ealaghu</del><lb/>
+                        <term>Eǎlaghual</term> = <gloss>Wood coal<lb/>
+                            <del rend="overstrike">esply</del><add place="infralinear" indicator="no">especially</add> of the willow
+                        </gloss>
+                    </p>                       
+                </div>
+                <pb id="CW122-6v" n="006v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-21">
+                    <p>Lobster got on high sea<lb/>
+                        level in <name type="place" key="4942">Port Mor</name> in<lb/>
+                        rock <del rend="overstrike">ar</del> in fissure of<lb/>
+                        red <unclear reason="hand" cert="low">gairial</unclear>.
+                    </p>            
+                </div>        
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-22">
+                    <p>In <name type="place"><choice><abbr type="abbreviation">Airi</abbr><expan>Airidh</expan></choice> nan Cailleach</name><lb/>
+                        had a <name type="place" key="4947">cladh Brĭit</name> number<lb/>
+                        of cut stones &amp; cross put into<lb/>
+                        dykes by the farmers who had<lb/>
+                        the place. Also <name type="place" key="4945">Cille chriosd</name><lb/>
+                        had stones with holes <choice><abbr type="abbreviation">thro</abbr><expan>through</expan></choice> them<lb/>
+                        <name type="place" key="4943">Cladh mhoire</name> down below<lb/>
+                        <name type="place" key="4944">Castle of Calgarry</name>. Still burying<lb/>
+                        there – beautiful place.
+                    </p>           
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-23">
+                    <p>Is toigh leis gach uidh a<lb/>
+                        shamhuil
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-24">
+                    <p>Remains of houses under low<lb/>
+                        water below Taighean &amp;c.
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>              
+                <div type="item" id="GB-237-Coll-97-CW122-25">
+                <p><name type="place" key="4949">An Cuil<del rend="overstrike">l</del>ionn Rumach</name><lb/>
+                    the <name type="place" key="4949">Cuil<del rend="overstrike">l</del>ionn of Rum</name>. An                
+                    <pb id="CW122-7r" n="007r"/>
+                    <name type="place" key="1184"><add place="supralinear" indicator="yes">Cuil<del rend="overstrike">l</del>ion</add><lb/>
+                        Sgitheanach</name> = the <name type="place" key="1184">Cullion of Skye</name>
+                </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-26">
+                    <p>x <name type="person" key="4951">Cladh Muluag</name> <name type="place" key="4950">Treisnish</name><lb/>
+                        3 <choice><abbr type="abbreviation">ft</abbr><expan>feet</expan></choice> standing cross <del rend="overstrike">cut on</del> stone<lb/>
+                        small arms of cross – worn
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-27">
+                    <p>Got Celt from <name type="person" key="4658">Mor Dhughallach</name><lb/>
+                        Na h-Abhan <name type="place" key="4592">auan</name> <name type="place" key="4950">Treisnish</name><lb/>
+                        <name type="place" key="1976">Mull</name> Sunday <date value="1886-08-1">15 <choice><abbr type="abbreviation">Augt.</abbr><expan>August</expan></choice> 1886</date>.<lb/>
+                        <del rend="overstrike">also crystal cube</del> – crystal cube
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-28">
+                       <p><name type="place">Tobar Chaluimchille</name> at the pen<lb/>
+                        coming out of rock – <choice><abbr type="abbreviation">exclt</abbr><expan>excellent</expan></choice> water
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>                
+                <div type="item" id="GB-237-Coll-97-CW122-29">
+                    <p>See "<title>Legend of Montrose</title> <name type="person" key="2011">Scott</name><lb/>
+                        For Children of the Mist" – Aoidh<lb/>
+                        Clann Aoidh"
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>        
+                <div type="item" id="GB-237-Coll-97-CW122-30">
+                    <p>A man who reprobated having<lb/>
+                        any papanich thing in the cladh<lb/>
+                        carried down the cross &amp; threw it into<lb/>
+                        the sea at <gap reason="omitted" extent="one or two words"/><lb/>
+                        His cattle &amp; sheep died &amp;c &amp; so he went<lb/>
+                        and fished it up &amp; replaced the cross
+                    </p>           
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>        
+                <pb id="CW122-7v" n="007v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-31">
+                    <p><unclear reason="hand" cert="low">Time</unclear> of <name type="place" key="1002">Eigg</name> &amp; <name type="place" key="4954">Bloody Bay</name><lb/>
+                        was <unclear reason="hand" cert="low">time</unclear> when wars at <del rend="overstrike">Carn</del><lb/>
+                        Cairnaburg. <name type="person" key="5">Macleod Dun<lb/>
+                        veagain</name> &amp; <name type="person" key="5">Lochbuy</name> takes<lb/>
+                        out the fort (or <name type="place">Duart</name>)<lb/>
+                        When the castellan saw he<lb/>
+                        was betrayed he <choice><sic>caried</sic><corr>carried</corr></choice> the trea<lb/>
+                        sure up &amp; threw it in the well<lb/>
+                        where it is buried. closed<lb/>
+                        up now simply a hollow<lb/>
+                        The treasure <choice><abbr type="abbreviation">brot</abbr><expan>brought</expan></choice> from<lb/>
+                        <name type="place" key="3336">Iona</name>
+                    </p>
+                    <p><name type="place" key="4955">Calgarry</name> which all the rocks to be<lb/>
+                        &amp; classic <name type="place" key="4960">Swanibol</name>             
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-32">
+                    <p><name type="place">Cladh Bhriit</name> at <name type="place">Airin</name><lb/>
+                        cross then standing in socket<lb/>
+                        1½ <choice><abbr type="abbreviation">f</abbr><expan>feet</expan></choice> high. broken now.<lb/>
+                        <name type="place" key="4957">Cladh Chraigeig</name> –<del rend="overstrike">at</del> in<lb/>
+                        <name type="place">Aoinidh Chraigeig</name>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-33">
+                    <p><name type="person" key="129">Macquarie of Ulva</name> (Col) had<lb/>
+                        toddy ladle. He was in war
+                        <pb id="CW122-8r" n="008r"/>
+                        of Egypt had ladle then? Had<lb/>
+                        a <choice><abbr type="abbreviation">broth</abbr><expan>brother</expan></choice> a general who had<lb/>
+                        <name type="place" key="4959">Glenforsa</name>. Capt Macquarie<lb/>
+                        <name type="place" key="4958">Salen</name> is son of Col <choice><abbr type="abbreviation">do</abbr><expan>Macquarrie</expan></choice>.
+                    </p>       
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-34">
+                    <p><name type="place">Cairnaburg mor</name> <name type="person"><choice><abbr type="abbreviation">Do</abbr><expan>Cairnaburg</expan></choice> beag</name>. <name type="place">Flata</name><lb/>
+                        <name type="place">Lunga</name> <del rend="overstrike">B</del> <name type="place"><name type="place">Am baca mor</name> <choice><abbr type="abbreviation">Do</abbr><expan>am baca</expan></choice> beag</name><lb/>
+                        <name type="place">Sgeir an Eireannaich</name> nearest<lb/>
+                        <name type="place">Fladda.</name> <name type="place">Sgeir nan Caisteal</name> (grass<lb/>
+                        &amp; flock on them)
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-35">
+                    <p>At <name type="place" key="4956">Cragaig</name> a sep serpent stung and<lb/>
+                        killed a fine man – black spot above<lb/>
+                        teeth serpents 2½ <choice><abbr type="abbreviation">ft.</abbr><expan>feet</expan></choice> – <choice><sic>three</sic><corr>two</corr></choice> thirds<lb/>
+                        red. black &amp; speckled. • Sting on <gap reason="illegible" extent="one word"/><lb/>
+                        of <unclear reason="hand" cert="low">mane</unclear>. Dip dogs in sea &amp; give them<lb/>
+                        milk.
+                    </p>                        
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-36">
+                    <p><name type="place">Eiseig</name> a farm on slope of hill –<lb/>
+                        <del rend="overstrike">C</del> <name type="place">Cladh na Faoilinn</name>. <term>Faoileann</term><lb/>
+                        <gloss>a low terrace near the sea</gloss>.
+                    </p>                        
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-37">
+                    <p><name type="place" key="4973"><choice><abbr type="abbreviation">Sloc</abbr><expan>Slochd</expan></choice> Brăn</name> in <name type="place" key="4962">Cairnaborg mor</name><lb/>
+                        Forts in both.
+                    </p>
+                    <p><name type="place" key="4972">Dun chruit</name> in <name type="place" key="4966">Lunga</name> – a<lb/>
+                        man fell down in search of gull eggs
+                    </p>           
+                </div>
+                <pb id="CW122-8v" n="008v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-38">
+                    <p>In <name type="place" key="4966">Lunga</name> large ship full of cotton<lb/>
+                        broken &amp; all lost then.
+                    </p>    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-39">
+                    <p>The lobster &amp; cruban cast the<lb/>
+                        shell in the Iuchar
+                    </p>  
+                    <space dim="vertical" extent="1" unit="lines"/>                     
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-40">
+                    <p>Calf of 2 heads tails &amp; 8 feet<lb/>
+                        at <name type="place" key="4955">Calgary</name> with <name type="person" key="4611">Capt Macasg<lb/>
+                        ail</name> – <choice><abbr type="abbreviation">wld</abbr><expan>would</expan></choice> not allow them<lb/>
+                        to kill it so was buried alive<lb/>
+                        the raoic he gave the glen<lb/>
+                        around answered &amp; fright<lb/>
+                        ened the people
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>     
+                <div type="item" id="GB-237-Coll-97-CW122-41">
+                    <title>"<name type="person" key="4622"><choice><abbr type="abbreviation">Donl</abbr><expan>Domhnull</expan></choice> a ghleidhidh</name>"</title>
+                    <p>Never put off his cota mor<lb/>
+                        for 7 years except one day<lb/>
+                        he threw it off  <gap reason="illegible" extent="one word"/><lb/>
+                        an Aigh said he. They <gap reason="illegible" extent="one word"/><lb/>
+                        He <gap reason="illegible" extent="one word"/> &amp; found it so – He<lb/>
+                        was a fiosaiche
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>     
+                <div type="item" id="GB-237-Coll-97-CW122-42">
+                    <p><name type="person"><choice><abbr type="abbreviation">Du-sith</abbr><expan>Dubh-sith</expan></choice> beag <choice><abbr type="abbreviation">MacIlle-<lb/>
+                        She'anaich</abbr><expan>Macille-Sheathanaich</expan></choice></name> put egg on
+                        <pb id="CW122-9r" n="009r"/>
+                        head of his boy &amp; broke it then<lb/>
+                        <choice><abbr type="abbreviation">kill</abbr><expan>killed</expan></choice> the <choice><abbr type="abbreviation">creat</abbr><expan>creature</expan></choice> before all but<lb/>
+                        <unclear reason="hand" cert="low">three</unclear>
+                    </p>  
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-43">
+                    <p><term>Uiridh</term> = <gloss>Sgliff = Terrace</gloss> as<lb/>
+                        <name type="place" key="4975">Uiridh Ailean nan Sop</name> in <name type="place" key="4962">Cairn<lb/>
+                        Burg mor</name>. When he jumped<lb/>
+                        <add place="supralinear" indicator="yes">down</add> when chased. <name type="place">Bail chlarsair</name><lb/>
+                        <del rend="overstrike">had</del> clarsair had this for his<lb/>
+                        <choice><abbr type="abbreviation">clarsaireac</abbr><expan>clarsaireachd</expan></choice>.
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-44">
+                    <p><name type="place" key="4976">Eas-Fors</name> (force?) march <choice><abbr type="abbreviation">bet</abbr><expan>between</expan></choice> <name type="place" key="4978">Laggan</name><lb/>
+                        &amp; <name type="place" key="4977">Cillabhrianan</name>
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-45">
+                    <p><term>{Cardag <add place="infralinear" indicator="no">Càlag</add></term> = <gloss>Dooker <choice><abbr type="abbreviation">Less</abbr><expan>Lesser</expan></choice> Guillemote</gloss>
+                    </p>                       
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>     
+                <div type="item" id="GB-237-Coll-97-CW122-46">
+                    <p><choice><abbr type="abbreviation">D</abbr><expan>Donald</expan></choice> <name type="person" key="93">Maclean of Coll</name> &amp; <name type="person" key="75">Lochbuy</name><lb/>
+                        &amp; Saxon – shooting on Sunday<lb/>
+                        across the hill. roasted grouse<lb/>
+                        – <name type="person" key="93">Coll</name> threw this and <choice><abbr type="abbreviation">th</abbr><expan>that</expan></choice> taken<lb/>
+                        (On Mull side of <name type="place" key="4979">Ulva sound</name><lb/>
+                        columns like <name type="place" key="4980">Staffa</name>) All in <gap reason="illegible" extent="one word"/><lb/>
+                        boat <choice><abbr type="abbreviation">capsig</abbr><expan>capsizing</expan></choice> &amp; settled. Loch<lb/>
+                        buy man scrambled to the mast<lb/>
+                        Lochbuy asked him to let<lb/>
+                        him out. fad bha <choice><abbr type="abbreviation">u</abbr><expan>thu</expan></choice> os rud
+                        <pb id="CW122-9v" n="009v"/>
+                        mo chionn san t saoghal<lb/>
+                        cha bhi <choice><abbr type="abbreviation">u</abbr><expan>thu</expan></choice> os m chionn<lb/>
+                        san a shaoghal thall
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-47">
+                    <p><name type="person" key="4663"><choice><abbr type="abbreviation">Ri</abbr><expan>Righ</expan></choice> Acharainich (<add place="supralinear" indicator="yes">Eoin</add> Campbell</name><lb/>
+                        got the man when a lad from<lb/>
+                        his pride)
+                    </p>                        
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-48">
+                    <p><name type="place" key="4982">Dun-virimil</name> when <name type="person" key="4664">Clark<lb/>
+                        of Ulva</name> <choice><sic>bury</sic><corr>buried</corr></choice> took up large stone<lb/>
+                        fine shot high
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-49">
+                    <p><name type="person" key="129">Ulva</name> wont to swim to <name type="place" key="4983">Innis</name><lb/>
+                        to see a girl – met bull on <choice><sic>roc</sic><corr>rock</corr></choice><lb/>
+                        in mid channel took rear<lb/>
+                        <choice><sic>off</sic><corr>of</corr></choice> bull to threw him again
+                    </p>
+                    <p><gap reason="illegible" extent="one word"></gap> in girl <gap reason="illegible" extent="one word"/> him<lb/>
+                        sent to put round cliar<lb/>
+                        Why said she sent ye Mac<lb/>
+                        Cuaire mor to me when<lb/>
+                        she ran back. <choice><abbr type="abbreviation">Fath</abbr><expan>Father</expan></choice> you are<lb/>
+                        perhaps you <gap reason="illegible" extent="two words"/><choice><abbr type="abbreviation">Maq</abbr><expan>Maquarie</expan></choice><lb/>
+                        mor yet.
+                    </p>         
+                </div>
+                <space dim="vertical" extent="3" unit="lines"/>    
+                <pb id="CW122-10r" n="010r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-50">
+                    <p><name type="place" key="4983">Innis Kenneth</name> Tuesday <date value="1886-08-17">17<hi rend="superscript">th</hi> <choice><abbr type="abbreviation">Aug</abbr><expan>August</expan></choice> <choice><abbr type="abbreviation">86</abbr><expan>1886</expan></choice></date><lb/>
+                        Conglomerate rock.<lb/>
+                    </p>
+                    <p>A slender slate cross inside tung<lb/>
+                        of <name type="person" key="4665">Col Macdonald</name> – very pretty<lb/>
+                        leaning against wall.
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>    
+                <div type="item" id="GB-237-Coll-97-CW122-51">
+                    <p>Stone H M <date value="1676----">1676</date> Stones of<lb/>
+                        native stone of <choice><abbr type="abbreviation">conglom</abbr><expan>Conglomerate</expan></choice> Cladh<lb/>
+                        mor extension – <choice><abbr type="abbreviation">Farm</abbr><expan>Farmer</expan></choice> <choice><abbr type="abbreviation">plough</abbr><expan>ploughed</expan></choice><lb/>
+                        up cut skulls – <name type="person" key="4666"><choice><abbr type="abbreviation">Lach</abbr><expan>Lachlan</expan></choice> Campbell</name><lb/>
+                        now.
+                    </p>                  
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-52">
+                    <p><choice><abbr type="abbreviation">Anoth</abbr><expan>Another</expan></choice> stone <date value="1788----">1778</date> – <choice><abbr type="abbreviation">Foun</abbr><expan>Found</expan></choice><lb/>
+                        <choice><abbr type="abbreviation">sculp</abbr><expan>sculptered</expan></choice> stone in native rock but<lb/>
+                        beautifully <choice><abbr type="abbreviation">sculpd</abbr><expan>sculptured</expan></choice>
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-53">
+                    <p><name type="person" key="4667">Sir Allan s</name> hands could be <gap reason="illegible" extent="one word"/><lb/>
+                        under  his gartan stands – long hose<lb/>
+                        Effigy in full <choice><abbr type="abbreviation">High</abbr><expan>Highland</expan></choice> dress target<lb/>
+                        and clogaid – On Iona stone in<lb/>
+                        tunga <name type="person" key="4667">Sir Allan</name> <del rend="overstrike">On</del> <add place="supralinear" indicator="no">Two</add> Iona stone<lb/>
+                        inside church 12 or 13 slates in<lb/>
+                        length &amp; 6 <choice><abbr type="abbreviation">abt</abbr><expan>about</expan></choice> 10 or 12 <choice><abbr type="abbreviation">ft</abbr><expan>feet</expan></choice> wall <unclear reason="hand" cert="low">an</unclear><lb/>
+                        <del rend="overstrike">L</del> Two lancet under on <choice><abbr type="abbreviation">E</abbr><expan>East</expan></choice> end and close<lb/>
+                        <choice><abbr type="abbreviation">togeth</abbr><expan>together</expan></choice>. Supports on both <choice><abbr type="abbreviation">wins</abbr><expan>windows</expan></choice>
+                        <pb id="CW122-10v" n="010v"/>
+                        of bow (<choice><abbr type="abbreviation">E</abbr><expan>East</expan></choice>) and to keep up build<lb/>
+                        ing walls. Tung of  <name type="person" key="4667">Sir Allan</name><lb/>
+                        on <choice><abbr type="abbreviation">s</abbr><expan>south</expan></choice> side of east corner.<lb/>
+                        <name type="person" key="4667">Sir Allan of Brolas</name> family.<lb/>
+                        <name type="person" key="131">Macinnon of Gribun</name> <gap reason="illegible" extent="one word"/> of east<lb/>
+                        of church – daoine laidir.
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-54">
+                        <p>good well last of this a little<lb/>
+                        Mureachan <choice><abbr type="abbreviation">pl.</abbr><expan>place</expan></choice> of uridh<lb/>
+                        Maceir = Mac sgeoil = Free let free
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>    
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-55">
+                    <p><name type="person" key="4984">Coillimore house</name> Tuesday<lb/>
+                        Night <date value="1886-08-17">17 <choice><abbr type="abbreviation">Aug</abbr><expan>August</expan></choice> 1886</date>.<lb/>
+                        <name type="person" key="4669">Dr. Aisley </name> <choice><abbr type="abbreviation">mar</abbr><expan>married</expan></choice> to niece<lb/>
+                        of <name type="person">Mrs Colin Maciver</name> here<lb/>
+                        says he dissected a royal<lb/>
+                        subject in Edinburgh <choice><abbr type="abbreviation">Unity</abbr><expan>University</expan></choice><lb/>
+                        when <choice><abbr type="abbreviation">assit</abbr><expan>assistant</expan></choice> to <name type="person" key="4668">Professor<lb/>
+                        <choice><sic>Godsir</sic><corr>Goodsir</corr></choice></name> <name type="person" key="4668">Dr <choice><sic>Godsir</sic><corr>Goodsir</corr></choice></name> came<lb/>
+                        round and said you will<lb/>
+                        oblige me much by <choice><abbr type="abbreviation">dis<lb/>
+                        contg</abbr><expan>discountinuing</expan></choice>. your often on that<lb/>
+                        subject. Young subject<lb/>
+                        was <name type="person" key="4670">Prince <choice><sic>Sobeski</sic><corr>Sobieski</corr></choice>                        
+                        <pb id="CW122-11r" n="011r"/>                        
+                        of Poland</name> wounded in the<lb/>
+                        tibia at the battle of <gap reason="omitted" extent="one word"/><lb/>
+                        He found his way as refugee<lb/>
+                        to <name type="place">Scotland</name> became <gap reason="illegible" extent="one word"/><lb/>
+                        lived in the <name type="place">Cannon<lb/>
+                        gate</name> <choice><abbr type="abbreviation">supp</abbr><expan>supported</expan></choice> by a <del rend="overstrike">fam</del> <add place="supralinear" indicator="no">2 or 3</add> friends<lb/>
+                        of whom I am I happily<lb/>
+                        was one. He got ill went<lb/>
+                        into the <name type="organisation" key="2597">infirmary</name> where he<lb/>
+                        died three days ago unknown<lb/>
+                        to us. You will find a <lb/>
+                        bullet wounds in <gap reason="omitted" extent="one or two words"/><lb/>
+                        I wish to bury him &amp;c<lb/>
+                        All the wounds were as described
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-56">
+                    <p>Left <name type="place">Ceannloch</name> Inn at 10 am<lb/>
+                        19 <choice><abbr type="abbreviation">Aug</abbr><expan>August</expan></choice> <choice><abbr type="abbreviation">86</abbr><expan>1886</expan></choice>. In company with Mr<lb/>
+                        <gap reason="omitted" extent="one word"/> from <name type="place">London</name> who<lb/>
+                        had been geologising in <name type="place" key="1976">Mull</name><lb/>
+                        for some time. The view from<lb/> 
+                        the mountain track down <name type="place" key="4985">Loch<lb/>
+                        Scridein</name> is very fine &amp; so is the<lb/>
+                        view from the pass looking down
+                        <pb id="CW122-11v" n="011v"/>                             
+                        the glen to <name type="place" key="4986">Lochbā</name>. On the<lb/> 
+                        higher part of the pass is a<lb/> 
+                        big cairn evidently the re-<lb/> 
+                        sult of funerals. 1088 <choice><abbr type="abbreviation">f</abbr><expan>feet</expan></choice> high I<lb/> 
+                        saw <add place="supralinear" indicator="yes">very</add> yellow frog near summit<lb/> 
+                        of pass. View down the glen<lb/> 
+                        to <name type="place" key="4986">Lochba</name> glorious in the bright<lb/> 
+                        sun after the rain the grass spark<lb/> 
+                        ling in the sun and every rill<lb/> 
+                        laughed gach caochain<lb/> 
+                        sa ghleann ri gaire                        
+                    </p>                
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-57">
+                    <lg>
+                        <l>He dairin a hua</l>
+                        <l>Si <choice><abbr type="abbreviation">ghal</abbr><expan>ghalla</expan></choice> <choice><abbr type="abbreviation">uain</abbr><expan>uaine</expan></choice> a sharaich mi</l>
+                    </lg>
+                    <p>Went into <choice><abbr type="abbreviation">uai</abbr><expan>uamh</expan></choice> <del rend="overstrike">du</del> <choice><abbr type="abbreviation">chrai</abbr><expan>chraidh</expan></choice><lb/>
+                        &amp; under standing Creagan<lb/>
+                        he was heard when the <choice><abbr type="abbreviation">gal</abbr><expan>galla</expan></choice><lb/>
+                        <choice><abbr type="abbreviation">uain</abbr><expan>uaine</expan></choice> attacked him.
+                    </p>       
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-58">
+                    <p>
+                        <address>
+                            <addrLine><name type="person" key="4497">Mrs Mrs Hollingworth</name></addrLine>
+                             <addrLine>Newmains</addrLine>
+                                    <addrLine><name type="place" key="4676">Inchture</name></addrLine> <addrLine><name type="place" key="1461">Perth shire</name></addrLine>
+                        </address>                        
+                    </p>
+                    <p>(Bachuill)
+                    </p>                    
+                </div>
+                <pb id="CW122-12r" n="012r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-59">
+                    <p><name type="place" key="3978">Cillantsuidhe</name> <name type="place" key="3943">Achadhun</name><lb/>
+                        Monday <date value="1886-08-23">23 <choice><abbr type="abbreviation">Aug</abbr><expan>August</expan></choice> 1886</date> –<lb/>
+                        A circle under rushes &amp; ferns<lb/>
+                        especially iris. 37 yards x 37<lb/>
+                        Ard from sea by a small ridge<lb/>
+                        in a field low lying between<lb/>
+                        ridges.
+                    </p>             
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-60">
+                    <p>Vitrified fort at <del rend="overstrike">Rahoy</del><add place="supralinear" indicator="no"><name type="place" key="4987">Rahoy</name></add> <name type="place">Torr-<lb/>
+                        noieg</name>. <name type="place" key="4989">Dunfionn</name> a for-<lb/>
+                        ear lived there. 
+                    </p>                        
+                </div>                
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-61">
+                    <title>Run-rig at Hosta</title>
+                    <space dim="vertical" extent="1" unit="lines"/>  
+                    <p>The Hosta <choice><abbr type="abbreviation">tents</abbr><expan>tenants</expan></choice> <choice><abbr type="abbreviation">div</abbr><expan>divided</expan></choice> the land at tiny<lb/>
+                        intervals from <choice><abbr type="abbreviation">Nov</abbr><expan>November</expan></choice> to May. The area<lb/>
+                        did on any part occasion is regu<lb/>
+                        lated to some extent by the quantity<lb/> 
+                        of seaweed at their disposal They<lb/>
+                        <choice><abbr type="abbreviation">div.</abbr><expan>divided</expan></choice> a field into a sets of rigs each<lb/>
+                        set consisting of five of equal<lb/>
+                        area – there being five tenants<lb/>
+                        in the place. Each tenant<lb/>
+                        takes possession of the rig in                        
+                        <pb id="CW122-12v" n="012v"/>                        
+                        the first set falling his lot and<lb/>
+                        keeps it as long as <del rend="overstrike">he</del> continuous crop-<lb/>
+                        ping goes on – a period of from<lb/>
+                        two to three years according to the<lb/>
+                        nature of the soil. If the rigs in the<lb/>
+                        first set very with respect to quality<lb/>
+                        in terms of the arrangement or<lb/>
+                        the agreement the man to<lb/>
+                        whose lot the worst rig in the<lb/>
+                        first set has fallen get his choice<lb/>
+                        of the rigs in the second sets.<lb/>
+                        Perhaps this privilege is conceded<lb/>
+                        to two or three each in his turn,<lb/>
+                        getting his choice in the second<lb/>
+                        sets so that the man <add place="supralinear" indicator="yes">to</add> whose lot<lb/>
+                        the best rig fell in the first set<lb/>
+                        must be contend to accept<lb/>
+                        the worst rig in the second set<lb/>
+                        and so on of the other tenants<lb/>
+                        according to prearranged<lb/>
+                        prescribed rules  – This aims<lb/>
+                        at balancing pasture to all as<lb/>
+                        nearly as possible – If the field                        
+                        <pb id="CW122-13r" n="013r"/>                        
+                        is uniform as to quality lots<lb/>
+                        determines which rig it to be own<lb/>
+                        ed by each tenant. But if the field<lb/>
+                        is irregular in quality the order<lb/>
+                        of possessorship in the first set<lb/>
+                        is reversed in the second set<lb/>
+                        Thus the man who gets the first<lb/>
+                        rig in the first set gets not by<lb/>
+                        lot <del rend="overstrike">by</del> but by fixed rule the fifth<lb/>
+                        rig in the second set. This is the<lb/>
+                        system at <name type="place" key="4990">Caolas Paible</name> and<lb/>
+                        <name type="place" key="4205">Heisgeir</name> as well as <name type="place" key="4696">Hosta</name>.<lb/>
+                        From <name type="person" key="4671">Mr Angus Macquarrie</name><lb/>
+                        Schoolmaster <name type="place" key="4803">Taighearry</name> <name type="place" key="3344"><choice><abbr type="abbreviation">N.</abbr><expan>North</expan></choice> Uist</name><lb/>
+                        <date value="1884-10-20">20 <choice><abbr type="abbreviation">Oct.</abbr><expan>October</expan></choice> 1884</date>
+                    </p>           
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-62">
+                    <p>See <name type="person">Dean Munro</name> on <choice><abbr type="abbreviation">F</abbr><expan>Field</expan></choice> vole.<lb/>
+                        <name type="person">Culpepper</name> on horse shoe plant<lb/>
+                        <name type="person">Reeves</name> on iodh.
+                    </p>           
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-63">
+                    <p>Fiodhagach. <name type="place" key="4991">Gleann Fhio<del rend="overstrike">g</del><add place="supralinear" indicator="no">ah</add><lb/>
+                        aig</name> – <name type="place" key="4992">Abhuinn Fhiodhaig</name><lb/>
+                        runs into the <name type="place" key="4993">Mig</name>; Miug
+                    </p>     
+                <pb id="CW122-13v" n="013v"/>
+                    <p>The Fiodhaig is used there for<lb/>
+                        certain cures in cattle.
+                    </p>                        
+            </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-64">
+                    <p><name type="place" key="4994">Langa</name> and <gap reason="omitted" extent="one word"/> and<lb/>
+                        the <name type="place" key="3778"><choice><sic>Isean</sic><corr>Cliseam</corr></choice></name> between these two<lb/>
+                        hills in <name type="place" key="2345">Harris</name>
+                    </p>                       
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/> 
+                <div type="item" id="GB-237-Coll-97-CW122-65">
+                <list>
+                    <item>Bri = } Water liquid: substance<lb/>
+                    Brigh = }</item>
+                    <item>Slongag = Sling Crannta'uil</item>
+                    <item>Tiumachd</item>
+                    <item>Tiumachdas =} Heaving?</item>
+                    <item>Tiumachasgin = }</item>
+                    <item>Diolam = gleaming</item>
+                    <item>Gille-chul-chas = Footman</item>
+                </list>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/> 
+                <div type="item" id="GB-237-Coll-97-CW122-66">
+                    <p>Cill<del rend="overstrike">e</del><add place="supralinear" indicator="no">a</add>speacnaig the old<lb/>
+                        name of Cill lapsa Caoiril<lb/>
+                        <name type="place" key="4062">Bunawe</name>
+                    </p>        
+                </div>
+                <space dim="vertical" extent="4" unit="lines"/> 
+                <pb id="CW122-14r" n="014r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-67">
+                    <p>Took charge at Kings stables<lb/>
+                        <date value="1883-03-05">5 March 1883</date><lb/>
+                        Left <date value="1892-06-18">18 June 1892</date>
+                    </p>                       
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-68">
+                    <p>E S I <choice><abbr type="abbreviation">Tot</abbr><expan>Total</expan></choice><lb/>
+                        Scheme three 60 2/12. 6.2 9/12. 32 3/12 0 9/12 35 9/12<lb/>
+                        Correct age 59 7/12
+                    </p>                       
+                </div>
+                <space dim="vertical" extent="2" unit="lines"/> 
+                <div type="item" id="GB-237-Coll-97-CW122-69">
+                    <p><name type="place" key="4996">Port Luinge Mhic <choice><abbr type="abbreviation">Dhughail</abbr><expan>Dhughaill</expan></choice></name><lb/>
+                        close to <name type="place" key="4998"><choice><abbr type="abbreviation">Ru</abbr><expan>Rubha</expan></choice> na-Creaige</name>. There<lb/>
+                        was a building in <name type="place" key="4631"><choice><abbr type="abbreviation">E.</abbr><expan>Eilean</expan></choice> Uiseachan</name><lb/>
+                        Dry in spring tide – stepping<lb/> 
+                        stone – like eel. Ducks of long<lb/>
+                        bills nesting in this isle<lb/>
+                        <name type="place">Leac-nam-ban <choice><abbr type="abbreviation">nighead<lb/>
+                        adeireac</abbr><expan>nigheadadaireachd</expan></choice></name>. wash-women
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/> 
+                <div type="item" id="GB-237-Coll-97-CW122-70">
+                    <p><name type="person" key="3336">Ian Lom</name> born in <name type="place" key="4590">Barra<lb/>
+                        glas</name> <name type="place" key="4066">Glenlonan</name>. A<lb/>
+                        Mac Calman his mother<lb/>
+                        Campbell his father. His<lb/>
+                        called Mac a ghlasaraich<lb/>
+                        Gleann a ghlas ruith                        
+                        <pb id="CW122-14v" n="014v"/>                        
+                        from the Glas river<lb/>
+                        in <name type="place" key="4588">Kill michael</name><lb/>
+                        <name type="place">Glassary</name> – <choice><abbr type="abbreviation">Anoth</abbr><expan>Another</expan></choice><lb/>
+                        <name type="place" key="5000">Kill <choice><abbr type="abbreviation">mich</abbr><expan>michael</expan></choice> Inner Lusa</name><lb/> 
+                        <name type="place" key="4111">Knapdale</name>
+                    </p>
+                    <p>Ian Lom 7 <choice><abbr type="abbreviation">yers</abbr><expan>years</expan></choice> old ere<lb/>
+                        he spoke
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/> 
+                <div type="item" id="GB-237-Coll-97-CW122-71">
+                    <p>Brogan <sic>cluaisenach</sic><corr>cluaiseanach</corr><lb/>
+                        Am bucal a deanadh ar brog<lb/>
+                        'S e baral bu bhuidh leam
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>Brog chluaisenach s gach <del rend="overstrike">rec</del><lb/>
+                        gruagach ort an geall
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/> 
+                <div type="item" id="GB-237-Coll-97-CW122-72">
+                    <p>Samh = Sourag seabhag Bunteag<lb/>
+                        Eag = Samharadh
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/> 
+                <div type="item" id="GB-237-Coll-97-CW122-73">
+                    <p>Feumaidh fear nan <choice><abbr type="abbreviation">cuar</abbr><expan>cuaran</expan></choice><lb/>
+                        eiridh uair romh fhear nam<lb/>
+                        brog
+                    </p>    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-74">
+                    <p>Singing-duck. See Buchanan<lb/>
+                        Western Hebrides 19
+                    </p>                        
+                </div>
+                <pb id="CW122-15r" n="015r"/>                
+                <div type="item" id="GB-237-Coll-97-CW122-75">
+                <list>
+                    <item><term>Carran</term> = <gloss>Plant with long leaf</gloss></item>
+                    <item><term>Caigeal</term> = <gloss>Shallow neck with narrow opening</gloss></item>
+                    <item><term>Geiltean</term> = <gloss>Fish gills</gloss></item>
+                    <item><term>Tothan (to'an)</term> = <gloss>Small moss grown buds</gloss></item>
+                    <item><term>Sgeot</term> = <gloss>Recess in a rock</gloss></item>
+                    <item><term>Ocrāun</term> = <gloss>1/8 of a peck</gloss></item>                
+                </list>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-76">
+                    <lg>
+                        <l><choice><sic>Chither</sic><corr>Chithear</corr></choice> fiadh a snamh <del rend="overstrike">a</del> nan speur</l>
+                        <l>As uisge sleibh a direach</l>
+                        <l>Mun faighear <add place="supralinear" indicator="no">fairear</add> agamsa mar cheile</l>
+                        <l>Te bheir g<del rend="overstrike">eil</del> a dh-iodhal</l>
+                    </lg>    
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <lg>
+                        <l>Chroch an te sin i <choice><abbr type="abbreviation">fein</abbr><expan>fhein</expan></choice> ri craoibh</l>
+                        <l>Gun d fhuair <choice><abbr type="abbreviation">luc</abbr><expan>luchd</expan></choice> eon deige</l>
+                        <l>A feil ga riasladh aig coin nan <add place="supralinear" indicator="no">speur</add></l>
+                    </lg>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <lg>
+                        <l>Gun sheoil sinn gu Barbary</l>    
+                    </lg>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>A girl who hanged herself on being<lb/>
+                        jilted
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>                
+                <div type="item" id="GB-237-Coll-97-CW122-77">
+                    <p><choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> fheil Moire na Feill <choice><abbr type="abbreviation">Pead</abbr><expan>Peadair</expan></choice><lb/>
+                        <choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> s mu thig no thainig<lb/>
+                        25 March. Annunciation Day<lb/>
+                        When it falls on Good Friday<lb/>
+                        calamitous for Europe – war<lb/>
+                        pestilence &amp;c.
+                    </p>
+                </div>
+                <pb id="CW122-15v" n="015v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-78">
+                    <p>Seacaid mhaide agus peitein<lb/>
+                        iarrain a <choice><abbr type="abbreviation">bhi</abbr><expan>bhith</expan></choice> na mu'n<lb/>
+                        cuach air an duine fad <choice><abbr type="abbreviation">la</abbr><expan>latha</expan></choice> agus<lb/>
+                        bliadhna a<del rend="overstrike">ir</del> thug an t eurball<lb/>
+                        as an lair agam
+                    </p>          
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-79">
+                    <p><name type="place" key="5001">Eala-ghal</name> (<name type="place" key="5001">Elgol</name>) place <del rend="overstrike">near</del><add place="supralinear" indicator="no">in</add> <name type="place" key="1034">Skye</name>
+                    </p>          
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-80">
+                    <p>
+                        <address><addrLine><name type="person"><choice><abbr type="abbreviation">R</abbr><expan>Richard</expan></choice> M. Lewis</name></addrLine> <addrLine>17 Russell <choice><abbr type="abbreviation">St</abbr><expan>Street</expan></choice></addrLine> <addrLine>Swansea</addrLine></address>
+                    </p>           
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-81">
+                    <p>After <name type="person" key="4206">Father Macgregor</name> <name type="place" key="3763"><choice><abbr type="abbreviation">Iocar</abbr><expan>Iochdar</expan></choice></name><lb/>
+                        had been reading the bible and ex-<lb/>
+                        pounding its doctrines to his<lb/>
+                        catechist. <name type="place" key="4673">Donald Macintire</name><lb/>
+                        <name type="person" key="4673">Domhul Macdhomhnuil ic Thear<lb/>
+                        laich</name> – he said – Thugamaid a nis<lb/>
+                        treis air Oisein and taking over<lb/>
+                        Macpherson's Gaelic Ossian –<lb/>
+                        M' anamsa Dhia s e b annsa<lb/>
+                        leinn said the catechist!
+                    </p>             
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-82">
+                    <p>Tha easan <choice><sic>co</sic><corr>cho</corr></choice> crosda ri bod-<lb/>
+                        achan sathaidh!<lb/>
+                        Is measa am fear beag nam<lb/>
+                        Fraigach!<lb/>
+                        An <choice><abbr type="abbreviation">la</abbr><expan>latha</expan></choice> sloinne(?)
+                    </p>                    
+                </div>
+                <pb id="CW122-16r" n="016r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-83">
+                    <p>When <name type="person" key="3380">Campbell of Islay</name> had<lb/>
+                        <name type="place" key="5003">Pool House</name> at <name type="place" key="3911">Poolewe</name> <name type="person" key="3380">John <choice><abbr type="abbreviation">F</abbr><expan>Francis</expan></choice><lb/> 
+                        Campbell</name> then just of age was<lb/>
+                        passing along the road when<lb/>
+                        people were carrying sea weed on<lb/> 
+                        their back to the roadside. A hand<lb/>
+                        some young girl gazing at<lb/>
+                        the young man passing said<lb/> 
+                        A Dhia nach robh thu posd agam!<lb/>
+                        Nan robh cha bhiodh tu fon chliabh<lb/>
+                        agam said he in as good Gaelic<lb/>
+                        as her own. The poor girl was<lb/> 
+                        so taken aback at the unexpected<lb/> 
+                        Gaelic that she threw the <choice><sic>crel</sic><corr>creel</corr></choice><lb/>
+                        from her ran home as fast<lb/> 
+                        as her legs could carry her<lb/> 
+                        nor would she move out of<lb/>
+                        the house or go near the place<lb/>
+                        while the Campbells came there.
+                    </p>
+                    <p>"Cha ghluaiseadh brog no<lb/>
+                        bruithinn gu feamanadh <choice><abbr type="abbreviation">tuilidh</abbr><expan>tuillidh</expan></choice><lb/> 
+                        i fad agus bha Tighearna Ile sin."
+                    </p>                    
+                </div>
+                <pb id="CW122-16v" n="016v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-84">
+                    <p>Loch-ceo-glais
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>Loch ceoglais = Stack <unclear reason="hand" cert="low">lump</unclear>
+                    </p>            
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-85">
+                    <lg>
+                        <l>Air na tir corracha cuthuil</l>
+                        <l>An na tir <gap reason="illegible" extent="one word"/> canthail</l>
+                        <l>Air na tir <gap reason="illegible" extent="one word"/> creothail</l>
+                        <l>'S air liom leothain lan</l>
+                    </lg>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-86">
+                    <lg>
+                        <l>Cait an <choice><abbr type="abbreviation">ro</abbr><expan>robh</expan></choice> n diugh 's an de</l>
+                        <l>Mhic Iain ghasdain! Mhic Iain ghasdain!</l>
+                        <l><gap reason="omitted" extent="one line"/></l>
+                        <l><gap reason="omitted" extent="one line"/></l>
+                        <l><gap reason="omitted" extent="one line"/></l>
+                        <l>Buain nan dearcan ris an spreidh</l>
+                    </lg>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-87">
+                    <lg>
+                        <l>Bhi ga'n cuimhneachadh s gan<lb/>
+                            ionndrain
+                        </l>
+                        <l>Na fir eir a dh-fhalbh thar<lb/>
+                            sala
+                        </l>
+                        <l>Na fearaibh a dh-fhalbh an de</l>
+                        <l>Sann bhios iad againn fein am<lb/>
+                            maireach
+                        </l>
+                        <l>Bhi nan <choice><abbr type="abbreviation">cuimh</abbr><expan>cuimhneachadh</expan></choice></l>
+                    </lg>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <pb id="CW122-17r" n="017r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-88">
+                    <title><choice><abbr type="abbreviation">S</abbr><expan>Saint</expan></choice> Brenden</title>    
+                    <lg>
+                        <l>Chuirear Brianain somhal dubh</l>
+                        <l>Is faid an <choice><abbr type="abbreviation">la</abbr><expan>latha</expan></choice> <choice><abbr type="abbreviation"></abbr><expan>an</expan></choice> diugh nan de</l>
+                        <l>S <choice><sic>co</sic><corr>cho</corr></choice> mor s gan cunnladh tu dad sin</l>
+                        <l>Is beag am pris an taigh mhic De</l>
+                    </lg>
+                    <p><name type="person" key="4130">Lugadius</name> <name type="person" key="4130">Moluc</name> Day 25 June<lb/>
+                        Died <date value="592----">592</date>. Disciple of <name type="person" key="4010">Brenden</name><lb/>
+                        who is said to have been buried in<lb/>
+                        <name type="place">Lismore</name> <name type="person" key="4130">Moluag</name> found<lb/>
+                        <name type="place" key="5005">Mortlach Muirthillaich</name> in<lb/>
+                        in the vale of <name type="place" key="5006">Fiddich</name>.
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-89">
+                    <p>Sgeo = Sgi = Clar <choice><abbr type="abbreviation">Sgi</abbr><expan>Sgith</expan></choice>
+                    </p>                       
+                </div>                
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-90">
+                    <p>Bir-ghia Bir-ghia = Rain Goose<lb/>
+                        from bir = water and geadh = goose
+                    </p>
+                    <lg>
+                        <l>Bir! bir! bir!</l>
+                        <l>An lin a traghadh</l>
+                        <l>Bir! bir! bir!</l>
+                        <l>An lin a traghadh</l>
+                        <l>Bir! bir! bir!</l>
+                        <l>An lin a traghaidh</l>
+                        <l>M' urlagann {muirlagan <add place="infralinear" indicator="no">{muragan</add></l>
+                        <l>M' eoneagan</l>
+                        <l>M' uibheanagan</l>
+                        <pb id="CW122-17v" n="017v"/>
+                        <l>M' ulaidh<del rend="overstrike">ean</del> <add place="supralinear" indicator="no">agus</add></l>
+                        <l><del rend="overstrike">agus</del></l>
+                        <l><del rend="overstrike">S</del> M' auradh</l>
+                        <l>Rain! rain! rain!</l>
+                        <l>The lake <del rend="overstrike">a</del> drying</l>
+                        <l>Rain! rain! rain</l>
+                        <l><del rend="overstrike">Rain</del> The lake <del rend="overstrike">a</del>drying</l>
+                        <l>My <add place="left">little</add> gifts // presents</l>
+                        <l>My <add place="left">little</add> cheeks</l>
+                        <l>My <add place="left">little</add> eggs</l>
+                        <l>My treasures<lb/>
+                            <del rend="overstrike">all and</del><lb/>
+                            thy troubles!</l>
+                    </lg>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-91">
+                    <p>Doil<del rend="overstrike">l</del>inn = trouble distress
+                    </p>          
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-92">
+                    <p>Is ol<del rend="overstrike">a</del><add place="supralinear" indicator="no">c</add> an t-suil gun an t soillse
+                    </p>            
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-93">
+                    <lg>
+                        <l>Dreollain an druis</l>
+                        <l>Ball buidhe an bois</l>
+                        <l>Cul min us cul caise</l>
+                        <l>Air mas clair</l>                     
+                    </lg>   
+                    <p>Min, aran tana – nas taine na<lb/>
+                        bonnach</p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-94">
+                    <p><term>Noigean</term> = <gloss>Cuman</gloss>
+                    </p>            
+                </div>
+                <pb id="CW122-18r" n="018r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-95">
+                    <p>
+                        <address>
+                            <addrLine><name type="person" key="4674"><choice><abbr type="abbreviation">Don</abbr><expan>Donald</expan></choice> Macmurdoch</name> <add place="right">{good naturalist</add></addrLine>
+                            <addrLine><name type="place" key="4500">Baile meadhonach</name></addrLine>
+                            <addrLine><name type="place">Port na haven</name> <name type="place" key="1866">Islay</name></addrLine>
+                        </address>
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-96">
+                    <lg>
+                        <l>The coig coigeamh an Eirinn</l>
+                        <l>Us coig coigeamh an Strath Eirinn</l>
+                        <l>Ach s <choice><abbr type="abbreviation">fearr</abbr><expan>fhearr</expan></choice> aon choig an coig coig-<lb/>
+                        eamh na h-Eirionn</l>
+                       <l> Na coig coigeamh Strath Eirionn</l>
+                    </lg>                       
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-97">
+                    <list>
+                        <item><term>Gea</term> = <gloss>Boat-hook</gloss> <name type="place"><choice><abbr type="abbreviation">S.</abbr><expan>Saint</expan></choice> Kilda</name></item>
+                        <item><term>Leig</term> = <gloss>Suil-chruthaich</gloss> = <gloss>Marsh</gloss></item>
+                        <item><term>Bulgach</term> <gloss>Psoriasis</gloss> </item>
+                    </list>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-98">
+                <p>
+                    <address>
+                        <addrLine><name type="person" key="4675">Mr Cameron Young</name> <name type="place">Conn Hotel</name><lb/>
+                            <name type="place">Cockburn</name>
+                        </addrLine>
+                    </address>
+                </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-99">
+                    <p><del rend="overstrike">Bh</del> <choice><abbr type="abbreviation">Bas</abbr><expan>Baths</expan></choice> oir is an athse<lb/>
+                        bhathanase nam bu t <choice><abbr type="abbreviation">as</abbr><expan>aths</expan></choice> i<lb/>
+                        Baths i oir is m athas i<lb/>
+                        bhath ann in am bu t aths<lb/>
+                        i      
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-100">
+                    <p>Mo shuil dhileas s mo dhearbh<lb/>
+                        namhaid
+                    </p>
+                    <p>Is olc <choice><abbr type="abbreviation">dist</abbr><expan>dithist</expan></choice> foghair an<lb/>
+                        a dh aon duine
+                    </p>                    
+                </div>
+                <pb id="CW122-18v" n="018v"/>
+                <!--                        this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-101">
+                    <lg>
+                        <l>Chuirinn Fir air Fairle dhut</l>
+                        <l>S aisir Inis fhail</l>
+                        <l>{Air aisir}</l>
+                    </lg>
+                    <lg>
+                        <l><choice><abbr type="abbreviation">Chuir</abbr><expan>Chuirinn</expan></choice> bogh air ghleus dhut</l>
+                        <l>Us smeoir nach geileadh gas <add place="infralinear" indicator="no">reis na/ an</add></l>                        
+                    </lg>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <lg>
+                        <l><choice><abbr type="abbreviation">Chuir</abbr><expan>Chuirinn</expan></choice> ba an buaile dhut</l>
+                        <l>'S an cuallach bhi air cach</l>
+                    </lg>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <lg>
+                        <l><choice><abbr type="abbreviation">Chuir</abbr><expan>Chuirinn</expan></choice> spreidh air ghlinnibh dhut</l>
+                        <l>Us feidh air bhinnibh ard</l>
+                    </lg>                    
+                    <lg>
+                        <l>Mar <choice><abbr type="abbreviation">sid</abbr><expan>siod</expan></choice> us <gap reason="omitted" extent="two or three words"/></l>
+                        <l>Us <choice><abbr type="abbreviation">claidhe</abbr><expan>claidheamh</expan></choice> gun ad laimh</l>
+                    </lg>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>F.<lb/>
+                        A <choice><abbr type="abbreviation">daught</abbr><expan>daughter</expan></choice> of <name type="person" key="93">Maclean of Coll</name> com-<lb/>
+                        posed a beautiful song on this air to a<lb/>
+                        young man of <name type="place" key="3310">Benbecula</name>
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-102">
+                <p>
+                    <address>
+                        <addrLine><name type="person" key="4676">Miss Cameron</name> <choice><abbr type="abbreviation">dat</abbr><expan>daughter</expan></choice> of Miss<lb/>
+                        Cameron <choice><sic>neé</sic><corr>née</corr></choice> Macnicol</addrLine>
+                        <addrLine>16 <name type="place" key="5007">Haymarket</name> <name type="place" key="517">Edinburgh</name></addrLine>
+                    </address>
+                </p>
+                </div>
+                <pb id="CW122-19r" n="019r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-103">
+                <title><hi rend="double underlined">Rune</hi></title>
+                    <lg>
+                        <l>You find but common bloom <add place="supralinear" indicator="no">and green</add></l>
+                        <l>The rippling rivers rune</l>
+                        <l>The beauty that is anywhere</l>
+                        <l>Beneath the skies of June</l>
+                    </lg>
+                    <p><title>June on the <choice><sic>Merrimack</sic><corr>Merrimac</corr></choice></title><lb/>
+                        <name type="person" key="4667">Whittier</name> 
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-104">
+                    <lg>
+                        <l>Thainig cait thainig cait</l>
+                        <l><choice><abbr type="abbreviation">"    "    "    "</abbr><expan></expan>Thainig cait thainig cait</choice></l>
+                        <l><choice><abbr type="abbreviation">"    "    "    "</abbr><expan></expan>Thainig cait thainig cait</choice></l>
+                        <l><choice><abbr type="abbreviation">"    "    "    "</abbr><expan></expan>Thainig cait thainig cait</choice></l>
+                        <l>Ris an droch uair</l>
+                        <l>Thainig iad</l>
+                    </lg>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-105">
+                    <title>Mackintosh <choice><sic>Lamnt</sic><corr>Lament</corr></choice>?</title>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <lg>
+                        <l>S truagh nach bu leis an<lb/>
+                            t <unclear reason="hand" cert="low">saeoghar</unclear> mi
+                        </l>
+                    </lg>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <lg>
+                        <l>Bealach a gharadh</l>
+                    </lg>                    
+                </div>
+                <pb id="CW122-19v" n="019v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-106">
+                    <p>Record Duc <gap reason="omitted" extent="two or three words"/><lb/>
+                        of France in <name type="place" key="5009">Braes of Lochei</name>l
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-107">
+                    <p>"Cha d<add place="supralinear" indicator="yes">h</add>ubh grian 's cha<lb/>
+                        gheallaich uisg air: Proverb
+                    </p>                     
+                </div>
+                <space dim="vertical" extent="3" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-108">
+                    <title>Wolves</title>    
+                    <p>Hospital at <name type="place" key="">Flixton</name>, <name type="place" key="5011">Folkston</name> Yorkshire<lb/>
+                        to preserve travellers from being devoured<lb/>
+                        by the wolves and other wild beasts of<lb/>
+                        the district – in the time of <name type="person" key="4678">Athel-<lb/>
+                        stane</name>. See <choice><sic>Leprosey</sic><corr>Leprosy</corr></choice>.
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-109">
+                    <p><term>Glas</term> = <gloss>water</gloss> as <term>Anaghlas</term> =<lb/>
+                        <gloss>milk and water</gloss>. <term>Anaghlas</term>, <gloss>piob<lb/>
+                        from fheann, fhionna-ghlas –<lb/>
+                        fonn, fair, pale and glas<lb/>
+                        water pale water.</gloss> <term>Glas-<lb/>
+                        sheile</term> = <gloss>water brash from<lb/>
+                        Glas water and seile saliva
+                        <pb id="CW122-20r" n="020r"/>
+                        Saliva water</gloss>
+                    </p>         
+                    <p><term>Dubh-ghlas</term> = <gloss>Douglas<lb/>
+                        from dubh – black and glas water<lb/>
+                        black water</gloss>. <name type="place" key="5012">Dubh-ghlas</name> in<lb/>
+                        <name type="place">Leanndaidh</name> <name type="place">Lennox</name> where<lb/>
+                        some say neither fought<lb/>
+                        his 3<hi rend="superscript">d</hi> 4<hi rend="superscript">th</hi> and 5<hi rend="superscript">th</hi> battles<lb/>
+                        Dubh-ghlas in <gap reason="omitted" extent="one or two words"/>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-110">
+                    <p>Brogan – A <choice><abbr type="abbreviation">com</abbr><expan>common</expan></choice> item in en-<lb/>
+                        gaging servants was a pair<lb/>
+                        of shoes – paidhir <choice><abbr type="abbreviation">bhrog</abbr><expan>bhrogan</expan></choice><lb/>
+                        These formed part of the ways<lb/>
+                        of the servant See <choice><abbr type="abbreviation">Buchan.</abbr><expan>Buchanan</expan></choice><lb/>
+                        on <title>Travels in the Western Isles</title>
+                    </p>            
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-111"> 
+                    <p><term>Rosetand</term> = <gloss>Ceann deasnain<lb/>
+                        the end of the waxed thread used<lb/>
+                        by shoemakers a common<lb/>
+                        substitute for a shoe lace.</gloss>
+                    </p>                
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>                
+                <div type="item" id="GB-237-Coll-97-CW122-112">
+                    <p>A Skye <choice><sic>phrophecy</sic><corr>prophecy</corr></choice> –<lb/>
+                        Cha tig <del rend="overstrike">u</del> mac an deigh
+                        <pb id="CW122-20v" n="020v"/>
+                        an athair gus an {till <add place="supralinear" indicator="no">{tig</add> <name type="person" key="134">Mac<lb/>
+                        thasgail</name> a <choice><abbr type="abbreviation">rist</abbr><expan>rithist</expan></choice> ann (to <name type="place" key="5014">Ebost</name><lb/>
+                        where <name type="person" key="134">Macasgail</name> was mur-<lb/>
+                        dered by <name type="person" key="116">Mac ic Thormaid<lb/>
+                        of Gesto</name> –
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>    
+                <div type="item" id="GB-237-Coll-97-CW122-113">
+                <lg>
+                    <l>Na <choice><abbr type="abbreviation">chnuasach</abbr><expan>chnuasachd</expan></choice> <choice><abbr type="abbreviation">mile</abbr><expan>meile</expan></choice> no minsich</l>
+                    <l>Dheanadh <choice><abbr type="abbreviation">la</abbr><expan>latha</expan></choice> <choice><abbr type="abbreviation">usal</abbr><expan>uasal</expan></choice> mo Righsa</l>
+                    <l>S ga be chuireadh a bhrigh</l>
+                    <l>S gach blagh</l>
+                    <l>S ann a nist bu choir a losgadh</l>
+                </lg>    
+                    <title>Duan an Domhnaich</title>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-114">
+                <lg>
+                    <l>Criosda an cathair ach</l>
+                    <l>Diolaidh mi gach <gap reason="omitted" extent="one or two words"/></l>
+                    <l>S gu araid o fhuair e <choice><sic>riaslid</sic><corr>riaslaid</corr></choice></l>
+                </lg>
+                    <p><name type="person">Dughall Liosadair</name></p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-115">
+                    <p><name type="person" key="4679">Macleod</name> who had brooch is<lb/>
+                        60 Claremont <choice><abbr type="abbreviation">St</abbr><expan>Street</expan></choice> <name type="place" key="517"><choice><abbr type="abbreviation">Edinr</abbr><expan>Edinburgh</expan></choice></name>
+                    </p>             
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-116">
+                    <p>
+                        <address>
+                            <addrLine><name type="person" key="4680">Charles W Ralston</name></addrLine>
+                            <addrLine>(Factor) Garscube Estate</addrLine>
+                            <addrLine><name type="place" key="3471">Bearsden</name>,</addrLine>
+                            <addrLine><name type="place" key="519">Glasgow</name></addrLine>
+                        </address>
+                    </p>
+                </div>
+                <pb id="CW122-21r" n="021r"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-117">
+                    <p>A tribe of <name type="sept" key="135">Macdonalds</name> at <name type="place" key="4420">Cnoc<lb/>
+                        an torrain</name> <name type="place" key="3344"><choice><abbr type="abbreviation">N</abbr><expan>North</expan></choice> Uist</name> are still called<lb/>
+                        na clarsairean <name type="sept" key="135">Clann a<lb/>
+                        chlarsair</name>.             
+                    </p>   
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-118">
+                    <p>Must take charge on Friday the<lb/>
+                        21<hi rend="superscript">st</hi> of <choice><abbr type="abbreviation">Apr</abbr><expan>April</expan></choice>. <choice><abbr type="abbreviation">Super</abbr><expan>Supervisor</expan></choice> 4 Down<lb/>
+                        field Place <name type="place" key="517"><choice><abbr type="abbreviation">Edinr</abbr><expan>Edinburgh</expan></choice></name>          
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-119">
+                    <p><name type="place">Dun <choice><sic>Domhnail</sic><corr>Domhnaill</corr></choice></name> when<lb/>
+                        <name type="person" key="12">Donald Lord of the <del rend="overstrike">Ise</del> <add place="supralinear" indicator="no">Isles</add></name> held<lb/>
+                        a council once or twice a<lb/>
+                        year. <name type="place">An cala</name> is a<lb/> 
+                        field near this.
+                    </p>   
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-120">
+                    <p><name type="place" key="5016">Cill-eibhinn</name> <name type="place" key="5015">Crarae</name> <name type="place" key="5017">Cum<lb/>
+                        lodden</name> <date value="1894-04-10">10<hi rend="superscript">th </hi><choice><abbr type="abbreviation">Aug</abbr><expan>August</expan></choice> 1894</date>.<lb/>
+                        <name type="person">Rev Duncan Campbell</name> and<lb/>
+                        his wife <name type="person" key="3971">Mary</name> &amp; <name type="person" key="3332">self</name> visited<lb/>
+                        this and took there rubbings<lb/>
+                        in the dark
+                    </p>          
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-121">
+                    <p>Barr na brac = place <del rend="overstrike">in</del> near a
+                        <pb id="CW122-21v" n="021v"/>
+                        within 3 miles of <name type="place" key="1947">Inverary</name> from<lb/>
+                        <name type="place" key="5019">Furnace</name> – Now in the farm<lb/>
+                        of <name type="place" key="5018">Dail <choice><sic>Chenna</sic><corr>Cheanna</corr></choice></name>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-122">
+                    <p>Duair se Don s an cu <del rend="overstrike">sa chuain</del> <add place="supralinear" indicator="no">'san ruaig</add><lb/>
+                        Cha teid {gearr}<add place="supralinear" indicator="no">hare</add> a cluain as.          
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-123">
+                    <p><name type="person" key="4681">John Campbell</name> <name type="place" key="5021">An Dur<lb/>
+                        ran</name> <name type="place">Lochawe side</name>. Arrow<lb/>
+                        head found under 4 feet of moss<lb/>
+                        in cutting peats this year
+                    </p>                       
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>  
+                <div type="item" id="GB-237-Coll-97-CW122-124">
+                    <p><term><choice><sic>Neas-nimeach</sic><corr>Neas-nimheach</corr></choice></term> = <gloss>Ferret</gloss></p>         
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-125">
+                    <p><del rend="Blockstrikethrough">Aibheis fhuar <add place="supralinear" indicator="no">uair?</add> bha thu uair<lb/>
+                        At arde high<lb/>
+                        <term>Aibheis</term> – <gloss>ruin</gloss></del>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-126">
+                    <p>Gealach Bhuidhe nam<lb/>
+                        Broc = <choice><abbr type="abbreviation">geal</abbr><expan>gealach</expan></choice> bhuidh na<lb/>
+                        Feill Michaelmas moon
+                    </p>             
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-127">
+                    <p><term>Geadag</term> = <gloss>Grilse = Bradan <unclear reason="hand" cert="low">Bar</unclear></gloss>
+                    </p>            
+                </div>
+                <pb id="CW122-22r" n="022r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-128">                    
+                    <p><del rend="Blockstrikethrough">Cap <add place="supralinear" indicator="yes">Robert</add> Macfarland<lb/>
+                        2 London Place<lb/>
+                        Paisley Road Glasgow</del>
+                    </p>                    
+                </div>                
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-129">
+                    <list>
+                        <item>Gaolaich <add place="supralinear" indicator="no">ort</add> = When the legs of the dead are<lb/>
+                            tied together
+                        </item>
+                        <item>Ballachd ort = <gap reason="omitted" extent="one or two words"/></item>
+                        <item>Galar fuail ort</item>
+                        <item>Marbhasg ort</item>
+                        <item>Clisgeadh ort</item>
+                        <item>Siubhal Mhuraich bho'n bhothan</item>
+                        <item>Gu <choice><abbr type="abbreviation">ma</abbr><expan>math</expan></choice> h-anamh dhuit</item>
+                        <item>Lion-rath = Cunach-raith.</item>
+                        <item>Mac rath = applied to a<lb/> 
+                            child born
+                        </item>
+                        <item><choice><sic>Lithach</sic><corr>Liathach</corr></choice> – only <choice><abbr type="abbreviation">app</abbr><expan>applied</expan></choice> of  hands</item>
+                        <item>The teaching of the 12 in <choice><abbr type="abbreviation">bapt</abbr><expan>baptising</expan></choice><lb/>
+                            in <choice><abbr type="abbreviation">rung</abbr><expan>running</expan></choice> streams = 7 siona -<lb/>
+                            From 7 stream.
+                        </item>
+                    </list>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                </div>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-130">
+                    <p>Cnoc na droch comhairle<lb/>  
+                        <term>Caoineachas</term> = <gloss>Bean nighe</gloss>        
+                    </p>
+                            
+                <space dim="vertical" extent="1" unit="lines"/>
+                <pb id="CW122-22v" n="022v"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                
+                    <p>Bha Nighinn donn nan <choice><sic>sithichan</sic><corr>sithichean</corr></choice><lb/>
+                        fo mhi-ghean agus fo bhron a <choice><abbr type="abbreviation">bhi</abbr><expan>bhith</expan></choice><lb/>
+                        faicinn mnaoi an <choice><abbr type="abbreviation">domhain</abbr><expan>domhainn</expan></choice><lb/>
+                        an co beag cul. Agus curan a<lb/>
+                        beul ri dos agus fuagai gach <unclear reason="hand" cert="low">fui</unclear><lb/>
+                        agus fleasg lus gus preas
+                    </p>                 
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-131">
+                <p>
+                    <address>
+                        <addrLine><name type="person" key="4682">Mrs Mackay </name>55 Morningside<lb/>
+                        Park</addrLine>
+                    </address>
+                </p>  
+                    <p>
+                        <address>
+                        <addrLine>36 Bridge <choice><abbr type="abbreviation">St</abbr><expan>Street</expan></choice><lb/>
+                            <name type="place" key="4683"><choice><abbr type="abbreviation">Mal.</abbr><expan>Malcolm</expan></choice> <del rend="overstrike">Neil</del> Macleod</name>
+                        </addrLine>
+                    </address>
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-132">
+                    <p>Mar <choice><abbr type="abbreviation">dhoran</abbr><expan>dhobhran</expan></choice> am beul uisge<lb/>
+                        Mar sheobhag gu ian sleibhe<lb/>
+                        Mar chu gu cat<lb/>
+                        Mar chat gu luch<lb/>
+                        Bith bean a mic gu math<lb/>
+                        air cheile
+                    </p>           
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-133">
+                    <p><term>An carrs</term> = <gloss>Buttercup</gloss>. Used<lb/>
+                        for buinn insteasd of poultice<lb/>
+                        Tha an carrs faisg air a<lb/>
+                        ghobhar {ga a <add place="infralinear" indicator="no">{chon a</add> comhnadh
+                        <pb id="CW122-23r" n="023r"/>
+                        said the fairy
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-134">
+                <lg>
+                    <l>Cha <choice><abbr type="abbreviation">ro</abbr><expan>robh</expan></choice> Ciadain rimah gun ghrian</l>
+                    <l>Cha <choice><abbr type="abbreviation">ro</abbr><expan>robh</expan></choice>geamhradh <choice><abbr type="abbreviation">ria</abbr><expan>riamh</expan></choice> gun small</l>
+                    <l>Cha <choice><abbr type="abbreviation">ro</abbr><expan>robh</expan></choice> Nollaig <del rend="overstrike">riamh</del> <add place="supralinear" indicator="no">mhor</add> gun fheoil</l>
+                    <l>Cha robh bean da deoin gun fhear</l>                   
+                </lg> 
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-135">
+                <lg>
+                    <l><choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> Feill Bride nam brig/bric <add place="supralinear" indicator="no">(trout)</add> ban</l>
+                    <l>Thig an ridean as an toll</l>
+                    <l>Cha bhuin mise is an ridean</l>
+                    <l>'S cha bhuin an ridean rium</l>
+                </lg>
+                    <p><term>"Ridean"</term> = <gloss>righinn = queen = serpent</gloss>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-136">
+                <lg>
+                    <l><choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> Domhnach Casg</l>
+                    <l><choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> bas nan uibhean</l>
+                </lg>         
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-137">
+                    <p><term>Deargadh</term> = <gloss>Fin on fish on<lb/>
+                        the belly below the <unclear reason="hand" cert="low">spairn</unclear></gloss><lb/>
+                        Hence the phrase Cha d fhuair<lb/>
+                        mi deargadh = I did not<lb/>
+                        get a fin.
+                    </p>
+                    <p><term>Dearg</term> = <gloss>A bed, a hollow</gloss><lb/>
+                        as, tha leaba dhearg a                        
+                        <pb id="CW122-23v" n="023v"/>                        
+                        a feithmeah air – a bed<lb/>
+                        is waiting him
+                    </p>    
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>
+                        Co mheud deargadh tha<lb/>
+                        agad air do chaoraich = How<lb/>
+                        many marks (cut hollows)<lb/>
+                        thou hast on thy sheep
+                    </p>           
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-138">
+                    <p><term>Truis</term> = <gloss>Druis = Pig sow the<lb/>
+                        native pigs of <name type="place" key="3806">Uist</name>.</gloss> White &amp;<lb/>
+                        spotted. Small ears stand-<lb/>
+                        ing upright.  Short snouts<lb/>
+                        easily fed. Strong bristly. Extinct<lb/>
+                        now <date value="1894----">1894</date>.
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-139">
+                    <p><del rend="Blockstrikethrough">Tosdaidh front teats <add place="supralinear" indicator="no">tondai</add>dh<lb/>
+                        hind teats. hind teats</del>
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-140">
+                    <p><term>Babul</term> = <gloss>virulent man<lb/>
+                        dangerous to women</gloss>. <term>Giobal</term><lb/>
+                        <gloss>fushionless man with <gap reason="omitted" extent="one or two words"/></gloss> –
+                    </p>            
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <pb id="CW122-24r" n="024r"/>     
+                <div type="item" id="GB-237-Coll-97-CW122-141">
+                    <p><name type="person" key="4378">Janet Currie bean <choice><abbr type="abbreviation">Fiongh</abbr><expan>Fhionnlaigh</expan></choice><lb/>
+                        mac Iain ic <choice><abbr type="abbreviation">Ruar</abbr><expan>Ruaraidh</expan></choice> Alan <choice><abbr type="abbreviation">Stoini<lb/>
+                            brig</abbr><expan>Staoinabrig</expan></choice></name>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-142">
+                    <p>Is <choice><abbr type="abbreviation">fearr</abbr><expan>fhearr</expan></choice> innleachd no <choice><orig>amirst</orig><reg>aimbeart</reg></choice>
+                    </p>
+                    <p>Ingenuity is better than <gap reason="omitted" extent="one or two words"/>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-143">
+                    <p><term>Dromanach</term> = <gloss>the forked stick going into<lb/>
+                        the thatch of a  house.</gloss>
+                    </p>
+                    <p><term>Sguilbh sgolbh</term> = <gloss>the rods going into<lb/>
+                        the thatch along the edge.</gloss>
+                    </p>           
+                </div>    
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-144">
+                   <list>
+                       <item>Tearnadh placenta of woman</item>
+                       <item>Cruthach <choice><abbr type="abbreviation">"</abbr><expan>placenta of</expan></choice></item>
+                       <item>Bathar <choice><abbr type="abbreviation">"     "</abbr><expan>placenta of</expan></choice> cow</item>
+                       <item>Seile   <choice><abbr type="abbreviation">"     "</abbr><expan>placenta of</expan></choice> hind sheep goat</item>
+                   </list>          
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-145">
+                  <list>
+                      <item><term>Caor</term> = <gloss>Champion</gloss></item>
+                      <item><term>Bith</term> = <gloss>World, life</gloss></item>
+                      <item><term>Cleir</term> = } <gloss>a train, a band, company</gloss></item>
+                      <item><term>Cliar</term> = }</item>
+                      <item><term>Caom</term> = <gloss>loveable</gloss></item>
+                      <item>Duthain <choice><abbr type="abbreviation">opp</abbr><expan>opposite</expan></choice> of Suthain</item>
+                      <item><term>Comul, comol</term> = <gloss>assemblage gathering</gloss></item>
+                      <item><term>Bochuin, bachuin, būchan</term> = <gloss>swelling</gloss></item>
+                      <item><term>Buchan</term> = <gloss>leap up bursting forth</gloss></item>
+                      <item>Chai[dh] eoin ann an caithrinn i</item>
+                      <item><del rend="overstrike">E</del> <term>asconaise</term> = <gloss>Prayer, intercession</gloss></item>
+                      <pb id="CW122-24v" n="024v"/>
+                      <item>(Ecnaire = Litany)  (Acnaire?)<lb/>
+                      (for the living and dead</item>
+                      <item><term>Eim</term> = <gloss>swift</gloss> <term>aneim</term> = <gloss>Slow</gloss></item>
+                      <item>Lasair laisreach oir? Laistreach</item>
+                  </list>                   
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-146">
+                    <list>
+                        <item><term>Ob, obi</term> = <gloss>charm, string of beads<lb/>
+                        of glass or amber</gloss></item>
+                        <item><term>Bestead</term> = <gloss>Distress</gloss></item>
+                        <item><term>Leasing</term> = <gloss>Lying false</gloss></item>
+                    </list>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-147">
+                    <p><del rend="Blockstrikethrough">Munegin Muileag, Mungeag =<lb/>
+                        Mermaid Maighdean mhara</del>
+                    </p>                        
+                </div>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-148">
+                    <p><del rend="Blockstrikethrough">Brac = Būirean feidh<lb/>
+                        Nach grand am brac tha aige</del>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-149">
+                    <p>A voice like Ariel in purple sky
+                    </p>            
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-150">
+                <p>
+                    <address>
+                        <addrLine><name type="person" key="4684">Macorquodale</name></addrLine>
+                        <addrLine>100 Cornwall <choice><abbr type="abbreviation">St</abbr><expan>Street</expan></choice></addrLine>
+                        <addrLine>Paisley Road West</addrLine>
+                    </address>
+                </p>    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-151">
+                <p>
+                    <address>
+                        <addrLine><name type="person" key="4685">Mary Macdonald</name> <unclear reason="hand" cert="low">Alex</unclear></addrLine>
+                        <addrLine>9 Sandyford Place near</addrLine>
+                        <addrLine>Sauchiehall <choice><abbr type="abbreviation">St</abbr><expan>Street</expan></choice></addrLine>
+                    </address>
+                </p>  
+                </div>
+                <pb id="CW122-25r" n="025r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-152">
+                    <p><title>Praeterita</title> <name type="person" key="4686">Ruskin</name></p>                      
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-153">
+                    <p>Cra-rionnach. Bones of head<lb/>
+                        hard scales sharp and prickly.<lb/>
+                        Scales come off whole when<lb/>
+                        boiled. When plentiful no<lb/>
+                        herring <choice><sic>an</sic><corr>and</corr></choice> got on the west coast.
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-154">
+                    <p>Carbhanach got on rivers in<lb/>
+                        parts of <name type="place" key="999">England</name>
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>            
+                <div type="item" id="GB-237-Coll-97-CW122-155">
+                    <p>Dallag – skin used as sand<lb/>
+                        paper
+                    </p>                       
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>    
+                <div type="item" id="GB-237-Coll-97-CW122-156">
+                    <p>Griasaich young of Mac-<lb/>
+                        lamhaich – Sea Devil
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>    
+                <div type="item" id="GB-237-Coll-97-CW122-157">
+                    <p><add place="supralinear" indicator="no"><del rend="overstrike">361 00</del></add> <del rend="overstrike">221 242 144</del> Stonal = Danger<lb/>
+                        Mislen Sea Grass
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>    
+                <div type="item" id="GB-237-Coll-97-CW122-158">
+                    <p>Eisdeachd matha us labhairt math<lb/>
+                        Us cluinnear an rud a ta ann<lb/>
+                        bha s th' ann
+                    </p>
+                </div>
+                <pb id="CW122-25v" n="025v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-159">
+                    <p>Is farsuin am facal<lb/>
+                        nach foghain sa bhial –<lb/>
+                        nach labhar am bial
+                    </p>                  
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>    
+                <div type="item" id="GB-237-Coll-97-CW122-160">
+                    <p>Am fear gun naire<lb/>
+                        Ni nas ail leis fein
+                    </p>            
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>    
+                <div type="item" id="GB-237-Coll-97-CW122-161">
+                    <p><name type="person" key="4687">Sir Charles <choice><sic>Leyell</sic><corr>Lyall</corr></choice></name> <choice><sic>say</sic><corr>says</corr></choice> that<lb/>
+                        no language lasts for a<lb/>
+                        1000 years. Gaelic seems<lb/>
+                        an exception.
+                    </p>          
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>    
+                <!-- this item has been scored through as if transcribed elsewhere-->          
+                <div type="item" id="GB-237-Coll-97-CW122-162">
+                    <p>Cannel – <date value="1675-08-25">20 <choice><abbr type="abbreviation">Aug</abbr><expan>August</expan></choice> 1675</date><lb/>
+                        for an ounce of Cannel<lb/>
+                        to my wife £ 00 ,, 13 ,, 0<lb/>
+                        <title>Cunninghams Diary</title>.
+                    </p>                
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-163">
+                    <p><term>Praban</term> <gloss>Refuse Shebeen</gloss>
+                    </p>        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-164">
+                    <p>Snow water cleansing work <choice><abbr type="abbreviation">prob</abbr><expan>probably</expan></choice><lb/>
+                        Job IX - 30
+                    </p>           
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-165">
+                    <p>Sonas nan <choice><abbr type="abbreviation">seac</abbr><expan>seachd</expan></choice> sian</p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <pb id="CW122-26r" n="026r"/>
+                <div type="item" id="GB-237-Coll-97-CW122-166">
+                    <p><term>Minicneag</term> = <gloss>Skin of a<lb/>
+                        young lamb.</gloss>
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-167">
+                    <p><term>Loineachan</term> = <gloss>Small loinid</gloss>
+                    </p>          
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-168">
+                    <p>Na feachaid orm = Do not spot me
+                    </p>                          
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-169">
+                    <p>Crossing from hill to sea<lb/>
+                        Brood in <date value="1890-09-06"><add place="supralinear" indicator="yes">6</add> <choice><abbr type="abbreviation">Sep</abbr><expan>September</expan></choice> 1890</date> <del rend="overstrike">mes</del><add place="supralinear" indicator="no">newly</add> hatched<lb/>
+                        7 chicks at <name type="place" key="4462">Milton</name><lb/>
+                        Nest 12 eggs in 15 April<lb/>
+                        <name type="place" key="3310">Benbecula</name>
+                    </p>            
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-170">
+                <lg>
+                    <l>A chorragnitheach mor</l>
+                    <l>Na suidhe air an tom</l>
+                    <l>Cireadh a cinn</l>
+                    <l>S i gu <choice><abbr type="abbreviation">tinn</abbr><expan>tighinn</expan></choice> <choice><abbr type="abbreviation">tinn</abbr><expan>tighinn</expan></choice> <choice><abbr type="abbreviation">tinn</abbr><expan>tighinn</expan></choice></l>
+                    <l>N ard ann an spor</l>
+                    <l>S i fithe <del rend="overstrike">Biordan</del> bordan</l>
+                </lg>    
+                    <p>When a <unclear reason="hand" cert="low">heron</unclear> sailing in the air
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-171">
+                    <list>
+                        <item><term>Deire eigin</term> = <gloss>A misery dole</gloss></item>
+                        <item><term>Teom nan deora</term> = <gloss>Dole of the poor</gloss></item>
+                        <item><term>Teom</term> <gap reason="omitted" extent="one or two words"/> <gloss>donation</gloss></item>
+                    </list>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <pb id="CW122-26v" n="026v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-172">
+                <list>
+                    <item><term>Ruth</term> = <gloss>Greaning preocreation</gloss></item>
+                    <item><term>Rath</term> = <gloss>Prosperity progeny</gloss></item>
+                </list>    
+                    <p>Mas <choice><abbr type="abbreviation">fear</abbr><expan>fhear</expan></choice> ealainn thu<lb/>
+                        <choice><orig>Cluinnimid</orig><reg>Cluinneamaid</reg></choice> feabhas do laimh
+                    </p>
+                    <p><del rend="overstrike">Ruth = Procreation Grean</del>
+                    </p>
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-173">
+                    <lg>
+                        <l>"Chaidh eoin an geall caithream</l>
+                        <l>Ann an coille nan cuach."</l>
+                    </lg>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-174">
+                    <p>No II MS No 14 a charm for<lb/>
+                        Stopping <del rend="overstrike">of</del> the effusion of blood.
+                    </p>                     
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-175">
+                    <p>
+                        <address>
+                            <addrLine><name type="person" key="4689">Mr Matheson</name> 41 <choice><abbr type="abbreviation">E</abbr><expan>East</expan></choice> London <choice><abbr type="abbreviation">St</abbr><expan>Street</expan></choice></addrLine>
+                        </address>
+                    </p>
+                    <p>
+                        <address>
+                            <addrLine><name type="person" key="4690">Mr Ross</name> Annville <choice><abbr type="abbreviation">N.</abbr><expan>New</expan></choice>haven Road</addrLine>
+                        </address>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-176">
+               <list>
+                   <item><term>Tuill </term>= Tull – Tuillim – <del rend="overstrike">Still</del><add place="supralinear" indicator="no">Still</add></item>
+                   <item>Tuilleadh</item>
+                   <item><term>Faileamh</term> <gloss>Faoilinn = Fidean =<lb/>
+                       Covered by the sea <sic>occasionly</sic><corr>occasionally</corr></gloss>
+                   </item>
+                   <item><term>Famhan Sorchan</term> = <gloss>Foacher</gloss></item>
+                   <item><term>os and san</term> = <gloss>A fawn</gloss></item>
+                   <item><term><choice><abbr type="abbreviation">Ceannabhi</abbr><expan>Ceannaibhidh</expan></choice></term> = <gloss>Head as ceanna</gloss></item>
+                   <item>Bhi taighe = Head of home</item>
+                   <item><term>Asgait</term> = <gloss>Lint refuse</gloss></item>
+                   <pb id="CW122-27r" n="027r"/>
+                   <item><term>Barrachd</term> = <gloss>Lint refuse</gloss></item>
+                   <item>Pab</item>
+                   <item><term>Goiseir</term> = <gloss>Inaire Geisinn</gloss></item>
+                   <item><del rend="overstrike">Aís = Back. Ais na beinne =
+                       Back of hill</del>
+                   </item>
+               </list>             
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-177">
+                    <p>Cha <choice><abbr type="abbreviation">'n</abbr><expan>an</expan></choice> fhir mi ri uallach<lb/>
+                        Cha dean {buar <add place="supralinear" indicator="no">cas</add> luath maor<lb/>
+                        Cha dean bean gun naire
+                    </p>           
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-178">
+                    <list>
+                        <item><term>Furas</term> = <gloss>Patience</gloss></item>
+                        <item><term>Cugan</term> = <gap reason="omitted" extent="one word"/></item>
+                        <item>Gigean <del rend="overstrike">G</del> thom</item>
+                        <item>Geigean = <gap reason="omitted" extent="one word"/></item>
+                        <item>Breumar an <del rend="overstrike">ta</del> teighe</item>
+                        <item>'S <choice><sic>geugean</sic><corr>geugan</corr></choice> no fo thighe.</item>                        
+                    </list>          
+                </div>                
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-179">
+                    <p>Cu-sìth = Came from the sea<lb/>
+                        shore with a long chain attached<lb/>
+                        Boirionn (na goibhre] Orig
+                    </p>               
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-180">
+                <list>
+                    <item><term>Fhamh</term> = <gloss>Lamh = Dao-thireobha</gloss></item>
+                    <item><term>Luin</term> = <gloss>Rope twist</gloss></item>
+                    <item>Marrum</item>
+                    <item>Uis</item>
+                    <pb id="CW122-27v" n="027v"/>
+                    <item>Fianach</item>
+                    <item>Riasg</item>
+                    <item>Airighil (Airil?)</item>
+                    <item>Lia-chu</item>
+                    <item>Marbh-chu</item>
+                    <item>Garrachall</item>
+                    <item><term>Slaman</term> = Curdled milk</item>
+                    <item><term>Gruth</term> = <gloss>Curds with whey <choice><abbr type="abbreviation">pressd</abbr><expan>pressed</expan></choice><lb/>
+                        out of them</gloss></item>
+                    <item><term>Gruithein</term> = <gloss>Dry curd and butter<lb/>
+                        mixed – Sometimes stored up<lb/>
+                        in pras for winter meal</gloss>
+                    </item>
+                </list>  
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-181">
+                    <p>Night and day not day &amp;night<lb/>
+                        Bible
+                    </p>
+                    <p>Is math an cobhar<lb/>
+                        Ach s don an sobhal an t-iagsach
+                    </p>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <div type="item" id="GB-237-Coll-97-CW122-182">
+                    <p>Tri truaigh nan sgeula / achd<lb/>
+                        The three sorrows of story.<lb/>
+                        <choice><abbr type="abbreviation">Clan</abbr><expan>Clann</expan></choice> an Lir Clann an<lb/>
+                        Ruitinn and Clann Uisne
+                    </p>        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>   
+                <pb id="CW122-28r" n="028r"/>                
+                <div type="item" id="GB-237-Coll-97-CW122-183">
+                <list>
+                    <item><term>Scainteach</term> <gloss>Rheumatisim <name type="place" key="1866">Islay</name></gloss></item>
+                    <item>Guin-loni</item>
+                    <item>Siataig</item>
+                    <item>Scanaport on the river <name type="place" key="5023">Ness</name> <add place="supralinear" indicator="no"><name type="place" key="3772">Lews</name></add></item>
+                    <item><term>Cathuil</term> = Catching fish in<lb/>
+                        excise ink bottle
+                    </item>
+                </list>                        
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->    
+                <div type="item" id="GB-237-Coll-97-CW122-184">
+                    <p><del rend="overstrike">Tha leigheas gach cas<lb/>
+                        Ach <del rend="overstrike">cha nel</del> leigheas air a bhas<lb/>
+                        ni bheil</del>
+                    </p>            
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-185">
+                <list>
+                    <item><term>Crannachan</term> = <gloss>Bainne<lb/>
+                        buailte = Ce, cìa whisked</gloss></item>
+                    <item>tha gaoisid <gap reason="illegible" extent="one word"/> fheaman<lb/>
+                        a bho – not of horse. best<lb/>
+                        in slight frost – Hallow<lb/>
+                        een often
+                    </item>
+                </list>   
+                </div>
+                <space dim="vertical" extent="5" unit="lines"/>
+                <pb id="CW122-28v" n="028v"/>            
+                <div type="item" id="GB-237-Coll-97-CW122-186">
+                    <p>1866 – 1870<lb/>
+                        <choice><abbr type="abbreviation">Dispen</abbr><expan>Dispensation</expan></choice> date <date value="1337----">1337</date><lb/>
+                        Godfrey an of <name type="sept">Siol Gorrie</name><lb/>
+                        <name type="place" key="3344"><choice><abbr type="abbreviation">N</abbr><expan>North</expan></choice> Uist</name> Ranald John<lb/>
+                        <del rend="overstrike">descans</del> <choice><abbr type="abbreviation">desd</abbr><expan>descendants</expan></choice> early became<lb/>
+                        extinct. <choice><abbr type="abbreviation">Don</abbr><expan>Donald</expan></choice> first earl of Ross<lb/>
+                        John earl of <name type="place" key="2120">Antrim</name><lb/>
+                        <choice><abbr type="abbreviation">Alex</abbr><expan>Alexander</expan></choice> <name type="place" key="3323">Lochaber</name>
+                    </p>    
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>150 yards below another<lb/>
+                        chapel
+                    </p>
+                    <!-- this item has been scored through from this point as if transcribed elsewhere-->     
+                    <p>1<hi rend="superscript">st</hi> marriage<lb/>
+                        3 sons – John whose <choice><abbr type="abbreviation">de</abbr><expan>descendants</expan></choice><lb/>
+                        early became extinct. <name type="person">Godrey</name> and<lb/>
+                        of Siol Gorrie <name type="place" key="3344"><choice><abbr type="abbreviation">N</abbr><expan>North</expan></choice> Uist</name>.<lb/>
+                        Ranald a <choice><abbr type="abbreviation">set</abbr><expan>sept</expan></choice> of Glengarry<lb/>
+                        <choice><sic>an</sic><corr>and</corr></choice> Clanranald
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>2<hi rend="superscript">d</hi> <choice><abbr type="abbreviation">marg</abbr><expan>marriage</expan></choice><lb/>
+                        3 Sons <name type="person">Donald</name> earl of<lb/>
+                        Ross Harlaw in <date value="1411----">1411</date><lb/>
+                        <name type="person">Iain Mor of Islay &amp; Antrim</name><lb/>
+                        and <name type="person">Alastair Carrach of<lb/>
+                        Lochaber</name>
+                    </p>
+                    <pb id="CW122-29r" n="029r"/>
+                    <p><choice><abbr type="abbreviation">Ch</abbr><expan>Church</expan></choice> of <choice><abbr type="abbreviation">S</abbr><expan>Scotland</expan></choice> ? <choice><abbr type="abbreviation">abt</abbr><expan>about</expan></choice><lb/>
+                        150 <add place="supralinear" indicator="yes"><del rend="overstrike">yards</del> but</add> above sea.<lb/>
+                        150 yards <choice><abbr type="abbreviation">N.</abbr><expan>North</expan></choice> <choice><abbr type="abbreviation">E</abbr><expan>East</expan></choice> <choice><abbr type="abbreviation">anoth</abbr><expan>another</expan></choice>
+                    </p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p>3 Sons by marriage</p>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-187">
+                    <title><hi rend="double underlined">"The blessed bramble"</hi></title>
+                    <p>"Air Dreise beannaichte"  Tha<lb/>
+                        cuid a creidsinn gun robh<lb/>
+                        an asail air na mharcaich<lb/>
+                        Criosd air a bualadh<lb/>
+                        a thoirt aisde – am<lb/>
+                        bheil so fior?
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="2" unit="lines"/>
+                <div type="item" id="GB-237-Coll-97-CW122-188">
+                <p>
+                    <address>
+                        <addrLine><name type="person" key="4691">N. Ross</name></addrLine>
+                          <addrLine>c/o <name type="person" key="4962">Mrs Macfarlane</name></addrLine>
+                          <addrLine>23 Livingstone Place</addrLine>
+                    </address>
+                </p>   
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW122-189">
+                    <p>Procession of the Lupenall<lb/>
+                        <name type="person">Ramsey</name> <choice><abbr type="abbreviation">Histy</abbr><expan>History</expan></choice> of Rome
+                    </p>                    
+                </div>
+                <pb id="CW122-29v" n="029v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-190">
+                    <title><del rend="overstrike">Ri</del> Lord of the Isles</title>
+                    <space dim="vertical" extent="1" unit="lines"/>
+                    <p><name type="person">John</name> <name type="person">Godfrey</name> and <name type="person">Ranald</name><lb/>
+                        by first wife
+                    </p>    
+                    <p>2<hi rend="superscript">d</hi> wife <name type="person">Donald</name> <name type="person">John</name><lb/>
+                        <name type="person">Alexander</name>
+                    </p>                    
+                </div>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-191">
+                    <p><name type="place" key="5024">{Coire <add place="supralinear" indicator="no">Bealach</add> nan Uraisg</name> in the
+                        <name type="place" key="1184"><choice><orig>Cuchull</orig><reg>Cuchullain</reg></choice> hills</name>.
+                    </p>           
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-192">
+                    <p><term>Mapaid</term> = <gloss>Peallan = Mop</gloss>
+                    </p>          
+                </div>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-193">
+                    <p><choice><abbr type="abbreviation">Iodhlan</abbr><expan>Iodhlann</expan></choice> = A strip of land<lb/>
+                        Ioman beag<lb/>
+                        Iollach = Grethadh = Cag<lb/>
+                        ach. Iollachd = Guillachd
+                    </p>                       
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-194">
+                    <lg>
+                        <l>Tha leigheas air gach càs</l>
+                        <l>Ach air a bhas ni bheil</l>
+                        <l>Ni bhei<del rend="overstrike">l</del> air a bhas</l>
+                    </lg>
+                    <p>
+                        <unclear reason="hand" cert="low">Run</unclear> s a heal for any thing<lb/>
+                        But in death there is not<add place="infralinear" indicator="no">none}</add>
+                    </p>                       
+                </div>
+                <pb id="CW122-30r" n="030r"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-195">
+                    <lg>
+                        <l>Cha <choice><abbr type="abbreviation">'n</abbr><expan>an</expan></choice> fhuirich muir ri uallach</l>
+                        <l>Cha dean bean luath maorach</l>
+                        <l>Cha dean bean gun naire cugan</l>
+                        <l>Cha dean bean gun urras<lb/>
+                        aodach</l>
+                    </lg>                    
+                </div>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-196">
+                    <p><term>Fad-seilbh</term> = <gloss>Infeftment – hand<lb/>
+                        ing over ground to another by<lb/>
+                        handing him a handful<lb/>
+                        of earth.
+                    </gloss>
+                    </p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-197">
+                    <p>An t oda Beag An t oda<lb/>
+                        Mor in <name type="place" key="5026">Mingnish</name> <name type="place" key="1034">Skye</name><lb/>
+                        the sea
+                    </p>            
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <!-- this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW122-198">
+                    <p><choice><sic>Bhireadh</sic><corr>Bheireadh</corr></choice> e òrrais air<lb/>
+                        mhath ghamhain – proverb<lb/>
+                        in <name type="place" key="1034">Skye</name>
+                    </p>                    
+                </div>
+                <!-- this item has been scored through as if transcribed elsewhere-->  
+                <div type="item" id="GB-237-Coll-97-CW122-199">
+                    <p>Is e deireadh cairdeis<lb/>
+                        sgaoileadh is e deireadh<lb/>
+                        comuinn dealachaidh<lb/>
+                    </p>                
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>
+                <pb id="CW122-30v" n="030v"/>
+                <div type="item" id="GB-237-Coll-97-CW122-200">
+                <lg>
+                    <l>An aite roiseal is mise</l>
+                    <l>Tha osnaidh ag imeachd chliabh</l>
+                </lg>
+                    <p><name type="person" key="4693">Gilleaba Na Ceapaich</name></p>                    
+                </div>
+                <space dim="vertical" extent="1" unit="lines"/>                
+                <div type="item" id="GB-237-Coll-97-CW122-201">
+                    <p>Portrait of Clarinda in <name type="person" key="2011">Scotts</name> <name type="person" key="4303">Burns</name></p>    
+                </div>
+                <pb id="CW122-31r" n="031r"/>
+                <pb id="CW122-31v" n="031v"/>
+                <pb id="CW122-32r" n="032r"/>
+                <pb id="CW122-32v" n="032v"/>
+                <pb id="CW122-33r" n="033r"/>
+                <pb id="CW122-33v" n="033v"/>
+                <pb id="CW122-34r" n="034r"/>
+                <pb id="CW122-34v" n="034v"/>
+                <pb id="CW122-35r" n="035r"/>
+                <pb id="CW122-35v" n="035v"/>
+                <pb id="CW122-36r" n="036r"/>
+                <pb id="CW122-36v" n="036v"/>
+                <pb id="CW122-37r" n="037r"/>
+                <pb id="CW122-37v" n="037v"/>
+                <pb id="CW122-38r" n="038r"/>
+                <pb id="CW122-38v" n="038v"/>
+            </div>
+            <!-- End of the notebook -->
+        </body>
+    </text>
+</TEI.2>

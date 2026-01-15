@@ -1,0 +1,19 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Agriculture</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/a/">a</a><h1>Agriculture</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=467&term=Agriculture" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-15-22&view=basic">Letter to James Cossar Ewart from Sir John Stirling Ainsworth </a> (1909) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-18-13&view=basic">Letter to James Cossar Ewart from John Frederick Lort-Phillips </a> (1912) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-980&view=basic">The libraries of the Agricultural and Food Research Service </a> (1991) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-940&view=basic">Journal of Sustainable Agriculture, Vol 1 No 1, Editor R P Poincelot, New York, Food Products Press. ISSN: 1044-0046 [Journal review] </a> (1991) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1144&view=basic">Germ line manipulation: applications in agriculture and biotechnology </a> (1992) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

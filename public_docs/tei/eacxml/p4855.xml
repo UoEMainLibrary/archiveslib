@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4855</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-10-06">6 October 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Lynne Bulmer</agent>
+                <eventDescription>draft in process</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>20 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841census for North Uist </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 113/00 013/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>1851 Register of births for South Uist </sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Old Parish Register Births 1851 118/0010
+                            0013</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1851census for South Uist </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 118/00 003/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861census for South Uist </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 118/01 003/01 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871census for South Uist </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 118/01 003/01 007</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881census for South Uist </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 118/01 003/01 012</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891census for South Uist </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 118/01 003/01 017</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1892 118/01 0011</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4855</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacLellan</part>
+                <part localType="given">Marion</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Farmer's wife, Aird, Benbecula</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1825" notAfter="1830" notBefore="1820">c1825</fromDate>
+                    <toDate standardDate="1892-09-16">16 September 1892</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Marion MacLellan was the daughter of Archibald Morrison, crofter, and Catherine
+                    Morrison née Ferguson. She married Donald MacLellan between 1841 and 1851 and
+                    they had a son called Roderick in 1851. They lived in Aird, Benbecula throughout
+                    their married life.</p>
+                <p> She died of unknown causes in 1892 and her son Roderick MacLellan signed the
+                    register.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1825" notBefore="1820" notAfter="1830">c1825</date>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1892-09-16">16 September 1892</date>
+                        <placeEntry>Muir of Aird, Benbecula, County of Inverness</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

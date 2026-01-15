@@ -1,0 +1,16 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Pigments</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/p/">p</a><h1>Pigments</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=1515&term=Pigments" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-17-55&view=basic">Letter to unidentified recipient [C.C Hurst?] from J.B Robertson </a> (1911) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-1-1&view=basic">Bound typescript titled 'The Pigmentation of Cavernicolous Animals' by R.A Beatty, M.A, being the first part of a dissertation submitted in candidature for the Degree of Doctor of Philosophy at the University of Cambridge </a> (1949) Papers of Dr. Alan Beatty</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

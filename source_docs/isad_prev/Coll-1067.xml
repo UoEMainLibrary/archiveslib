@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1067">GB
+		237 Coll-1067</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of Duncan Glen (b. 1933)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20051003" certainty="certain">3 October
+			 2005</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="REPLACE"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1067</unitid> 
+		<physloc label="Shelfmark" encodinganalog="shelfmark">Gen.
+		  2186/1-2</physloc><unittitle encodinganalog="isadg(2)312">Papers of Duncan Glen
+		  (b. 1933)</unittitle><unitdate normal="1959/1980"
+		encodinganalog="isadg(2)313">1959-1980</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">2 boxes. </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Glen, Duncan</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>The writer, poet and publisher Duncan Glen (pseud. of Simon Foster)
+		  was born in 1933. Glen was associated with Akros Publications, Preston, Lancs.,
+		  in the 1970s. His 
+		<title>Akros</title> was first published in the mid-1960s.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The collection contains the following writing:</p> 
+		<p>In Box 1 there are files of early essays mostly on Hugh MacDiarmid and
+		  Scottish writing, both titled and untitled, one or two of which became longer
+		  pieces later on, including: 
+		<title>The voice of MacDiarmid</title>, 
+		<title>Political poet</title>, 
+		<title>Literary masks</title>, 
+		<title>Universal poet</title>, and 
+		<title>The predicament of the Scottish writer today</title>. Also: a
+		sketch of MacDiarmid by Glen; material highlighting the need for publication 
+		<title>Akros</title> and a mock-up of an issue of the journal; piece
+		entitled 
+		<title>The conversion of C.M. Grieve. From Poet to makar</title>; 
+		<title>Scotland's public enemy no.1</title>; and 
+		<title>High Macdiarmid: Poet and prophet</title>. Box 1 also contains: a
+		2nd copy of a final typed script (as read by Grieve, January 1964) on Hugh
+		MacDiarmid; and, a 3rd copy (not fully corrected) of MacDiarmid typescript
+		entitled 
+		<title>Hugh MacDiarmid and the Scottish renaissance</title>.</p> 
+		<p>In Box 2 there are files of essays and review articles (drafts and
+		  final) on MacDiarmid and Scottish writing, including: 
+		<title>The complete poems of Hugh MacDiarmid</title>, 
+		<title>Lines of communication with Hugh MacDiarmid</title>, and 
+		<title>For the purposes of literature</title>. Also, 
+		<title>Fifteen years of Duncan Glen / Akros Publications
+		  1962-1977</title> which includes a checklist of Akros publications. The Box
+		also contains examples of graphic work and page set-up for Glen publications.
+		There are manuscript essays or articles, including 
+		<title>The individual and the twentieth century Scottish literary
+		  tradition</title>, and working memoriam material in both typescript and
+		manuscript, being a sequence of poems, 
+		<title>In memoriam Hugh MacDiarmid</title>. The Box also contains
+		material relating to an interview between Glen and MacDiarmid in 1968, a piece
+		entitled 
+		<title>Hugh MacDiarmid: Supporting roles</title>, material for
+		MacDiarmid's 75th birthday being 
+		<title>MacDiarmid - a specially commissioned poem by Sydney Goodsir
+		  Smith. A poet from the muckle toon </title> which was to be radio-broadcast on
+		Friday 11 August 1967 on the then BBC Scottish Home Service, and also some
+		assorted and miscellaneous papers.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>List available.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using material
+			 contained within the collection.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Scottish
+			 literature</emph><emph altrender="y">20th century</emph><emph
+			 altrender="x"></emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph altrender="surname">Glen</emph><emph
+			 altrender="title"></emph><emph altrender="forename">Duncan</emph><emph
+			 altrender="dates">b. 1933</emph><emph altrender="epithet">Writer, Poet,
+			 Publisher</emph><emph altrender="other">pseudonym of Simon
+			 Foster</emph></persname> 
+		  <persname><emph altrender="surname">Grieve</emph><emph
+			 altrender="forename">Christopher Murray</emph><emph
+			 altrender="dates">1892-1978</emph><emph altrender="epithet">Poet 'Hugh
+			 MacDiarmid</emph><emph altrender="other"></emph></persname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

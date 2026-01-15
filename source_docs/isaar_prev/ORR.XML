@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1868 20020425 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1868</titleproper> 
+		  <subtitle>Orr | John Boyd | 1880-1971 | baron and nutritional
+			 physiologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+			 University Library Special Collections Division, 25 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020425">25 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1868</titleproper> 
+		<subtitle>Orr | John Boyd | 1880-1971 | baron and nutritional
+		  physiologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+		  University Library Special Collections Division, 25 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020425">25 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0261"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1868</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1868" normal="Orr, John Boyd">Orr | John Boyd |
+		  1880-1971 | baron and nutritional physiologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  
+<p>John Boyd Orr, introducer of free school milk and of the aphorism 'freedom 
+  from famine', was born in Kilmaurs in Ayrshire in <date normal="1880" type="single">1880</date>. 
+  He was educated at the local parish school and at Kilmarnock Academy. At eighteen 
+  he left to simultaneously train as a schoolteacher and to study for an MA degree 
+  at Glasgow University. At Glasgow he saw the consequences of slum conditions: 
+  an experience that made him a passionate humanitarian. This led him to abandon 
+  teaching in order to study medicine and biological sciences at Glasgow and, 
+  to his final vocation, physiology and nutrition. In <date normal="1914" type="single">1914</date> 
+  he went to Aberdeen to establish the Nutrition Institute (Rowett Research Institute 
+  from <date normal="1922" type="single">1922</date>). He served in the army and 
+  navy in the 1st World War and was decorated twice for bravery. Thereafter, war 
+  joined poverty as the potent purpose of his science. During World War 2 he devised 
+  a national diet that ensured the UK population was fit to sustain a successful 
+  war effort. Boyd Orr believed that greed - for food, land, economic wealth, 
+  and the emergent greed for oil - to be the root cause of war. </p> 
+		  
+<p>In <date normal="1949" type="single">1949</date> he was awarded the Nobel Peace 
+  Prize because he had used science as a way of 'making men healthier and happier 
+  so as to secure peace' (Nobel Presentation Speech). In his Nobel Acceptance 
+  Speech he linked nourishment, economic well-being and the removal of hunger 
+  as necessary for world peace. However, Orr saw his life bridging two worlds, 
+  and he believed that the destructive force of nuclear war was a new and terrifying 
+  possibility. Orr was the first scientist to discover the link between low income 
+  and nutritional deprivation and the consequent public outcry in the <date normal="1930/1939" type="inclusive"
+			  certainty="uncertain">1930s</date> led to the adoption of his recommendations. 
+  These included improvements in agricultural output and increased consumption 
+  as consequent on the lowering of food prices. His work on the National Council 
+  for the Development of Scotland was later adopted as UK national policy and 
+  was amongst the most successful of the Welfare State reforms of the Modernist 
+  era. </p> 
+		  
+<p>The introduction of free school milk - a simple and practical measure - contributed 
+  to the disappearance of rickets from Britain's poor children. This alone demonstrates 
+  his ability as a scientist to see the general arising from the particular, and 
+  as a humanitarian his determination that knowledge should benefit ordinary people. 
+  Orr saw nutrition, productivity, national regeneration, freedom from class and 
+  national conflicts as interdependent and interrelated. After <date normal="1945" type="single">1945</date> 
+  his ideas on international food rationing influenced policy in the USA, and 
+  crucially prevented famine in Europe. As director-general of the United Nations 
+  Food and Agricultural Organisation (FAO) he ensured the <date normal="1939/1970" certainty="uncertain" type="inclusive">mid 
+  20th century</date> and <date normal="1960/1999" type="inclusive" certainty="uncertain">late 
+  20th century</date> acceptance of famine as an international responsibility. 
+  However, he felt bureaucracy and politics inhibited his work at the FAO and 
+  he resigned to promote the cause of world government that, he believed, could 
+  mount a two-pronged attack on famine. Firstly, by third world agricultural development, 
+  and secondly through the World Bank as controller of food prices on the world 
+  markets, and by the sale of food surpluses and the accumulation of food reserves. 
+  Linked to this was the aim of world peace that he actively pursued through a 
+  number of international peace organisations. The Nobel Peace Prize and a building 
+  at Glasgow University, named in his honour, are his monuments.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Minerals in Pastures and Their Relation to Animal
+			 Nutrition</title>, ( <imprint><date type="publication" normal="1929"
+			 certainty="certain">1929</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>National Food Supply and Its Influence on National
+			 Health</title>, ( <imprint><date type="publication" normal="1934"
+			 certainty="certain">1934</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>National Food Supply and Its Influence on National
+			 Health</title>, ( <imprint><date type="publication" normal="1936"
+			 certainty="certain">1936</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Report on the Physiological Bases of Nutrition,
+			 League of Nations Doc. No. A. 12 (a)</title>, ( <imprint><date
+			 type="publication" normal="1936"
+			 certainty="certain">1936</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Final report of the Mixed committee of the League of
+			 Nations on the Relation of Nutrition to Health, Agriculture, and Economic
+			 Policy, League of Nations Doc. No. A. 13</title>, ( <imprint><date
+			 type="publication" normal="1937"
+			 certainty="certain">1937</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Nutritional Science and State Planning</title>, ( 
+			 <imprint><date type="publication" normal="1937"
+			 certainty="certain">1937</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Feeding the People in Wartime</title>, ( 
+			 <imprint><date type="publication" normal="1940"
+			 certainty="certain">1940</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Fighting for What?</title>, ( <imprint><date
+			 type="publication" normal="1942"
+			 certainty="certain">1942</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Food and the People</title>, ( <imprint><date
+			 type="publication" normal="1943"
+			 certainty="certain">1943</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Food: The Foundation of World Unity</title>, ( 
+			 <imprint><date type="publication" normal="1948"
+			 certainty="certain">1948</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>International Liaison Committee of Organisations for
+			 Peace: A New Strategy of Peace</title>, ( <imprint><date type="publication"
+			 normal="1950" certainty="certain">1950</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The White Man's Dilemma: Food and the Future</title>,
+			 ( <imprint><date type="publication" normal="1953"
+			 certainty="certain">1953</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Wonderful World of Food: The Substance of
+			 Life</title>, ( <imprint><date type="publication" normal="1958"
+			 certainty="certain">1958</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>As I Recall</title>, ( <imprint><date
+			 type="publication" normal="1966"
+			 certainty="certain">1966</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1929">1929</date>: Appointed
+			 Director, Institute of Animal Nutrition, University of Aberdeen</p> 
+		  <p><date type="appointmentdate" normal="1929">1929</date>: Appointed
+			 Director, Imperial Bureau of Animal Nutrition </p> 
+		  <p><date type="single" normal="1935">1935</date>: Awarded
+			 knighthood</p> 
+		  <p><date type="appointmentspan" normal="1942/1945">1942-1945</date>:
+			 Appointed Professor of Agriculture, Aberdeen University</p> 
+		  <p><date type="appointmentdate" normal="1945">1945</date>: Elected
+			 Rector, Glasgow University</p> 
+		  <p><date type="appointmentdate" normal="1945">1945</date>: Elected MP
+			 for Scottish Universities</p> 
+		  <p><date type="appointmentspan" normal="1945/1948">1945-1948</date>:
+			 Appointed Director-general, United Nations Food and Agricultural
+			 Organisation</p> 
+		  <p><date type="appointmentspan" normal="1946/1971">1946-1971</date>:
+			 Appointed Chancellor, Glasgow University</p> 
+		  <p><date type="single" normal="1949">1949</date>: Created 1st baron
+			 Boyd Orr of Brechin Mearns</p> 
+		  <p><date type="appointmentdate" normal="1949">1949</date>: Awarded
+			 Nobel Peace Prize</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title render="italic">Boyd-Orr of Brechin Mearns, John
+			 Boyd Orr, Baron</title>, (
+			 <extref
+			  href="http://search.eb.com/eb/article?eu=16286">http://search.eb.com/eb/article?eu=16286</extref>
+			 <imprint>, 
+			 <date type="publication" normal="1997/2002"
+			  certainty="uncertain">1997-2002</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">The Nobel Foundation</title>, (
+			 <extref
+			  href="http://www.nobel.se/peace/laureates/1949/orr-bio.html">http://www.nobel.se/peace/laureates/1949/orr-bio.html</extref>
+			 <imprint>, 
+			 <date type="publication" normal="2002"
+			  certainty="certain">2002</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Kilmarnock Academy: Former Pupils,
+			 Lord Boyd Orr</title>, (
+			 <extref
+			  href="http://www.kilmarnockacademy.co.uk/main_2.htm">http://www.kilmarnockacademy.co.uk/main_2.htm</extref>
+			 <imprint>, 
+			 <date type="publication" normal="2001"
+			  certainty="certain">2001</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Stewart, Margaret">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020425">25 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

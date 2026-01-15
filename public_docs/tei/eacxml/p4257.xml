@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4257</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-03-16">3 June 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Aimee Shaw</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>updated</eventType>
+                <eventDateTime standardDateTime="2012-05-03">3 May 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>updated</eventType>
+                <eventDateTime standardDateTime="2012-11-02">2 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Lynne Bulmer</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>14 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source>
+                <sourceEntry xmlns:ns1="http://www.w3.org/1999/xlink">1861 Census for
+                    Harris</sourceEntry>
+                <descriptiveNote xmlns:ns1="http://www.w3.org/1999/xlink">
+                    <p><span localType="ead-unitid">Census 1861 111/01 004/01 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry xmlns:ns1="http://www.w3.org/1999/xlink">1871 Census for
+                    Harris</sourceEntry>
+                <descriptiveNote xmlns:ns1="http://www.w3.org/1999/xlink">
+                    <p><span localType="ead-unitid">Census 1871 111/01 004/01 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1879 111/02 0013</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Transcription notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW7/18</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Transcription notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW87</span><span
+                            localType="ead-repository">Edinburgh University Library</span>
+                    </p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW116</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4257</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacRae</part>
+                <part localType="given">Mary</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Dairymaid; Caolas Stiadar, Isle of Harris</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1790" notAfter="1795" notBefore="1785">c1790</fromDate>
+                    <toDate standardDate="1879-04-08">8 April 1879</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Mary MacRae was born to parents Donald MacRae, a fisherman, and Chirsty MacRae
+                    née MacKenzie. At some stage prior to 1861 she moved to the Isle of Harris where
+                    she worked as a servant, housekeeper and dairymaid. In the 1871 census, she is
+                    recorded as being in Northton, Harris and as an aunt, possibly of one of the two
+                    servants - Duncan MacRitchie and Mary MacDonald - who are recorded at the same
+                    house. </p>
+                <p>It appears she never married and died of old age, with a neighbour Anne MacRae as
+                    witness; her recorded age at the time of death is given as 100, although this is
+                    somewhat dubious.</p>
+                <chronList>
+                    <chronItem>
+                        <date notAfter="1795" notBefore="1785" standardDate="1790">c1790</date>
+                        <placeEntry>Lochalsh, Ross-shire</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1870-07-12">12 July 1870 </date>
+                        <placeEntry>Northton, Isle of Harris</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1876-04-04">4 April 1876 </date>
+                        <placeEntry>Caolas Stiadar, Isle of Harris</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1879-04-08">8 April 1879</date>
+                        <placeEntry>Caolas Stiadar, Isle of Harris</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

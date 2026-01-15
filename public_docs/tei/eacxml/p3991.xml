@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p3991</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-01-14">14 January 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Stephen Hall</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>16 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">SCA Births MP 0050 00001 00001 00001 00 002
+                            (Craigston, Barra, St Brendan's) </span>
+                        <span localType="ead-repository">Scottish Catholic Archives</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 108/00 004/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Nairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 123/00 005/00 010</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 108/00 006/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 108/00 006/00 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 108/00 006/00 013</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 108/00 006/00 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1901 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1901 108/00 006/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Marriage record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriages 1855 098/01 0021 (Inverness Catholic
+                            Chapel)</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1904 108/00 0027</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW108</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p3991</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Campbell</part>
+                <part localType="given">Anthony</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter and fisherman, Kentangaval, Barra</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1825-11-14">14 November
+                        1825</fromDate><toDate standardDate="1904-05-05">5 May
+                    1904</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Anthony Campbell was born to James Campbell, road labourer and crofter, and
+                    Christina née MacNeil of Gorstan. The 1841 Census has James and his family
+                    living in Glen with Anthony and his three brothers Donald (7), Pol (5) and John
+                    (3); and two sisters Mary (12) and Marion (9). In 1851, the Census records the
+                    family in Tradestown, Nairn where James and his son Anthony work as road
+                    labourers. The Census records a Sally, aged 20, who may also be Mary, and
+                    another daughter named Erick, aged 6. Not all the children are recorded with the
+                    parents and may still be on Barra. </p>
+                <p>Anthony married Flora MacMillan in February 1855, though both born on Barra they
+                    were married in Inverness Catholic Chapel, where Anthony is recorded as living
+                    in Little Kildrummie, a farm steading a little to the south west of Nairn, and
+                    Flora living in Nairn; Anthony was 24, Flora 16 years of age. By the next Census
+                    of 1861, Anthony and Flora had returned to Barra and now had two children,
+                    Duncan (5) and Ann (2), residing in Kentangaval. Anthony was now a crofter. At
+                    the time of the 1871 Census for Kentangaval, Anthony was occupied as a seaman,
+                    with his wife Flora being recorded as having no professional occupation. They
+                    had by this time five children, Duncan (12), Ann (10), Angus (8), Roderick (6)
+                    and John (4), the first three children were now at school. The 1881 Census still
+                    has Anthony living in Kentangaval with his wife, and with a further two
+                    children, Donald (11) and Mary (6). Duncan, Angus and Roderick (Rory) had
+                    followed their father into fishing, with his daughter, Ann, being a general
+                    servant, and the two youngest being at school.</p>
+                <p>The Kentangaval Census of 1891 indicates that Anthony is both a fisherman and a
+                    crofter. His eldest son, Duncan is not recorded, nor is Ann, presumably married,
+                    but the other children are still there, together with a schoolgirl Marion
+                    MacMillian, from Glasgow. The household, by the 1901 Census, has decreased
+                    further with only the sons Roderick and Donald still living there and working as
+                    fishermen. Additionally, Anthony and Flora's grandson, Donald (13) is staying
+                    with them at this point. During their years in Kentangaval, the family have
+                    stayed in a two roomed house with windows, and the Censuses of 1891 and 1901
+                    have recorded the family as being able to speak both Gaelic and English, though
+                    Flora indicates only Gaelic in 1901. Three years later in 1904 Anthony Campbell
+                    died,  the cause of death is unknown and his son Donald signed the register.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1825-11-14">14 November 1825</date>
+                        <placeEntry>Barra</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1825-11-14">6 February 1855</date>
+                        <placeEntry>Inverness</placeEntry>
+                        <event>marriage</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1904-05-05">5 May
+                            1904</date><placeEntry>Kentangaval,
+                            Barra</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+        <relations>
+            <cpfRelation cpfRelationType="hierarchical-parent"
+                xmlns:ns1="http://www.w3.org/1999/xlink" ns1:href="p4341">
+                <relationEntry xml:id="p4341">James Campbell</relationEntry>
+                <descriptiveNote>
+                    <p>Father</p>
+                </descriptiveNote>
+            </cpfRelation></relations>
+    </cpfDescription>
+</eac-cpf>

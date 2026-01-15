@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-7">GB 237 Coll-7
+		</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers of
+			 Professor Andrew Duncan, junior (1773-1832) </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-7">
+    <did>
+      <unittitle>Papers of
+			 Professor Andrew Duncan, junior (1773-1832) </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-7 </unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Dc.1.90; Gen. 61-66</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers of Professor
+		  Andrew Duncan, junior (1773-1832) </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1818-1832">circa 1818-1832 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>7 boxes.
+		  </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Andrew Duncan, son of Andrew Duncan the elder (1744-1827), was born in
+		  Edinburgh on 10 August 1773. He studied medicine at the University of Edinburgh
+		  and was apprenticed to the Edinburgh surgeons Alexander and George Wood. He
+		  graduated with the degree of M.A. in 1793 and M.D. in 1794. He then studied in
+		  London and made visits to medical schools abroad, in Gottingen, Vienna, Pisa
+		  and Naples among others. On his return to Edinburgh he became a Fellow of the
+		  Royal College of Physicians and a Physician to the Royal Public Dispensary. He
+		  then became Physician to the Fever Hospital at Queensberry House. Duncan's
+		  travels abroad had shown him the necessity of closer co-operation between the
+		  medical profession and the State, particularly with regard to criminal law, and
+		  he stressed this point whenever he could. Indeed, in 1807 a Chair of Medical
+		  Jurisprudence and Medical Police was set up at Edinburgh University with Duncan
+		  as its first Professor. In addition, from 1809 to 1822, he performed the duties
+		  of Secretary of the Senatus and Librarian to the University. In 1819 he
+		  resigned as Professor of Medical Jurisprudence on being appointed to assist his
+		  father in the Chair of the Institutes of Medicine. In 1821, Duncan was elected
+		  Professor of Materia Medica at Edinburgh University. His 
+		Edinburgh Dispensary  was published in 1803. From 1816
+		until his death, Duncan was an active member of the Commission for the
+		re-building of the University (the Adam-Playfair buildings of the Old College).
+		Andrew Duncan, junior, died on 13 May 1832. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The papers of Professor Andrew Duncan at Dc.1.90 include letters and
+		  other material mostly about his travels and studies abroad. At Gen. 61-66 are
+		  notes of lectures on Materia Medica delivered between 1831 and 1832. There are
+		  also notes for his 
+		Edinburgh dispensary  (1803). </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows references to other individual letters
+		  or receipts at La.IV.17., La.II.511., La.II.178/3., and a certificate awarded
+		  to another at Gen.784/9/31 </p>
+      </relatedmaterial>
+      <odd/>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

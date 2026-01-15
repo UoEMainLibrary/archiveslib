@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0265 20020418 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0265</titleproper> 
+		  <subtitle>Flamsteed | John | 1646-1719 | 1st astronomer
+			 royal</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 18 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020418">18 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0265</titleproper> 
+		<subtitle>Flamsteed | John | 1646-1719 | 1st astronomer royal</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 18 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020418">18 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0265"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0265</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0265" normal="Flamsteed, John">Flamsteed | John
+		  | 1646-1719 | 1st astronomer royal</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>John Flamsteed (<date type="life-span"
+			 normal="1646/1719">1646-1719</date>) was the first astronomer royal of England.
+			 His legacy to the science of astronomy was mostly in more accurate mapping of
+			 the skies, rather than radical new theories. He had limited formal education,
+			 having left Derby Free School due to ill health, but he did benefit from
+			 tutoring, and his illness led to his first experience of astronomy: unable to
+			 attend school, he observed the partial solar eclipse of 
+			 <date type="single" normal="16620912">12 September 1662</date>.</p> 
+		  <p>Flamsteed's favour with the King improved dramatically in the winter
+			 of 
+			 <date type="inclusive" normal="1674/1675"
+			 certainty="uncertain">1674-1675</date>, when a French courtier of Charles II
+			 suggested a method of calculating longitude, accurate knowledge of which is
+			 crucial for safe navigation. Flamsteed demonstrated that the theory was
+			 impractical due to the inexactitude of existing stellar measurements, which had
+			 not been refined since the time of Tycho de Brahe (<date normal="1546/1601"
+			 type="life-span">1546-1601</date>), before the time of telescope when
+			 telescopes were not used. For a seafaring nation like England, safe navigation
+			 was crucial, and Flamsteed's proof of the stellar tables' inaccuracy was noted.
+			 Plans to establish a royal observatory, which had been semi-dormant for some
+			 time, were rapidly revived, and Flamsteed was appointed as the first astronomer
+			 royal (specifically ordered to make observations relevant to navigation), and
+			 the Greenwich Observatory was constructed. </p> 
+		  <p>Though he was underpaid, his observatory underfunded, and the
+			 initial government enthusiasm for astronomical matters was short-lived,
+			 Flamsteed set to work making his observations. He used a new method of defining
+			 stars' positions, which radically improved accuracy. The uncertainties and
+			 errors in these measurements were smaller than those in Tycho de Brahe's
+			 (admirable) results by a factor of fifteen. His discoveries elicited the
+			 curiosity of fellow astronomer Edmund Halley (<date normal="1656/1742"
+			 type="life-span">1656-1742</date>) and physicist Isaac Newton (<date
+			 normal="1643/1727" type="life-span">1643-1727</date>).</p> 
+		  <p>Flamsteed always had a deep dislike for Halley - probably because of
+			 their conflicting personalities more than simple professional rivalry - but
+			 initially had friendly relations with Newton. However, as Newton insinuated
+			 himself more and more into Flamsteed's work (he needed Flamsteed's observations
+			 of the Moon to establish his theories), their relations deteriorated.
+			 Eventually, Halley and Newton conspired to publish Flamsteed's work (as the
+			 <bibref><title>Historia Coelestis</title></bibref>), against his expressed
+			 wishes (the data was incomplete and not yet up to his high standards of
+			 accuracy). Flamsteed and Newton's feuding - particularly Newton's arrogance and
+			 Flamsteed's obstruction of Newton's quest for information - had a negative
+			 impact on the progress of science, Newton having abandoned some of his studies
+			 of the Moon because of Flamsteed's refusal to provide data on its orbit.</p> 
+		  <p>Flamsteed's least celebrated 'achievement' was to 'prove' stellar
+			 parallax, a problem which had obsessed astronomy since Copernicus had suggested
+			 the heliocentric system. His 'discovery', however, was worthless; the altered
+			 positions of the fixed stars were due to aberrations in the light of the stars
+			 that he observed. His error was so precisely noted, however, that the precise
+			 nature of the aberrations can now be precisely computed.</p> 
+		  <p>The complete, authorised version of Flamsteed's observations was
+			 only published posthumously (completed by his assistants) as the
+			 <bibref><title>Historia Coelestis Britannica</title></bibref>, including data
+			 on the positions of nearly 3000 stars - including a number of sightings of
+			 Uranus, which he believed to be a fixed star.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>John Flamsteed had a stormy working relationship with Edmund Halley
+			 and Isaac Newton.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Historia Coelestis</title> (<imprint><date
+			 type="publication" normal="1712">1712</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Historia Coelestis Britannica</title> (<imprint><date
+			 type="publication" normal="1725">1725</date></imprint>)</bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1674">1674</date>: Awarded Master of
+			 Arts by letters-patent, University of Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1675">1675</date>: Appointed
+			 Astronomer Royal</p> 
+		  <p><date type="appointmentdate" normal="1675">1675</date>: Ordained as
+			 Priest</p> 
+		  <p><date type="appointmentspan" normal="1677/1709">1677-1709</date>:
+			 Elected Fellow of the Royal Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname role="editor"
+			 normal="Gillispie, Charles C">Gillispie, Charles C</persname>,
+			 <title>Dictionary of Scientific Biography, vol V</title>, (<imprint><geogname
+			 normal="New York (N.Y., United States)" authfilenumber="483" source="lcsh">New
+			 York</geogname>, 
+			 <publisher>Scribner's</publisher>,<date type="publication"
+			 normal="1972">1972</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 VII</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			  certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Encyclopaedia Britannica, vol
+			 9</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			  normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			  certainty="certain">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020418">18 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0389 20020404 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0389</titleproper> 
+		  <subtitle>Lister | Sir | Joseph | 1827-1912 | baronet | professor of
+			 surgery, University of Glasgow</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 04 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020404">04 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0389</titleproper> 
+		<subtitle>Lister | Sir | Joseph | 1827-1912 | baronet | professor of
+		  surgery, University of Glasgow</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 04 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020404">04 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0389"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0389</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0389" normal="Lister, Sir, Joseph">Lister | Sir
+		  | Joseph | 1827-1912 | baronet | professor of surgery, University of
+		  Glasgow</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Joseph Lister (<date type="life-span"
+			 normal="1827/1912">1827-1912</date>) is one of the most important names in the
+			 history of surgery. The inventor of antiseptic surgery, Lister was born in 
+			 <date type="single" normal="1827">1827</date> into a Quaker family,
+			 the son of Joseph Jackson Lister, fellow of the Royal Society and inventor of
+			 the achromatic lens for microscopes. Because of his non-conformist religious
+			 beliefs, Lister was excluded from Oxford and Cambridge universities as well as
+			 King's College, London, so he studied medicine at University College. Here, he
+			 was influenced by opthalamist Wharton Jones and physiologist William
+			 Sharpley.</p> 
+		  <p>In 
+			 <date type="single" normal="1853">1853</date>, Lister moved to
+			 Edinburgh, and in 
+			 <date type="chairdate" normal="1860">1860</date>, he took the chair
+			 of clinical surgery at the University of Glasgow. It was here - and at the
+			 attached Royal Infirmary - that he became deeply involved with antiseptics. His
+			 work brought him into regular contact with the atrocious conditions at the
+			 Infirmary, where amputations had no more than a 60% survival rate, and
+			 operations to the abdomen and cranium were not even attempted because of the
+			 enormous risk of infection. Lister experimented with his new techniques on
+			 compound fracture victims, because their high mortality rates, and their
+			 frequency in an industrial city such as Glasgow made them ideal for repeated
+			 experimentation. His work continued when he obtained chairs in the University
+			 of Edinburgh in 
+			 <date type="chairdate" normal="1869">1869</date> and University of
+			 London in 
+			 <date type="chairdate" normal="1877">1877</date>.</p> 
+		  <p>Influenced by the theories of Pasteur, who had demolished the
+			 accepted belief that infection was due either to oxidation of the wound or
+			 'spontaneous generation' of pathogens, Lister began to experiment with chemical
+			 methods of preventing the infection of wounds by airborne bacilli. His early
+			 experiments involved the coating of wounds with a potent dose of carbolic acid
+			 (phenol, a coal tar derivate), which formed an antiseptic crust of coagulated
+			 blood on the wound. His earliest attempts at this procedure were unsuccessful,
+			 but he soon began to have remarkable improvements in success rates. His method
+			 was also applied to tuberculosis of the wrist joint, with a similar degree of
+			 success (it saved a number of lives, and also a number of hands from
+			 amputation). The drawback of the carbolic acid treatment, however, was the
+			 toxicity of the acid. He was aware that the damage caused by the acid treatment
+			 could also damage the body's repair mechanisms.</p> 
+		  <p>This led to the development of a number of antiseptic wound
+			 dressings designed to provide a disinfectant barrier between the wound and the
+			 surrounding air, while reducing to a minimum the carbolic acid entering the
+			 damaged tissue. This led to a dressing made of shellac (plaster) mixed with 25%
+			 carbolic acid, spread on calico and coated with gutta-percha dissolved in
+			 benzene. Thus, the carbolic acid prevented bacteria from entering the dressing
+			 and the gutta-percha prevented the carbolic acid from entering the wound. He
+			 also introduced the sterilisation of surgical instruments with heat and
+			 carbolic acid and the frequent cleaning of the surgeon's hands during an
+			 operation with a mild antiseptic solution. This avoided the caustic
+			 disinfectant from having to enter the wound while ensuring a germ-free
+			 environment. A carbolic acid spray (to disinfect the atmosphere of the
+			 operating theatre) was tried but eventually abandoned because the spray's very
+			 marginal benefits did not justify its dangerous side effects (carbolic acid
+			 inhalation). Cleanliness was a far better disinfectant for operating rooms.</p>
+		  
+		  <p>Lister's other innovations were improved ligatures (which, because
+			 of disinfection, could be fully embedded in the wound, without worry about
+			 infection, and therefore did not need to hang out of the wound as it healed)
+			 and the introduction into Britain of drainage tubes - which he used in an
+			 operation on Queen Victoria in his role as Surgeon in Ordinary to the
+			 monarch.</p> 
+		  <p>Despite the widespread academic hostility to and scepticism about
+			 his innovations (especially on his return to London), Lister served as
+			 president of the Royal Society (<date type="appointmentspan"
+			 normal="1895/1900">1895-1900</date>) and the British Association for the
+			 Advancement of Science (<date type="appointmentdate"
+			 normal="1896">1896</date>), as well as being a founding member of the British
+			 Institute of Preventative Medicine - which now bears his name. On his death,
+			 there was considerable support for a burial in Westminster Abbey, but he had
+			 insisted on being buried with his wife.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Joseph Lister was the son of Joseph Jackson Lister, a Fellow of the
+			 Royal Society and inventor of the achromatic doublet lens.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>The Collected Papers of Joseph, Baron Lister</title>,
+			 <imprint> (<date type="publication"
+			 normal="1909">1909</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1852">1852</date>: Awarded Batchelor of
+			 Medicine (MB), University of London</p> 
+		  <p><date type="single" normal="1852">1852</date>: Awarded Fellowship of
+			 the Royal College of Surgeons (FRCS)</p> 
+		  <p><date type="appointmentdate" normal="1860">1860</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="chairspan" normal="1860/1869">1860-1869</date>:
+			 Appointed Professor of Surgery, University of Glasgow</p> 
+		  <p><date type="chairspan" normal="1869/1877">1869-1877</date>:
+			 Appointed Chair of Clinical Surgery, University of Edinburgh</p> 
+		  <p><date type="chairspan" normal="1877/1892">1877-1892</date>:
+			 Appointed Chair of Clinical Surgery, King's College, London</p> 
+		  <p><date type="appointmentdate" normal="1878">1878</date>: Appointed
+			 Surgeon in Ordinary to Queen Victoria</p> 
+		  <p><date type="single" normal="1881">1880</date>: Awarded Honorary
+			 Doctorate, University of Cambridge</p> 
+		  <p><date type="single" normal="1880">1880</date>: Awarded Honorary
+			 Doctorate, University of Oxford</p> 
+		  <p><date type="single" normal="1881">1881</date>: Awarded Boudet
+			 Prize</p> 
+		  <p><date type="single" normal="1883">1883</date>: Awarded Baronetcy of
+			 Lyme Regis</p> 
+		  <p><date type="single" normal="1885">1885</date>: Awarded Prussian
+			 Honour "pour le m&#x00C3;&#x00A9;rite"</p> 
+		  <p><date type="appointmentdate" normal="1893">1893</date>: Elected
+			 Foreign Secretary, Royal Society</p> 
+		  <p><date type="appointmentspan" normal="1894/1900">1894-1900</date>:
+			 Elected President of the Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1896">1896</date>: President,
+			 British Association for the Advancement of Science</p> 
+		  <p><date type="single" normal="1902">1902</date>: Awarded Order of
+			 Merit</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol VIII</title>, ( 
+			 <imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1973"
+			 certainty="certain">1973</date>)</imprint></bibref></p> 
+		  <p><bibref><title render="italic">Concise Dictionary of National
+			 Biography, vol II, 1901-1970</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="532" normal="Oxford (England)">Oxford
+			 </geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1982"
+			 certainty="certain">1982</date>)</imprint></bibref> </p> 
+		  <p><bibref><title render="italic">Encyclopaedia Britannica, vol
+			 14</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			 normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			 certainty="certain">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Usher, Olivier</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020404">04 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0588 20020515 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0588</titleproper> 
+		  <subtitle>Farmer | Sir | John Bretland | 1865-1944 | professor,
+			 Imperial College of Science and Technology, London (England)</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 15 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020415">15 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0588</titleproper> 
+		<subtitle>Farmer | Sir | John Bretland | 1865-1944 | professor, Imperial
+		  College of Science and Technology, London (England)</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 15 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections Division
+		  </publisher> 
+		<date type="single" normal="20020415">15 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0588"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0588</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0588"
+		 normal="Farmer, Sir, John Bretland">Farmer | Sir | John Bretland | 1865-1944 |
+		  professor, Imperial College of Science and Technology, London
+		  (England)</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir John Bretland Farmer (<date type="life-span"
+			 normal="1865/1944">1865-1944</date>) was an important botanist at the Royal
+			 College of Science (now Imperial College, London) who pioneered the teaching of
+			 skills useful for applied botany in the British colonies, transformed his
+			 university department and was responsible for a number of scientific studies
+			 into chromosomes, cancer and plant physiology.</p> 
+		  <p>While studying at Magdalen College, Oxford, Farmer was influenced by
+			 Isaac Bayley Balfour (<date type="life-span"
+			 normal="1853/1922">1853-1922</date>), who was at the time the Sherardian
+			 professor of botany. Balfour encouraged Farmer to concentrate on botany, which
+			 he did. He graduated with first class honours in Natural Science in 
+			 <date type="single" normal="1883">1883</date>.</p> 
+		  <p>A formative experience in Farmer's life was his trip to Ceylon (now
+			 Sri Lanka). During this journey, in which he gained experience of the
+			 agricultural systems in use in the colonies, and the problems faced by mass
+			 agriculture in a tropical climate, he became convinced of the necessity of
+			 teaching students the practical details of botany, as well as the theoretical
+			 approach, so that they could be of use to this industry. When he took charge of
+			 the botany section at the Royal College of Science, he became the first to
+			 teach in this unconventional manner.</p> 
+		  <p>Among the subjects discussed in his publications were cancerous
+			 tissues. Farmer argued that cancerous tissue was made up of cells that had
+			 developed into "gametoid" form - they had taken on characteristics of
+			 reproductive (gametogenic) cells. Another of his publications reported an
+			 experiment he had conducted which showed that certain oxygen-requiring
+			 biological processes in plants could continue without an external source of
+			 oxygen, providing they were illuminated. This he explained by the production in
+			 the plants by respiration of oxygen from carbon dioxide. In other works, Farmer
+			 coined the terms 'meiosis' and 'meiotic', investigated wood's ability to
+			 conduct water and disproved (in association with Miss L. Digby a theory
+			 relating the size of chromosomes with the type of animal. </p> 
+		  <p>Farmer was appointed by the government to investigate the workings
+			 of the agriculture departments of Britain's non self-governing colonies. The
+			 recommendations he made, based in part on his experiences of Ceylon and his
+			 experience as professor of botany, made a considerable impact on the
+			 agricultural techniques of these territories.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Sir John Bretland Farmer was influenced while at university by Isaac
+			 Bayley Balfour (<date type="life-span" normal="1853/1922">1853-1922</date>)</p>
+		  
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>None</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1883">1883</date>: Awarded First Class
+			 Degree, Magdalen College, Oxford</p> 
+		  <p><date type="appointmentdate" normal="1892">1892</date>: Appointed
+			 Assistant-Professor of Botany, Royal College of Science</p> 
+		  <p><date type="appointmentdate" normal="1895">1895</date>: Appointed
+			 Professor of Botany, Royal College of Science</p> 
+		  <p><date type="appointmentdate" normal="1900">1900</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="single" normal="1919">1919</date>: Awarded Royal Medal
+			 of the Royal Society</p> 
+		  <p><date type="appointmentspan" normal="1919/1921">1919-1921</date>:
+			 Elected Vice-President of the Royal Society</p> 
+		  <p><date type="single" normal="1926">1926</date>: Awarded
+			 Knighthood</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><corpname normal="Royal Society" role="editor">Royal
+			 Society</corpname>, <title>Obituary Notices of Fellows of the Royal Society
+			 1945-1948</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Royal Society</publisher>, 
+			 <date type="publication" normal="1943/1953"
+			 certainty="uncertain">c1948</date>)</imprint></bibref></p> 
+		  <p> <bibref> <title>Concise Dictionary of National Biography</title>, (
+			 <imprint><geogname source="lcsh" authfilenumber="532"
+			 normal="London (England)">London (England)</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			 certainty="certain">1992</date>)</imprint></bibref></p> 
+		  <p><bibref><persname source="ncarules" normal="Black, Adam"
+			 role="editor">Black, Adam</persname>,
+			 <persname source="ncarules" normal="Black, Charles" role="editor">Black,
+			 Charles</persname>, <title>Who Was Who 1941-1950</title>, (<imprint><geogname
+			 source="lcsh" authfilenumber="530" normal="London (England)">London</geogname>,
+			 
+			 <publisher>A &amp; C Black</publisher>, 
+			 <date type="publication" normal="1952"
+			 certainty="certain">1952</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020415">15 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

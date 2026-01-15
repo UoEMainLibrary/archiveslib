@@ -1,0 +1,22 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Edinburgh Scotland </title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/geog/a/">Authority terms: geographic names</a> &gt; <a href="/towardsdolly/geog/e/">e</a><h1>Edinburgh Scotland </h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=geog&id=517&term=Edinburgh Scotland " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057&view=basic">Papers of Alan W. Greenwood </a> (1800-1984) </li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14&view=basic">Papers of James Cossar Ewart </a> (1866-1935) </li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41&view=basic">Papers of Conrad Hal Waddington </a> (1923-1976) </li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACU-A1&view=basic">Records of the Institute of Animal Genetics </a> (1926-1992) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364&view=basic">Papers of Dr. Alan Beatty </a> (1937-1993) </li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-487&view=basic">Crossbreeding studies with sheep at the Animal Breeding Research Organisation, Edinburgh </a> (1974) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-934&view=basic">All the unknown is a source of wonder </a> (1974) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-548&view=basic">The Langhill breeding programme </a> (1976) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

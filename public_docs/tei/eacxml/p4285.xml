@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4285</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2012-05-01">1 May 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>15 November </eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for parish of Ardnamurchan</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 505/03 002/03 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>1871 census for parish of Tiree</sourceEntry>
+                <descriptiveNote>
+                    <p xmlns:ns1="http://www.w3.org/1999/xlink"><span localType="ead-unitid">Census
+                            1871 551/01 003/01 007</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>1881 census for parish of Kilninian and Kilmore</sourceEntry>
+                <descriptiveNote>
+                    <p xmlns:ns1="http://www.w3.org/1999/xlink"><span localType="ead-unitid">Census
+                            1881 549/00 003/00 007</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>1891 census for parish of Kilninian and Kilmore</sourceEntry>
+                <descriptiveNote>
+                    <p xmlns:ns1="http://www.w3.org/1999/xlink"><span localType="ead-unitid">Census
+                            1891 549/00 002/00 011</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Marriage certificate parish of Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1856 529/00 0002</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Death certificate parish of Tobermory</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1900 549/00 0009</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW7/24</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source>
+            <source>
+                <sourceEntry>Transcription notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW122</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Publication</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="mods-titleinfo">Carmina Gadelica vol ii</span>
+                        <span localType="mods-name" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >Carmichael, Alexander</span><span localType="mods-place"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">Edinburgh</span><span
+                            localType="mods-date" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >1900</span><span>p 379</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Publication</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="mods-titleinfo">Carmina Gadelica vol iv</span>
+                        <span localType="mods-name" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >Carmichael, Alexander</span><span localType="mods-place"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">Edinburgh</span><span
+                            localType="mods-date" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >1941</span><span>pp 96-97</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Publication</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="mods-titleinfo">Carmina Gadelica vol v</span>
+                        <span localType="mods-name" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >Carmichael, Alexander</span><span localType="mods-place"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">Edinburgh</span><span
+                            localType="mods-date" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >1954</span><span>pp 360-367</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Campbell of Islay papers</sourceEntry>
+                <descriptiveNote>
+                    <p><span xmlns:ns1="http://www.w3.org/1999/xlink">Conn mac an Deirg</span><span
+                            localType="mods-titleinfo">NLS Adv. MS 50.2.20 ff. 148-151</span><span
+                            localType="mods-url">National Library of Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Campbell of Islay papers</sourceEntry>
+                <descriptiveNote>
+                    <p><span>Cian mac an Luaimh</span><span localType="mods-titleinfo">NLS Adv. MS
+                            50.2.3 ff. 194-195</span>
+                        <span localType="mods-url">National Library of Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Campbell of Islay papers</sourceEntry>
+                <descriptiveNote>
+                    <p><span>Songs and list of poems recited by Duncan Cameron</span><span
+                            localType="mods-titleinfo">NLS Adv. MS 50.2.4 ff. 55-59</span>
+                        <span localType="mods-url">National Library of Scotland</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4285</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Cameron</part>
+                <part localType="given">Duncan</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Police Officer, Lochaline, Argyllshire. </p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1818" notBefore="1813" notAfter="1823">c1818</fromDate>
+                    <toDate standardDate="1900-03-07">7 March 1900</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Duncan Cameron was born c1818 in Morvern. As his name doesn't appear in this area
+                    in the 1841 or 1851 censuses, it is possible that he was away on police service.
+                    He may have been away in Westport, Co. Mayo, where his wife was born, but we
+                    should note that she was living in Muckairn when they married in 1856.</p>
+                <p>In 1856 Duncan Cameron (38), police constable, living in Strontian, son of
+                    Alexander Cameron and Catherine Cameron (deceased) was married in the Parish of
+                    Muckairn on 20 October to Mary Anne Leonard, 26. Mary Anne was living in Aird,
+                    Muckairn and was the daughter of Laurence Leonard of the Inland Revenue and
+                    Bridget Leonard née MacManus (deceased). The witnesses as noted on the
+                    certificate were William MacPherson and John MacCallum.</p>
+                <p>In 1886 Carmichael met Duncan Cameron on 7 August while in Lochaline. Later on
+                    his trip would take him to Mull. He describes him as 'a man of great
+                    intelligence and full of the old lore of the old Highland people.' He recorded a
+                    blessing for newly woven clothes, 'Coisrigeadh an Aodaich', as well as possibly
+                    a couple of charms. He may have visited him later at his house in Tobermory,
+                    where he saw a couple of harvest maidens, maighdeannann-buana, on the wall.
+                    Clearly Duncan Cameron must have acquired material in Tiree as well as from his
+                    own family background.  </p>
+                <p>Probably in the late 1860s Duncan Cameron, described as 'maor riaghailt an
+                    Tiriodh', gave John Dewar part of the Fenian ballad Conn man an Deirg ['aireamh
+                    beag de na roinn']: NLS Adv. MS 50.2.20 ff. 148-151.</p>
+                <p>On 1 May 1871 the Rev. John Gregorson Campbell of Tiree wrote to John Francis
+                    Campbell sending a copy of Cian mac an Luaimh, most of which was got from Duncan
+                    Campbell: NLS Adv. MS 50.2.3 ff. 194-195.</p>
+                <p>On 12 September 1871 John Francis Campbell met Duncan Cameron at Scarinish in
+                    Tiree. Cameron sang The Lay of the Muireartach and An t-Amadan Mòr, both of
+                    which he learnt from his mother, his grandmother, and old man John Mackinnon,
+                    shoemaker in Mull about Freichadal, and from his grandfather, who lived in
+                    Morvern 'whence all the people have been driven out'. He also gave Campbell the
+                    traditional warning given at Glencoe before the massacre:'Faic m' eich-sa agus
+                    t' eich fhéin.' Later on, before a bigger audience, Cameron sang The Song of the
+                    Smithy [Laoidh na Ceàrdaich]; Luidh a' Choin Mhòir; Luidh Mhànuis; Sgial air
+                    Conn Mac an Deirg [a-rithist]; a single stanza; and a Fairy Changeling's Charm.
+                    He ended by giving Campbell a list of 31 poems he could sing: NLS Adv. MS 50.2.4
+                    fos. 55-59.</p>
+                <p>In 1900 Duncan Cameron, ex-constable, widower of Mary Ann Leonard, died 7 March at
+                    0:45am at Argyll Terrace, Tobermory. He had suffered from senile debility for
+                    several months and his son, Duncan Cameron, signed the certificate. </p>
+                <p>In the second volume of Carmina Gadelica, published later that year, Alexander
+                    Carmichael says 'Much traditional lore of great excellence died with this highly
+                    intelligent lorist.' In Carmina, to Cameron are ascribed 'Coisrigeadh an
+                    Aodaich' (blessing of newly woven clothes), 'Sian a Bheatha Bhaun' (protective
+                    charm), and 'An Tuis' (The Incense). The 'Coisrigeadh', or another version of
+                    it, is again printed in Carmina, vol. iv, pp. 96-97. In Carmina, vol. v, pp.
+                    360-367, we have the story and song of 'Mairearad Bhòidheach', which he probably
+                    picked up in the Ross of Mull.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1818" notBefore="1813" notAfter="1823">c1818</date>
+                        <placeEntry>Morvern, Argyllshire</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1886-08-07">7 August 1886</date>
+                        <placeEntry>Lochaline, Argyllshire</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1900-03-07">7 March 1900</date>
+                        <placeEntry>Tobermory, Argyllshire</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-50">GB 237
+		Coll-50</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Manuscripts of
+			 George Mackay Brown (1921-1996) </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-50">
+    <did>
+      <unittitle>Manuscripts of
+			 George Mackay Brown (1921-1996) </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-50</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 1776-1779; Gen. 1865-1868; Gen. 1885; Gen 1929; Gen.
+		  1946-1947; Gen. 1957; Gen. 1970; Gen. 1997-1998; Gen. 2029; Gen. 2083; Gen.
+		  2134; MSS 2841-2846; MSS 3111-3120 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Manuscripts of George Mackay Brown
+		  (1921-1996) </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1949-1994">1949-1994 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>30 boxes (3
+		  m); 14 folders. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Poet and author George Mackay Brown was born in Stromness, Orkney, 17
+		  October 1921 where he lived much of his life. He attended Edinburgh University
+		  as a mature student in the late-1950s after preparatory studies at Newbattle
+		  Abbey College, near Edinburgh. George Mackay Brown believed that his place as a
+		  writer was at the heart of the community into which he was born, but although
+		  his work is confined in place it has a broad range, from plays, children's
+		  books, essays, to novels and short stories. It is for his novels though that he
+		  is most famous, 
+		Greenvoe  1972), 
+		Magnus  (1973), 
+		Beside the ocean of time  (1994). Short stories have
+		included 
+		A calendar of love  (1967) and 
+		A time to keep . Poetry has included 
+		Loaves and fishes  (1959), 
+		The year of the whale  (1968), and 
+		The wreck of the Archangel  (1995), the latter which
+		earned him a Booker Prize short list citation in 1994 and the Saltire Scottish
+		Book of the Year Award, 1995. George Mackay Brown died in Kirkwall, Orkney, 13
+		April 1996 </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The collection includes letters, manuscript drafts, typescripts,
+		  proofs of poems, plays, stories and novels. These are often in George Mackay
+		  Brown's original folders or envelopes. There are folders containing reviews,
+		  articles, essays, short stories and broadcasts; drafts of uncollected poems;
+		  and, scripts. A collection of small notebooks containing notes of letters
+		  written weekly, and of drafts of poems. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H50; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

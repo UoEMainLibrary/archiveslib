@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1101">GB
+		237 Coll-1101</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Panoramic scene of the field of Battle, near Waterloo, for
+			 the Panorama, Leicester Square, by Henry Aston Barker, 1816</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20061213" certainty="certain">13 December
+			 2006</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1101"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1101</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2006.41</physloc><unittitle
+		encodinganalog="isadg(2)312">Panoramic scene of the field of Battle, near
+		  Waterloo, for the Panorama, Leicester Square, by Henry Aston Barker,
+		  1816</unittitle><unitdate normal="1816/1816"
+		encodinganalog="isadg(2)313">1816</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">8 parts, 60cm x 29cm </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Barker, Henry Aston</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>Henry Aston Barker (1774-1856) was the younger son of Robert Barker
+		  (1739-1806), the panorama painter. Aged 12, he was sent by his father to take
+		  outlines of Edinburgh from the city's Calton Hill for the world's first 360
+		  degree exhibition panorama.</p> 
+		<p>In London, Barker panoramas were exhibited at an establishment in
+		  Castle Street, off Leicester Square. The first being a view of London from the
+		  roof of the Albion Mills in 1791, the drawings for which were made by the young
+		  Henry. </p>
+		<p>Later on, from 1793, Barker panoramas moved to the first purpose-built
+		  panorama building in the world, in Leicester Square, London.</p>
+		<p>The scenes for the panorama of the field of battle at Waterloo were
+		  drawn on the spot by Barker and were produced for sale to visitors to the
+		  panorama at Leicester Square. Barker had also visited Paris to research the
+		  project and to interview officers who participated in the battle. The scenes
+		  were etched by J. Burnet.</p>
+		<p>The Barkers earned around Pounds 10,000 from the Waterloo
+		  exhibition.</p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>There are 8 parts to the panorama and it was intended that they be
+		  joined together to form a complete circle. The viewer would then stand in the
+		  centre and have a panoramic view of the entire scene of Battle.</p> 
+		<p>Each part is around 60cm x 29cm.</p>
+		<p>Drawn on the Plateau of Mont St. Jean, they show:
+		  <list>
+			 <item>- No.1 -The farm at La Haye Saint, and more</item>
+			 <item>- No.2 - Around the orchard of La Haye Saint, and more</item>
+			 <item>- No.3 - Prominent part of the Plateau of Mont St. Jean, and
+				more</item>
+			 <item>- No.4 - The crest of the hill on which the Imperial Guards
+				were charged, and more</item>
+			 <item>- No.5 - The village of Braine La Leude, and more</item>
+			 <item>- No.6 - The village of Mont St. Jean, and more</item>
+			 <item>- No.7 - The Forest of Soigne, and more</item>
+			 <item>- No.8 - Road and hedge leading to Ter La Haye, and more</item>
+		  </list></p>
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<phystech encodinganalog="isadg(2)344"> 
+		  <head>Physical Characteristics and Technical Requirements</head> 
+		  <p>Some water-staining and dust-soiling to the parts, and one (No.3) is
+			 trimmed to the dge of the plate.</p></phystech> 
+		<arrangement encodinganalog="isadg(2)334"> 
+		  <head>System of Arrangement</head> 
+		  <p><?xm-replace_text {Arrangement}?></p> 
+		</arrangement> 
+		<custodhist> 
+		  <head>Archival History</head> 
+		  <p><?xm-replace_text {Custodial History}?></p> 
+		</custodhist> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p><?xm-replace_text {Acquisition Information}?></p> 
+		</acqinfo> 
+		<appraisal encodinganalog="isadg(2)332"> 
+		  <head>Appraisal</head> 
+		  <p><?xm-replace_text {Appraisal}?></p> 
+		</appraisal> 
+		<accruals encodinganalog="isadg(2)333"> 
+		  <head>Accruals</head> 
+		  <p><?xm-replace_text {Accruals}?></p> 
+		</accruals> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p><?xm-replace_text {Conditions Governing Access}?></p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="isadg(2)342"> 
+		  <head>Conditions Governing Reproduction</head> 
+		  <p><?xm-replace_text {Restrictions on Reproduction}?></p> 
+		</userestrict> 
+		<altformavail encodinganalog="isadg(2)352"> 
+		  <head>Existence and Locations of Copies</head> 
+		  <p><?xm-replace_text {Alternative Forms}?></p> 
+		</altformavail><originalsloc encodinganalog="isadg(2)351"> 
+		  <head>Existence and Locations of Originals</head> 
+		  <p><?xm-replace_text {Location of Originals}?></p></originalsloc> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p><?xm-replace_text {Other Finding Aids}?></p> 
+		</otherfindaid> 
+		<relatedmaterial encodinganalog="isadg(2)353"> 
+		  <head>Related Material</head> 
+		  <p>Special Collections, Edinburgh University Library, also has a
+			 'Panorama of Edinburgh from Calton Hill, by Robert Barker (1739-1806)' which
+			 holds accession no: E2006.22.</p> 
+		</relatedmaterial> 
+		<bibliography encodinganalog="isadg(2)354"> 
+		  <head>Publication Note</head> 
+		  <p><?xm-replace_text {Bibliography}?></p> 
+		</bibliography> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p><?xm-replace_text {Note}?></p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p><?xm-replace_text {Archivist's Note}?></p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Panoramas</emph></subject> 
+		  <subject><emph altrender="a">Waterloo, Battle of, 1816</emph></subject>
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph altrender="surname">Burnet</emph><emph
+			 altrender="forename">J.</emph><emph
+			 altrender="epithet">Engraver</emph></persname> 
+		  <persname rules="ncarules"><emph altrender="surname">Barker</emph><emph
+			 altrender="forename">Henry Aston</emph><emph
+			 altrender="dates">1774-1856</emph><emph
+			 altrender="epithet">Artist</emph></persname>
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

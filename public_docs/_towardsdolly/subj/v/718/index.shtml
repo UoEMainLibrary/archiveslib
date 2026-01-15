@@ -1,0 +1,19 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Veterinary Medicine</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/v/">v</a><h1>Veterinary Medicine</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=718&term=Veterinary Medicine" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-10-2&view=basic">Letter to James Cossar Ewart from James Richard Ainsworth-Davis </a> (1904) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-19-14&view=basic">Letter to Henry John Elwes from James Cossar Ewart </a> (1913) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-213&view=basic">Veterinary genetics </a> (1965) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-756&view=basic">Kompendium der Geflugelkrankheiten by O. Siegman [Book review] </a> (1972) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-342&view=basic">Merck Veterinary Manual, 6th Edition. Edited by C.M. Fraser, 1986. XXVII+1677 pp. Rahway, New Jersey, Merck &amp; Co. Inc. o16.95. ISBN 0-911910-53-0 [Book review] </a> (1988) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

@@ -1,0 +1,30 @@
+<?php
+$holidayList = array("04-03-2008","07-03-2008");
+$j = $i = 0; //changed this to 0 or you were always starting one day ahead
+$given_date = $results['received'];
+$tmp1 = strtotime($given_date); //worked out a timstamp to start with
+while($i < 20)
+{
+$tmp2 = strtotime("+$j day", $tmp1);
+$day = strftime("%A",$tmp2);
+//echo strftime("%d-%m-%Y",$tmp2);
+
+    $tmp = strftime("%d-%m-%Y",$tmp2);
+    if(($day != "Sunday") && ($day != "Saturday" )&&(!in_array($tmp, $holidayList)))
+    {
+        $i = $i + 1;
+        $j = $j + 1;
+        
+    }
+    else
+    {
+        $j = $j + 1;
+       
+    }
+}
+    $j = $j -1;
+$newdate = strtotime("+$j day",$tmp1);
+$due_date = strftime("%Y-%m-%d",$newdate);
+
+
+?>

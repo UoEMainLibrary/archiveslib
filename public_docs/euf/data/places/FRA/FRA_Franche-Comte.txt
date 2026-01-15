@@ -1,0 +1,6 @@
+<!-- THIS FILE MUST BE SAVED IN UTF-8 ENCODING (or some special characters will be lost) -->
+<!-- $Id: FRA_Franche-Comte.txt,v 1.2 2005/03/30 23:44:37 yalnifj Exp $ -->
+Doubs
+Haute-Saône
+Jura
+Territoire de Belfort

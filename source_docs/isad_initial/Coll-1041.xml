@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-1041"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-1041</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Professor James Robertson (1714-1795) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds" id="GB-237-Coll-1041"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237
+		  Coll-1041</unitid> 
+		<physloc>Gen. 172-173 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Professor James Robertson
+		  (1714-1795) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260" normal="1795"
+		 certainty="uncertain">before 1795 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>2 boxes
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>James Robertson was born in the parish of Cromarty in 1714. He studied
+		  at Aberdeen and then at Leyden University where he graduated in January 1749.
+		  At Leyden he had studied under Albert Schultens, the Dutch orientalist. He next
+		  went to Oxford studying Hebrew under Thomas Hunt. Robertson was offered the
+		  Chair of Hebrew in Doddridge's Theological Academy in Northampton, but instead
+		  became Professor of Hebrew at Edinburgh University on 25 June 1751 backed by a
+		  testimonial from Schultens. He compiled the 
+		<title>Grammatica linguae Hebraeae </title> (1758) and later on published
+		
+		<title>The resemblance of Jesus to Moses considered </title> (1765), and 
+		<title>Clavis Pentateuchi </title> (1770), the latter of which was a
+		critical analysis of the Hebrew version of the Pentateuch. Between the years
+		1763 and 1785, Robertson was also the University Librarian and with a small
+		team he compiled the Library's first alphabetical catalogue. James Robertson
+		retired from the Chair of Hebrew in 1792. After some years of physical
+		infirmity, he died at Middlefield, Leith, in Edinburgh, on 26 November 1795.
+		</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of Professor James Robertson consist of notes on oriental
+		  languages. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Robertson</emph> <emph altrender="forename">James</emph>
+		  <emph altrender="dates">1714-1795</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Schultens</emph> <emph altrender="forename">Albert</emph>
+		  <emph altrender="dates">1686-1750</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Hunt</emph> <emph altrender="forename">Thomas</emph>
+		  <emph altrender="dates">1696-1774</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Hebrew language</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows references to lists of students of
+		  Hebrew at Edinburgh University, 1750-82, and a certificate from Robertson
+		  testifying to the classes taken by a student in May 1773. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

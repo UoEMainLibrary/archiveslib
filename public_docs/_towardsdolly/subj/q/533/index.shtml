@@ -1,0 +1,20 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Quagga</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/q/">q</a><h1>Quagga</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=533&term=Quagga" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-4-9&view=basic">Letter to James Cossar Ewart from James Stewart </a> (1898) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-6-11&view=basic">Letter to James Cossar Ewart from Graham Renshaw </a> (1900) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-6-19&view=basic">Letter to James Cossar Ewart from Graham Renshaw </a> (1900) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-10-102&view=basic">Letter to James Cossar Ewart from Sir William Ridgeway </a> (1904) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-10-93&view=basic">Letter to James Cossar Ewart from Sir William Ridgeway </a> (1904) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-12-12&view=basic">Letter to James Cossar Ewart from Arthur J. Balding </a> (1906) Papers of James Cossar Ewart</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

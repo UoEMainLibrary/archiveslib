@@ -1,0 +1,32 @@
+<title>
+<? if (isset ($pagetitle)) { echo $pagetitle; } else { echo "Edinburgh University Library Special Collections"; } ?>
+</title>
+</head>
+<body>
+
+<table summary="" width="100%" cellpadding='0' cellspacing='0'>
+<tr><td class="banner"><a href="http://www.ed.ac.uk/" title="Link to The University of Edinburgh home page"><img src="/images/uoe_logo.jpg" alt="The University of Edinburgh crest" width="84" height="84" border="0"></a><a href="http://www.is.ed.ac.uk/" title="Link to Information Services home page"><img src="/images/is_logo.jpg" alt="Information Services banner" width="546" height="84" border="0"></a> 
+</td>
+<td class="banner">
+  <div class="banner-menu">
+  		<ul>
+  			<li><a href="http://www.lib.ed.ac.uk/">Library</a></li>
+ 			<li><a href="http://www.lib.ed.ac.uk/speccoll/">Special Collections</a></li>
+ 			<li><a href="http://www.lib.ed.ac.uk/speccoll/catalogues.shtml">Catalogues</a></li>
+ 			<li><a href="http://www.lib.ed.ac.uk/speccoll/contact.shtml">Contact us</a></li>
+		</ul>
+ </div>
+</td>				
+</tr>
+<tr>
+  		  <td colspan="2" style="background-color: #f0f0f0; padding: 5px; border-bottom: solid #cccccc 1px; font-weight: bold;"> 
+            <a href="http://www.is.ed.ac.uk/" title="Information Services Home"><abbr title="Information Services">IS</abbr>&nbsp;Home</a> 
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to:&nbsp;<a href="http://www.lib.ed.ac.uk/">Library</a>&nbsp;| 
+            <a href="http://www.ucs.ed.ac.uk/">Computing Services</a>&nbsp;|&nbsp;<a href="http://www.elearn.malts.ed.ac.uk/">eLearning</a>&nbsp;| 
+            <a href="http://datalib.ed.ac.uk/">Data&nbsp;Library</a>&nbsp;|&nbsp;<a href="http://www.mis.ed.ac.uk/" title="Applications Division, formerly known as Management Information Services">Applications 
+            Division</a></td>
+	</tr>
+<tr><td>[<span style="font-style: italic; background-color: #ffff99;">You are here:</span>] <a href="http://www.lib.ed.ac.uk/">Library</a> : <a href="http://www.lib.ed.ac.uk/resources/">Resources</a> : <a href="http://www.lib.ed.ac.uk/resources/collections/">Collections</a> : <a href="http://www.lib.ed.ac.uk/speccoll/">Special Collections</a></td></tr>
+</table>
+<div style="margin-left:10px; margin-right:10px;">
+<div class="content">

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p3978</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-04-20">20 April 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>16 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW105/17</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Web page on
+                    www.edinphoto.org.uk</sourceEntry><descriptiveNote>
+                    <p><span localType="mods-url"
+                            >http://www.edinphoto.org.uk/pp/pp_armstrong.htm</span><span
+                            localType="mods-url-dateLastAccessed">20 April 2010</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p3978</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Armstrong</part>
+                <part localType="given">Robert</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Photographer, Edinburgh</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1817">1817</fromDate><toDate
+                        standardDate="1870">1870</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Robert Armstrong was a professional photographer, based at 63 Princes Street from
+                    1855 to 1865, then at 75 Princes Street from 1865 to 1867. He was a member of
+                    the Photographic Society of Scotland from 1857. Alexander Carmichael mentions
+                    him in a brief note, giving his address as 63 Princes Street, Edinburgh.</p>
+                <chronList>
+                    <chronItem><date standardDate="1817">1817</date><event>birth</event></chronItem>
+                    <chronItem>
+                        <date standardDate="1870">1870</date>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

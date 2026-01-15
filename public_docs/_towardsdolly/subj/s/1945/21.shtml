@@ -1,0 +1,21 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Science, Study and Teaching</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/s/">s</a><h1>Science, Study and Teaching</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=1945&term=Science, Study and Teaching" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACA-SCI-1-21&view=basic">Faculty of Science Minute Book </a> (1959-1963) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACA-SCI-1-20&view=basic">Faculty of Science Minute Book </a> (1959-1963) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACA-SCI-1-22&view=basic">Faculty of Science Minute Book </a> (1963-1966) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACA-SCI-1-24&view=basic">Faculty of Science Minute Book </a> (1967-1969) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACU-S1&view=basic">Science Studies Unit </a> (1969-1971) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACA-SCI-1-25&view=basic">Faculty of Science Minute Book </a> (1969-1972) Records of the University of Edinburgh</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

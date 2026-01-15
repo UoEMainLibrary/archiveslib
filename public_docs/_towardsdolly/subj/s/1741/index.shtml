@@ -1,0 +1,24 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Scientific Experiments</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/s/">s</a><h1>Scientific Experiments</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=1741&term=Scientific Experiments" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-2-1&view=basic">Notebook containing detailing various poultry experiments, 1925-1929 </a> (1929) Papers of Alan W. Greenwood</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-335&view=basic">Operational research: A third channel of scientific inquiry </a> (1964) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-395&view=basic">Spectrophotometric microdetermination of aldoses with p-amino-benzoic acid </a> (1966) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-835&view=basic">INTVAL - A subroutine to measure inter-event intervals </a> (1973) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-832&view=basic">A flexible data buffer display routine for LAB-8 systems </a> (1973) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-833&view=basic">NORDER - A subroutine to generate Nth order histograms for inter-event intervals </a> (1973) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-834&view=basic">FREQHS - A subroutine to generate a frequence histogram from stored interval measurements </a> (1973) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-359&view=basic">The value of pig selection experiments </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-464&view=basic">The Roslin QTL experiments </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-361&view=basic">Impact of selection strategies on carcass and meat quality - the Edinburgh-Wye lean growth experiment </a> (1994) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

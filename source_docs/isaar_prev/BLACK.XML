@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0509-20020128//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0509</titleproper> 
+		  <subtitle>Black | Joseph | 1728-1799 | professor of chemistry,
+			 University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 28 January 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020128">28 January 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0509</titleproper> 
+		<subtitle>Black | Joseph | 1728-1799 | professor of chemistry, University
+		  of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+		  University Library Special Collections Division, 28 January 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020128">28 January 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0509"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0509</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0509" normal="Black, Joseph">Black | Joseph |
+		  1728-1799 | professor of chemistry, University of Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p> Joseph Black originally studied arts at the University of Glasgow.
+			 However, at his father's request, he switched to study chemistry under the
+			 tutelage of William Cullen, and became his assistant. In 
+			 <date normal="1751" type="single">1751</date> Black returned to
+			 Edinburgh to complete his medical training, and in 
+			 <date normal="1754" type="single">1754</date> he presented to the
+			 faculty his thesis which chiefly dealt with the subject of acidity of the
+			 stomach. In his thesis he upturned previous notions, by introducing quantitaive
+			 as well as qualitative analysis into chemistry, and demonstrated the presence
+			 of something he called 'fixed air', a gas distinct from air, and which French
+			 chemists later called 'carbonic acid gas'. In 
+			 <date normal="1755" type="appointmentdate">1755 </date> Black
+			 succeeded Cullen as Professor of medicine at the University of Glasgow, where
+			 he lectured on chemistry as well as medicine and it was during this
+			 professoriate that he made a further contribution to the advancement of
+			 science, namely the formulation of the doctrine of latent heat, calorimetry,
+			 the first accurate method of measuring heat, and the device itself, the
+			 calorimeter. This discovery was backed up by researches into the laws of
+			 boiling and evaporation, and it was these studies in particular which
+			 interested Joseph Black's friend and colleague James Watt, thus laying the
+			 foundations for the practical application of steam power. </p> 
+		  <p>In 
+			 <date normal="1766" type="appointmentdate">1766</date>, following
+			 William Cullen's retiral from the post, Black accepted the chair of chemistry
+			 and medicine at the University of Edinburgh, where his lectures continued to be
+			 appreciated and well-attended. He also toook a keen interest in industrial
+			 developments, in such fields as bleaching, brewing , glassworks, iron-making
+			 and furnace construction.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p> </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Experiments Upon Magnesia Alba, Quicklime and Some
+			 Other Alcaline Substances. Essays and Observations Physical and Literary,
+			 2</title>, ( <imprint><date type="publication" normal="1756"
+			 certainty="certain">1756</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date normal="1767" type="appointmentdate">1767</date>: Elected
+			 Fellow, Royal College of Physicians</p> 
+		  <p><date type="appointmentdate" normal="1788">1788</date>: Appointed
+			 President, Royal College of Physicians</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles Coulston"
+			 role="editor">Gillispie, Charles Coulston</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol ii</title>, (<imprint>
+			 <geogname normal="United States" authfilenumber="511" source="lcsh">United
+			 States of America</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1972"
+			  certainty="certain">1972</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="McIntyre, Peter" role="author">Peter
+			 McIntyre</persname>, <title render="italic">The University Portraits: Joseph
+			 Black</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			  normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Edinburgh University Press</publisher>, 
+			 <date type="publication" normal="1957"
+			  certainty="certain">1957</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Williams, Trevor I" role="editor">Williams,
+			 Trevor I</persname>, <title render="italic">A Biographical Dictionary of
+			 Scientists</title>, (<imprint>
+			 <geogname normal="London (England)" authfilenumber="530"
+			  source="lcsh">London</geogname>, 
+			 <publisher>A and C Black</publisher>, 
+			 <date type="publication" normal="1969"
+			  certainty="certain">1969</date>)</imprint></bibref> </p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Grant, Sir Alexander" role="editor">Sir
+			 Alexander Grant</persname>, <title render="italic">The Story of the University
+			 of Edinburgh</title>, (<imprint>
+			 <geogname normal="London (England)" authfilenumber="530"
+			  source="lcsh">London</geogname>, 
+			 <publisher>Longhams, Green &amp; Co</publisher>, 
+			 <date type="publication" normal="1884"
+			  certainty="certain">1884</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020128">28 January
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

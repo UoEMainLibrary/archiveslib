@@ -1,0 +1,25 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Milk</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/m/">m</a><h1>Milk</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=3902&term=Milk" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-198&view=basic">Non-independent occurrence of alpha-S1 and beta-casein variants of cow's milk </a> (1965) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-220&view=basic">The caseins of sheep's milk </a> (1966) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-305&view=basic">Production of human proteins in the milk of transgenic mice and sheep </a> (1988) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-468&view=basic">The molecular manipulation of milk composition </a> (1989) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-610&view=basic">Characterisation of the alleles encoding ovine beta-lactaglobulins A and B </a> (1990) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1079&view=basic">High level expression of active human alpha-1-antitrypsin in the milk of transgenic sheep </a> (1991) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1068&view=basic">Production of pharmaceutical proteins in milk </a> (1991) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-878&view=basic">Targeting gene expression to the mammary gland </a> (1991) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-979&view=basic">Production of human alpha-1-antitrypsin in the milk of transgenic sheep and mice: targeting expression of cDNA sequences to the mammary gland </a> (1991) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1138&view=basic">Prospects for the genetic engineering of milk </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1140&view=basic">Gene expression in the mammary gland </a> (1992) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

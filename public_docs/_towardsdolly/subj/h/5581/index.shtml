@@ -1,0 +1,24 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Heather</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/h/">h</a><h1>Heather</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=5581&term=Heather" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1373&view=basic">Seedling Heather </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1380&view=basic">Seedling Heather from Bonaly Hill </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1382&view=basic">Common Heather from the Island of Colonsay </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1389&view=basic">Dead Seedling Heather and Moss </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1390&view=basic">Common Heather and Deer-Hair Sedge </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1391&view=basic">Heather Eaten by Sheep </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1392&view=basic">Common Heather </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1393&view=basic">Old Scroggy Heather </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1394&view=basic">Common Heather Shoots </a> (1870-1930) Roslin/Ewart Slides</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1434-1398&view=basic">Common Heather </a> (1870-1930) Roslin/Ewart Slides</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

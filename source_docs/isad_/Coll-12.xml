@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-12">GB 237
+		Coll-12</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers and Notes
+			 of Professor Thomas Charles Hope (1766-1844) </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-12">
+    <did>
+      <unittitle>Papers and Notes
+			 of Professor Thomas Charles Hope (1766-1844) </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-12</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Dc.10.9-15; Gen. 268-272; Gen. 1398-1400</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers and Notes of Professor Thomas
+		  Charles Hope (1766-1844)</unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1782/1842">c1782-1842 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>34
+		  notebooks, 5 boxes, 3 volumes. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Thomas Charles Hope was born in 1766. He studied at Edinburgh's Royal
+		  High School and then Edinburgh University where he graduated in 1787 and
+		  published his dissertation 
+		Tentamen Inaugurale quaedam de Plantarum Motibus et Vita,
+		  complactens . In 1787 too, Hope was appointed Professor of Chemistry at
+		Glasgow University then resigned in 1789 when he became Assistant Professor of
+		Medicine. In 1795, Hope was elected joint Professor of Chemistry at Edinburgh
+		University with Joseph Black (1728-1799), and when Black died he became sole
+		Professor. Early in his career, Hope put forward two important pieces of
+		research. Firstly, in 1793, before the Royal Society of Edinburgh, he gave 
+		An account of a mineral from Strontian, and of a peculiar species
+		  of Earth which it contains  - the mineral being strontium carbonate
+		discovered at Strontian, Argyllshire. Secondly, he established that water
+		attained its maximum density several degrees above the freezing point. Other
+		scientific papers included those on the chemical and colouring matters in the
+		leaves and flowers of plants. Hope resigned his Professorship during the
+		1842-43 session, and died in Edinburgh on 13 June 1844. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The papers and notes of Professor Hope at Gen. 268-272 consist of
+		  lecture notes on Chemistry and some miscellaneous papers from circa 1790-1842.
+		  At Dc.10.9-15 there are notebooks of lectures by Professors Black, Cullen,
+		  Gregory, Monro, Robison and Walker, taken down by Hope at Edinburgh University
+		  circa 1782-1787. At Gen.1398-1400 are volumes of lectures on Chemistry given at
+		  Edinburgh University, 1809-1810. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows references to notes of lectures on
+		  Chemistry taken down by students, at various shelfmarks. There are also letters
+		  of Hope to Professor Black. </p>
+      </relatedmaterial>
+      <odd/>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

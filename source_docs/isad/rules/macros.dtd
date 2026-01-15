@@ -1,0 +1,24 @@
+<!-- 
+  NAME
+    macros.dtd
+  
+  DESCRIPTION
+    XML DTD for XMetaL macro files
+  
+  HISTORY
+    1999.03.29  Created by Bruce Sharpe
+  
+  Copyright (c) 1999 SoftQuad Software Inc.
+-->
+
+<!ELEMENT MACROS (MACRO*)>
+<!ELEMENT MACRO (#PCDATA)>
+
+<!ATTLIST MACRO
+          name          CDATA     #IMPLIED
+          key           CDATA     #IMPLIED
+          lang          CDATA     #REQUIRED
+          id            CDATA     #IMPLIED
+          desc          CDATA     #IMPLIED
+          tooltip       CDATA     #IMPLIED
+          hide          (true|false) #IMPLIED      >

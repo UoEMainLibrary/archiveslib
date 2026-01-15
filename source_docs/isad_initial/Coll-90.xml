@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-90"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-90</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of Francis
+			 Montgomery Collinson (1898-1985) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-90</unitid> 
+		<physloc>MSS 2589-2591</physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Francis Montgomery Collinson
+		  (1898-1985) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1901-1999">20th century </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>3 boxes.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Musicologist and composer Francis Montgomery Collinson was born in
+		  1895. He was educated at Daniel Stewarts College (now Stewart's Daniel
+		  &amp;amp; Melville College). He studied Music at Edinburgh University, and was
+		  awarded the degree of Mus.B in 1923. Earlier, he had served in the First World
+		  War. While at Edinburgh, Collinson was Conductor of the Yahoo Orchestra. Later,
+		  he would make a major contribution to Scottish traditional music, his
+		  compositions consisting largely of vocal arrangements of Scots songs. His
+		  publications include 
+		<title>The traditional and national music of Scotland </title> (1966), 
+		<title>The bagpipe </title> (1975), and the three volume 
+		<title>Hebridean folksongs </title> (1969, 1977, 1981). Collinson died in
+		1985. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The papers of Francis Montgomery Collinson consist of songs,
+		  correspondence, and notebooks. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) 
+		  <title> Collins encyclopaedia of Scotland </title>, edited by John Keay
+		  and Julia Keay (London: Harper Collins Publishers, 1994). </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Collinson</emph> <emph altrender="forename">Francis
+		  Montgomery</emph> <emph altrender="dates">1895-1985</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Folk music</emph> <emph altrender="z">Scotland</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Instrumentation and orchestration</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

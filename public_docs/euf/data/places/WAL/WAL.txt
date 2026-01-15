@@ -1,0 +1,14 @@
+<!-- $Id: WAL.txt,v 1.2 2005/12/16 12:46:28 canajun2eh Exp $ -->
+Anglesey 
+Breconshire 
+Caernarvonshire 
+Cardiganshire 
+Carmarthenshire 
+Denbighshire 
+Flintshire 
+Glamorganshire 
+Merionethshire 
+Monmouthshire 
+Montgomeryshire 
+Pembrokeshire 
+Radnorshire 

@@ -1,0 +1,13 @@
+<!--#include virtual="/catalogue2/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Child development</title>
+<!--#include virtual="/catalogue2/includes/lower_header.php" -->
+
+
+<h2>Authority term: Child development</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=gb-237-coll-1310-1-7&view=basic">Papers regarding Hector's development</a> (1917-1927)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=gb-237-coll-1310-3-1-2-10&view=basic">The Growth of Intelligence in Children</a> (1930-1949)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue2/includes/footer.php" -->

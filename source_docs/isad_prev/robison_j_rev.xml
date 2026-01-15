@@ -1,0 +1,3522 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "ead1.dtd">
+<ead> 
+  <eadheader audience="internal" langencoding="ISO 639"
+	findaidstatus="edited-full-draft"> 
+	 <eadid type="FPI" systemid="GB 237 Coll-204">GB 237 Coll-204</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of John Robison</titleproper> 
+		  <author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+			 University Library Special Collections Division, 12 May 2002 </author> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library Department of
+			 Special Collections</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address><date type="single" normal="20020512" certainty="certain">12
+			 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated using the XMetal template prepared, as part of
+		  the NAHSTE project, in collaboration with the GASHE project, by Sarah Higgins,
+		  Edinburgh University Library Special Collections Division, 2001<lb/>The
+		  correspondences between the ISAD(G) elements and the EAD element types were
+		  adapted by Sarah Higgins, Edinburgh University Library Department of Special
+		  Collections with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services, from those recommended in the 
+		  <bibref inline="true"> 
+			 <title inline="true">EAD Application Guidelines Version 1.0,
+				</title><imprint><date type="publication" normal="1999"
+			 certainty="certain">1999</date></imprint></bibref></creation> 
+		<langusage><language>EN</language></langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>Revised 
+			 <date normal="20021128">28 November 2005</date> by Grant
+			 Buttars</item> 
+		</list> 
+	 </revisiondesc> 
+  </eadheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper> Papers of John Robison</titleproper> 
+		<author>Compiled by Duncan Fisher, Edinburgh University Library Special
+		  Collections Division, 12 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections Division
+		  </publisher> 
+		<date type="single" normal="20020512" certainty="certain">12 May
+		  2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <archdesc level="fonds" legalstatus="private" langmaterial="EN"
+	id="GB-237-Coll-204"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<repository label="Repository" audience="external"
+		 encodinganalog="NAHSTE31"> 
+		  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+			normal="Edinburgh University Library Special Collections Division"
+			source="ncarules">Edinburgh University Library Department of Special
+			 Collections</corpname></repository> 
+		<unitid label="Reference Code" encodinganalog="isadg(2)311" type="NAHSTE"
+		 countrycode="GB" repositorycode="0237" audience="external">GB 237
+		  Coll-204</unitid> 
+		<unittitle label="Title" encodinganalog="isadg(2)312"
+		 audience="external"> Papers of John Robison</unittitle> 
+		<unitdate label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+		 certainty="uncertain" normal="1775/1797"
+		 audience="external">c1780-1797</unitdate> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">2.5 metres</extent> (<genreform>41 volumes
+			 </genreform>) </physdesc> 
+		<physdesc label="Physical Characteristics and Technical Requirements"
+		 encodinganalog="isadg(2)344" audience="external"><physfacet>None which affect
+		  the use of this material</physfacet></physdesc> 
+		<origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+		 audience="external"> 
+		  <persname authfilenumber="GB 0237 NAHSTE P0254" normal="Robison, John"
+			source="ncarules" role="creator">Robison | John | 1739-1805 | professor of
+			 natural philosophy, University of Edinburgh</persname></origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322" audience="external"> 
+		<head>Biographical History</head> 
+		<p>John Robison (<date type="life-span" normal="1739/1805"
+		  certainty="certain">1739-1805</date>) was Professor of Natural Philosophy at
+		  the University of Edinburgh from 
+		  <date type="chairspan" normal="1774/1805"
+			certainty="certain">1774-1805</date>. He lectured on a broad range of
+		  scientific subjects including mechanics, hydrodynamics, astronomy, optics,
+		  electricity and magnetism, introducing a good deal of mathematical
+		  demonstration. As well as lecturing on natural philosophy he was involved in
+		  several other activities. His writings were varied and influential. From 
+		  <date type="inclusive" normal="1793/1801" certainty="certain">1793
+			 -1801</date> Robison contributed well over forty articles to the third edition
+		  of the 
+		  <bibref><title render="italic">Encyclopaedia Britannica</title>,
+			 (<imprint><date type="publication" normal="1797"
+			 certainty="certain">1797</date>)</imprint></bibref> and its supplement,
+		  including: Resistance of Fluids, Roof, Running of Rivers, Seamanship, Telescope
+		  and Water-works, which are all full of practical information. In 
+		  <date type="publication" normal="1803" certainty="certain">1803</date>
+		  he produced Joseph Black's (<date type="life-span"
+		  normal="1728/1799" certainty="certain">1728-1799</date>) carefully edited 
+		  <bibref><title render="italic">Lectures on Chemistry</title>,
+			 (<imprint><date type="publication" normal="1803"
+			 certainty="certain">1803</date>)</imprint></bibref>, and the following year he
+		  brought out his own 
+		  <bibref><title render="italic">Elements of Mechanical
+				Philosophy</title>, (<imprint><date type="publication" normal="1804"
+			 certainty="certain">1804</date>)</imprint></bibref>, of which, however, only
+		  the first volume, on Dynamics and Astronomy, was completed. Robison's most
+		  widely read work was a strongly anti-Jacobean tract which set out to prove that
+		  the fraternity of 'Freemasons and Illuminati' was concerned in a plot to
+		  overthrow religion and government throughout the world.</p> 
+		<p>John Robison was born in 
+		  <date type="birth" normal="1739" certainty="certain">1739</date> in
+		  Boghall, Stirlingshire. He graduated with an MA from the University of Glasgow
+		  in 
+		  <date type="single" normal="1756" certainty="certain">1756</date>. Over
+		  the next few years he travelled extensively and took charge of John Harrison's
+		  (<date type="life-span" normal="1693/1776"
+		  certainty="certain">1693-1776</date>) chronometer on its trial voyage to
+		  Jamaica in 
+		  <date type="inclusive" normal="1760/1761"
+		  certainty="certain">1760-1761</date>. The following year he returned to Glasgow
+		  and made the acquaintance of Joseph Black and James Watt (<date
+		  type="life-span" normal="1736/1819" certainty="certain">1736-1819</date>), and
+		  in 
+		  <date type="chairdate" normal="1766" certainty="certain">1766</date> he
+		  succeeded Black as Lecturer in Chemistry at Glasgow. In 
+		  <date type="single" normal="1770" certainty="certain">1770 </date>he
+		  went out to Russia as private secretary to Admiral Knowles, who had been
+		  employed by the Empress of Russia to reorganise her fleet. Following on from
+		  this Robison was appointed Professor of Mathematics at Cronstadt in 
+		  <date type="chairdate" normal="1772" certainty="certain">1772</date>.
+		  After two years he abandoned the position in order to take up the Chair of
+		  Natural Philosophy at Edinburgh. During the time he held the post he also acted
+		  as a technical consultant to government departments and private industry.</p> 
+		<p>In 
+		  <date type="single" normal="1783" certainty="certain">1783</date>
+		  Robison became the First General Secretary of the Royal Society of Edinburgh.
+		  He was a founder member of the Royal Society, and acted as its first General
+		  Secretary from 
+		  <date type="appointmentspan" normal="1783/1798"
+		  certainty="certain">1783-1798.</date> In 
+		  <date type="appointmentdate" normal="1798" certainty="certain">1798
+			 </date> Robison was made an Honorary LLD, College of New Jersey (now Princetown
+		  University).</p> 
+	 </bioghist> 
+	 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The papers of John Robison consist of: 
+		  <list type="marked"> 
+			 <item>40 volumes of lecture notes from the time when Robison was
+				Professor of Natural Philosophy at the University of Edinburgh. The notes
+				embrace the sciences of mechanics, hydrodynamics, astronomy and optics,
+				together with electricity and magnetism </item> 
+			 <item>5 volumes of lecture notes on Natural Philosophy taken down by
+				TC Hope in 
+				<date type="single" normal="1785"
+				certainty="certain">1785</date></item> 
+			 <item>1 volume: 'Outlines of Mechanical Philosophy' (<date
+				type="single" normal="1780" certainty="certain">1780</date>)</item> 
+			 <item>correspondence mainly to Joseph and George Black</item> 
+		  </list></p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="isadg(2)334" audience="external"> 
+		<head>System of Arrangement</head> 
+		<p> The arrangement of this material reflects the original order in which
+		  it was received.</p> 
+	 </arrangement> 
+	 <admininfo> 
+		<head>Administrative Information</head> 
+		<custodhist encodinganalog="isadg(2)323" audience="external"> 
+		  <head>Archival History</head> 
+		  <p> Unknown</p> 
+		</custodhist> 
+		<acqinfo encodinganalog="isadg(2)324" audience="internal"> 
+		  <head>Immediate Source of Acquisition or Transfer</head> 
+		  <p> Unknown</p> 
+		</acqinfo> 
+		<appraisal encodinganalog="isadg(2)332" audience="external"> 
+		  <head>Appraisal, Destruction and Scheduling Information</head> 
+		  <p> This material has been appraised in line with the standard GB 0237
+			 procedures</p> 
+		</appraisal> 
+		<accruals encodinganalog="isadg(2)333" audience="external"> 
+		  <head>Accruals</head> 
+		  <p> No accruals expected</p> 
+		</accruals> 
+		<accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+		  <head>Conditions Governing Access</head> 
+		  <p> This material is unrestricted.</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="isadg(2)342" audience="external"> 
+		  <head>Conditions Governing Reproduction</head> 
+		  <p> Applications for permission to quote should be sent to the Director
+			 of Collections. Reproduction subject to usual conditions: educational use and
+			 condition of documents.</p> 
+		</userestrict> 
+		<altformavail encodinganalog="isadg(2)352" audience="external"> 
+		  <head>Existence and Location of Copies</head> 
+		  <p> No known copies.</p> 
+		</altformavail> 
+	 </admininfo> 
+	 <add> 
+		<otherfindaid encodinganalog="isadg(2)345" audience="external"> 
+		  <head>Finding Aids</head> 
+		  <p> Alphabetical Index to Manuscripts available in searchroom at
+			 Edinburgh University Library Special Collections Division.</p> 
+		</otherfindaid> 
+		<relatedmaterial encodinganalog="isadg(2)353" audience="external"> 
+		  <head>Related Units of Description</head> 
+		  <relatedmaterial> 
+			 <list type="marked"> 
+				<item> 
+				  <extref href="/links/eulrobsn.html"><repository>Edinburgh
+						University Library Special Collections Division</repository></extref></item> 
+				<item> 
+				  <extref href="/links/nasrobsn.html"><repository>National Archives
+						of Scotland</repository></extref></item> 
+				<item> 
+				  <extref href="/links/nlsrobsn.html"><repository>National Library
+						of Scotland</repository></extref></item> 
+			 </list> 
+		  </relatedmaterial> 
+		  <relatedmaterial> 
+			 <p>A further 2 institutions which hold archive material relating to
+				John Robison are noted in the National Register of Archives (NRA), updated by
+				the Historical Manuscripts Commission, and these can be consulted via their
+				website: 
+				<extref
+				href="http://www.hmc.gov.uk">http://www.hmc.gov.uk</extref><lb/></p> 
+		  </relatedmaterial> 
+		</relatedmaterial> 
+		<bibliography encodinganalog="isadg(2)354" audience="external"> 
+		  <head>Publication Note</head> 
+		  <p> No known publications using this material</p> 
+		</bibliography> 
+	 </add> 
+	 <odd> 
+		<odd encodinganalog="isadg(2)351" audience="external"> 
+		  <head> Existence and Location of Originals</head> 
+		  <p> This material is original.</p> 
+		</odd> 
+		<odd encodinganalog="isadg(2)361" audience="external"> 
+		  <head>Note</head> 
+		  <p> List of sources for the biographical history: </p> 
+		  <p> 
+			 <bibref> 
+				<persname source="ncarules" normal="Birse, Ronald M"
+				role="author">Birse, Ronald M</persname>, 
+				<title render="italic">Science at the University of Edinburgh
+				  1583-1993</title>, (<imprint> 
+				<geogname source="lcsh" authfilenumber="517"
+				normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+				<publisher>University of Edinburgh</publisher>, 
+				<date type="publication" normal="1994"
+				certainty="certain">1994</date>)</imprint></bibref></p> 
+		  <p> 
+			 <bibref> 
+				<persname source="ncarules" normal="Devlin-Thorp, Sheila"
+				role="author">Devlin-Thorp, Sheila</persname>, 
+				<title render="italic">Scotland's Cultural Heritage</title>,
+				(<imprint> 
+				<geogname source="lcsh" authfilenumber="517"
+				 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+				<publisher>University of Edinburgh</publisher>, 
+				<date type="publication" normal="1981"
+				 certainty="certain">1981</date>)</imprint></bibref></p> 
+		  <p> 
+			 <bibref> 
+				<persname source="ncarules" normal="Gillispie, Charles Clouston"
+				 role="editor">Gillispie, Charles Clouston</persname>(ed), 
+				<title render="italic">Dictionary of Scientific Biography, vol
+				  xvii</title>, (<imprint> 
+				<geogname source="lcsh" authfilenumber="483"
+				 normal="New York (N.Y.), United States ">New York</geogname>, 
+				<publisher>Scribner's</publisher>, 
+				<date type="publication" normal="1972"
+				certainty="certain">1972</date>)</imprint></bibref></p> 
+		  <p> 
+			 <bibref> 
+				<persname source="ncarules" normal="Grant, Sir,  Alexander"
+				role="author">Grant, Alexander</persname>, 
+				<title render="italic">The Story of the University of Edinburgh
+				  During its First 300 Years, vol.2</title>, (<imprint> 
+				<geogname source="lcsh" authfilenumber="530"
+				normal="London (England)">London</geogname>, 
+				<publisher>Longmans, Green &amp; Co</publisher>, 
+				<date type="publication" normal="1884"
+				certainty="certain">1884</date>)</imprint></bibref><lb/></p> 
+		  <p>The creation of this description was assisted by funding from the
+			 Research Support Libraries Programme</p> 
+		</odd> 
+		<odd audience="internal" encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>None</p> 
+		</odd> 
+		<odd encodinganalog="isadg(2)372" audience="external"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Description compiled in line with the following international
+			 standards:</p> 
+		  <p> 
+			 <bibref> 
+				<corpname
+				 normal="International Council on Archives Committee on Descriptive Standards"
+				 source="ncarules" role="author">International Council on Archives Committee on
+				  Descriptive Standards</corpname>, 
+				<title render="italic">ISAD(G) General International Standard
+				  Archival Description Notes, 2nd edition</title><imprint> 
+				<date type="publication" certainty="certain"
+				 normal="2000">2000</date></imprint> </bibref></p> 
+		  <p>and </p> 
+		  <p> 
+			 <bibref> 
+				<corpname normal="National Council on Archives" source="ncarules"
+				 role="author">National Council on Archives</corpname><title> Rules for the
+				  Construction of Personal, Place and Corporate Names</title>, <imprint><date
+				type="publication" normal="1997"
+				certainty="certain">1997</date></imprint></bibref></p> 
+		</odd> 
+		<odd encodinganalog="isadg(2)373" audience="internal"> 
+		  <head>Date(s) of Description</head> 
+		  <p> Fonds level description compiled for NAHSTE project by 
+			 <persname normal="Thomson, Andrew" role="archivist"
+			  source="ncarules">Andrew Thomson</persname> , Edinburgh University Library
+			 Special Collections Division, 
+			 <date type="single" certainty="certain" normal="200010">October
+				2000</date></p> 
+		</odd> 
+	 </odd> 
+	 <controlaccess audience="external" encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head> 
+		  <subject authfilenumber="229" source="lcsh">Astronomy</subject> 
+		  <subject authfilenumber="255" source="lcsh">Chemistry</subject> 
+		  <subject authfilenumber="879" source="lcsh">Chronometers</subject> 
+		  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+		  <subject authfilenumber="881" source="lcsh">Electricity</subject> 
+		  <subject authfilenumber="882" source="lcsh">Fluids</subject> 
+		  <subject authfilenumber="883" source="lcsh">Freemasons</subject> 
+		  <subject authfilenumber="884" source="lcsh">Hydraulics</subject> 
+		  <subject authfilenumber="885" source="lcsh">Hydrodynamics</subject> 
+		  <subject authfilenumber="886" source="lcsh">Illuminati</subject> 
+		  <subject authfilenumber="887" source="lcsh">Magnetism</subject> 
+		  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+		  <subject authfilenumber="889" source="lcsh">Mechanism
+			 (Philosophy)</subject> 
+		  <subject authfilenumber="862" source="lcsh">Optics</subject> 
+		  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+		  <subject authfilenumber="890" source="lcsh">Pneumatics</subject> 
+		  <subject authfilenumber="891" source="lcsh">Telescopes</subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head> 
+		  <persname authfilenumber="GB 0237 NAHSTE P0509" normal="Black, Joseph"
+			source="ncarules">Black | Joseph | 1728-1799 | professor of chemistry,
+			 University of Edinburgh </persname> 
+		  <persname authfilenumber="GB 0237 NAHSTE P0354" normal="Harrison, John"
+			source="ncarules">Harrison | John | 1693-1776 | horologist</persname> 
+		  <persname authfilenumber="GB 0237 NAHSTE P0254" normal="Robison, John"
+			source="ncarules">Robison | John | 1739-1805 | professor of natural philosophy,
+			 University of Edinburgh</persname> 
+		  <persname normal="Watt, James" authfilenumber="GB 0237 NAHSTE P0255"
+			source="ncarules">Watt | James | 1736-1819 | engineer</persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses and Organisations</head> 
+		  <corpname normal="College of New Jersey"
+			authfilenumber="GB 0237 NAHSTE C0120" source="ncarules">College of New Jersey |
+			 1746-1896 | higher education institution, Elizabeth (N.J., United
+			 Sates)</corpname> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 NAHSTE C0017"
+			normal="Royal Society">Royal Society | c1645-: | scientific society | London
+			 (England)</corpname> 
+		  <corpname authfilenumber="GB 0237 NAHSTE C0017" normal="Royal Society"
+			source="ncarules">Royal Society of Edinburgh | 1783-: | scientific society |
+			 Edinburgh, United Kingdom</corpname> 
+		  <corpname normal="University of Edinburgh"
+			authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+			 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+		  <corpname authfilenumber="GB 0237 NAHSTE C0001"
+			normal="University of Glasgow" source="ncarules">University of Glasgow | 1451-
+			 : | university | Glasgow (Scotland)</corpname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE384"> 
+		  <head>Places</head> 
+		  <geogname normal="Cronstadt (Russia)" authfilenumber="894"
+			source="lcsh">Cronstadt (Russia)</geogname> 
+		  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+			source="lcsh">Edinburgh (Scotland)</geogname> 
+		  <geogname normal="Glasgow (Scotland)" authfilenumber="519"
+			source="lcsh">Glasgow (Scotland)</geogname> 
+		  <geogname normal="Russia" authfilenumber="893"
+			source="lcsh">Russia</geogname> 
+		  <geogname normal="Stirlingshire (Scotland)"
+			authfilenumber="892" source="lcsh">Stirlingshire (Scotland)</geogname> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc type="combined"> 
+		<c level="series" id="GB-237-Coll-204--1" langmaterial="EN"> 
+		  <did> 
+			 <head>Series Summary</head><repository label="Repository"
+			 audience="external" encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 0237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library Department of Special
+				  Collections</corpname></repository><unitid label="Reference Code"
+			 encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+			 repositorycode="0237" audience="external">GB 237 Coll-204/1</unitid> 
+			 <physloc encodinganalog="shelfmark">Dc.7.1- Dc.7.40</physloc><unittitle label="Title"
+			 encodinganalog="isadg(2)312" audience="external">Lecture notes
+				</unittitle><unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			 type="inclusive" certainty="uncertain" normal="1760/1799"
+			 audience="external">late 18th century</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external"><extent>40
+				</extent><genreform>volumes</genreform></physdesc> 
+			 <physdesc label="Physical Characteristics and Technical Requirements"
+			  encodinganalog="isadg(2)344" audience="external"><physfacet> None which affect
+				the use of this material</physfacet></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<persname authfilenumber="GB 0237 NAHSTE P0254"
+				 normal="Robison, John" source="ncarules" role="creator">Robison | John |
+				  1739-1805 | professor of natural philosophy, University of
+				  Edinburgh</persname></origination> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>40 volumes of lecture notes on many aspects of science including
+				mechanics, hydrodynamics, electricity, magnetism, astronomy and optics.</p> 
+		  </scopecontent> 
+		  <odd> 
+			 <odd audience="internal" encodinganalog="isadg(2)373"> 
+				<head>Date(s) of Description</head> 
+				<p> 
+				  <persname source="ncarules" role="archivist"
+					normal="Buttars, Grant">Grant Buttars</persname><date type="single"
+				  normal="20020122" certainty="certain">22 January 2002</date></p> 
+			 </odd> 
+		  </odd> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE381"> 
+				<head>Subjects</head> 
+				<subject authfilenumber="229" source="lcsh">Astronomy</subject> 
+				<subject authfilenumber="881" source="lcsh">Electricity</subject> 
+				<subject authfilenumber="885" source="lcsh">Hydrodynamics</subject>
+				
+				<subject authfilenumber="329" source="lcsh">Lectures and
+				  Lecturing</subject> 
+				<subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				<subject authfilenumber="887" source="lcsh">Magnetism</subject> 
+				<subject authfilenumber="862" source="lcsh">Optics</subject> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE382"> 
+				<head>People</head> 
+				<persname authfilenumber="GB 0237 NAHSTE P0254"
+				 normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+				  of natural philosophy, University of Edinburgh</persname> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname normal="University of Edinburgh"
+				 authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+				  | 1583-: | university | Edinburgh (Scotland)</corpname> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE384"> 
+				<head>Places</head> 
+				<geogname normal="Edinburgh (Scotland)"
+				 authfilenumber="517" source="lcsh">Edinburgh (Scotland)</geogname> 
+			 </controlaccess> 
+		  </controlaccess> 
+		  <c level="item" id="GB-237-Coll-204-1-1" langmaterial="EN and LA"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 237 Coll-204/1/1</unitid>
+				<physloc encodinganalog="shelfmark">Dc.7.1</physloc><unittitle label="Title"
+				encodinganalog="isadg(2)312" audience="external">Introductions
+				  </unittitle><unitdate label="Date(s)" encodinganalog="isadg(2)313"
+				type="inclusive" certainty="certain" normal="1774/1806"
+				audience="external">c1779-c1801</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume consists of drafts of numerous introductions for various
+				  kinds of lectures in 'natural philosophy', the first dated 
+				  <date certainty="certain" normal="17791026" type="single">October
+					 26, 1779</date>, and possibly bearing the name of David Hume. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020501" certainty="certain">01 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="329" source="lcsh">Lectures and
+					 Lecturing</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-237-Coll-204-1-2" langmaterial="EN and LA"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 237 Coll-204/1/2</unitid>
+				<physloc encodinganalog="shelfmark">Dc.7.2</physloc><unittitle label="Title"
+				encodinganalog="isadg(2)312" audience="external">Introductions
+				  </unittitle><unitdate label="Date(s)" encodinganalog="isadg(2)313"
+				type="inclusive" certainty="certain" normal="1799/1809"
+				audience="external">c1804</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume consists of drafts of numerous introductions for various
+				  kinds of lectures in 'natural philosophy'. They discuss the use of terms like
+				  'causation' and 'laws', concerned less with scientific facts than with how to
+				  study science itself. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020501" certainty="certain">01 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="329" source="lcsh">Lectures and
+					 Lecturing</subject> 
+				  <subject source="lcsh" authfilenumber="258">Physics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-237-Coll-204-1-3" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 237 Coll-204/1/3</unitid>
+				<physloc encodinganalog="shelfmark">Dc.7.3</physloc><unittitle label="Title"
+				encodinganalog="isadg(2)312" audience="external">Mechanics
+				  </unittitle><unitdate label="Date(s)" encodinganalog="isadg(2)313"
+				type="inclusive" certainty="certain" normal="1797/1807"
+				audience="external">c1802</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Subtitled 'Theory of Machines', pulleys and kites among them,
+				  this volume contains lectures on dynamics and statics, with attendant
+				  calculations and diagrams. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020502" certainty="certain">02 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject source="lcsh" authfilenumber="2618">Kites</subject> 
+				  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				  <subject authfilenumber="2617" source="lcsh">Pulleys</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-237-Coll-204-1-4" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 237 Coll-204/1/4</unitid>
+				<physloc encodinganalog="shelfmark">Dc.7.4</physloc><unittitle label="Title"
+				encodinganalog="isadg(2)312" audience="external">Matter, Physics
+				  &amp;c.</unittitle><unitdate label="Date(s)" encodinganalog="isadg(2)313"
+				type="inclusive" certainty="certain" normal="1775/1807"
+				audience="external">c1780-c1802</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains lectures on the nature of matter, and on its
+				  behaviour in the physical universe. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020502" certainty="certain">02 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="2619" source="lcsh">Matter</subject> 
+				  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-5" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.5</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Hydraulics</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1807" audience="external">c1780-c1802</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains lectures in hydraulics, with diagrams of such
+				  things as pistons, undulation, and the Venturi effect. Some chapter headings
+				  are in Cyrillic cursive. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020502" certainty="certain">02 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="882" source="lcsh">Fluids</subject> 
+				  <subject authfilenumber="884" source="lcsh">Hydraulics</subject> 
+				  <subject authfilenumber="885"
+				  source="lcsh">Hydrodynamics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-6"
+		  langmaterial="EN and RU"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.6</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Impulsion, Corpuscular Forces &amp;c.</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1807"
+				audience="external">c1780-c1802</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains lectures in statics and fluid dynamics. Included
+				  is a note on what happens upon mixing particular chemicals. A few of the
+				  headings are in Russian. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020502" certainty="certain">02 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="882" source="lcsh">Fluids</subject> 
+				  <subject authfilenumber="884" source="lcsh">Hydraulics</subject> 
+				  <subject authfilenumber="885"
+					source="lcsh">Hydrodynamics</subject> 
+				  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				  <subject authfilenumber="2302" source="lcsh">Statics</subject> 
+				</controlaccess> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE382"> 
+				<head>People</head> 
+				<persname authfilenumber="GB 0237 NAHSTE P0254"
+				 normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+				  of natural philosophy, University of Edinburgh</persname> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname normal="University of Edinburgh"
+				 authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+				  | 1583-: | university | Edinburgh (Scotland)</corpname> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE384"> 
+				<head>Places</head> 
+				<geogname normal="Edinburgh (Scotland)"
+				 authfilenumber="517" source="lcsh">Edinburgh (Scotland)</geogname> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-7"
+			langmaterial="EN and RU"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.7</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Miscellaneous</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1807" audience="external">c1780-c1802</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Illustrated print and manuscript treatises on the geometry of
+				  motion, in English and Russian. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020507" certainty="certain">07 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="859" source="othersource"
+				  othersource="NAHSTE">Geometry, Elemental</subject> 
+				  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-8"
+		  langmaterial="EN and RU"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.8</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Pneumatics, Gunpowder &amp;c.</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1807"
+				audience="external">c1780-c1802</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Notes, in English and occasional Russian, on the physics of air,
+				  principally pressure differentials and sound propagation. Topics include a
+				  lengthy discussion of the function and gross anatomy of the ear, barometrical
+				  measurement of height; published chart of comparative altitudes of famous
+				  mountain peaks, and the overall constitution of the atmosphere. The second half
+				  of the volume covers ballistics, mostly: diagrams, calculations, and records of
+				  artillery trials. A short, unrelated section at the end includes a piece on
+				  undulation of elastic fluids.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020507" certainty="certain">07 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="2449" source="lcsh">Atmosphere,
+					 Composition of</subject> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="859" source="othersource"
+					othersource="NAHSTE">Geometry, Elemental</subject> 
+				  <subject authfilenumber="884" source="lcsh">Hydraulics</subject> 
+				  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				  <subject authfilenumber="890" source="lcsh">Pneumatics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-9"
+			langmaterial="EN and RU"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.9</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Gravity, Measure of Forces</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1807"
+				audience="external">c1780-c1802</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Notes in English, with occasional Russian headings, in basic
+				  physics like 'impulsion' and the measurement of forces. There are one or two
+				  mechanical sketches.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020507" certainty="certain">07 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-10" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.10</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Astronomy</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1807" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Notes and sketches on the rudiments of astronomy.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020507" certainty="certain">07 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="229" source="lcsh">Astronomy</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-11" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.11</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Hydrostatics, Specific Gravity</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1808"
+				audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Unnumbered manuscript notes and letters, with tables and
+				  sketches on water moving as a mass, the construction of hydraulic machinery,
+				  salts and specific gravity, and the stability of ships, and a printed volume of
+				  James Brown's 
+				  <date type="single" normal="1758" certainty="certain">1785</date>
+				  booklet on "Directions for Proving Any Kind of Spirits, or Strong Waters, by
+				  Glass Bubbles". Interesting illustrations include a cutaway drawing of a
+				  piston, ca. page 11; cutaway of an oil lamp, ca. page 50; conjectural drawing
+				  of a pedestrian wheel for fording rivers, circa page 65; lovely sketch of a
+				  hydrometer, circa page 85; lovely frontispiece portrait and fold-out chart from
+				  Brown's miniature book on determining alcohol proof by specific gravity,
+				  inserted in middle of larger volume; beautiful cherub's face on rear of
+				  note-perhaps a pun-on the distillation of spirits, nearly exactly at book's
+				  centre.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020508" certainty="certain">08 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="882" source="lcsh">Fluids</subject> 
+				  <subject authfilenumber="884" source="lcsh">Hydraulics</subject> 
+				  <subject authfilenumber="885"
+				  source="lcsh">Hydrodynamics</subject> 
+				  <subject authfilenumber="2622" source="lcsh">Hydrometer</subject>
+				  
+				  <subject authfilenumber="2620" source="lcsh">Salts</subject> 
+				  <subject authfilenumber="1054" source="lcsh">Ships</subject> 
+				  <subject authfilenumber="2621" source="lcsh">Specific
+					 Gravity</subject> 
+				</controlaccess> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE382"> 
+				<head>People</head> 
+				<persname authfilenumber="GB 0237 NAHSTE P2003"
+				normal="Brown, James" source="ncarules">Brown | James | fl1785 | Glasgow
+				  distiller</persname> 
+				<persname authfilenumber="GB 0237 NAHSTE P0254"
+				normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+				  of natural philosophy, University of Edinburgh</persname> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname normal="University of Edinburgh"
+				authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+				  | 1583-: | university | Edinburgh (Scotland)</corpname> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE384"> 
+				<head>Places</head> 
+				<geogname normal="Edinburgh (Scotland)"
+				authfilenumber="517" source="lcsh">Edinburgh (Scotland)</geogname> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-12" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.12</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Rotation, Philosphy</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains lecture notes, with only one or two diagrams, of
+				  the physics of rotating bodies, and of the nature of physics itself. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020508" certainty="certain">08 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="329" source="lcsh">Lectures and
+					 Lecturing</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				  <subject authfilenumber="2623" source="lcsh">Rotational Motion
+					 (Rigid dynamics)</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-13" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.13</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Intellectual System, Natural Laws
+				  &amp;c.</unittitle><unitdate label="Date(s)" encodinganalog="isadg(2)313"
+				type="inclusive" certainty="certain" normal="1775/1808"
+				audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains notes on the philosophy of science and
+				  pedagogy.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020508" certainty="certain">08 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="329" source="lcsh">Lectures and
+					 Lecturing</subject> 
+				  <subject source="lcsh" authfilenumber="116">Philosophy</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P2003"
+				  normal="Brown, James" source="ncarules">Brown | James | fl1785 | Glasgow
+					 distiller</persname> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-14" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.14</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Varied Motions &amp;c.</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on the geometry of motion, on
+				  materials science, and on astronomy; some jotted diagrams and tables attend.
+				  </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020508" certainty="certain">08 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="229" source="lcsh">Astronomy</subject> 
+				  <subject authfilenumber="1546" source="lcsh">Motion</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P2003"
+					normal="Brown, James" source="ncarules">Brown | James | fl1785 | Glasgow
+					 distiller</persname> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-15" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.15</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Sounds</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on the science of acoustics.
+				  Special topics include ear trumpets and the tuning of instruments. Two or three
+				  diagrams attend. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020508" certainty="certain">08 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="2624" source="lcsh">Acoustics</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				  <subject source="lcsh" authfilenumber="2564">Sounds</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P2003"
+				  normal="Brown, James" source="ncarules">Brown | James | fl1785 | Glasgow
+					 distiller</persname> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-16" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.16</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Space, Time, Motion, Stability</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1808"
+				audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on the geometry of motion and
+				  stasis; numerous diagrams attend. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020508" certainty="certain">08 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				  <subject authfilenumber="1546" source="lcsh">Motion</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P2003"
+					normal="Brown, James" source="ncarules">Brown | James | fl1785 | Glasgow
+					 distiller</persname> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-17" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.17</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Electricity</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on electricity. Special topics
+				  include 'animal electricity' and magnetism. There are several minor
+				  diagrams.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="881" source="lcsh">Electricity</subject>
+				  
+				  <subject authfilenumber="887" source="lcsh">Magnetism</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P2003"
+				  normal="Brown, James" source="ncarules">Brown | James | fl1785 | Glasgow
+					 distiller</persname> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-18"
+		  langmaterial="EN and RU"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.18</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Explanation of Symbols &amp;c.</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1808"
+				audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on the symbology of mathematics
+				  and engineering, followed by miscellanea on dymanics ('wheel carriages' being a
+				  special topic). There are some minor diagrams, and some of the terms are
+				  glossed with Russian.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="259" source="lcsh">Mathematics</subject>
+				  
+				  <subject source="lcsh" authfilenumber="667">Mechanical
+					 Engineering</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P2003"
+					normal="Brown, James" source="ncarules">Brown | James | fl1785 | Glasgow
+					 distiller</persname> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-19"
+			langmaterial="EN and RU"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.19</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Dynamics</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on dynamics. Russian terms
+				  intersperse, along with occasional diagrams.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P2003"
+				  normal="Brown, James" source="ncarules">Brown | James | fl1785 | Glasgow
+					 distiller</persname> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-20" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.20</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Fluxions</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1805" audience="external">c1780-c1808</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on the calculus.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject source="lcsh" authfilenumber="1309">Calculus</subject> 
+				  <subject authfilenumber="259" source="lcsh">Mathematics</subject>
+				  
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-21" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.21</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Dynamics</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on dynamics. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-22" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.22</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Canals, Sluices &amp;c.</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1805"
+				audience="external">c1780-c1808</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on hydroengineering. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="1735" source="lcsh">Civil
+					 Engineering</subject> 
+				  <subject source="lcsh"
+					authfilenumber="885">Hydrodynamics</subject> 
+				  <subject source="lcsh"
+					authfilenumber="1877">Hydrostatics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-23" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.23</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Motion, Mechanics, &amp;c.</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1808"
+				audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on mechanics and the geometry
+				  of motion. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				  <subject authfilenumber="1546" source="lcsh">Motion</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-24" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.24</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Optics</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on optics, with numerous
+				  diagrams and tables. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="862" source="lcsh">Optics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-25" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.25</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Volume on musical chords</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1808"
+				audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on the physics of music, with
+				  numerous diagrams, including a printed one on the bones of the inner ear. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="115" source="lcsh">Music</subject> 
+				  <subject source="lcsh" authfilenumber="1798">Music
+					 Theory</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-26" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.26</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Hydraulics</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on hydraulics. Numerous
+				  diagrams append, including an enormous one of a fourteen-foot water wheel. </p>
+				
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="229" source="lcsh">Astronomy</subject> 
+				  <subject authfilenumber="884" source="lcsh">Hydraulics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-27" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.27</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Pendulums, &amp;c.</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on pendulums and related
+				  machinery in clocks. Numerous diagrams intersperse, some of them quite grand.
+				  At the rear of the volume are several essays on projectiles.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="879"
+				  source="lcsh">Chronometers</subject> 
+				  <subject authfilenumber="856" source="lcsh">Dynamics</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-28"
+		  langmaterial="EN and RU"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.28</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Mechanics, Astronomy, &amp;c.</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1808"
+				audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on general mechanics, and on
+				  pulleys and wedges in particular, and wheels and axles. There are subsidiary
+				  discussions of things like collision and the mechanics of muscular action. The
+				  astronomy notes promised on the book's spine describe how to manage the study
+				  of the heavens with big machines. Numerous small diagrams intersperse
+				  throughout the book. Some terms appear in Russian.</p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="2599" source="lcsh">Machinery</subject> 
+				  <subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+				  <subject authfilenumber="2617" source="lcsh">Pulleys</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-29" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.29</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Introductions </unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1799/1809" audience="external">c1804</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume consists of drafts of numerous introductions to 'natural
+				  philosophy'. They discuss the use of terms and laws, concerned less with
+				  scientific facts than with how to study science itself. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="329" source="lcsh">Lectures and
+					 Lecturing</subject> 
+				  <subject authfilenumber="116" source="lcsh">Philosophy</subject> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-30"
+			langmaterial="EN and LA"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.30</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Physical Astronomy </unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1799/1809" audience="external">c1804</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume consists of lecture notes in astronomy. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="229" source="lcsh">Astronomy</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-31" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.31</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Optics</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on optics, with numerous
+				  diagrams and tables. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="862" source="lcsh">Optics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-32" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.32</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Magnetism</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on magnetism, with numerous
+				  diagrams and tables. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020510" certainty="certain">10 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="887" source="lcsh">Magnetism</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-33"
+		  langmaterial="EN and FR"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.33</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Tides &amp;c.</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains print and manuscript notes ostensibly on tides,
+				  but mostly on optics, with numerous diagrams and tables. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020510" certainty="certain">10 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="862" source="lcsh">Optics</subject> 
+				  <subject source="lcsh" authfilenumber="2027">Tides</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-34"
+			langmaterial="EN and FR"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.34</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Physical Astronomy</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on physical astronomy, which is
+				  to say, the governing laws of planetary motion, with numerous diagrams and
+				  tables. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020510" certainty="certain">10 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="229" source="lcsh">Astronomy</subject> 
+				  <subject authfilenumber="2626" source="lcsh">Kepler's
+					 Laws</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-35"
+			langmaterial="EN and LA"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.35</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Corpuscular Forces &amp;c.</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1808"
+				audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on the notion that physical
+				  interaction between bodies is not a matter of Newtonian forces, governed by
+				  Keplerian laws, but of the cumulative effect of collisions and other
+				  interactions among particles. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020510" certainty="certain">10 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="2626" source="lcsh">Kepler's
+					 Laws</subject> 
+				  <subject authfilenumber="258" source="lcsh">Physics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-36" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.36</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Electricity</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on electricity. Special topics
+				  include conductors, dissipation, 'medical' and 'animal' electricity, and
+				  thunder. Of special interest is a long epistolary account of a country house
+				  seriously damaged by lightning. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020510" certainty="certain">10 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="881" source="lcsh">Electricity</subject>
+				  
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-37" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.37</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Pneumatics</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on pneumatics, much space
+				  devoted to pumps in particular. Numerous good diagrams intersperse. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020510" certainty="certain">10 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="890" source="lcsh">Pneumatics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-38"
+			langmaterial="EN and LA"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.38</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Explanation of Phenomena</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+				certainty="certain" normal="1775/1808"
+				audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes in English and Latin on various
+				  known astronomical phenomena. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020510" certainty="certain">10 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="229" source="lcsh">Astronomy</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-39" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+				  normal="Edinburgh University Library Special Collections Division"
+				  source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.39</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Navigation</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on navigation. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					  normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020510" certainty="certain">10 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="2596" source="lcsh">Navigation</subject>
+				  
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+					authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+					source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		  <c level="item" id="GB-0237-John-Robison-Dc-7-40" langmaterial="EN"> 
+			 <did> 
+				<head>Item Summary</head><repository label="Repository"
+				audience="external" encodinganalog="NAHSTE31"> 
+				  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+					normal="Edinburgh University Library Special Collections Division"
+					source="ncarules">Edinburgh University Library Department of Special
+					 Collections</corpname></repository><unitid label="Reference Code"
+				encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+				repositorycode="0237" audience="external">GB 0237 John Robison
+				  Dc.7.40</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+				audience="external">Optics</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1775/1808" audience="external">c1780-c1803</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent>1
+				  </extent><genreform>bound volume</genreform></physdesc> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321" audience="external"> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+					normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname></origination> 
+			 </did> 
+			 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Volume contains manuscript notes on optics, with numerous
+				  diagrams and tables. </p> 
+			 </scopecontent> 
+			 <odd> 
+				<odd encodinganalog="isadg(2)361" audience="external"> 
+				  <head>Note</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist's Notes</head> 
+				  <p>None</p> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="researcher"
+					 normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+					 normal="20020509" certainty="certain">09 May 2002</date></p> 
+				</odd> 
+			 </odd> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject authfilenumber="862" source="lcsh">Optics</subject> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE382"> 
+				  <head>People</head> 
+				  <persname authfilenumber="GB 0237 NAHSTE P0254"
+				  normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+					 of natural philosophy, University of Edinburgh</persname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE383"> 
+				  <head>Businesses and Organisations</head> 
+				  <corpname normal="University of Edinburgh"
+				  authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+					 | 1583-: | university | Edinburgh (Scotland)</corpname> 
+				</controlaccess> 
+				<controlaccess encodinganalog="NAHSTE384"> 
+				  <head>Places</head> 
+				  <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+				  source="lcsh">Edinburgh (Scotland)</geogname> 
+				</controlaccess> 
+			 </controlaccess> 
+		  </c> 
+		</c> 
+		<c level="item" id="GB-0237-John-Robison-Gen-2012"
+		langmaterial="EN and RU and GR"> 
+		  <did> 
+			 <head>Item Summary</head><repository label="Repository"
+			 audience="external" encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 0237 NAHSTE C0126"
+				normal="Edinburgh University Library Special Collections Division"
+				source="ncarules">Edinburgh University Library Department of Special
+				  Collections</corpname></repository><unitid label="Reference Code"
+			 encodinganalog="isadg(2)311" type="NAHSTE" countrycode="GB"
+			 repositorycode="0237" audience="external">GB 0237 John Robison Gen.
+				2012</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+			 audience="external">Outlines of Mechanical Philosophy</unittitle><unitdate
+			 label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+			 certainty="certain" normal="1780/1803" audience="external">1780-1803</unitdate>
+			 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			 encodinganalog="isadg(2)315" audience="external"><extent>1
+				</extent><genreform>bound volume</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			 audience="external"> 
+				<persname authfilenumber="GB 0237 NAHSTE P0254"
+				normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+				  of natural philosophy, University of Edinburgh</persname></origination> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Heavily annotated 
+			 <title>Outlines of Mechanical Philosophy</title> with inserts,
+			 bearing extensive manual revisions from as late as 1803. </p> 
+		  </scopecontent> 
+		  <odd> 
+			 <odd encodinganalog="isadg(2)361" audience="external"> 
+				<head>Note</head> 
+				<p>None</p> 
+			 </odd> 
+			 <odd audience="internal" encodinganalog="isadg(2)371"> 
+				<head>Archivist's Notes</head> 
+				<p>None</p> 
+			 </odd> 
+			 <odd audience="internal" encodinganalog="isadg(2)373"> 
+				<head>Date(s) of Description</head> 
+				<p> 
+				  <persname source="ncarules" role="researcher"
+					normal="Fisher, Duncan">Duncan Fisher</persname><date type="single"
+				  normal="20020512" certainty="certain">12 May 2002</date></p> 
+			 </odd> 
+		  </odd> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE381"> 
+				<head>Subjects</head> 
+				<subject authfilenumber="888" source="lcsh">Mechanics</subject> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE382"> 
+				<head>People</head> 
+				<persname authfilenumber="GB 0237 NAHSTE P0254"
+				 normal="Robison, John" source="ncarules">Robison | John | 1739-1805 | professor
+				  of natural philosophy, University of Edinburgh</persname> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname normal="University of Edinburgh"
+				 authfilenumber="GB 0237 NAHSTE C0073" source="ncarules">University of Edinburgh
+				  | 1583-: | university | Edinburgh (Scotland)</corpname> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE384"> 
+				<head>Places</head> 
+				<geogname normal="Edinburgh (Scotland)"
+				 authfilenumber="517" source="lcsh">Edinburgh (Scotland)</geogname> 
+			 </controlaccess> 
+		  </controlaccess> 
+		</c> 
+	 </dsc> 
+  </archdesc>
+</ead>

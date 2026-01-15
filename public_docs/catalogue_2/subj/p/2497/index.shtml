@@ -1,0 +1,16 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Psychology</title>
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<h2>Authority term: Psychology</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-3-15&view=basic">The Hypotheses of Psychophysical Parallelism and its Interpretation</a> (1904-1912)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-2-8&view=basic">EU Arts: Advanced Psychology</a> (1906-1907)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-2&view=basic">Student notes</a> (1906-1925)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-3-17&view=basic">The Subliminal Consciousness as an Aid to the Interpretation of Religious Experience</a> (1910)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-1-7&view=basic">Quotations from Jacques Chevalier and Lloyd Morgan </a> (1923-1933)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

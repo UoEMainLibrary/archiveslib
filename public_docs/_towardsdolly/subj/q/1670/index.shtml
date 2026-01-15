@@ -1,0 +1,21 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Quotations</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/q/">q</a><h1>Quotations</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=1670&term=Quotations" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1&view=basic">Notes and notebooks </a> (1895-1958) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1-11&view=basic">Book of quotations </a> (1918-1928) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1-6&view=basic">Commonplace Notes </a> (1920-1930) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1-7&view=basic">Quotations from Jacques Chevalier and Lloyd Morgan  </a> (1923-1933) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1-3&view=basic">Commonplace Book 1 </a> (1928) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1-4&view=basic">Commonplace Book 2 </a> (1934) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-1-5&view=basic">Commonplace Book 3 </a> (1953-1963) Papers of Professor John Baillie, and Baillie Family Papers</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

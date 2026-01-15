@@ -1,0 +1,11 @@
+<!-- THIS FILE MUST BE SAVED IN UTF-8 ENCODING (or some special characters will be lost) -->
+<!-- $Id: AUT.txt,v 1.2 2005/03/30 23:44:17 yalnifj Exp $ -->
+Burgenland
+Kärnten
+Niederösterreich
+Oberösterreich
+Salzburg
+Steiermark
+Tirol
+Vorarlberg
+Wien

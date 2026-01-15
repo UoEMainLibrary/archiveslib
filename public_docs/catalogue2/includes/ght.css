@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	padding:0px;
+	margin:0px;
+	background-repeat:repeat;
+	background-image:url(/catalogue2/images/background.jpg);
+}
+.container {
+	margin-left:auto;
+	margin-right:auto;
+	width:960px;
+}
+.header {
+	width:960px;
+	height:121px;
+	background-image:url(/catalogue2/images/header.jpg);
+	background-repeat:no-repeat;
+}
+h1 {
+	top:0px;
+	position:absolute;
+	left:-3000px;
+}
+.menu {
+	background-color:#556157;
+	width:960px;
+	min-height:27px;
+	margin-top:3px;
+	padding-top:5px;
+}
+.browse {
+	background-color:#556157;
+	width:100%;
+	min-height:27px;
+	margin-top:3px;
+	padding-top:5px;
+}
+#nav {
+margin:0;
+padding:0;
+}
+
+#nav li {
+display:inline;
+padding:0;
+margin:0;
+}
+#nav a:link,
+#nav a:visited {
+color:#ffffff;
+padding:0px 0px 0px 40px;
+text-decoration:none;
+font-size:100%;
+ }
+li#nav-home a#active{
+text-decoration:underline;
+}
+#nav a:hover {
+text-decoration:underline;
+ }
+.search {
+	border: 11px solid #ffffff;
+	float:left;
+	width:490px;
+	min-height:288px;
+	margin-top:23px;
+	background-color:#161616;
+	background-image:url(/catalogue2/images/search-bkg.jpg);
+	background-repeat:no-repeat;
+}
+h2.front {
+	color:#FFF;
+	font-weight:normal;
+	font-size:100%;
+	margin:0px;
+	padding-top:7px;
+	padding-left:7px;
+}
+.pict {
+	width:439px;
+	height:319px;
+	float:right;
+	padding-top:19px;
+}
+.clear {
+	clear:both;
+}
+.holder {
+	padding:7px;
+	color:#FFF;
+}
+.holder2 {
+	padding:10px;
+	width:278px;
+	text-align:right;
+}
+a.clear:link {
+COLOR: #ffffff; TEXT-DECORATION: none; font-size:90%; 
+}
+a.clear:visited {
+COLOR: #ffffff; TEXT-DECORATION: none; font-size:90%;
+}
+a.clear:hover {
+COLOR: #ffffff; TEXT-DECORATION: underline; font-size:90%;
+}
+#base {
+margin:0;
+padding:0;
+}
+
+#base li {
+display:inline;
+padding:0;
+margin:0;
+}
+#base a:link,
+#base a:visited {
+color:#ffffff;
+padding:0px 0px 0px 15px;
+text-decoration:none;
+font-size:75%;
+ }
+li#base-home a#active{
+text-decoration:underline;
+}
+#base a:hover {
+text-decoration:underline;
+ }
+.footer {
+	margin-top:19px;
+	border: 11px solid #ffffff;
+	background-color:#FFF;
+}
+.uofe {
+	float:left;
+}
+.wellcome {
+	float:left;
+	margin-left:90px;
+}
+.edina {
+	float:right;
+}
+.pagecontent {
+	border-left: 11px solid #ffffff;
+	border-right: 11px solid #ffffff;
+	border-bottom: 11px solid #ffffff;
+	border-top: 1px solid #ffffff;
+	width:937px;
+	min-height:288px;
+	margin-top:23px;
+	background-color:#ffffff;
+
+}
+p {font-size:95%;
+line-height:180%;
+}
+
+div.mainContent {
+background-color:#ffffff;
+font-size:80%;
+
+}
+td.field {
+font-weight:bold;
+
+}
+	

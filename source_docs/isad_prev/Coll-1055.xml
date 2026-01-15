@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1055">GB
+		237 Coll-1055</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Collection of Dr. Eric Olof Lundholm (b.
+			 1915)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20051213" certainty="certain">13 December
+			 2005</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1055"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1055</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2005.31</physloc><unittitle
+		encodinganalog="isadg(2)312">Collection of Dr. Eric Olof Lundholm (b.
+		  1915)</unittitle><unitdate normal="1938/1946"
+		encodinganalog="isadg(2)313">1938-1946</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 box </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Lundholm, Eric Olof</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>Eric Olof Lundholm was born in 1915 in Modderfontein, in the
+		  Transvaal, South Africa. His parents were Goesta Lundholm, a chemist, and Dr.
+		  Agnes Barr Auchencloss. His great-grandfather, Olof Lundholm, was personal
+		  attendant to Carl XIV Johan, King of Sweden. As Master of the Household he
+		  served the Swedish Court for 68 years and throughout the reigns of four Swedish
+		  monarchs, and was awarded the Vasa Order in 1864. Lundholm's grandfather, Carl
+		  Olof Lundholm, a noted engineer, was an associate of Alfred Nobel who asked him
+		  to manage his new fulminate of mercury plant at Westquarter, near Falkirk, in
+		  Scotland, and was then appointed Manager of Nobel's Explosive Company at
+		  Ardeer, near Stevenston. Goesta Lundholm, earlier a chemist with the British
+		  South African Explosive Co. Ltd. became Superintendent at the ICI Detonator
+		  Factory at Westquarter. </p> 
+		<p>The young Eric Olof Lundholm received his early education in
+		  Modderfontein, and then with the family's move to Scotland, his secondary
+		  education was provided at Falkirk High School. Glasgow University followed, and
+		  in 1937 he graduated B.Sc. First Class Honours in Geology, and became Baxter
+		  Demonstrator in Geology. In 1939 he enrolled at Glasgow Medical School but
+		  after the outbreak of war he was called up in August 1940 into a chemical
+		  warfare training battalion, Royal Engineers. He was commissioned in June 1941
+		  and posted to a Boring Unit R.E., and saw service in the Middle East, first
+		  unblocking oil wells at Kirkuk, cemented by the Allies against possible German
+		  advance, thereafter on water supply development by bore-holes.</p>
+		<p>On demobilisation in February 1946, Lundholm resumed his medical
+		  course, graduating M.B. Ch.B. at Glasgow University in July 1950. One year as
+		  House Surgeon and House Physician was followed by specialising in Psychiatry,
+		  and he took the Diploma in Psychological Medicine (DPM) of the Royal College of
+		  Physicians and Surgeons of Ireland in 1953. In April 1960, Eric Olof Lundholm
+		  married Dorothy Vida Henning, B.A. M.Sc. (Geography, Trinity College, Dublin)
+		  who was an Assistant Lecturer in Geography at Glasgow University and
+		  subsequently became a Medical Artist, working in the Anatomy Department,
+		  illustrating professorial writings.</p>
+		<p>Dr. Eric Olof Lundholm retired in July 1980 after working in
+		  psychiatric hospitals in West and East Scotland with special interests in
+		  therapeutic communities, individual and group psychotherapy and psychogeriatric
+		  medicine. He lives in Edinburgh.</p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The collection is composed of black and white photographs taken in the
+		  1940s, largely of archaeological sites in the Greece and the Middle East (Iraq,
+		  Iran, Egypt, Libya, Israel, Lebanon) but also of camps of the Royal Engineers
+		  in oil and water operations during the Second World War, and a selection of
+		  guide-books to the areas visited.</p> 
+		<p>The guide-books are these:
+		  <list>
+			 <item>Iraq: for issue to Officers down to Platoon Commanders</item>
+			 <item>The way back, described by Army Education (Middle East
+				Forces</item>
+			 <item>Ruined cities of Iraq</item>
+			 <item>Europe and the Far East via Iraq</item>
+			 <item>Iraq, photographic studies</item>
+			 <item>Guide to the Iraq Museum Collections, Government of Iraq</item>
+			 <item>Cairo: How to see it</item>
+			 <item>Brief description of the principal monuments, The Egyptian
+				Museum, Cairo</item>
+			 <item>Egypt and Thebes unseen. A compact guide</item>
+			 <item>Sakkarah: the monuments of Zoser</item>
+			 <item>Dodecanese</item>
+			 <item>Aleppo and its environs</item>
+			 <item>Official guide to Jerash with plan</item>
+			 <item>Cyrenaica</item>
+		  </list></p>
+		<p>The photographs include views of:
+		  <list>
+			 <item>Assyrian Arch and Iranian Legation, Baghdad, Iraq</item>
+			 <item>Escarpment at Tuz Khurmatli, Iraq</item>
+			 <item>Arch of Ctesiphon, Iraq</item>
+			 <item>Sultanabad (Arak), Iran</item>
+			 <item>Mosque, Qum, Iran</item>
+			 <item>Besiton, and Taq i Bostan, near Kermanshah, Iran</item>
+			 <item>Carvings and inscriptions, Besitun</item>
+			 <item>Madrassi Mosque, Isfahan, Iran</item>
+			 <item>Jerash, Jordan</item>
+			 <item>Ruined Hypocaust, Cyrenaica, Libya</item>
+			 <item>Memphis, Cairo, and Sphinx and Great Pyramid, Egypt</item>
+			 <item>Church of All Nations, Jerusalem</item>
+			 <item>Reservoir, Simi, Dodecanese, Greece </item>
+		  </list></p>
+		<p>There are also photographs of: an Iraqi sentries, a blind musician, a
+		  water-wheel, conservation/maintenance workers, and train of the Trans-Iranian
+		  Railway.</p>
+		<p>Photographs showing Royal Engineers work includes:
+		  <list>
+			 <item>Drilling site No. 1, Fowzieh, Iran</item>
+			 <item>No.2. camp, Fowzieh</item>
+			 <item>Rig, Kirkuk area, Iraq</item>
+			 <item>Camp at Khanqhuar/Khangavar, Iran</item>
+			 <item>Members of 'C' crew at work, Fowzieh</item>
+			 <item>Air lift adjustment, delivery of compressor, and detail of
+				well-head, Beit Jirja, Israel</item>
+			 <item>Officers' mess, Beit Jirja</item>
+			 <item>Drill site at Sarafand (Sarepta), Lebanon</item>
+			 <item>E.O.Lundholm in Egypt</item>
+		  </list></p>
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>E2005.31 material acquired from Dr. Eric Olof Lundholm,
+			 Edinburgh</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>Handlist available composed of itemised list of photographs, and of
+			 guide-book bibliographical detail.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using a CV
+			 supplied by Dr. Eric Olof Lundholm</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Guide-books</emph></subject>
+		  
+		  <subject><emph altrender="a">Photographs</emph></subject>
+		  <subject><emph altrender="a">Archaeological sites</emph></subject>
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph
+			 altrender="surname">Lundholm</emph><emph altrender="title">Dr.</emph><emph
+			 altrender="forename">Eric Olof</emph><emph altrender="dates">b.
+			 1915</emph><emph altrender="epithet">Physician, Psychotherapist</emph><emph
+			 altrender="other"></emph></persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE384"> 
+		  <head>Places</head>		  
+		  <!-- LCSH -->
+		  <geogname><emph altrender="a">Gerasa (Extinct city)</emph></geogname>
+		  <geogname><emph altrender="a">Jarash (Jordan)</emph></geogname>
+		  <geogname source="lcsh"><emph altrender="a">Baghdad
+			 (Iraq)</emph></geogname> 
+		  <geogname><emph altrender="a">Arak (Iran)</emph></geogname>
+		  <geogname><emph altrender="a">Isfahan (Iran)</emph></geogname>
+		  <geogname><emph altrender="a">Qum (Iran)</emph></geogname>
+		  <geogname><emph altrender="a">Jerusalem</emph></geogname>
+		  <geogname><emph altrender="a">Egypt</emph></geogname>
+		  <geogname><emph altrender="a">Simi Island (Greece)</emph></geogname>
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

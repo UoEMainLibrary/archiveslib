@@ -1,0 +1,20 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Molecular cloning</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/m/">m</a><h1>Molecular cloning</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4574&term=Molecular cloning" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-470&view=basic">Molecular cloning and expression of bone morphogenetic protein-7 in the chick epiphyseal growth plate </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-671&view=basic">Cloning and mapping of the porcine TTR gene: - Sus scrofa mRNA for transthyretin </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-672&view=basic">The PiGMaP consortium linkage map of the pig (Sus scrofa) </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-735&view=basic">Cloning and in vivo expression of the pig MyoD gene </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-670&view=basic">Porcine alpha-1-antitrypsin (PI): cDNA cloning and gene mapping </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

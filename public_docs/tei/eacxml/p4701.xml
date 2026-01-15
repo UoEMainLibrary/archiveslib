@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4701</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-07-22">22 July 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Stephen Hall</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>20 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 108/00 005/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 108/00 001/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 108/00 004/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 108/00 002/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1891 108/00 0019</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB237/Coll-97/CW114/14</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4701</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacRae</part>
+                <part localType="given">Donald</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter, Sub-postmaster, Barra</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1820" notAfter="1825" notBefore="1815"
+                        >c1820</fromDate><toDate standardDate="1891-02-19">19 February
+                    1891</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Donald MacRae was born to Duncan MacRae, crofter, and Chirsty née MacRae. He was
+                    recorded in 1851 at Borve on Barra staying with the lighthouse keeper, Joseph
+                    Thomson, and his family. Donald classed himself as a tailor. Ten years later he
+                    was farming 30 acres of land at Buaile nam Bodach. Staying with him was his
+                    mother, who was now 60, his brother Farquhar, aged 33, a ploughman, and his
+                    three sisters, Margaret (35), a dressmaker, Mary (31), a domestic servant, and
+                    Ann (29), also a domestic servant. they lived in a house with at least three
+                    rooms with windows. </p>
+                <p>In 1871 Donald was staying with Duncan Sinclair and his family on Berneray. In
+                    1881 he had become the sub-postmaster at Buaile nam Bodach, with his brother and
+                    sisters living with him. He also had plasterer Donald Silver from Duirinish and
+                    a joiner from Tiree, whcih would suggest that work was being done to the
+                    postmasters house. </p>
+                <p>In February 1891, Donald died from unknown causes. His brother signed the death
+                    certificate. He died unmarried.</p>
+                <chronList>
+                    <chronItem><date standardDate="1820" notAfter="1825" notBefore="1815"
+                            >c1820</date><placeEntry>Kintail</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1867-03-16">16 March
+                            1867</date><placeEntry>Buaile nam Bodach, Isle of Barra,
+                            Inverness-shire</placeEntry><event>visited by Alexander
+                            Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1891-02-19">19 February
+                            1891</date><placeEntry>Buaile nam Bodach,
+                            Barra</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

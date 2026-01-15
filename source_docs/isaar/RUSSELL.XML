@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1869 20020508 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper> GB 0237 NAHSTE P1869</titleproper> 
+		  <subtitle>Russell | Sir | Frederick Stratten | 1897-1984 | marine
+			 biologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+			 University Library Special Collections Division, 08 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020508">08 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper> GB 0237 NAHSTE P1869</titleproper> 
+		<subtitle>Russell | Sir | Frederick Stratten | 1897-1984 | marine
+		  biologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+		  University Library Special Collections Division, 08 May 2002</author> 
+		<publisher>Edinburgh University Special Collections Division</publisher> 
+		<date type="single" normal="20020508">08 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1869"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237"> GB 0237 NAHSTE P0336</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1869"
+		 normal="Russell, Sir, Frederick Stratten">Russell | Sir | Frederick Stratten |
+		  1897-1984 | marine biologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Frederick Stratten Russell pioneered the measurements of fish stocks
+			 that made possible the control of over-fishing by quotas. His earliest
+			 experiences were of the sea - boats, fossils-hunting, fishing and the local
+			 fisheries of Cornwall were the scenes of his childhood, and the sea lochs of
+			 the north west coast of Scotland where he was the first to notice the decline
+			 in fish numbers. Russell's schoolteacher father taught him Latin, Greek and
+			 watercolour painting - skills of value to him in his later scientific work.</p>
+		  
+		  <p> During World War I he was an aerial observer and the photographs he
+			 took whilst suspended beneath the fuselage of the aircraft at a height of
+			 18-20,000 feet are amongst the more famous of the 1st World War. He was
+			 decorated for gallantry and skill, and he described his wartime experiences as
+			 enjoyable, exciting and a time of great camaraderie.</p> 
+		  <p>At Cambridge after the war he developed an interest in marine
+			 biology, and worked in Egypt for two years, before returning to the Marine
+			 Biological Association Laboratory at Plymouth in 1924. During World War II
+			 Russell joined RAF intelligence where his work was 'unfailingly skilful and
+			 imaginative' in constructing evidence of enemy bombing strategy. Despite many
+			 offers of academic jobs, Russell preferred after the War to stay at the
+			 Plymouth Laboratory. His benevolent and astute care initiated a 'golden age'
+			 for the Laboratory as a multidisciplinary international centre of excellence
+			 where oceanographers and marine biologists worked with chemists and plant and
+			 animal physiologists. Increased funding allowed the installation of seawater
+			 tanks, an expanded library and well-equipped vessels. Russell's technical
+			 knowledge of seafaring, commercial fishery, photography and minesweeping as
+			 well as statistics and his experimental skills enabled him to investigate the
+			 complex interplay of temperature, depth, light, sea currents, diurnal
+			 variation, life and breeding cycles and the distribution of plankton. His
+			 studies enabled him to draw up a plankton map of the UK waters - an invaluable
+			 tool in fishing policy. Russell's other field of research was the life cycle
+			 and taxonomy of medusae (jellyfish).</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>As a student Russell was influenced by the Norwegian oceanographer,
+			 Johan Hjort who gave him his first appointment in Egypt. His old teacher and
+			 Director of the Laboratory, Dr. E.J. Allen, initiated his career at the
+			 Plymouth Laboratory. Russell collaborated with Maurice Yonge, on the
+			 publication of the first successful popular description of marine biology
+			 (1928), and in the same year they joined the Great Barrier Reef Expedition.
+			 Russell had many other collaborators after the War: W.R.G. Atkins, H.W. Harvey,
+			 Marie Lebour and L.H.N. Cooper. He encouraged much important research at
+			 Plymouth, e.g., O.E. Lowenstein's work in experimental zoology, and A.L.
+			 Hodgkin and A.F. Huxley's neurophysiology work received the Nobel Prize. His
+			 wife, Gweneth died in 1978. His only child, William was born in 1938.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p>159 publications largely in journals. His monographs are:</p> 
+		  <p><bibref><title>The seas: an introduction to the study of life in the
+			 sea</title>, (<imprint><date type="publication" normal="1928"
+			 certainty="certain">1928</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Medusae of the British Isles, vol. 1</title>, ( 
+			 <imprint><date type="publication" normal="1953"
+			 certainty="certain">1953</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Medusae of the British Isles, vol. 2</title>, ( 
+			 <imprint><date type="publication" normal="1970"
+			 certainty="certain">1970</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The eggs and planktonic stages of British marine
+			 fishes</title>, (<imprint><date type="publication" normal="1976"
+			 certainty="certain">1976</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>Appointed chairman of several government councils, and honorary
+			 member of several learned societies and institutions. He was also awarded four
+			 honorary degrees.</p> 
+		  <p><date type="appointmentspan" normal="1928/1929">1928-1929</date>:
+			 Appointed member, Great Barrier Reef Expedition</p> 
+		  <p><date type="appointmentdate" normal="1938">1938</date>: Elected
+			 Fellow of Royal Society</p> 
+		  <p><date type="appointmentspan" normal="1945/1965">1945-1965</date>:
+			 Appointed Director, Plymouth Laboratory, Marine Biological Association</p> 
+		  <p><date type="single" normal="1955">1955</date>: Awarded CBE</p> 
+		  <p><date type="single" normal="1965">1965</date>: Awarded
+			 Knighthood</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Denton, EJ " role="editor">Denton,
+			 EJ</persname>, <title render="italic">Biographical Memoirs of Fellows of the
+			 Royal Society, vol. 32 pp 461-493</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname> 
+			 <date type="publication" normal="1986"
+			 certainty="certain">1986</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Cartage</title>, (
+			 <extref href="http://www.cartage.org.lb/">http://www.cartage.org.lb/</extref> 
+			 <imprint>, 
+			 <date type="publication" normal="2002"
+			 certainty="certain">2002</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="researcher" normal="Stewart, Margaret">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020508">08 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,19 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Zebras</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/z/">z</a><h1>Zebras</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=281&term=Zebras" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="141">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-21-8&view=basic">Letter to James Cossar Ewart from Herbrand Arthur Russell, 11th Duke of Bedford </a> (1915) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-21-16&view=basic">Letter to James Cossar Ewart from Charles Dawson </a> (1915) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-21-23&view=basic">Letter to James Cossar Ewart from Cargill Gilston Knott, with enclosed letter to Knott from Alexander Seton Huth </a> (1915) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-36-3&view=basic">Letter to James Cossar Ewart from Adolf Rzasnicki (in French) </a> (1930) Papers of James Cossar Ewart</li>
+</ul>
+<a href="121.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

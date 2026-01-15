@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p3376</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-03-16">3 June 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Aimee Shaw</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2012-03-22">22 March 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>16 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Bracadale, Isle of Skye </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 109/00 005/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Bracadale, Isle of Skye</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 109/00 008/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Bracadale, Isle of Skye </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 109/00 007/00 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Bracadale, Isle of Skye </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 109/00 007/00 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1885 109/00 0007</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW109/27</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW109/29</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Fionnla Choinneachain Mac Na Bantraich</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW422</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Sgeul na Luireach</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW427</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Tale beginning 'Bha duin uasal ann uair... </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW428</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Fionnlagh Choinneachain Mac na Bantraich</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW460</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Sgeul na Luraich</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW475</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p3376</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacQueen</part>
+                <part localType="given">Donald </part>
+            </nameEntry><descriptiveNote>
+                <p>Cottar, Fernilea, Isle of Skye</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1795" notAfter="1800" notBefore="1790">c1795</fromDate>
+                    <toDate standardDate="1885-02-25">25 February 1885</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Donald MacQueen was the son of Donald MacQueen, cottar, and Margaret MacQueen neé
+                    Stewart. Donald was married to Margaret MacQueen and in the 1871 he was recorded
+                    as living with his son Donald, daughter Margaret and grandson Donald MacPhee. He
+                    was a cottar but at the time of his death he was also noted as being a pauper
+                    and the cause of death recorded was senile debility with chronic bronchitis. His
+                    daughter Margaret MacQuien signed the certificate. The official records give
+                    various spellings of his name: McQueen, McQuien, McGuin and McWean. </p>
+                <p>Carmichael collected a substantial amount of lore from MacQueen including stories
+                    entitled 'Iain Mac An Albanaich' and 'Alasdair Og Mac Righ Shasunn agus Alasdair
+                    dubh a bhrathair'.</p>
+                <chronList>
+                    <chronItem>
+                        <date notAfter="1800" notBefore="1790" standardDate="1795">c1795</date>
+                        <placeEntry>Bracadale parish, Inverness-shire</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1861-02-21">21 February 1861</date>
+                        <placeEntry>Fernilea, Bracadale parish, Isle of Skye</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1861-06-01">1 June 1861</date>
+                        <placeEntry>Fernilea, Bracadale parish, Isle of Skye</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1861-08-29">29 August 1861</date>
+                        <placeEntry>Fernilea, Bracadale parish, Isle of Skye</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1885-02-25">25 February 1885</date>
+                        <placeEntry>Fernilea, Bracadale parish, Isle of Skye</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

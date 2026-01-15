@@ -1,0 +1,10 @@
+AuthName "Restricted Area" 
+AuthType Basic 
+AuthUserFile /data/d4/archives/cgi-bin/.htpasswd 
+AuthGroupFile /dev/null 
+<Files view_isad.pl>
+require valid-user
+</Files>
+<Files search.pl>
+require valid-user
+</Files>

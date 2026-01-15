@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1061">GB
+		237 Coll-1061</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>George Baillie Collection of Music
+			 Manuscripts</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20070205" certainty="certain">05 February
+			 2007</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-Coll-1061"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1061</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2005.15</physloc><unittitle
+		encodinganalog="isadg(2)312">George Baillie Collection of Music
+		  Manuscripts</unittitle><unitdate normal="1700/1823"
+		encodinganalog="isadg(2)313"
+		certainty="uncertain">1700-1830</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">17 vol. music mss; 4 additional sets
+		  manuscripts </extent></physdesc> 
+		<langmaterial><language langcode="eng">English</language>;
+		  <language langcode="ita">Italian</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Baillie, George</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>Among the composers represented in the George Baillie collection are:
+		  Giovanni Battista Bononcini; and, Alessandro Scarlatti (1660-1725).</p> 
+		<p>Giovanni Battista Bononcini was born in Modena, Italy in 1670. He was
+		  the eldest son of Giovanni Maria Bononcini (1642-1678). Bononcini trained as a
+		  cellist in Bologna where he published two collections of trios (1685) and three
+		  of sinfonie (1685-1687). He was a member of the Accademia Filarmonica, and was
+		  a musician at San Petronio, and maestro di cappella at Monte San Giovanni,
+		  Modena </p> 
+		<p>Bononcini went to Milan, commissioned to the Duke of Modena, and then
+		  to Rome. In Rome he worked with the poet Silvio Stampiglia on, among other
+		  things, an opera, 
+		<title>Il trionfo di Camilla</title>, which was the highlight of the
+		Naples Carnival 1696-1697.</p> 
+		<p>In 1698, Bononcini was recruited to the court of Leopold I (Holy Roman
+		  Emperor) in Vienna where he became a favourite of Joseph, the son and heir, who
+		  succeeded as Joseph II (Holy Roman Emperor) in 1705. He was joined in Vienna by
+		  Stampiglia and his own younger brother Antonio Maria Bononcini, also a cellist
+		  and opera composer. On the death of Joseph II in 1711, Bononcini left the court
+		  in Vienna for Rome where he stayed until 1719.</p> 
+		<p>Bononcini's work made Italian opera popular in England, partly because
+		  it was translated for English voices. In 1719, he was invited to London by the
+		  Earl of Burlington to become a composer for the Royal Academy of Music under
+		  the direction of G. F. Haendel (Handel). In London, he was well received and
+		  his opera 
+		<title>Astarto</title> opened at the King's Theatre, Haymarket, in 1720.
+		In the early 1720s he spent some time in Paris, and on his return to London he
+		became director of the private concerts of the Duchess of Marlborough, a post
+		he held until 1731.</p> 
+		<p>The early 1730s again saw him in Paris and Lisbon. His last known work
+		  was a 
+		<title>Te Deum </title> commissioned by the Empress Maria Theresa in
+		1741. Cellist and composer Giovanni Battista Bononcini died in Vienna in
+		1747.</p> 
+		<p>Alessandro Scarlatti was born in Palermo on 2 May 1660. His first
+		  opera was a resounding success and he attracted the attention of Queen
+		  Christina of Sweden who made him her 'maestro di cappella'. In 1684 he was
+		  appointed 'maestro di cappella'' at the royal court in Naples which he
+		  dominated in the production of operas. By 1700 the War of the Spanish
+		  Succession was threatening the stability of the court of Naples so Scarlatti
+		  moved to Florence in 1702. Failing to find a post at the court of Prince
+		  Ferdinando de' Medici, he took his family to Rome where he found a post at the
+		  church of San Maria Maggiore. A papal ban of opera forced him to concentrate on
+		  writing oratorio and cantatas. In 1707 he was in Venice but his operas failed
+		  there and he returned to Rome and to San Maria Maggiore. Life as a church
+		  musician gave him little satisfaction and so in 1708 he accepted an invitation
+		  from the new Austrian viceroy to return to his post at Naples where he remained
+		  there for the rest of his life.</p> 
+		<p>Scarlatti's various works included 
+		<title>Gli equivoci nel sembiante</title> 1679, 
+		<title>Il Pirro e Demetrio </title> 1694, 
+		<title>La caduta dei Decemviri</title> 1697, 
+		<title>Mitridate Eupatore </title>, 
+		<title>Il trionfo della liberta</title>, and 
+		<title>La Griselda</title> 1721.</p>
+		<p>Alessandro Scarlatti died in Naples on 22 October 1725.</p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>Much of the material currently contained within the George Baillie
+		  Collection has noted upon it the P-purchase number and shelfmark of its older
+		  location in the Reid Music Library. These aids are noted below for the benefit
+		  of those having accessed the material in the older location.</p> 
+		<p>The collection is composed of the following:</p> 
+		<p>In Box No: 1 
+		  <list> 
+			 <item><title>Contemporary Yugoslav Music</title> by Dragotin Cvetke.
+				Ph.D. printed, bound</item> 
+			 <item><title>Ettrick. Rhapsody on an original theme</title> by Ramsay
+				Kay. Mss</item> 
+			 <item><title>Ettrick. Rhapsody on an original theme</title>by Ramsay
+				Kay. Mss. Score. Parts: flutes, oboes, clarinets, bassoons, horns, trumpets,
+				trombones, tuba, timpani, violins, cello, double bass</item> 
+			 <item>Work by T.H.Parry-Williams</item> 
+			 <item><title>Duetti</title> by Steffani. Mss. Bound, P 1432., M78
+				Stef-4</item> 
+			 <item><title>Duetti del Grua</title> Mss. P1437.,
+				784.21062(45)</item> 
+			 <item><title>Cantata di Pergolese</title> 1732. Mss. P 1428., M78
+				Perg-26</item> 
+			 <item>Diverse works. P 1435., 784.21(45)</item> 
+		  </list> </p> 
+		<p>In Box No: 2 
+		  <list> 
+			 <item>Diverse works. Mss. Bound</item> 
+			 <item><title>Di Diversi Cantata</title> by Mr. Bain 1722. Mss. P
+				1436., 784.5(45)</item> 
+			 <item><title>Bononcin Cantat</title> by Bononcini. Mss. P 1425., M78
+				Bon-26</item> 
+			 <item><title>Scarlatti Arie'</title> Scarlatti Arie'. Mss. P 1430.,
+				M78 ScaA-4</item> 
+		  </list> </p> 
+		<p>In Box No: 3 
+		  <list> 
+			 <item><title>Concerto for violin and string orchestra</title> by Hans
+				Gal. Copy. Notebook. M78 Gal-21(6)</item> 
+			 <item><title>Cantate'</title> Vol.1. Mss. P 1433., 784.5(45)</item> 
+			 <item><title>Italian duetts</title> 1824. Mss. P 1439.,
+				784.21062(45)</item> 
+			 <item><title>Italian opera music</title> 1824. Mss. P 1440.,
+				784.21062(45)</item> 
+			 <item><title>Arie e Cantate del Bononcini</title> Works of Giovanni
+				Battista Bononcini</item> 
+		  </list> </p> 
+		<p>Contained within the musical works, 
+		<title>Arie e Cantate del Bononcini</title>, are: 
+		<list> 
+		  <item><title>Sembre tiranno amor</title></item> 
+		  <item><title>Se amar mi vuoi</title></item> 
+		  <item><title>Ascolta o Figlio</title></item> 
+		  <item><title>E'ver che mi piacette</title></item> 
+		  <item><title>Clori dal colle al prato</title></item> 
+		  <item><title>Merce' d'amico raggio</title></item> 
+		  <item><title>Quanto piace agl'occhi mici</title></item> 
+		  <item><title>Veggio la bella dori</title></item> 
+		  <item><title>Usignuol che col mio canto</title></item> 
+		  <item><title>Combattuta alma mia</title></item> 
+		  <item><title>Fissai caro mio</title></item> 
+		  <item><title>Clori bell' idol mio</title></item> 
+		  <item><title>Torno a voi piante amorose</title></item> 
+		  <item><title>La nuvoletta</title></item> 
+		</list></p> 
+		<p>There are also two arie by Handel (G. F. Haendal): 
+		  <list> 
+			 <item><title>Poterti dir vorrei</title></item> 
+			 <item><title>Son confusa Pastorella</title></item> 
+		  </list></p> 
+		<p>In Box No: 4 
+		  <list> 
+			 <item><title>Italian duetts</title> 1823. Mss. P 1438.,
+				784.21062(45)</item> 
+			 <item><title>La Calfurnia arie del Bononcini</title> P 1424., M78
+				Bon-26</item> 
+			 <item><title>L'astarto arie del Bononcini</title> P 1423., M78
+				Bon-26</item> 
+			 <item><title>Duetto … Alesandro Scarlatti</title> Mss. P 1431 M78
+				Scar-4(2)</item> 
+		  </list></p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Reid Music Library</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>A list of material contained in the Baillie Collection has been
+			 prepared.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external"> 
+		  <p>Much biographical and encyclopaedic information about Giovanni
+			 Battista Bononcini online. The biographical notes here were created using
+			 [online] 
+			 <extref href="http://www.baroquemusic.org/bqxbononci.html">Baroque
+				Composers and Musicians. Giovanni Battista Bononcini.</extref> [accessed 6
+			 January 2007] and [online] 
+			 <extref
+			  href="http://w3.rz-berlin.mpg.de/cmp/scarlatti_a.html">Extracts from Grove
+				Concise Dictionary of Music.</extref> [accessed 6 January 2007].</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D. Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Music</emph><emph
+			 altrender="y">18th century</emph><emph altrender="x"></emph></subject> 
+		  <subject><emph altrender="a">Violoncellists</emph></subject> 
+		  <subject><emph altrender="a">Composers</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname><emph altrender="surname">Baillie</emph><emph
+			 altrender="forename">George</emph></persname>
+		  <persname rules="ncarules"><emph
+			 altrender="surname">Bononcini</emph><emph altrender="forename">Giovanni
+			 Battista</emph><emph altrender="dates">1670-1747</emph><emph
+			 altrender="epithet">Cellist, Composer</emph></persname> 
+		  <persname><emph altrender="surname">Scarlatti</emph><emph
+			 altrender="forename">Alessandro</emph><emph altrender="dates">1660-1725</emph>
+			 <emph altrender="epithet">Baroque composer</emph></persname>
+		  <persname><emph altrender="surname">Handel</emph><emph
+			 altrender="forename">George Frideric</emph><emph
+			 altrender="dates">1685-1759</emph></persname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

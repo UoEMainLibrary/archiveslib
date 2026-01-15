@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0774 20020204//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0774</titleproper> 
+		  <subtitle>Crew | Francis Albert Eley | 1886-1973 | professor of animal
+			 genetics, University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 04 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020204">04 February 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0774</titleproper> 
+		<subtitle>Crew | Francis Albert Eley | 1886-1973 | professor of animal
+		  genetics, University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+		  University Library Special Collections Division, 04 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020204">04 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0774"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0774</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0774" normal="Crew, Francis Albert Eley">Crew |
+		  Francis Albert Eley | 1886-1973 | professor of animal genetics, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Francis Albert Eley Crew graduated from Edinburgh University Medical
+			 School in 
+			 <date normal="1912" type="single">1912</date>. As an undergraduate at
+			 the University of Edinburgh he had had a foretaste for genetics whilst
+			 attending the lectures of Arthur Darbishire (<date normal="1879/1915"
+			 type="life-span">1879-1915</date>), a pioneer of genetics, those of Francis
+			 Marshall (<date normal="1878/1949" type="life-span">1878-1949</date>), a
+			 pioneer of reproductive physiology, and of Sir Edward Sharpey Schafer (<date
+			 normal="1850/1935" type="life-span">1850-1935</date>), endocrinologist and
+			 professor of physiology at the University of Edinburgh (<date
+			 normal="1899/1933" type="inclusive">1899-1933</date>). He and his wife then set
+			 up a medical practice in Devon. Here he rediscovered his childhood interest for
+			 breeding bantams. With the outbreak of World War I he joined up and as an
+			 ex-territorial reached the rank of Major. At the end of the war he returned to
+			 Edinburgh as an assistant in the department of zoology. Crew supplemented his
+			 income by demonstrating to medical students in the department of physiology. It
+			 was partly due to the success of this that he was appointed as first Director
+			 of the newly-founded Institute of Animal Breeding.</p> 
+		  <p>Very soon Crew was attracting distinguished scientists to the
+			 Institute, including: John Haldane (<date normal="1892/1964"
+			 type="life-span">1892-1964</date>), Lancelot Hogben (<date normal="1895/1975"
+			 type="life-span">1895-1975</date>), and Julian Huxley (<date normal="1887/1975"
+			 type="life-span">1887-1975</date>). Crew's first substantial publication
+			 appeared in the Journal of Genetics in 
+			 <date normal="1921" type="publication">1921</date>, and between then
+			 and the move to the King's Buildings in 
+			 <date normal="1924" type="single">1924</date>, he contributed
+			 regularly to research in the fields of intersexuality and sex transformations
+			 in mammals and birds. The department then received a grant of £30,000 from the
+			 Rockefeller Foundation, which was supplemented by gifts from colleagues and
+			 well-wishers, and a brand new building: the Institute of Animal Genetics was
+			 built in 
+			 <date normal="1930" type="single">1930</date>. Crew was appointed
+			 Buchanan Professor of Animal Genetics in 
+			 <date normal="1928" type="appointmentdate">1928</date>. During the 
+			 <date normal="1930/1939" type="inclusive"
+			  certainty="uncertain">1930s</date> the period of financial depression meant
+			 that any plans for the Institute's development had to be put on hold, but the
+			 rise of Mussolini and the Third Reich forced many scientists out of their
+			 native countries to find a new home at the Institute. These included: Hermann
+			 Muller (<date normal="1890/1967" type="life-span">1890-1967</date>), Charlotte
+			 Auerbach (<date normal="1899/1994" type="life-span">1899-1994</date>) and Guido
+			 Pontecorvo (<date normal="1907/1999" type="life-span">1907-1999</date>). Crew
+			 and Muller managed to assemble a group of some twelve postgraduate students to
+			 conduct research under them.</p> 
+		  <p>Professor Crew contributed greatly to the understanding of
+			 mechanisms of inheritance, the genetics of sex and the physiology of the
+			 endocrine glands. Throughout his career Crew kept up strong contacts with
+			 poultry breeders, farmers and bird fanciers, and this meant that specimens of
+			 mammals and birds exhibiting sexual abnormalities of one sort or another, were
+			 more easily obtainable to him. It was through his work with goats that Crew
+			 first noticed these anomolies. He then transferred his work on intersexuality
+			 through to other animals, and more particularly to the domestic fowl. This work
+			 on sexual abnormalities in different breeds of the domestic fowl covered the
+			 period (<date normal="1922/1938" type="inclusive">1922-1938</date>). </p> 
+		  <p>In 
+			 <date normal="1939" type="single">1939</date> the International
+			 Congress of Genetics met in Edinburgh with Crew as President. This event
+			 signalled the end of his career as a geneticist, as soon afterwards at the
+			 beginning of the War he was drafted to command a military hospital. He played a
+			 major part in founding the Polish Army Medical School in Edinburgh. He also
+			 undertook the ambitious job of writing for the official Army Medical History of
+			 the War (HMSO). In 
+			 <date normal="1944" type="appointmentdate">1944</date> Crew began a
+			 second academic career as Professor of Public Health and Social Medicine. He
+			 was founder and first editor of the <bibref><title>British Journal of Social
+			 Medicine</title></bibref>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p> </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Animal Genetics: an Introduction to the Science of
+			 Animal Breeding</title>, ( <imprint><date type="publication" normal="1925"
+			 certainty="certain">1925</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Organic Inheritance in Man</title>, ( <imprint><date
+			 type="publication" normal="1927"
+			 certainty="certain">1927</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Genetics of Sexuality in Animals</title>, ( 
+			 <imprint><date type="publication" normal="1927"
+			 certainty="certain">1927</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Genetics in Relation to Clinical Medicine</title>, ( 
+			 <imprint><date type="publication" normal="1947"
+			 certainty="certain">1947</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Measurements of the Public Health: essays on social
+			 Medicine</title>, ( <imprint><date type="publication" normal="1948"
+			 certainty="certain">1948</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Must Man Wage War?: the Biological Aspect</title>, ( 
+			 <imprint><date type="publication" normal="1952"
+			 certainty="certain">1952</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Army Medical Services: Administration</title>, ( 
+			 <imprint><date type="publication" normal="1953"
+			 certainty="certain">1953</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Sex Determination</title>, ( <imprint><date
+			 type="publication" normal="1954"
+			 certainty="certain">1954</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Army Medical Services: Campaigns, Vol.1</title>, ( 
+			 <imprint><date type="publication" normal="1956"
+			 certainty="certain">1956</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Army Medical Services: Campaigns, Vol.2</title>, ( 
+			 <imprint><date type="publication" normal="1957"
+			 certainty="certain">1957</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Army Medical Services: Campaigns, Vol.3</title>, ( 
+			 <imprint><date type="publication" normal="1959"
+			 certainty="certain">1959</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Army Medical Services: Campaigns, Vol.4</title>, ( 
+			 <imprint><date type="publication" normal="1962"
+			 certainty="certain">1962</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Army Medical Services: Campaigns, Vol.5</title>, ( 
+			 <imprint><date type="publication" normal="1964"
+			 certainty="certain">1964</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Sex Determination</title>, ( <imprint><date
+			 type="publication" normal="1956"
+			 certainty="certain">1965</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Foundations of Genetics</title>, ( <imprint><date
+			 type="publication" normal="1966"
+			 certainty="certain">1966</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p> Awarded Keith Prize, Royal Society of Edinburgh</p> 
+		  <p><date normal="1942/1946" type="appointmentdate">1942-1946</date>:
+			 Appointed Director, Medical Research, War Office</p> 
+		  <p><date type="appointmentdate" normal="1946/1956">1946-1956</date>:
+			 Appointed Chairman, Board of Management, Edinburgh Central Group of
+			 Hospitals</p> 
+		  <p> 
+			 <date type="appointmentspan" normal="1946/1956">1946-1956</date>:
+			 Appointed Member, Army Health Advisory Committee</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Burnett, John H" role="editor">Burnett,
+			 John H</persname>, <title render="italic">The University Portraits, vol
+			 ii</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Eyre and Spottiswoode</publisher>, 
+			 <date type="publication" normal="1986"
+			 certainty="certain">1986</date>)</imprint></bibref></p> 
+		  <p> <bibref> <corpname normal="University of Edinburgh"
+			 role="creator">University of Edinburgh</corpname>, <title render="italic">The
+			 University of Edinburgh Journal, vol. 26</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Scottish Academic Press Ltd</publisher>, 
+			 <date type="publication" normal="1973/1974"
+			 certainty="certain">1973-1974</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Hogben, Lancelot" role="editor">Hogben,
+			 Lancelot</persname>, <title render="italic">Francis Albert Eley Crew:
+			 Biographical Memoirs of the Royal Society, vol. 20</title>, (<imprint>
+			 <geogname normal="London (England)" authfilenumber="530"
+			 source="lcsh">London</geogname>, 
+			 <publisher>Royal Society</publisher>, 
+			 <date type="publication" normal="1974"
+			 certainty="certain">1974</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020204">04 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1161 20020529 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1161</titleproper> 
+		  <subtitle>Laurie | Arthur Pillans | 1861-1949 | principal of
+			 Heriot-Watt College</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 29 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020529">29 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1161</titleproper> 
+		<subtitle>Laurie | Arthur Pillans | 1861-1949 | principal of Heriot-Watt
+		  College</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 29 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020529">29 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1161"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1161</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1161" normal="Laurie, Arthur Pillans">Laurie |
+		  Arthur Pillans | 1861-1949 | principal of Heriot-Watt College</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Arthur Pillans Laurie (<date type="life-span"
+			 normal="1861/1949">1861-1949</date>) was a chemist and principal of Heriot-Watt
+			 College in Edinburgh. He was encouraged into his unusual branch of chemistry,
+			 analysis of paintings, by the famous painter William Holman Hunt (<date
+			 type="life-span" normal="1827/1910">1827-1910</date>). Laurie specialised in
+			 the chemistry of pigmentation in art. Laurie attended Edinburgh Academy, the
+			 University of Edinburgh, and finally, King's College, Cambridge, from which he
+			 graduated with first class honours in the science tripos in 
+			 <date type="single" normal="1884">1884</date>. </p> 
+		  <p>Laurie split his time between academic work in chemistry, roles in
+			 government committees and book writing. His academic career included a
+			 lecturer's position in chemistry and physics at the St Mary's Hospital Medical
+			 School, the chair in chemistry at the Royal Academy of Arts, and an advisory
+			 post at the Courtauld Institute of Arts. The crowning achievement of his career
+			 was his appointment as principal of Heriot-Watt College, Edinburgh, in 
+			 <date type="appointmentdate" normal="1900">1900</date>. In government
+			 committees, Laurie occupied many places, in bodies - mainly relating to
+			 education or industry - ranging from the Commission to the Royal Commission on
+			 Secondary Education to the slightly more obscure Home Office Departmental
+			 Committee on Pottery Manufacture. Laurie wrote many books, mainly on subjects
+			 relating to paintings.</p> 
+		  <p>Laurie's work on paintings was, in many ways, ground-breaking. He
+			 used chemical analysis to determine the make-up of paint samples of pictures,
+			 in order to determine the origin and age of paintings. He also introduced
+			 infra-red photography of paintings to see hidden layers of paint, covered under
+			 later reworkings. This allowed the identification of the true date of a
+			 self-portrait by Rembrandt, the part of the painting with the date inscribed
+			 having been painted over.</p> 
+		  <p>He was involved in a number of learned societies, including the
+			 Royal Society of Edinburgh, the Royal Scottish Academy and the Royal Academy of
+			 Arts. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Laurie was influenced in his career choice by artist William Holman
+			 Hunt.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>The Food of Plants</title>, (<imprint><date
+			 type="publication" normal="1893"
+			 certainty="certain">1893</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Facts About Processes, Pigments, and Vehicles - a
+			 Manual for Art Students</title>, (<imprint><date type="publication"
+			 normal="1895" certainty="certain">1895</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Greek and Roman Methods of Painting</title>, ( 
+			 <imprint><date type="publication" normal="1910"
+			 certainty="certain">1910</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Materials of the Painter's Craft in Europe and
+			 Egypt, from the Earliest Times to the End of the XVIIth Century</title>, (
+			 <imprint><date type="publication" normal="1910"
+			 certainty="certain">1910</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Pigments and Mediums of the Old Masters</title>,
+			 (<imprint><date type="publication" normal="1914"
+			 certainty="certain">1914</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Painter's Methods and Materials</title>, ( 
+			 <imprint><date type="publication" normal="1926"
+			 certainty="certain">1926</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Study of Rembrandt and the Painting of his
+			 School</title>, ( <imprint><date type="publication" normal="1929"
+			 certainty="certain">1929</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Brush Work of Rembrandt and his School</title>, (
+			 <imprint><date type="publication" normal="1932"
+			 certainty="certain">1932</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Pictures and Politics</title>, (<imprint><date
+			 type="publication" normal="1934"
+			 certainty="certain">1934</date>)</imprint></bibref></p> 
+		  <p><bibref><title>New Light on Old Masters</title>, (<imprint><date
+			 type="publication" normal="1935"
+			 certainty="certain">1935</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Case for Germany</title>, (<imprint><date
+			 type="publication" normal="1939"
+			 certainty="certain">1939</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1884">1884</date>: Awarded first-class
+			 degree in the science tripos, King's College Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1895">1895</date>: Appointed
+			 Lecturer in Physics and Chemistry at St Mary's Hospital Medical School</p> 
+		  <p><date type="appointmentdate" normal="1895">1895</date>: Appointed
+			 Assistant Commisioner to the Royal Commission on Secondary Education</p> 
+		  <p><date type="appointmentdate" normal="1898">1898</date>: Appointed
+			 Examiner in Chemistry to the Royal College of Physicians, London</p> 
+		  <p><date type="appointmentspan" normal="1900/1928">1900-1928</date>:
+			 Appointed Principal of Heriot-Watt College, Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1912">1912</date>: Professor of
+			 Chemistry the Royal Academy of Arts</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Year Book of the Royal Society of Edinburgh 1950
+			 (Session 1948-1949)</title>, (<imprint><geogname source="lcsh"
+			 authfilenumber="517" normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Oliver and Boyd</publisher>, 
+			 <date type="publication" normal="1950"
+			  certainty="certain">1951</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Who's Who 1938</title>, <imprint><geogname
+			 source="lcsh" authfilenumber="530" normal="London (England)">London</geogname>,
+			 
+			 <publisher>A&amp;C Black Ltd</publisher>, 
+			 <date type="publication" normal="1937"
+			 certainty="certain">1937</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020529">29 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

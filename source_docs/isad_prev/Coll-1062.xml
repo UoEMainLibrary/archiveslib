@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1062">GB
+		237 Coll-1062</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of Professor Robert Bertram Serjeant
+			 (1915-1993)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20050721" certainty="certain">21 July
+			 2005</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-Coll-1062"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1062</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2005.16</physloc><unittitle
+		encodinganalog="isadg(2)312">Papers of Professor Robert Bertram Serjeant
+		  (1915-1993)</unittitle><unitdate normal="1950/1980"
+		encodinganalog="isadg(2)313"
+		certainty="uncertain">1930-1980</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">11 boxes </extent></physdesc> 
+		<langmaterial><language langcode="eng">English</language>;
+		  <language langcode="ara">Arabic</language>; <language
+		  langcode="fre">French</language><language
+		  langcode="ger">German</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Serjeant, Robert Bertram</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>Robert Bertram Serjeant was born in Edinburgh on 23 March 1915. He
+		  studied at Edinburgh University where he obtained the degree of M.A. in 1935,
+		  before studying at Trinity College, Cambridge, to research Islamic textiles for
+		  the degree of Ph.D. which he obtained in 1939. He went to the Arabian Peninsula
+		  for the first time during the Second World War when he worked on Arabic
+		  dialects in the Aden area. He was commissioned into the Aden Government Guards
+		  and visited the remoter parts of the Aden Protectorate. In 1942, Serjeant
+		  worked for the BBC Arabic Service, editing the 
+		<title>Arabic Listener</title>.</p> 
+		<p>At the end of the war he became a Lecturer at SOAS (School of Oriental
+		  and African Studies), University of London, 1945-1947, during which time he
+		  returned to Aden's Hadramawt with a research fellowship. In 1948 he became
+		  Reader at SOAS, and in 1955 he was Professor of Modern Arabic there.</p> 
+		<p>Serjeant resigned his Chair at SOAS in 1964, and went to Cambridge as
+		  Lecturer, 1964-1966, then Reader, from 1966, then became Sir Thomas Adam's
+		  Professor of Arabic in 1969. He retired in 1981 returning to Scotland, to
+		  Denhead, near St. Andrews.</p> 
+		<p>Serjeant's work included: a translation of the 
+		<title>Bukhala</title> of Al-Jahiz; 
+		<title>Portuguese off the South Arabian Coast</title>, a collection of
+		early Hadrami texts on Portuguese activity; 
+		<title>South Arabian hunt</title>, a study of the ritual ibex hunt; 
+		<title>Sanaa, an Arabian Islamic city</title>; and, with others the 
+		<title>Cambridge History of Arabic Literature</title>.</p> 
+		<p>Professor Robert Bertram Serjeant died at his home near St. Andrews on
+		  29 April 1993.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The collection is composed of three sets of boxes, being one set of
+		  four boxes, one set of three boxes, and one set of two boxes.</p> 
+		<p> Set of four boxes. Box 1 contains: photographic copy of Yemeni
+		  manuscript, together with a notebook with Arabic notes; spiral-bound 'Universo'
+		  notebook with Arabic notes; rolled (paper) copy of Cairo manuscript;
+		  photographic copy of 
+		<title>History of Yemen and its sovereigns</title>, dating from 919 A.H.
+		(Rylands Arabic MS.253); file with photo-copy of 
+		<title>Nihayat Al-Rutba Fi Talab Al-Hisba </title>, of Ibn Bassam
+		Al-Muhtasib, edited and noted by Husam Al-Samarraie, Baghdad, 1968. Box 2
+		contains: Serjeant's Arabic transcription of 
+		<title>Kitab al-Tabyin Fi Al-Man</title>; copy of 
+		<title>Bughyat al-Fallahin</title>, an agricultural treatise; photocopy
+		of a manuscript providing genealogies; copy of 
+		<title>Tashi al-mudhakarah bi-ah-kam al-mukhabarah wa- l-mu-zara ah wa-
+		  '-mugharassah wa- ' -munasharah</title>; several photographic copies of Arabic
+		works; loose-leaf folder containing photographic copies of Arabic manuscript.
+		Box 3 contains: circa 6 extensive copied Arabic manuscript material. Box 4
+		contains: photocopy of 
+		<title>Al-Shamarikh </title>, of Muhammad bin Muhammad bin Ahmad Ba
+		Kathir, a Hadrami text from the late-19th century, early-20th century;
+		photographic copy of Arabic manuscript (MS 3317) in the Chester Beatty Library;
+		and, several extensive copied Arabic manuscript items.</p> 
+		<p>Set of three boxes. Box 1 contains: facsimile pages of Arabic work, K.
+		  al-Bukhata, 1937; notebook noted as 'Yemen 1966 tour'; loose-leaf folder of
+		  travel description of Muscat, Oman, South Arabia; loose-leaf folder of assorted
+		  notes in English, French, and Arabic, some printed matter; file of notes,
+		  possibly for a book; file of notes in Arabic; notebook containing (probably)
+		  Serjeant's handwritten copy of 
+		<title>Bughyat al-Fallahin</title>; and, two talks on Arabia, one for the
+		BBC in 1950, another in Bonn, 1973. Box 2 contains: file containing names of
+		Subaihi tribes, Aden; assorted notebooks and files containing notes in Arabic
+		and English; copies of manuscript 
+		<title>Al-Manah al-Rabbaniyah</title> on customary law; notes on an
+		architectural planning thesis; notes headed 'Yemen 1962-68'; notes headed
+		'Yemen 1967-68'; notes on politico-military situation, 1960s; notes on Yemen,
+		1967, including printed matter; notes on Hijab manuscript, Hadramawt; notes
+		relating to 
+		<title>An introduction to Aden Colloquial Arabic</title>; and, notes on
+		Adwillah. Box 3 contains: notes of FAO report (UN Food and Agricultural
+		Organisation; journal notes, Oct-Dec 1962; assorted notes in English and Arabic
+		in various notebooks, files and envelopes, including South Arabian folk-tales;
+		draft notes on custom and Sharia law in the family, Bedouin of the Judean
+		desert; and, notes on Aden fish and fisheries; </p> 
+		<p>Set of two boxes, containing newspapers on the Arab world, from the UK
+		  and around the world.</p> 
+		<p>There are two additional boxes containing: 3 small spiral-bound
+		  notebooks; newspaper articles; clippings; off-prints; material about Yemen;
+		  publishers material promoting books; and unsorted material relating to the
+		  civil war in Yemen.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<arrangement encodinganalog="isadg(2)334"> 
+		  <head>System of Arrangement</head> 
+		  <p>The 9 boxs are arranged into: a set of 4 boxes; a set of 3 boxes; a
+			 set of 2 boxes.</p> 
+		</arrangement> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<originalsloc encodinganalog="isadg(2)351"> 
+		  <head>Existence and Locations of Originals</head> 
+		  <p>Collection contains copies of Arabic manuscripts only. Location of
+			 originals noted on some copies, e.g. Rylands Arabic MS.253 in the John Rylands,
+			 Manchester, and Arabic MS 3317 in the Chester Beatty Library, Dublin Castle,
+			 Dublin</p></originalsloc> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p> 
+			 <extref href="http://www.aiys.org/webdate/serjo.htm">Yemen Update.
+				Yemen Obituaries. In Memorium: R. B. Serjeant</extref></p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Manuscripts,
+			 Arabic</emph></subject> 
+		  <subject><emph altrender="a">Arabic language</emph></subject> 
+		  <subject><emph altrender="a">Arabic literature</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph
+			 altrender="surname">Serjeant</emph><emph altrender="forename">Robert
+			 Bertram</emph><emph altrender="dates">1915-1993</emph><emph
+			 altrender="epithet">Professor of Arabic, Cambridge</emph></persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE384"> 
+		  <head>Places</head>		  
+		  <!-- LCSH -->
+		  <geogname source="lcsh"><emph
+			 altrender="a">Yemen</emph><emph altrender="x">Description and
+			 travel</emph><emph altrender="y"></emph><emph altrender="z"></emph></geogname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

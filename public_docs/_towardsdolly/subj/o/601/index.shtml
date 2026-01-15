@@ -1,0 +1,22 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Obituaries</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/o/">o</a><h1>Obituaries</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=601&term=Obituaries" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-5-7&view=basic">Letter to James Cossar Ewart from James N. Terras </a> (1899) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-22-1&view=basic">Letter to James Cossar Ewart from Ernest MacBride </a> (1916) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-22-2&view=basic">Letter to James Cossar Ewart from Ernest William MacBride </a> (1916) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-36-1&view=basic">Letter to James Cossar Ewart from Elizabeth B. White </a> (1930) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-36-2&view=basic">Letter to James Cossar Ewart from the Secretary of the Royal Society </a> (1930) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-3-8&view=basic">Book of press cuttings of Ewart's obituary notices </a> (1934) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-38-6&view=basic">Letter to Edith F. Ewart from Francis Hugh Adam Marshall </a> (1935) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-6-8&view=basic">Correspondence regarding Marta Vojtiskova </a> (1979-1980) Papers of Dr. Alan Beatty</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

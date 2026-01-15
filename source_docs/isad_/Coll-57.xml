@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll57">GB 237
+		Coll-57</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Notebooks and
+			 Papers of Professor Robert Flint, Professor of Divinity at Edinburgh
+			 University, 1876-1903 </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-57">
+    <did>
+      <unittitle>Notebooks and
+			 Papers of Professor Robert Flint, Professor of Divinity at Edinburgh
+			 University, 1876-1903 </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-57</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 631-689; MSS FLI 1-5 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Notebooks and Papers of Professor
+		  Robert Flint, Professor of Divinity at Edinburgh University, 1876-1903
+		  </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1843-1924">1843-1924 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>58
+		  notebooks and volumes, and 5 boxes (1 m). </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Robert Flint was born on 14 March 1838 at Greenburn, Sibbaldie,
+		  Dumfriesshire. He was educated at Evan Water and Moffat Schools in the area,
+		  and then at the University of Glasgow. He became licensed to preach in 1858 and
+		  held successive charges at the East Church of Aberdeen, 1859-62, and at
+		  Kilconquhar, 1862-64. In 1864 he was appointed to the Chair of Moral Philosophy
+		  and Political Economy in the University of St. Andrews, a post he held till his
+		  transference to the Professorship of Divinity in the University of Edinburgh in
+		  1876. In 1895 he declined the Moderatorship of the General Assembly of the
+		  Church of Scotland. The Professor resigned his Chair at the University in 1903.
+		  His scholarly reputation had already been established when he came to
+		  Edinburgh. His books and pamphlets exercised a world-wide influence. They
+		  included 
+		The philosophy of history in France and Germany  (1874), 
+		Theism  (1876), 
+		Anti-theistic theories  (1879), 
+		Socialism  (1894), 
+		Hindu pantheism  (1897), and 
+		Agnosticism  (1903). He received honorary degrees from the
+		Universities of Aberdeen, Edinburgh and Glasgow, and from Princeton and Yale.
+		Professor Flint died in Edinburgh on 25 November 1910 and was buried at
+		Liberton in the city. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The part of the collection contained within Gen. 631-689 includes
+		  notes of lectures 1843-51; notes for Flint's own lectures; notes on various
+		  subjects and from various works; handwritten text; and, essays. There are boxes
+		  of essays, lectures, sermons, admonitions, speeches, letters, accounts,
+		  publishing correspondence, photographs, and, newspaper cuttings. There are also
+		  papers connected with Edinburgh University courses, student names and essay
+		  marks, and galley proofs of 
+		The life of Professor Flint  by William Paterson Paterson.
+		In MSS FLI 1-5 there are theological lectures on exercise books, and
+		miscellaneous lectures and sermons. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details (Edinburgh University Library,
+		  Special Collections and Archives, Main Library, George Square, Edinburgh EH8
+		  9LJ for Gen. 631-689; New College Library, Mound Place, Edinburgh EH1 2LU for
+		  MSS FLI 1-5) </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H57; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows at various shelfmarks references to
+		  Flint's lectures on Divinity taken down by another, and letters of and to
+		  Flint. </p>
+      </relatedmaterial>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

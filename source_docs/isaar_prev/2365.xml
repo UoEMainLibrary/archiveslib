@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-Baillie-P2365 20030507 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 Baillie P2365</titleproper> 
+		  <subtitle>Baillie | Donald Macpherson | 1887-1954 | Scottish
+			 theologian</subtitle> 
+		  <author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+			 University Library Special Collections Division, 07 May 2003</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20030507">07 May 2003</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>ENG</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 Baillie P2365</titleproper> 
+		<subtitle>Baillie | Donald Macpherson | 1887-1954 | Scottish
+		  theologian</subtitle> 
+		<author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+		  University Library Special Collections Division, 07 May 2003</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20030507">07 May 2003</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-Baillie-P2365"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 Baillie P2365</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 Baillie P2365"
+		 normal="Baillie, Donald Macpherson">Baillie | Donald Macpherson | 1887-1954 |
+		  Scottish theologian</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Donald Macpherson Baillie (1887-1954) was the son of John Baillie
+			 (1829-1891) and a younger brother to John Baillie (1886-1960). He was educated
+			 at Inverness Royal Academy and at the Universities of Edinburgh, Marburg and
+			 Heidelberg. He graduated with an MA from New College Edinburgh in 1909, and he
+			 spent some time with the YMCA in France before being ordained in 1918 and was
+			 minister of Bervie United Free Church until 1923. Moving to St. John's, Cupar
+			 he was there until 1930 and then at St. Columba's, Kilmacolm until 1934.</p> 
+		  <p>Donald was appointed Kerr lecturer at the University of Glasgow in
+			 1923, delivering lectures in 1926. In 1935 he became Professor of Systematic
+			 Theology at the University of St Andrews, where he had been Additional examiner
+			 for the BD degree in Divinity and Ecclesiastical History from 1921-1924, and
+			 which had awarded him an Honorary DD in 1933. Other academic positions included
+			 External Examiner for the BD in Divinity at the University of Edinburgh from
+			 1933, Forwood lecturer in the Philosophy of Religion at the University of
+			 Liverpool, 1947, and Moore lecturer at the San Francisco Theological Seminary,
+			 1952.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Donald Macpherson Baillie's father was John Baillie, Free Church
+			 Minister at Gairloch. One brother was John Baillie (1886-1960), the
+			 internationally reknowned theologian, the other brother was Peter Baillie
+			 (1889-1914), missionary doctor. His cousin was Sir Duncan Colvin Baillie
+			 (1856-1919), colonial administrator.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Faith in God and its Christian consummation</title>,
+			 (<imprint><date type="publication" normal="1932"
+			 certainty="certain">1927</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Christian faith and practice</title>, (<imprint><date
+			 type="publication" normal="1932"
+			 certainty="certain">1932</date>)</imprint></bibref></p>
+		  <p><bibref><title>God was in Christ</title>, (<imprint><date
+			 type="publication" normal="1948"
+			 certainty="certain">1948</date>)</imprint></bibref></p>
+		  <p><bibref><title>Intercommunion</title>, (<imprint><date
+			 type="publication" normal="1952"
+			 certainty="certain">1952</date>)</imprint></bibref></p>
+		  <p><bibref><title>To whom shall we go?</title>, (<imprint><date
+			 type="publication" normal="1955"
+			 certainty="certain">1955</date>)</imprint></bibref></p>
+		  <p><bibref><title>Theology of the sacraments and other papers</title>,
+			 (<imprint><date type="publication" normal="1957"
+			 certainty="certain">1957</date>)</imprint></bibref></p>
+		  <p><bibref><title>Out of Nazareth</title>, (<imprint><date
+			 type="publication" normal="1958"
+			 certainty="certain">1958</date>)</imprint></bibref></p>
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1909" certainty="certain">1909</date>:
+			 M.A. (1st Class Honours) Mental Philosophy, University of Edinburgh</p> 
+		  <p><date type="single" normal="1910/1912"
+			 certainty="certain">1910-1912</date>: JE Baxter Scholar of Edinburgh
+			 University</p> 
+		  <p><date type="single" normal="1912/1915"
+			 certainty="certain">1912-1915</date>: Hamilton Fellow of Edinburgh
+			 University</p> 
+		  <p><date type="single" normal="1911/1914"
+			 certainty="certain">1911-1914</date>: Assistant to the Professor of Moral
+			 Philosophy</p> 
+		  <p><date type="single" normal="1918" certainty="certain">1918</date>:
+			 Ordained</p> 
+		  <p><date type="single" normal="1918/1923"
+			 certainty="certain">1918-1923</date>: Minister of Bervie United Free Church</p>
+		  
+		  <p><date type="single" normal="1912/1915"
+			 certainty="certain">1923-1930</date>: Minister of St John's, Cupar</p> 
+		  <p><date type="single" normal="1930/1934"
+			 certainty="certain">1930-1934</date>: Minister of St Columba's, Kilmacolm</p> 
+		  <p><date type="single" normal="1921/1924"
+			 certainty="certain">1921-1924</date>: Examiner in Divinity and Ecclesiastical
+			 History, University of St Andrews</p> 
+		  <p><date type="single" normal="1926" certainty="certain">1926</date>:
+			 Kerr Lecturer, University of Glasgow</p> 
+		  <p><date type="single" normal="1933/1935"
+			 certainty="certain">1933-1935</date>: Examiner in Divinity, University of
+			 Edinburgh</p> 
+		  <p><date type="single" normal="1935/1954"
+			 certainty="certain">1935-1954</date>: Professor of Systematic Theology,
+			 University of St Andrews</p> 
+		  <p><date type="single" normal="1947" certainty="certain">1947</date>:
+			 Forwood Lecturer in the Philosophy of Religion, University of Liverpool</p> 
+		  <p><date type="single" normal="1952" certainty="certain">1952</date>:
+			 Moore Lecturer, San Francisco Theological Seminary</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref> <title>Who Was Who, 1951-1960</title>, (<imprint><geogname
+			 source="lcsh" authfilenumber="REPLACE" normal="REPLACE">London</geogname>, 
+			 <publisher>Adam &amp; Charles Black</publisher>, 
+			 <date type="publication" normal="c1961"
+			 certainty="uncertain">c1961</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref><corpname
+			 normal="National Council on Archives">National Council on Archives</corpname>
+			 <title>Rules for the Construction of Personal, Place and Corporate Names (NCA
+			 Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persona and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Buttars, Grant">Grant Buttars</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020507">07 May
+				2003</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

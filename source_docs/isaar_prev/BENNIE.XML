@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1858 20020214 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1858</titleproper> 
+		  <subtitle>Bennie | George | 1892-1957 | engineer and
+			 inventor</subtitle> 
+		  <author>Compiled for the NAHSTE project by Grant Buttars , Edinburgh
+			 University Library Special Collections Division, 14 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020214">14 February 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1858</titleproper> 
+		<subtitle>Bennie | George | 1892-1957 | engineer and inventor</subtitle> 
+		<author>Compiled for the NAHSTE project by Grant Buttars , Edinburgh
+		  University Library Special Collections Division, 14 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020214">14 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1858" type="person"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1858</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1858" normal="Bennie, George">Bennie | George |
+		  1892-1957 | engineer and inventor</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>George Bennie was born in 
+			 <date type="birth" normal="1892">1892</date> at Auldhouse, Glasgow,
+			 the son of an engineer, but spent much of his younger life at Rothesay. Though
+			 he had a Glasgow address in the 
+			 <date type="inclusive" normal="1925/1935"
+			  certainty="uncertain">1930s</date>, he maintained his home at Normanhurst,
+			 Bute.</p> 
+		  <p>He patented a number of inventions, one of the first being a stable
+			 ashtray which could be used at sea. Soon he turned his inventive talents
+			 towards the sphere of public transportation and developed an idea for a
+			 monorail type system - the 'Railplane'. This was designed to achieve far
+			 greater speeds than existing railway stock, without the inherent risks which
+			 ocurred when using the existing type of track and locomotive.</p> 
+		  <p>The design for the Railplane vehicle and carriages drew heavily on
+			 the design technology of the aircraft industry and they were built by Beardmore
+			 Engineering Co., Inchinnan, who had been involved in building airships, amongst
+			 many other products. The track was supported by a structure of girders which
+			 could straddle an existing railway track, allowing goods trains to pass below.
+			 In an LNER siding at Burnbrae, near Milngavie on the periphery of Glasgow a
+			 test line was constructed.</p> 
+		  <p>The official launch of Railplane in 
+			 <date type="single" normal="1930">1930</date> was greeted with much
+			 enthusiasm and acclaim, despite the length of the track being insufficient for
+			 the vehicle to reach the optimum 150 miles per hour (only 50 miles per hour was
+			 achieved). Unfortunately this was not translated into the necessary financial
+			 backing that Bennie needed to further the project. The proposed line from
+			 Edinburgh to Glasgow was not built, nor was the one between Southport and
+			 Blackpool. By 
+			 <date type="single" normal="1937">1937</date>, Bennie was bankrupt.
+			 He had financed most of the work himself. The test line remained a feature on
+			 the Glasgow landscape until a year before Bennie's death, when it was
+			 demolished for scrap.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>none</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>none</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>none known</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Gillon, JK"
+			 role="author">Gillon, JK</persname>, <title render="italic">The Bennie
+			 Railplane System</title>, (<extref
+			 href="http://gillonj.tripod.com/bennierailplane/">http://gillonj.tripod.com/bennierailplane/</extref>)
+			 </bibref></p>
+		  <p><bibref><corpname source="ncarules"
+			 normal="East Dunbartonshire Council" role="author">East Dunbartonshire
+			 Council</corpname>, <title render="italic">George Bennie's Railplane</title>,
+			 (<extref
+			 href="http://www.e-dunbarton.org.uk/tourism/history/bennies_railplane.htm">http://www.e-dunbarton.org.uk/tourism/history/bennies_railplane.htm</extref>
+			 , <imprint><publisher>East Dunbartonshire Council</publisher>, 
+			 <date type="publication" normal="2002"
+			  certainty="certain">2002</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Buttars, Grant">Grant Buttars</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020214">14 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

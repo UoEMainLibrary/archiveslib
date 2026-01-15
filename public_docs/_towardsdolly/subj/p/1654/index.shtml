@@ -1,0 +1,28 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Pathology</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/p/">p</a><h1>Pathology</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=1654&term=Pathology" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-9-65&view=basic">Letter to James Cossar Ewart from Professor W.S Greenfield </a> (1903) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-224&view=basic">The pathology of avian glomerulonephritis </a> (1959) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-225&view=basic">Avian nephritis and visceral gout </a> (1959) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-Coll-1362-3-228&view=basic">Experimental allergic encephlomyelitis in the fowl </a> (1960) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-227&view=basic">An unusual case of fowl paralysis </a> (1960) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-229&view=basic">The pathology of experimental atherosclerosis in egg-fed fowls </a> (1961) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-230&view=basic">Fats and atherosclerosis in fowls </a> (1961) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-254&view=basic">A study of physiological and pathological sex hormone balance in the fowl </a> (1962) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-301&view=basic">The clinical and pathological characteristics of the avian leucosis complex, with special reference to Rous and allied tumours </a> (1963) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-323&view=basic">Further studies of experimental allergic encephalomylitis in the fowl. II: The influence of dose variations on the histological lesions </a> (1963) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-385&view=basic">Spontaneous atherosclerosis in the fowl </a> (1965) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-190&view=basic">On the pathology and histochemistry of the central nervous system in Border Disease of sheep </a> (1965) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-579&view=basic">Nutritional disorders </a> (1970) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-459&view=basic">Quantitative pathology for understanding the nature and pathogenesis of scrapie, using different strains of agent </a> (1974) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

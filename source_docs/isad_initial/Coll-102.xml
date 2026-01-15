@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-102"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-102</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Oriental
+			 Manuscript Collection </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-102</unitid>
+		
+		<physloc>Oriental MSS 1-676 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Oriental Manuscript Collection
+		  </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1301-1899">14th century-19th century </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>circa 100
+		  bundles palm leaves, 2 large long rolls, 1 box Oxyrynchus papyri, 4 boxes or
+		  box files of copper plates, 7 boxes or box files, miscellaneous folders, circa
+		  720 volumes and some in protective cases, (32 linear metres). </extent>
+		  </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Edinburgh University Library has over 650 manuscripts in oriental
+		  languages originating from the countries of the Middle East, South Asia, and
+		  South East Asia. Most of the collection consists of Arabic and Persian
+		  manuscripts including two of the significant treasures of the Library, namely
+		  the 
+		<title>World history </title> of the Mongol vizier Rashid Al-Din, which
+		illustrates parts of the life of the Prophet Muhammad, and the 
+		<title>Chronology of ancient nations </title> of Al-Biruni, both of which
+		were written in Arabic in Tabriz in Persian circa 1307 A.D. A number of Asian
+		languages are included in the collection of course, and one African
+		(Ethiopic/Amharic). The Asian languages are Armenian, Bengali, Burmese,
+		Cambodian, Hindustani, Javanese, Malay, Mon, Pali, Panjabi, Prakrit, Sanskrit,
+		Siamese, Sinhalese, Syriac, Tamil, Tibetan, Turkish and Urdu. South Asian and
+		South East Asian religious texts are represented in the collection. The
+		oriental collection includes material gathered by Lieutenant-Colonel John
+		Baillie of Leys and presented to the Library in 1876 by his grandson, Mr. John
+		B. Baillie, with the stipulation that a descriptive catalogue was prepared.
+		This task was given to Mr. Mohammed Ashraful Hukk of Hyderabad who was then a
+		student at the University. A greater part of the collection had been catalogued
+		by 1906. Then, by 1914, Professor Hermann Ethe of Aberystwyth had added to the
+		catalogue, and in the 1920s Dr. Edward Robertson carried out some more work.
+		Other donors to the collection were R. M. B. Binning of the Indian Civil
+		Service, George Bell M.D., and the Rev. John Dickson who had been a missionary
+		in Astrakhan. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>A large part of the Oriental Manuscript Collection consists of Arabic
+		  and Persian manuscripts. Arabic manuscripts include commentaries on the Koran;
+		  traditions of the Prophet and Imam; prayers; law, general history and
+		  biography; medicine, mathematics, philosophy and ethics; and, grammar,
+		  rhetoric, poetry, prose, tales, dictionary, and controversy. Persian
+		  manuscripts include theology, history, biography, and travel; mathematics and
+		  astronomy; ethics, poetry, music, composition and proverbs, tales and romances;
+		  grammar and dictionary; and, agriculture and war. The Arabic and Persian
+		  manuscripts include the 
+		<title>World history </title> of Rashid Al-Din, and the 
+		<title>Chronology of ancient nations </title> of Al-Biruni, from the 14th
+		century A.D. Hindustani manuscripts include history; poetry and tales; and,
+		astrology. Turkish manuscripts consist of material acquired in Astrakhan and
+		includes several early Ottoman texts, divans of Neva'i and items of dialectical
+		interest. Included in the Oriental Collection are around 100 bundles or parcels
+		of Buddhist works on palm leaves in Burmese, Pali, Sanskrit, Siamese, Tamil,
+		and Tibetan. There are also Sanskrit charters on copper plates, and Oxyrynchus
+		Papyri. </p> 
+	 </scopecontent> 
+	 <acqinfo encodinganalog="isad(g) 3.2.5./marc 541"> 
+		<p>Material gathered by Lieutenant-Colonel John Baillie of Leys was
+		  presented to the Library in 1876 by his grandson, Mr. John B. Baillie. The
+		  Dickson material - acquired in Astrakhan, 1819-25 - had first come into the
+		  possession of the Rev. Thomas B. Dodds, of Lochee, Dundee, who had married one
+		  Isabella G. Dickson in 1845. In 1889, the manuscripts were presented to the New
+		  College Library by their son, J. Dickson Dodds, of Dundee. </p> 
+	 </acqinfo> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Muhammad</emph> <emph altrender="forename">Prophet</emph>
+		  <emph altrender="dates">d 632</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Hukk</emph> <emph altrender="forename">Mohammed
+		  Ashraful</emph> <emph altrender="dates">b 1880</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Ethe</emph> <emph altrender="forename">Hermann</emph>
+		  <emph altrender="dates">1844-1917</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Manuscripts, African</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Manuscripts, Arabic</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Manuscripts, Hindi</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Manuscripts, Oriental</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Manuscripts, Persian</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Manuscripts, Turkish</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<geogname source="aacr2" encodinganalog="marc 651"> <emph
+		  altrender="a">Tabriz (Iran)</emph> </geogname> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist H8 which is 
+		<title>A descriptive catalogue of the Arabic and Persian manuscripts in
+		  Edinburgh University Library </title>, Mohammed Ashraful Hukk, et al.
+		(Hertford: Printed for the University of Edinburgh by Stephen Austin &amp;amp;
+		Sons, Ltd., 1925); and, Handlist H8.1 which is 
+		<title>The illustrations to the world history of Rashid al-Din </title>,
+		David Talbot Rice and edited by Basil Gray (Edinburgh University Press, 1976);
+		Handlist H8.2 which includes 
+		<title>A handlist of the Arabic, Persian and Hindustani MSS of New
+		  College, Edinburgh </title> R.B. Serjeant (London: Luzac and Co., 1942);
+		Handlist H9.1-12 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

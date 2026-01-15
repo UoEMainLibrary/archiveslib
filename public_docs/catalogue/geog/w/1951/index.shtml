@@ -1,0 +1,30 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Western Isles Scotland </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/geog/a/">Authority terms: geographic names</a> &gt; <a href="/catalogue/geog/w/">w</a><h1>Western Isles Scotland </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=geog&id=1951&term=Western Isles Scotland " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1430&view=basic">Account of a trip to the Western Isles and St. Kilda </a> (1849-1850) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-57&view=basic">Vocabulary note for Cairiste or Presan </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW90-58&view=basic">Note about worship by druids in the Outer Hebrides </a> (1867-1877) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-97&view=basic">Possibly historical notes [writing smudged and illegible] </a> (1867-1877) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW150-60&view=basic">Story about Naomh Blianain blessing the graveyards of the Long Isle [Western Isles] </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-110&view=basic">Note which reads 'Lachlan Duff Moulin Pitlochry book about West isles' </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-99-11-9&view=basic">Hydrographic Maps </a> (1872-1882) Papers of Professor James Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-99-11-9-7&view=basic">Hebrides or Western Isles </a> (1872-1882) Papers of Professor James Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-99-11-9-4&view=basic">Scotland: the West Coast </a> (1872-1882) Papers of Professor James Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW111-66&view=basic">Two cures for diarrhoea </a> (1874) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-304&view=basic">Note entitled 'N[orth]. Rona' </a> (1885) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-34&view=basic">Note regarding grave-digging on Fridays </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-11-21&view=basic">Correspondence from Alfred Harker </a> (1888-1899) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-1-6&view=basic">Geological Survey notebook 'Q Q' </a> (1893-1894) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-3&view=basic">Reference to information about stopping bleeding </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW152-37&view=basic">Song entitled 'A Bhean Iadaich' and accompanying note </a> (xxxx) The Carmichael Watson Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

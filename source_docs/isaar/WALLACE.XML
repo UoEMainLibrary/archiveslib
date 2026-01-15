@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0147 20010402 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0147</titleproper> 
+		  <subtitle>Wallace | Alfred Russel | 1823-1913 | naturalist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+			 University Library Special Collections Division, 02 April 2001</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20010402">02 April 2001</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0147</titleproper> 
+		<subtitle>Wallace | Alfred Russel | 1823-1913 | naturalist</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+		  University Library Special Collections Division, 02 April 2001</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20010402">02 April 2001</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0147"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0147</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0147" normal="Wallace, Alfred Russel">Wallace |
+		  Alfred Russel | 1823-1913 | naturalist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Alfred Russell Wallace was educated at Hertford Grammar School. At
+			 the age of 14 he became an apprentice land surveyor and architect to his
+			 brother William, and for the next 8 to 10 years he created accurate surveys and
+			 maps of farmlands, parishes and public lands in Bedfordshire and Wales. This
+			 experience taught him of the importance of making accurate observations and
+			 detailed recordings, skills that would prove invaluable to him in later life.
+			 Soon after this Wallace was appointed to the position of drawing master at the
+			 collegiate school in Leicester. It was here that he made the acquaintance of
+			 Henry Walter Bates (<date normal="1825/1892"
+			 type="life-span">1825-1892</date>), who then introduced him to the field of
+			 botany. Wallace became particularly interested at this stage in beetles.</p> 
+		  <p>In 
+			 <date normal="1848" type="single">1848</date> Bates and Wallace
+			 travelled to the Amazon on expedition. Two years later they decided to split up
+			 in order to cover a larger area and each wrote an account of his travels and
+			 observations. Wallace published his <bibref><title>Narrative of
+			 Travels</title></bibref> on the Amazon and Rio Negro. From 
+			 <date normal="1854/1862" type="inclusive">1854-1862</date> he made a
+			 tour in the Malay Archipelago, where he collected biological specimens for his
+			 own research and for sale, and writing a large number of scientific articles on
+			 mostly zoological subjects, among these were two articles dealing with the
+			 origin of new species. The first of these, published in 
+			 <date normal="1855" type="publication">1855</date>, concluded with
+			 the assertion "every species has come into existence coincident both in space
+			 and time with a pre-existing closely allied species." He then proposed that new
+			 species arise from the development and continued divergence of species that
+			 live longer than the parent species in the struggle for existence. </p> 
+		  <p>In 
+			 <date normal="1858" type="single">1858</date> he sent a paper to
+			 Charles Darwin (<date normal="1809/1882" type="life-span">1809-1882</date>)
+			 outlining these notions. The resulting theories of both men were published in a
+			 joint article under the title of: <bibref><title>On the Tendency of Species to
+			 Form Varieties</title></bibref>; and <bibref><title>On the Perpetuation of
+			 Varieties and Species by Natural Means of Selection</title></bibref>, in the
+			 <bibref><title>Proceedings of the Linnean Society</title></bibref> in 
+			 <date normal="1858" type="publication">1858</date>. Wallace returned
+			 to England in 
+			 <date normal="1862" type="single">1862</date> as an established
+			 natural scientist and geographer as well as a collector of more than 125,000
+			 animal specimens. </p> 
+		  <p>In addition to the writing of several major scientific works Wallace
+			 pursued a variety of social and political interests. In both his writing and in
+			 the lectures that he gave, Wallace was an ardent opponent of eugenics,
+			 vaccination and vivisection, whilst he strongly supported women's rights and
+			 land nationalisation.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>no information available</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p><bibref><title>Travels on the Amazon</title>, (<imprint><date
+			 type="publication" normal="1853"
+			 certainty="certain">1853</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Palm Trees of the Amazon</title>, (<imprint><date
+			 type="publication" normal="1853"
+			 certainty="certain">1853</date>)</imprint></bibref></p> 
+		  <p><bibref><title> The Malay Archipelago</title>, (<imprint><date
+			 type="publication" normal="1869"
+			 certainty="certain">1869</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>Natural Selection</title>, (<imprint><date
+			 type="publication" normal="1870"
+			 certainty="certain">1870</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Miracles and Modern Spiritualism</title>, ( 
+			 <imprint><date type="publication" normal="1874"
+			 certainty="certain">1874</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>The Geographical Distribution of Animals</title>, ( 
+			 <imprint><date type="publication" normal="1876"
+			 certainty="certain">1876</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>Tropical Nature</title>, (<imprint><date
+			 type="publication" normal="1878"
+			 certainty="certain">1878</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Australasia</title>, (<imprint><date
+			 type="publication" normal="1879"
+			 certainty="certain">1879</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Island Life </title>, (<imprint><date
+			 type="publication" normal="1880"
+			 certainty="certain">1880</date>)</imprint></bibref> <bibref><title>Land
+			 Nationalisation</title>, (<imprint><date type="publication" normal="1882"
+			 certainty="certain">1882</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Bad Times</title>, (<imprint><date type="publication"
+			 normal="1885" certainty="certain">1885</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Darwinism</title>, (<imprint><date type="publication"
+			 normal="1889" certainty="certain">1889</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Vaccination a Delusion</title>, (<imprint><date
+			 type="publication" normal="1898"
+			 certainty="certain">1898</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>The Wonderful Century its Successes and its
+			 Failures</title>, (<imprint><date type="publication" normal="1898"
+			 certainty="certain">1898</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>Studies Scientific and Social</title>, ( 
+			 <imprint><date type="publication" normal="1900"
+			 certainty="certain">1900</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Man's Place in the Universe</title>, (<imprint><date
+			 type="publication" normal="1903"
+			 certainty="certain">1903</date>)</imprint></bibref></p> 
+		  <p><bibref><title>My Life</title>, (<imprint><date type="publication"
+			 normal="1905" certainty="certain">1905</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Is Mars Habitable? </title>, (<imprint><date
+			 type="publication" normal="1907"
+			 certainty="certain">1907</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The World of Life</title>, (<imprint><date
+			 type="publication" normal="1910"
+			 certainty="certain">1910</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Social Environment and Moral Progress</title>, ( 
+			 <imprint><date type="publication" normal="1912"
+			 certainty="certain">1912</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1868">1868</date>: Awarded Royal Medal,
+			 Royal Society of London</p> 
+		  <p><date type="single" normal="1882">1882</date>: Awarded Honorary
+			 doctorate, University of Dublin</p> 
+		  <p><date type="single" normal="1889">1889</date>: Awarded Honorary
+			 doctorate, University of Oxford</p> 
+		  <p><date type="single" normal="1890">1890</date>: Awarded Darwin
+			 Medal</p> 
+		  <p><date type="single" normal="1892">1892</date>: Awarded Gold Medal,
+			 Linnean Society of London</p> 
+		  <p><date type="single" normal="1892">1892</date>: Awarded Founder's
+			 Medal, Royal Geographical Society</p> 
+		  <p><date type="appointmentdate" normal="1893">1893</date>: Appointed
+			 Fellow, Royal Society</p> 
+		  <p><date type="single" normal="1908">1908</date>: Awarded Copley
+			 Medal</p> 
+		  <p><date type="single" normal="1908">1908</date>: Awarded Order of
+			 Merit</p> 
+		  <p><date type="single" normal="1908">1908</date>: Awarded
+			 Darwin-Wallace Medal</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Howard, HV"
+			 role="author">Howard, HV</persname>, <title>Chamber's Dictionary of Scientists
+			 </title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname> and
+			 <geogname normal="Edinburgh (Scotland)"
+			  authfilenumber="517">Edinburgh</geogname>, 
+			 <publisher>W and R Chambers Ltd</publisher>, 
+			 <date type="publication" normal="1951"
+			  certainty="certain">1951</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Encyclopaedia Britannica, vol 23</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication"
+			  normal="1964">1964</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Britannica.com and Encyclopedia
+			 Britannica, Inc: Wallace Alfred Russel</title>, (
+			 <extref href="http://www.britannica.com/">http://www.britannica.com/</extref> 
+			 <imprint>, 
+			 <date type="publication" normal="1999/2000"
+			  certainty="certain">1999-2000</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Charles H Smith, Western Kentucky
+			 University: The Alfred Russel Wallace Page</title>, (
+			 <extref
+			  href="http://www.wku.edu/~smithch/index1.htm">http://www.wku.edu/~smithch/index1.htm</extref>
+			 <imprint>, 
+			 <date type="publication" normal="2000/2002"
+			  certainty="uncertain">2000-2002</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref><corpname
+			 normal="National Council on Archives">National Council on Archives</corpname>
+			 <title>Rules for the Construction of Personal, Place and Corporate Names (NCA
+			 Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persona and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Thomson, Andrew" role="archivist">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20010402">02 April
+				2001</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

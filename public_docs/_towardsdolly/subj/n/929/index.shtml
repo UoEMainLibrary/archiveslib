@@ -1,0 +1,17 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Nurses</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/n/">n</a><h1>Nurses</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=929&term=Nurses" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-9&view=basic">Papers relating to Elizabeth Catherine (Elsa) Gallant </a> (1917-1919) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-9-2&view=basic">Photograph of Elizabeth Catherine Gallant </a> (1930-1940) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-9-3&view=basic">Photograph of Elizabeth Catherine Gallant's gravestone </a> (1951-1956) Papers of Professor John Baillie, and Baillie Family Papers</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

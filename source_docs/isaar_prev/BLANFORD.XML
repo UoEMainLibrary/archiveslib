@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0996 20020517 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0996</titleproper> 
+		  <subtitle>Blanford | Henry Francis | 1834-1893 | meteorologist and
+			 palaeontologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 17 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020517">17 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0996</titleproper> 
+		<subtitle>Blanford | Henry Francis | 1834-1893 | meteorologist and
+		  palaeontologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 17 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020517">17 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0996"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0996</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0996" normal="Blanford, Henry Francis">Blanford
+		  | Henry Francis | 1834-1893 | meteorologist and palaeontologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Henry Francis Blanford (<date type="life-span"
+			 normal="1834/1893">1834-1893</date>), founder of the India Meteorological
+			 Department, was a geologist by training. Educated at the Royal School of Mines
+			 in London, he was appointed to the Geological Survey of India in 
+			 <date type="appointmetdate" normal="1855">1855</date>. In this post,
+			 he carried out several important investigations, including a detailed
+			 description and classification of the substantial coal deposits in Orissa, the
+			 extent of which was unknown at the time. He had an interest in palaeontology,
+			 and his stratigraphic work was in large part based on palaeontological
+			 evidence.</p> 
+		  <p>His shift from geology to meteorology occurred around the time of
+			 his appointment as professor of science at Presidency College in Calcutta in 
+			 <date type="appointmentdate" normal="1862">1862</date>. In 
+			 <date type="single" normal="1864">1864</date>, a pair of cyclones hit
+			 Eastern India, killing 70,000 and damaging the port of Calcutta. Blanford
+			 co-wrote an informative meteorological report on the subject, despite the lack
+			 of accurate readings and inadequate knowledge of Indian weather. He was
+			 subsequently appointed secretary of the commission created to establish a
+			 system of storm warnings in order to protect Calcutta's harbour.</p> 
+		  <p>A number of regional authorities were eventually set up, Blanford
+			 being placed in charge of the Bengal Province Meteorological Department, which
+			 covered Calcutta, in 
+			 <date type="appointmentdate" normal="1867">1867</date>. The
+			 fragmented, regionalised nature of these local organisations was soon found to
+			 be a problem, and in 
+			 <date type="single" normal="1875">1875</date>, the India
+			 Meteorological Department was founded, with Blanford in charge. Blanford made
+			 several important innovations during his tenure. He initiated the publication
+			 of the department's scientific results, made long-term weather forecasts using
+			 the link between the nature of snow in the himalayas and rainfall in the rest
+			 of India (to determine general weather trends like drought or heavy rainfall,
+			 not make specific forecasts for individual days far into the future). Though he
+			 introduced this form of long-range forecasting, and he lectured on this subject
+			 to the Royal Society, he made no claims to the phenomenon's discovery.</p> 
+		  <p>He was for a period, the president of the Asiatic Society, a learned
+			 society based in Calcutta.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Indian Meteorologist's Vade Mecum</title>, ( 
+			 <imprint><date type="publication" normal="1870/1880"
+			 certainty="uncertain">c1875</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Climates and Weather of India</title>, ( 
+			 <imprint><date type="publication" normal="1889"
+			 certainty="certain">1889</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1855/1862">1855-1862</date>:
+			 Appointed to the Staff of the Geological Survey of India</p> 
+		  <p><date type="chairdate" normal="1862">1862</date>: Appointed
+			 Professor of Science, Presidency College, Calcutta</p> 
+		  <p><date type="appointmentdate" normal="1867">1867</date>: Appointed
+			 Meteorological Reporter for Bengal, Bengal Provincial Meteorological
+			 Department</p> 
+		  <p><date type="appointmentspan" normal="1875/1889">1875-1889</date>:
+			 Appointed Meteorological Reporter to the Government of India, India
+			 Meteorological Department</p> 
+		  <p><date type="appointmentdate" normal="1880">1880</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="appointmentspan" normal="1884/1889">1884-1889</date>:
+			 Elected President of the Asiatic Society, Calcutta</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><corpname normal="Royal Society" role="editor">Royal
+			 Society</corpname>, <title>Proceedings of the Royal Society, vol LIV</title>, (
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Harrison &amp; Sons</publisher>, 
+			 <date type="publication" normal="1894"
+			  certainty="certain">1894</date>)</imprint></bibref> </p> 
+		  <p><bibref><corpname normal="India Meterological Department"
+			 role="creator">India Meteorological Department</corpname>, <title>History of
+			 Meteorology in India</title>, (<extref
+			 href="http://www.imd.ernet.in/doc/history/history.htm">http://www.imd.ernet.in/doc/history/history.htm</extref>,
+			 <imprint><publisher>India Meterological Department</publisher>, 
+			 <date type="publication" normal="2000"
+			  certainty="certain">2000</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020517">17 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

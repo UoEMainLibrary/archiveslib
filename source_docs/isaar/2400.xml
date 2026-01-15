@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-Baillie-P2400 20030604 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 Baillie P2400</titleproper> 
+		  <subtitle>Mackintosh | Hugh Ross | 1870-1936 | Scottish
+			 theologian</subtitle> 
+		  <author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+			 University Library Special Collections Division, 04 June 2003</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20030603">03 June 2003</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>ENG</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 Baillie P2400</titleproper> 
+		<subtitle>Mackintosh | Hugh Ross | 1870-1936 | Scottish
+		  theologian</subtitle> 
+		<author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+		  University Library Special Collections Division, 06 June 2003</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20030604">04 June 2003</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-Baillie-P2400"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 Baillie P2400</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 Baillie P2400"
+		 normal="Mackintosh, Hugh Ross">Mackintosh | Hugh Ross | 1870-1936 | Scottish
+		  theologian</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Hugh Ross Mackintosh was educated at the John Neilson Institute,
+			 Paisley, Tain Royal Academy, George Watson's Academy, Edinburgh, University of
+			 Edinburgh, New College, Edinburgh, and the universities of Freiburg, Halle and
+			 Warburg. His time at the University of Edinburgh saw particular influence from
+			 Andrew Seth Pringle-Pattison and Robert Purves Hardie. He was licensed by the
+			 Free Church minister in 1896 and served as assistant to Rev Charles Watson at
+			 Largs before becoming Minister at Tayport and then Beechgrove United Free
+			 Church, Aberdeen.</p> 
+		  <p>in 1904 he was appointed Professor of Systematic Theology at New
+			 College, Edinburgh, and he became Professor of Christian Dogmatics at the
+			 University of Edinburgh in 1935. At New College his students included John and
+			 Donald Macpherson Baillie, Henry Pitney Van Dusen and Edgar Primrose Dickie.
+			 </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Hugh Ross Mackintosh was the son of Rev Alexander Mackintosh,
+			 Paisley.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Ritschlian doctrine of theoretical and religious
+			 knowledge</title>, (<imprint><date type="publication" normal="1899"
+			 certainty="certain">1899</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Doctrine of the person of Jesus Christ</title>, ( 
+			 <imprint><date type="publication" normal="1912"
+			 certainty="certain">1912</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Immortality and the future: the Christian doctrine of
+			 eternal life</title>, (<imprint><date type="publication" normal="1915"
+			 certainty="certain">1915</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Originality of the Christian message</title>, ( 
+			 <imprint><date type="publication" normal="1921"
+			 certainty="certain">1920</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Divine initiative</title>, (<imprint><date
+			 type="publication" normal="1921"
+			 certainty="certain">1921</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Some aspects of Christian belief</title>, ( 
+			 <imprint><date type="publication" normal="1923"
+			 certainty="certain">1923</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Christian experience of forgiveness</title>, ( 
+			 <imprint><date type="publication" normal="1927"
+			 certainty="certain">1927</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Christian faith</title>, (<imprint><date
+			 type="publication" normal="1928"
+			 certainty="certain">1928</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Christian apprehension of God</title>, ( 
+			 <imprint><date type="publication" normal="1929"
+			 certainty="certain">1929</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Sermons</title>, (<imprint><date type="publication"
+			 normal="1938" certainty="certain">1938</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>D.Phil., University of Edinburgh</p>
+		  <p>D.D., University of Edinburgh</p>
+		  <p>D.D., University of Oxford</p>
+		  <p>Th.D., University of Marburg</p>
+		  <p><date type="single" normal="1896" certainty="certain">1896</date>:
+			 Ordained</p> 
+		  <p><date type="inclusive" normal="1896/1897"
+			 certainty="certain">1896-1897</date>: Assistant Minister, Largs</p> 
+		  <p><date type="inclusive" normal="1897/1901"
+			 certainty="certain">1897-1901</date>: Minister, Tayport</p> 
+		  <p><date type="inclusive" normal="1901/1904"
+			 certainty="certain">1901-1904</date>: Minister, Beechgrove UF Church,
+			 Aberdeen</p> 
+		  <p><date type="inclusive" normal="1904/1936"
+			 certainty="certain">1904-1936</date>: Professor of Systematic Theology, New
+			 College, Edinburgh</p> 
+		  <p><date type="inclusive" normal="1913/1915"
+			 certainty="certain">1913-1915</date>: Examiner in Theology, University of
+			 London</p> 
+		  <p><date type="inclusive" normal="1920/1923"
+			 certainty="certain">1920-1923</date>: Examiner in Theology, University of
+			 Wales</p> 
+		  <p><date type="inclusive" normal="1923/1926"
+			 certainty="certain">1923-1926</date>: Examiner in Theology, University of
+			 Edinburgh</p> 
+		  <p><date type="single" normal="1932" certainty="certain">1932</date>:
+			 Moderator of the General Assembly of the Church of Scotland</p> 
+		  <p><date type="inclusive" normal="1933/1935"
+			 certainty="certain">1933-1935</date>: Croall lecturer, University of
+			 Edinburgh</p> 
+		  <p><date type="inclusive" normal="1935/1936"
+			 certainty="certain">1935-1936</date>: Professor of Christian Dogmatics,
+			 University of Edinburgh</p> 
+		  <p><date type="inclusive" normal="1933/1935"
+			 certainty="certain">1933-1935</date>: Croall lecturer, University of
+			 Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref> <title>Who Was Who, 1941-1950</title>, (<imprint><geogname
+			 source="lcsh" authfilenumber="REPLACE" normal="REPLACE">London</geogname>, 
+			 <publisher>Adam &amp; Charles Black</publisher>, 
+			 <date type="publication" normal="c1951"
+			 certainty="uncertain">c1951</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Wright, David F" role="author">Wright,
+			 David F</persname> et al, <title>Dictionary of Scottish Church History and
+			 Theology</title>, (<imprint><geogname source="lcsh" authfilenumber="REPLACE"
+			 normal="REPLACE">Edinburgh</geogname>, 
+			 <publisher>T &amp; Clark</publisher>, 
+			 <date type="publication" normal="1993"
+			 certainty="certain">1993</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref><corpname
+			 normal="National Council on Archives">National Council on Archives</corpname>
+			 <title>Rules for the Construction of Personal, Place and Corporate Names (NCA
+			 Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persona and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Buttars, Grant">Grant Buttars</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020604">06 June
+				2003</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,48 @@
+<?php	## define all variables 
+	
+				$datatitle1= "Students of Medicine, 1762-1826";
+				$datatitle2= "Students of Medicine (sample of 205), 1833-1846";
+				$datatitle3= "Graduates in Veterinary Medicine, 1911-1955";
+				$datatitle4= "Students at New College, 1843-1943";
+				$datatitle5= "First Matriculations, 1890-1899";
+				$datatitle6= "Laureation &amp; Degrees, 1587-1809";
+				$datatitle7= "Awards to Women students, 1876-1894";
+				$datatitle8= "Early Veterinary Graduates, 1825-1865";
+				$datatitle9= "Extra Academical students, 1887-1922";
+				
+				## identify valid date for Data Protection
+				$timestamp = getdate();
+				$validyear = ($timestamp["year"]-75);
+		
+		## variables from forms		
+				$view = $_GET['view'];
+				$data = $_GET['data'];
+				$id = $_GET['id'];
+				$surname = $_GET['surname'];
+				$forename = $_GET['forename'];
+				$gender = $_GET['gender'];
+				
+				if ($_GET['mdedin'] == 'on') {
+				$mdedin = 1;
+				}
+				if ($_GET['frcs'] == 'on') {
+				$frcs = 1;
+				}
+				if ($_GET['arcs'] == 'on') {
+				$arcs = 1;
+				}
+				if ($_GET['drcs'] == 'on') {
+				$drcs = 1;
+				}
+				if ($_GET['ramc'] == 'on') {
+				$ramc = 1;
+				}
+				if ($_GET['rms'] == 'on') {
+				$rms = 1;
+				}
+				if ($_GET['ims'] == 'on') {
+				$ims = 1;
+				}
+				if ($_GET['navy'] == 'on') {
+				$navy = 1;
+				} ?>

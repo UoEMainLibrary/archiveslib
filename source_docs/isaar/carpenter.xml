@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0335" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0139 20020517 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0139</titleproper> 
+		  <subtitle>Carpenter | William Benjamin | 1813-1885 |
+			 naturalist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+			 University Library Special Collections Division, 17 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020517">17 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0139</titleproper> 
+		<subtitle>Carpenter | William Benjamin | 1813-1885 | naturalist
+		  botanist</subtitle> 
+		<author>Compiled for the NAHSTE project by Duncan Fisher,</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020517">17 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0139"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0139</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0139"
+		 normal="Chamberlain, Charles Joseph">Carpenter | William Benjamin | 1813-1885 |
+		  naturalist botanist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>William Benjamin Carpenter, leading light among early naturalists,
+			 was born in Exeter on 
+			 <date type="birth" normal="18131029">29 October 1813</date>, and died
+			 in London<date type="death" normal="18851119">19 November 1885</date>. He
+			 attended his father's school in Bristol, and then apprenticed himself to local
+			 medical man John Bishop Estlin. Carpenter saw the West Indies as a companion to
+			 a patient, then in 
+			 <date type="single" normal="1835">1835</date> entered University
+			 College, London and the Royal College of Surgeons for formal training of his
+			 own. His M.D. finally came from the University of Edinburgh in 
+			 <date type="single" normal="1839">1839</date>. This he took to
+			 Bristol, to try clinical medicine for a few years, but decamped quickly for
+			 London, to take up academic appointments at University College, the Royal
+			 Institution, and the London Hospital. For the next four decades he researched
+			 and published prodigiously, in fields as far apart as mental physiology,
+			 microscopy, marine biology, and religion. </p> 
+		  <p>He was justly influential. His first contribution was on the
+			 function of the ventral cord ganglia of the arthropods. His next was a
+			 controversial notion of "unconscious cerebration", in which the physiology of
+			 thought and feeling takes place in the brain. Colleagues who disapproved of
+			 "Brain-change" postulated reflex actions to stimuli elsewhere in the body
+			 instead. Following one corollary of Brain-change, Carpenter prefigured
+			 Pavlovian behaviourists, thinking it possible to train animals and children
+			 with a battery of the right "motives". Thinking in wider terms, he found he
+			 could lend most of his weight to Darwin and his evolutionary principles, which
+			 pleased Darwin very much. He also did a great deal to elevate the teaching of
+			 science in universities, and, with the famous Gilchrist lectures, to extend
+			 science to the very working classes. His later achievements were in marine
+			 zoology, where he described and classified the Foraminifera, ancient and
+			 living, laid out a pioneering doctrine of general oceanic circulation, and read
+			 a series of startling papers on the animal nature of Eozoon canadense. Dr
+			 Carpenter, erstwhile clinician, founded a Marine Biological Assocation, with a
+			 productive laboratory on Plymouth Sound. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Johannes Muller was the physiologist who translated Carpenter's
+			 influental graduate thesis in 
+			 <date type="publication" normal="1840">1840</date>, on the
+			 invertebrate ventral cord ganglia. Thomas Laycock was the physiologist who
+			 claimed priority in the idea of Brain-change. John Stuart Mill affirmed the
+			 reasonableness of Brain-change as a physiological construct; Sir William
+			 Hamilton thought it made better sense metaphysically. Charles Darwin was
+			 gratified by Carpenter's overall approval of his principles of natural
+			 selection. The educationalist Herbert Spencer welcomed Carpenter's ideas on the
+			 teaching of science. Charles Wyville Thomson, Professor of Natural History at
+			 the University of Edinburgh, collaborated with Carpenter in dredging operations
+			 off the Scottish and Irish coasts, and in publishing their findings on the
+			 Crinoidea. The two men also worked together in planning the
+			 government-sponsored scientific voyage of H.M.S. Challenger (<date
+			 type="inclusive" normal="1873/1876">1873-1876</date>). Carpenter's younger
+			 brother, Philip Pearsall, was a famous conchologist. One of the five sons
+			 produced by Carpenter's marriage to Louisa Powell in 
+			 <date type="single" normal="1840">1840</date> was Philip Herbert, a
+			 master at Eton and a zoologist, who assisted his father and wrote extensively
+			 on fossils himself. </p> 
+		  <p> Carpenter the staunch religionist (his essay topics included
+			 teetotalism and scriptural problems with Darwinism) was the son of Dr Lant
+			 Carpenter, a Unitarian minister. Carpenter the social activist had a sister,
+			 Mary, who helped found the ragged school movement. </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publication: </p> 
+		  <p><bibref><title>On the Physiological Inferences to Be Deduced From
+			 the Structure of the Nervous System in the Invertebrate Classes of
+			 Animals</title>, ( <imprint>Edinburgh<date type="publication" normal="1839"
+			 certainty="certain">1839</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Principles of General and Comparitive Physiology
+			 </title>, (<imprint>London<date type="publication" normal="1839"
+			 certainty="certain">1839</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Microscope and Its Revelations </title>, ( 
+			 <imprint>London<date type="publication" normal="1856"
+			 certainty="certain">1856</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Zoology. A Systematic Account of the General
+			 Structure, Habits, Instincts and Uses of the Principal Families of the Animal
+			 Kingdom </title>, (<imprint>London<date type="publication" normal="1857"
+			 certainty="certain">1857</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Introduction to the Study of the Foraminifera
+			 </title>, (<imprint>London<date type="publication" normal="1862"
+			 certainty="certain">1862</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1835">1835</date>: Admitted to
+			 the Royal College of Surgeons</p> 
+		  <p><date type="appointmentdate" normal="1839">1839</date>: Awarded an
+			 M.D. from the University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1844">1844</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1845">1845</date>: Appointed
+			 Fullerian Professor of Physiology at the Royal Institution</p> 
+		  <p><date type="appointmentdate" normal="1845">1845</date>: Appointed
+			 Professor of Forensic Medicine at University College</p> 
+		  <p><date type="appointmentdate" normal="1845">1845</date>: Appointed
+			 Lecturer in Physiology at the London Hospital</p> 
+		  <p><date type="appointmentdate" normal="1856/1879">1856-79</date>:
+			 Served as Registrar of London University</p> 
+		  <p><date type="appointmentdate" normal="1861">1861</date>: Made Royal
+			 Medalist in the Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1879">1879</date>: Elected to
+			 London University Senate</p> 
+		  <p><date type="appointmentdate" normal="1879">1879</date>: Created
+			 Companion of the Order of the Bath</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Gillespie, CC "
+			 role="editor">Gillespie, CC, ed</persname>, <title>Dictionary of Scientific
+			 Biography</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="New York">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970/1990"
+			 certainty="certain">1970-1990</date>)</imprint>, s.v. "Carpenter, William
+			 Benjamin" by <persname normal="Bryn Thomas, K." role="author">K. Bryn
+			 Thomas</persname></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Fisher, Duncan" role="researcher">Duncan Fisher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020517">17 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

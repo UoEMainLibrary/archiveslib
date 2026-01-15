@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-25"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-25</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of Thomas
+			 Nelson &amp;amp; Sons Ltd. </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20070312">12 March 2007</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-25</unitid>
+		
+		<physloc>Gen. 1728/1-821; E2007.16 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Thomas Nelson &amp;amp; Sons
+		  Ltd. </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1861-1960">1861-1961 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>66 boxes,
+		  circa 158 document bundles, 290 letter books, 27 ledgers (64 linear metres).
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>The British publishing firm of Nelson is still a prominent one. The
+		  firm has a long history and its name is derived from a small bookselling
+		  business established in Edinburgh in 1789. The founder of the bookshop was
+		  Thomas Neilson (1780-1861). Neilson extended his interests to include
+		  publishing, particularly of religious and educational texts, and he began with
+		  the publication, in monthly parts, of 
+		<title>The Pilgrim's Progress </title>. In 1818, the name of the firm was
+		changed to Thomas Nelson because of the tendency among customers to misspell
+		Neilson. In 1835, Thomas was joined in the business by his son William Nelson
+		(1816-1887) and a little later by his younger son Thomas Nelson (1822-1892) who
+		joined the firm at the age of seventeen. </p> 
+		<p>The business, located in Edinburgh's West Bow, gradually built up and
+		  extended based on the formula of reprinting standard authors at low prices. In
+		  1852, the elder Thomas retired, and in 1858 the name of the firm changed to
+		  Thomas Nelson and Sons, as it has remained ever since. Earlier, in 1844, the
+		  younger Thomas was given the task of establishing a London branch in
+		  Paternoster Row, and in 1854 a New York office opened in the city's Nassau
+		  Street. </p>
+		<p>In Edinburgh during 1845-46, the firm transferred from the West Bow to
+		  larger custom-built premises at Hope Park just to the south of the old part of
+		  the city. At Hope Park, with a workforce of six hundred, all the activities
+		  connected with the production of books were carried out under one roof:
+		  printing, stereotyping, bookbinding, lithographing, engraving, woodcutting,
+		  warehousing, and even dyeing of the plain white calico used in bindings. From
+		  1856, colour-printing became a feature of their production and by 1860 the firm
+		  was the leading publisher of cheap colour-printed titles. In 1878 however, the
+		  Hope Park factory caught fire and nothing was saved except the stereotyped
+		  plates. Even as the building burned, Thomas was ordering new machinery and
+		  temporary accommodation, and within a year new buildings were raised and all
+		  departments were in full production again. </p>
+		<p>From his earliest years with the firm, Thomas exhibited a mechanical
+		  bent and in 1850 he invented a rotary press with curved stereotyped plates
+		  fixed on cylinders and with a continuous web of paper - the type of press used
+		  in the newspaper industry well into the 20th century. </p>
+		<p>The production of Thomas Nelson and Sons was largely focused on story
+		  books and books of travel and adventure by popular authors, and particularly
+		  intended for young readers. A series of school books was initiated, and after
+		  the Education Act of 1871 which had prompted a demand for improved school-books
+		  Nelson's began their series of 
+		<title>Royal readers </title>. In the early 1900s, and certainly in 1907,
+		John Buchan (1875-1940), writer of fiction and history, was a member and
+		literary adviser to Thomas Nelson and Sons. The firm also published his work.
+		Nelson had also published works by Bagehot, Belloc, G.K.Chesterton, Erskine
+		Childers, H. J. Newbolt, Mark Twain, and H.G. Wells, among many others. Another
+		important work was 
+		<title>The life of St. Anselm, Archbishop of Canterbury</title> (1962).
+		This work was published while Dr. Hubert Peter Morrison (d. 1971) was President
+		of the firm.</p>
+		<p>Today, Nelson's is one of Britain's leading publishers of educational
+		  titles, offering materials for all ages, from nursery level to further
+		  education, and in all subject areas. In March 2000 its head office was in
+		  Walton-on-Thames, Surrey. </p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of Thomas Nelson &amp;amp; Sons Ltd. consist of: general
+		  day books, ledgers, account books, details of sundry creditors, letter books,
+		  and commission books for the years 1861-1915; general correspondence and
+		  letters to and from a variety of individuals 1895-1960; material from trade
+		  representatives, editorial notices, sales department material; and other
+		  miscellaneous material. </p> 
+		<p>Within the Nelson Papers there is a very large body of correspondence
+		  between John Buchan and Nelson's covering the years 1909-1929. The
+		  correspondence includes letters about manuscripts submitted from authors, about
+		  photographs and other illustrations for works, about translations of works
+		  published, about terms of contract and royalties, and about new work published
+		  by other firms. The correspondence also deals with Buchan's own material. The
+		  Buchan Correspondence consists of over 4,700 letters and has been given the
+		  shelfmark Gen. 1728/B/1-14. </p>
+		<p>The papers also include a small tranche (at E2007.16) being
+		  correspondence (written between 1945-1961) and other material relating to the
+		  Thomas Nelson and Sons Ltd. edition of the 
+		<title>Life of St. Anselm</title>; and, notices of Hubert Peter Morrison
+		(d. 1971).</p>
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Neilson</emph> <emph altrender="forename">Thomas</emph>
+		  <emph altrender="dates">1780-1861</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Nelson</emph> <emph altrender="forename">William</emph>
+		  <emph altrender="dates">1816-1887</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Nelson</emph> <emph altrender="forename">Thomas</emph>
+		  <emph altrender="dates">1822-1892</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Buchan</emph> <emph altrender="forename">John</emph>
+		  <emph altrender="epithet">Baron Tweedsmuir</emph> <emph
+		  altrender="dates">1875-1940</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Buchan</emph> <emph altrender="forename">John</emph>
+		  <emph altrender="dates">1875-1940</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Morrison</emph> <emph altrender="forename">Hubert
+		  Peter</emph> <emph altrender="dates">d. 1971</emph> </persname>
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Thomas Nelson
+		  &amp;amp; Sons</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Booksellers and bookselling</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Publishers and publishing</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Authors and publishers</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlists, H25; H25.1 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

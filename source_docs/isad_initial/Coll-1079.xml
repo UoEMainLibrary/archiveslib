@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1079">GB
+		237 Coll-1079</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of Dr. Thomas J. Watson (fl.
+			 1949-1967)</titleproper> 
+		</titlestmt> 
+		<publicationstmt>
+		  <publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20060203" certainty="certain">03 February
+			 2006</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage>
+		<descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+			 <date type="publication" certainty="certain"
+			  normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname>
+			 <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+			 <date type="publication" normal="1997"
+			  certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1079"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1079</unitid> 
+		<physloc label="Shelfmark" encodinganalog="shelfmark">E95.47</physloc>
+		<unittitle encodinganalog="isadg(2)312">Papers of Dr. Thomas J. Watson
+		  (fl. 1949-1967)</unittitle>
+		<unitdate normal="1930/1950"
+		 encodinganalog="isadg(2)313">1930-1950</unitdate>
+		<repository label="Repository" encodinganalog="NAHSTE31">Edinburgh
+		  University Library, Special Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 folder containing 6
+		  notebooks</extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Watson, Thomas John</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>In 1949, Thomas John Watson was awarded a Ph.D. from Edinburgh
+		  University for his research into the history of deaf education in Scotland
+		  1760-1939. He published 
+		<title>The education of hearing-handicapped children</title> (1967).</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The content of each notebooks varies, though within Watson's fields of
+		  interest. Each notebook entitled Vol.1 through to Vol.6. Manuscript.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required-->
+	 <descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Accession No: E95.47. Acquired May 1995.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared for this collection.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using material
+			 contained in the collection.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University, Special
+			 Collections.</p> 
+		</processinfo>
+	 </descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Deaf</emph><emph
+			 altrender="x">Education</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph altrender="surname">Watson</emph><emph
+			 altrender="title">Dr.</emph><emph altrender="forename">Thomas J.</emph><emph
+			 altrender="dates">fl .1949-1967</emph><emph altrender="epithet"></emph><emph
+			 altrender="other"></emph></persname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

@@ -1,0 +1,197 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <!--<base href="http://collections.ed.ac.uk/alumni/">-->
+
+    <title></title>
+
+    <link rel="pingback" href="http://collections.ed.ac.uk/pingback" />
+
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+    Remove this if you use the .htaccess -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>University of Edinburgh Historical Alumni</title>
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+    <link rel="shortcut icon" href="http://collections.ed.ac.uk/theme/alumni/images/favicon.ico">
+    <link rel="apple-touch-icon" href="http://collections.ed.ac.uk/theme/alumni/images/apple-touch-icon.png">
+
+    <!-- CSS: implied media="all" -->
+    <link rel="stylesheet" href="http://collections.ed.ac.uk/theme/alumni/css/style.css?v=2">
+    <link rel="stylesheet" href="http://collections.ed.ac.uk/assets/fancybox/source/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen" />
+    <link rel="stylesheet" href="http://collections.ed.ac.uk/assets/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+    <link rel="stylesheet" href="http://collections.ed.ac.uk/assets/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+    <link rel="stylesheet" href="http://releases.flowplayer.org/6.0.4/skin/minimalist.css">
+    <link rel="stylesheet" href="http://collections.ed.ac.uk/assets/font-awesome/css/font-awesome.min.css">
+
+    <!-- Uncomment if you are specifically targeting less enabled mobile browsers
+    <link rel="stylesheet" media="handheld" href="css/handheld.css?v=2">  -->
+
+    <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+    <script src="http://collections.ed.ac.uk/assets/modernizr/modernizr-1.7.min.js"></script>
+    <script src="http://collections.ed.ac.uk/assets/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+    <script src="http://collections.ed.ac.uk/assets/jquery-ui-1.10.4/ui/minified/jquery-ui.min.js"></script>
+    <script src="http://collections.ed.ac.uk/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="http://collections.ed.ac.uk/assets/jquery-1.11.0/jcarousel/jquery.jcarousel.min.js"></script>
+    <script src="http://www.google-analytics.com/analytics.js"></script>
+
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-25737241-9', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- End Google Analytics -->
+
+    <script src="http://releases.flowplayer.org/6.0.4/flowplayer.min.js"></script>
+
+    <!-- global options -->
+    <script>
+        flowplayer.conf = {
+            analytics: "UA-25737241-9"
+        };
+    </script>
+
+    
+</head>
+
+<body>
+
+<div id="container">
+
+        <header>
+            <div id="collection-title">
+                <a href="http://www.ed.ac.uk" class="uoelogo" title="The University of Edinburgh Home" target="_blank"></a>
+                <a href="http://collections.ed.ac.uk/alumni" class="logo" title="University of Edinburgh Historical Alumni Home"></a>
+                <a href="http://collections.ed.ac.uk/alumni" class="menulogo" title="University of Edinburgh Historical Alumni  Home"></a>
+            </div>
+            <div id="collection-search">
+                <form action="http://collections.ed.ac.uk/alumni/redirect/" method="post">
+                    <fieldset class="search">
+                        <input type="text" name="q" value="" id="q" />
+                        <input type="submit" name="submit_search" class="btn" value="Search" id="submit_search" />
+                       <!-- <a href="./advanced" class="advanced">Advanced search</a>-->
+                    </fieldset>
+                </form>
+            </div>
+        </header>
+
+        <div id="main" role="main" class="clearfix">
+
+<div class="col-main">
+<h1>Laureation &amp; Degrees Album, 1587-1809</h1>
+<?php
+    error_reporting(E_ALL);
+    ini_set('display_errors', 1);
+
+    include "../../mgt_config/sql.php";
+
+    // Establish connection using mysqli
+    $id_link = mysqli_connect($hostname, $username, $password, $dbname);
+
+    // Check the database connection
+    if (!$id_link) {
+        echo 'Connection to database has failed: ' . mysqli_connect_error();
+        exit();
+    }
+
+    include "parts/vars.php";
+    include "parts/6a.php";
+?> 
+
+
+<p>This is a digitised copy of the first volume of Laureation & Degrees (First Laureation Album) [Edinburgh University Library Special Collections: <a href="http://archives.collections.ed.ac.uk/repositories/2/archival_objects/17272" target="_blank">EUA IN1/ADS/STA/1/1</a>].  The volume was bound, at some point, out of its proper chronological sequence and remained so until quite recently.  The digitised order reflects the previous disorder.</p>
+                            <p>This album begins with the text of the 'sponsio' or
+  Confession of Faith (sometimes referred to as the National Covenant) of 1580,
+  to which the graduates subscribed, and which continued to be subscribed to by
+  Professors and Students for many years. The entries for laureations (or
+  graduations) begin in August 1587, when Robert Rollock, the first Principal
+  'did laureat the first classe which had passed under his charge in the Colledge
+  of Edinburgh, after every one of them had subscrybed the Covenant.' </p>
+                            <p>This first class consisted of 47 students, all of whom
+  signed their names, a practice which continued well into the 18th century.
+  Additions were made against the names of the early graduates, probably by later
+  Professors, adding designations such as 'minister verbi' or, for example,
+  'Primarius, prius Regens' against the name of Patrick Sands, who was in the
+  first class of graduates, and who became Principal in 1620. The Register
+  records all graduates up to 1712, and medical graduates from 1710 up to
+  1809.The Register itself was active in the University until 1809, and it can be
+  safely said that it played a central role in the life of the institution for
+  over 200 years. </p>
+  <p>Many of the signatures in the volume are of key figures in
+  the life of the University, and include those of Robert Rollock, the first
+  Principal, William Drummond of Hawthornden, the Poet and Benefactor to the
+  University, Robert Leighton, and Hugh Blair.</p>
+  
+  <p>The volume concludes with a few administrative entries made after 1809.</p>
+<footer>
+            <div class="footer-links">
+                <div class="site-links">
+                    <a href="http://collections.ed.ac.uk/alumni/">University of Edinburgh Historical Alumni</a>
+                    <a href="http://collections.ed.ac.uk/alumni/about">About</a>
+                    <a href="http://collections.ed.ac.uk/alumni/feedback" class="last">Contact Us</a>
+                </div>
+                <div class="social-links">
+                    <ul class="social-icons">
+                        <li><a href="https://www.facebook.com/crc.edinburgh" class="facebook-icon" target="_blank" title="CRC on Facebook"></a></li>
+                        <li><a href="https://twitter.com/CRC_EdUni" class="twitter-icon" target="_blank" title="CRC on Twitter"></a></li>
+                        <li><a href="https://www.flickr.com/photos/crcedinburgh" class="flickr-icon" target="_blank" title="CRC on Flickr"></a></li>
+                        <li><a href="http://libraryblogs.is.ed.ac.uk/" class="wordpress-icon" target="_blank" title="L&UC Blogs"></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-disclaimer">
+                <div class="footer-logo">
+                    <a href="http://www.ed.ac.uk/schools-departments/information-services/about/organisation/library-and-collections" target="_blank" class="luclogo" title="Library &amp; University Collections Home"></a>
+                </div>
+                <div class="footer-policies">
+                    <p>This collection is part of <a href="http://collections.ed.ac.uk/" title="University Collections Home">University Collections</a>.</p>
+                    <p><a href="http://www.ed.ac.uk/about/website/privacy" title="Privacy and Cookies Link"  target="_blank">Privacy &amp; Cookies</a>
+                        &nbsp;&nbsp;<a href="http://collections.ed.ac.uk/alumni/takedown" title="Takedown Policy Link">Takedown Policy</a>
+                        &nbsp;&nbsp;<a href="http://collections.ed.ac.uk/alumni/licensing" title="Licensing and Copyright Link">Licensing &amp; Copyright</a>
+                        &nbsp;&nbsp;<a href="http://www.ed.ac.uk/about/website/accessibility" title="Website Accessibility Link" target="_blank">Accessibility</a></p>
+                    <p>Unless explicitly stated otherwise, all material is copyright &copy; 2016 <a href="http://www.ed.ac.uk" title="University of Edinburgh Home" target="_blank">University of Edinburgh</a>.</p>
+                </div>
+                <div class="is-logo">
+                    <a href="http://www.is.ed.ac.uk" target="_blank" class="islogo" title="University of Edinburgh Information Services Home"></a>
+                </div>
+            </div>
+        </footer>
+    </div>
+        </div> <!-- close main -->
+        </div> <!-- close container -->
+
+        <!-- moved to headers
+        <script src="<//?php echo base_url()?>assets/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+        <script src="<//?php echo base_url()?>assets/jquery-ui-1.10.4/ui/minified/jquery-ui.min.js"></script>
+        -->
+
+        <!-- Add mousewheel plugin (this is optional) -->
+        <script type="text/javascript" src="http://collections.ed.ac.uk/assets/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+        <!-- Add fancyBox -->
+        <script type="text/javascript" src="http://collections.ed.ac.uk/assets/fancybox/source/jquery.fancybox.pack.js?v=2.1.4"></script>
+        <!-- Optionally add helpers - button, thumbnail and/or media -->
+
+        <script type="text/javascript" src="http://collections.ed.ac.uk/assets/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+        <script type="text/javascript" src="http://collections.ed.ac.uk/assets/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.5"></script>
+
+        <script type="text/javascript" src="http://collections.ed.ac.uk/assets/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+        <script src="http://collections.ed.ac.uk/assets/plugins/plugins.js"></script>
+        <script src="http://collections.ed.ac.uk/assets/script/script.js"></script>
+
+    </body>
+</html>

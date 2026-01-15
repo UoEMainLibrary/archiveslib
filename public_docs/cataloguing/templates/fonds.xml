@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.archives.lib.ed.ac.uk/cataloguing/rules/ead.dtd">
+<?xml-stylesheet type="text/css" href="http://www.archives.lib.ed.ac.uk/cataloguing/css/ead.css"?>
+<ead>
+	<eadheader>
+		<eadid countrycode="GB" mainagencycode="237"/>
+		<filedesc>
+			<titlestmt>
+				<titleproper/>
+			</titlestmt>
+		</filedesc>
+	</eadheader>
+	<archdesc level="fonds">
+		<did>
+			<unitid encodinganalog="isadg(2)311" label="Reference code"/>
+			<physloc label="Shelfmark" encodinganalog="shelfmark"/>
+			<unittitle encodinganalog="isadg(2)312"/>
+			<unitdate encodinganalog="isadg(2)313"/>
+			<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315">
+				<extent type="linear" unit="metre"/>
+			</physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+			<origination label="Name of Creator(s)" encodinganalog="isadg(2)321"/></did>
+		<bioghist encodinganalog="isadg(2)322">
+			<p/>
+		</bioghist>
+		<scopecontent encodinganalog="isadg(2)331">
+			<p/>
+		</scopecontent>
+		<descgrp>
+			<phystech encodinganalog="isadg(2)344">
+				<p/>
+			</phystech>
+			<arrangement encodinganalog="isadg(2)334">
+				<p/>
+			</arrangement>
+			<custodhist encodinganalog="isadg(2)323">
+				<p/>
+			</custodhist>
+			<acqinfo encodinganalog="isadg(2)324">
+				<p/>
+			</acqinfo>
+			<appraisal encodinganalog="isadg(2)332">
+				<p/>
+			</appraisal>
+			<accruals encodinganalog="isadg(2)333">
+				<p/>
+			</accruals>
+			<accessrestrict encodinganalog="isadg(2)341">
+				<p/>
+			</accessrestrict>
+			<userestrict encodinganalog="isadg(2)342">
+				<p/>
+			</userestrict>
+			<altformavail encodinganalog="isadg(2)352">
+				<p/>
+			</altformavail>
+			<originalsloc encodinganalog="isadg(2)351">
+				<p/>
+			</originalsloc>
+			<otherfindaid encodinganalog="isadg(2)345">
+				<p/>
+			</otherfindaid>
+			<relatedmaterial encodinganalog="isadg(2)353">
+				<p/>
+			</relatedmaterial>
+			<bibliography encodinganalog="isadg(2)354">
+				<p/>
+			</bibliography>
+			<note encodinganalog="isadg(2)361">
+				<p/>
+			</note>
+			<processinfo encodinganalog="isadg(2)371">
+				<p/>
+			</processinfo>
+			<processinfo audience="internal" encodinganalog="isadg(2)373">
+				<p>Catalogued by Forename Surname <date/></p>
+			</processinfo>
+		</descgrp>
+		<controlaccess encodinganalog="NAHSTE38">
+			<controlaccess encodinganalog="NAHSTE381">
+				<subject/>
+			</controlaccess>
+			<controlaccess encodinganalog="NAHSTE382">
+				<persname/>
+			</controlaccess>
+			<controlaccess encodinganalog="NAHSTE383">
+				<corpname/>
+			</controlaccess>
+			<controlaccess encodinganalog="NAHSTE384">
+				<geogname/>
+			</controlaccess>
+		</controlaccess>
+		<dsc>
+			<!--	LOWER LEVELS OF DESCRIPTION BELOW HERE		-->
+			
+			<!--	LOWER LEVELS OF DESCRIPTION END HERE		-->
+		</dsc>
+	</archdesc>
+</ead>

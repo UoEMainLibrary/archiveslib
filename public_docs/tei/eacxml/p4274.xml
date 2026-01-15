@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4274</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-05-27">27 May 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Stephen Hall</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>15 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Births MP 0050 00001 00001 00001 00055 008
+                            (Craigston, Barra, St Brendan's)</span>
+                        <span localType="ead-repository">Scottish Catholic Archives</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 108/00 006/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1871 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 108/00 006/00 014</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source>
+            <source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1885 108/00 0028</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB237/Coll-97/CW7/11</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB237/Coll-97/CW126g/</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4274</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacPherson</part>
+                <part localType="given">John</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Soldier, fisherman, Barra</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1814-12-29">29 December
+                        1814</fromDate><toDate standardDate="1885-09-22">22 September
+                    1885</toDate></dateRange></existDates>
+            <biogHist>
+                <p>John was born to John MacPherson and Marion MacPherson née McPhee in Kentangaval,
+                    Barra. His mother died in childbirth. By the 1871 he was already a widow to
+                    Catherine MacPherson and had been a corporal in the army. He was living in
+                    Kentangaval with his four children Ann (20), Mary (18), Marion (16) and
+                    Catherine (14), and his married sister Catherine (54). The three eldest
+                    daughters were working as domestic servants. By 1881, only his son, Donald (21),
+                    daughter Catherine (or Cattine), and grandson John McLachlan were living with
+                    him; both he and his son were fishermen. </p>
+                <p>John died in Kentangaval  from serious debility paralysis and his daughter
+                    Catherine signed the death certificate.</p>
+                <p>John MacPherson met Carmichael in 1870 and he recited the song 'Gillean Gealu'
+                    [Baby Boy] and the charm 'Eolas Beum Sula'.</p>
+                <chronList>
+                    <chronItem><date standardDate="1814-12-29">29 December
+                            1814</date><placeEntry>Barra</placeEntry><event>birth</event></chronItem>
+                    <chronItem>
+                        <date standardDate="1870-12-02">2 December 1870</date>
+                        <placeEntry>Kentangaval, Isle of Barra</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1885-09-22">22 September
+                            1885</date><placeEntry>Kentangaval,
+                            Barra</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+        <relations><cpfRelation cpfRelationType="family"
+                xmlns:ns1="http://www.w3.org/1999/xlink" ns1:href="p4277">
+                <relationEntry>Catherine MacFarlane (née MacPherson)</relationEntry>
+                <descriptiveNote>
+                    <p>Sister</p>
+                </descriptiveNote>
+            </cpfRelation>
+        </relations>
+    </cpfDescription>
+</eac-cpf>

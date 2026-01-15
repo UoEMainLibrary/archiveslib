@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-58">GB
+		237 Coll-58</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>The Angus Fraser Manuscript</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-58">
+    <did>
+      <unittitle>The Angus Fraser Manuscript</unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-58</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 614</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">The Angus Fraser
+		  Manuscript</unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1801-1899">19th century</unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>1 box. </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">Fraser, Angus; Fraser, Simon</origination>
+      <langmaterial encodinganalog="isadg(2)343" label="">
+        <language langcode="gla">Gaelic or
+		  Scottish Gaelic, </language>
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>While this manuscript collection is known as The Angus Fraser
+		  Manuscript, the content is the work of two individuals, Simon Fraser of Knockie
+		  in the parish of Abertarff, born 1773, and Angus Fraser his son, born perhaps
+		  1800 in Inverness. An illegitimate child, Angus used his father's surname from
+		  around the age of fourteen when he joined the army, in Edinburgh, in 1814. His
+		  military career lasted some 31 years, much of it served with the 1st Royal
+		  Scots from 1832. His highest rank was Colour Sergeant. Although he learned
+		  several tunes as a child, it was during the period with the Royal Scots that he
+		  became interested in music and acquired his theoretical knowledge. He
+		  discharged from the army, with a pension, in 1845, and returned to Inverness
+		  living at the family home at 25 Rose Street. The father, Captain Simon Fraser,
+		  died in Inverness in 1852, while Angus Fraser died on 4 February 1870. The
+		  collection of music was probably begun during Angus Fraser's army career, but
+		  it was in retirement that the manuscript reached its final form. Because of the
+		  inheritance of musical and literary material from the elder Fraser, some of the
+		  airs in the Angus Fraser Manuscript are dated as early as 1820. The notes to
+		  the manuscript collection were written in 1858. Although some Highland airs
+		  were published, 
+		Knockie (1874), the history of the collection is obscure
+		until "rediscovery" by a member of Edinburgh University Library staff in an
+		Edinburgh bookshop in the 1950s. It was presented to the Library.</p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Angus Fraser Music Manuscript consists of three named collections
+		  intended for publication, a series of sets of variations mostly on well-known
+		  airs, and a variety of less-organised manuscript pages. The differing interests
+		  of Simon Fraser and Angus Fraser are reflected in the Manuscript. </p>
+    </scopecontent>
+    <descgrp>
+      <accruals encodinganalog="isadg(2)333">
+        <head>Accruals</head>
+        <p>Check the local Indexes for details of any additions.</p>
+      </accruals>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Generally open for consultation to bona fide researchers, but please
+		  contact repository for details in advance.</p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H58</p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

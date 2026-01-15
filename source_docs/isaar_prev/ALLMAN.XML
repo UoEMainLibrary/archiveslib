@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0380 20020429 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0380</titleproper> 
+		  <subtitle>Allman | George James | 1812-1898 | botanist and
+			 zoologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 29 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020429">29 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0380</titleproper> 
+		<subtitle>Allman | George James | 1812-1898 | botanist and
+		  zoologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 29 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020429">29 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0380"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0380</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0380" normal="Allman, George James">Allman |
+		  George James | 1812-1898 | botanist and zoologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>George James Allman (<date type="life-span"
+			 normal="1812/1898">1812-1898</date>), an Irish zoologist, was a pioneer in the
+			 science of marine zoology. He was educated at the Royal Academical Institution
+			 in Belfast, and subsequently at Trinity College, Dublin, from which he
+			 graduated in 
+			 <date type="single" normal="1844">1844</date> with a degree in Arts
+			 and in Medicine. He had initially intended to study law but reconsidered once
+			 at university. From his graduation until 
+			 <date type="single" normal="1856">1856</date>, Allman was Professor
+			 of Botany at Dublin - where he followed in the steps of his namesake William
+			 Allman - before his move across the Irish Sea to become Regius Professor of
+			 Natural History at the University of Edinburgh. This post also brought
+			 responsibility for the Museum of Science and Art (now the Royal Museum of
+			 Scotland). Relations between the museum and the university (which used the
+			 museum's collections for teaching) deteriorated considerably for diverse
+			 reasons under his stewardship.</p> 
+		  <p>His principal publication, <bibref><title>A Monograph on the
+			 Gymnoblastic or Tubularian Hydroids</title></bibref>, was particularly
+			 appreciated at the time, partly because it was the best and most systematic
+			 work to date on the morphology of hydrozoa, but also because of the precision
+			 of the illustrations Allman included. These were particularly useful due to the
+			 difficulty of preserving these coelenterata without them losing their shape.
+			 His diagrams remained the best available for decades, and were widely
+			 reproduced and imitated in other books.</p> 
+		  <p>In 
+			 <date type="single" normal="1870">1870</date>, Allman resigned his
+			 chair at Edinburgh due to poor health, but survived a further 28 years in
+			 retirement, in which he furthered his scientific research.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>A Monograph of the Fresh-water Polyzoa, Including All
+			 the Known Species, Both British and Foreign</title> (<imprint><date
+			 type="publication" normal="1856">1856</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Monograph of the Gymnoblastic or Tubular
+			 Hydroids</title> (<imprint><date type="publication"
+			 normal="1871/1872">1871-1872</date></imprint>)</bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1844">1844</date>: Awarded degree in
+			 Arts and Medicine, Trinity College, Dublin</p> 
+		  <p><date type="chairspan" normal="1844/1856">1844-1856</date>:
+			 Appointed Professor of Botany, Trinity College, Dublin</p> 
+		  <p><date type="appointmentdate" normal="1854">1854</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="chairspan" normal="1856/1870">1856-1870</date>:
+			 Appointed Regius Professor of Natural History, University of Edinburgh</p> 
+		  <p><date type="single" normal="1873">1873</date>: Awarded Gold Medal of
+			 the Royal Society</p> 
+		  <p><date type="single" normal="1877">1877</date>: Awarded Brisbane Gold
+			 Medal of the Royal Society of Edinburgh</p> 
+		  <p><date type="single" normal="1878">1878</date>: Awarded Conningham
+			 Gold Medal of the Royal Irish Academy</p> 
+		  <p><date type="appointmentdate" normal="1879">1879</date>: Elected
+			 President of the British Association for the Advancement of Science</p> 
+		  <p><date type="single" normal="1896">1896</date>: Awarded Gold Medal of
+			 the Linnean Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref><corpname normal="Encyclopaedia Britannica"
+			 role="author">Encyclopaedia Britannica</corpname>, <title
+			 render="italic">Allman, George James</title>, (
+			 <extref
+			 href="http://21.1911encyclopedia.org/A/AL/ALLODIUM_OR_ALODIUM.htm">http://21.1911encyclopedia.org/A/AL/ALLODIUM_OR_ALODIUM.htm</extref>
+			 <imprint>, 
+			 <date type="publication" normal="1911"
+			 certainty="certain">1911</date>)</imprint></bibref></p> 
+		  <p> <bibref> <corpname normal="Royal Society" role="author">The Royal
+			 Society</corpname>, <title render="italic">Obituary Notices of Fellows of the
+			 Royal Society 1900-1901</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>The Royal Society</publisher>, 
+			 <date type="publication" normal="1901"
+			 certainty="certain">1901</date>)</imprint></bibref></p> 
+		  <p> <bibref> <title render="italic">A Dictionary of Irish Biography,
+			 Second Edition</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York</geogname>, 
+			 <publisher>St Martin's Press</publisher>, 
+			 <date type="publication" normal="1988"
+			  certainty="certain">1988</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020429">29 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

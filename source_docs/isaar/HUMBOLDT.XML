@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0400 20020404 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0400</titleproper> 
+		  <subtitle>Humboldt | Friedrich Wilhelm Heinrich Alexander | von |
+			 1769-1859 | Baron | German naturalist, geologist and explorer</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 04 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020404">04 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0400</titleproper> 
+		<subtitle>Humboldt | Friedrich Wilhelm Heinrich Alexander | von |
+		  1769-1859 | Baron | German naturalist, geologist and explorer </subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 04 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020404">04 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0400"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0400</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0400"
+		 normal="Humboldt, Friedrich Wilhelm Heinrich Alexander, von">Humboldt |
+		  Friedrich Wilhelm Heinrich Alexander | von | 1769-1859 | Baron | German
+		  naturalist, geologist and explorer</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Friedrich Wilhelm Heinrich Alexander von Humboldt (<date
+			 type="life-span" normal="1769/1859">1769-1859</date>) was a naturalist,
+			 geologist and explorer. His father, a senior member of the Prussian military,
+			 wanted him to enter politics, but Humboldt preferred to study engineering. He
+			 did, however, live in political circles, and was a campaigner against racism
+			 and anti-semitism, and a recipient of the Prussian 'pour le mérite' order.
+			 Humboldt studied at Göttingen and Frankfurt-an-der-Oder universities during 
+			 <date type="inclusive" normal="1787/1792">1787-1792</date>. He also
+			 spent time at the academy of commerce in Hamburg and the academy of mining in
+			 Freiburg, Saxony. Two results of his involvement in mines were his interest in
+			 geology and his invention of a number of mining safety devices, including a
+			 safety lamp.</p> 
+		  <p>Humboldt attended the conference in Paris that verified the
+			 measurements of the meridian arc that were used to define the metric
+			 system.</p> 
+		  <p>In 
+			 <date type="single" normal="1799">1799</date>, despite the Napoleonic
+			 wars, which made travel difficult, Humboldt travelled to South America with
+			 botanist Aimé Bonpland, where he spent five years studying various natural
+			 phenomena including the correlation between volcanoes and fault lines, the
+			 Casiquiare river linking the Amazon to the Orinoco, variations in the Earths
+			 magnetic field near the equator, ocean currents (one of which is named in his
+			 honour) and the local flora and fauna. He returned via the United States,
+			 visiting president Thomas Jefferson (a keen amateur scientist) and being
+			 elected a member of the American Philosophical Society. He also set a new
+			 altitude record while climbing there, collected 60,000 plant specimens (6,300
+			 unknown in Europe) during his voyage, and introduced the remarkable fertilising
+			 effects of Peruvian guano to Europe on his return.</p> 
+		  <p>Once back in Europe, Humboldt conducted experiments on the
+			 constitution of the atmosphere with Gay-Lusson in Paris before eventually
+			 returning to Prussia, where he was appointed a diplomat. He spent much of his
+			 time as a diplomat in Paris, a sort of adopted second home for him since he had
+			 seen the early revolutionary days there in 
+			 <date type="single" normal="1791">1791</date>. In 
+			 <date type="single" normal="1829">1829</date>, Humboldt set off on
+			 another great voyage of exploration, this time to Siberia and Russian Asia, at
+			 the behest of Nicholas I, the czar of Russia.</p> 
+		  <p>His magnum opus, '<bibref><title>Kosmos</title></bibref>', is
+			 remarkable, because it was the first reasonably accurate encyclopaedia of
+			 geology and geography published. Amongst some of his other publications
+			 Humboldt also wrote 34 volumes of his travel journals and a history of
+			 mediaeval geography.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>His brother, Wilhelm, was a philologist and founder of Berlin
+			 University.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable Publications:</p> 
+		  <p><bibref><title>Kosmos</title>, (<imprint><date type="publication"
+			 normal="1854/1864" certainty="uncertain">c1859</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Ansichten der Natur</title> <imprint>(<date
+			 normal="1849" type="publication">1849</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Kleinere Schriften</title> <imprint>(<date
+			 type="publication" normal="1853">1853</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1804">1804</date>: Elected to
+			 American Philosophical Society</p> 
+		  <p><date type="single" normal="1805">1805</date>: Awarded Honorary
+			 Doctorate by the University of Frankfurt-an-der-Oder</p> 
+		  <p><date type="appointmentdate" normal="1807">1807</date>: Elected
+			 Member, Société d'Arcueil</p> 
+		  <p><date type="single" normal="1827">1827</date>: Awarded Honorary
+			 Doctorate by the University of Dorpat</p> 
+		  <p><date type="single" normal="1828">1828</date>: Awarded Honorary
+			 Doctorate by the University of Bonn</p> 
+		  <p><date type="single" normal="1842">1842</date>: Awarded Order "pour
+			 le mérite," Chancellor of the Peace Division</p> 
+		  <p><date type="single" normal="1845">1845</date>: Awarded Honorary
+			 Doctorate by the University of Tübingen</p> 
+		  <p><date type="single" normal="1848">1848</date>: Awarded Honorary
+			 Doctorate by the University of Prague</p> 
+		  <p><date type="single" normal="1850">1850</date>: Awarded Copley
+			 Medal</p> 
+		  <p><date type="single" normal="1853">1853</date>: Awarded Honorary
+			 Doctorate by the University of St. Andrews</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			 role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of scientific biography, Vol VI</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1972"
+			  certainty="certain">1972</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Asimov, Isaac" role="editor">Asimov,
+			 Isaac</persname>, <title render="italic">Asimov's Biographical Encyclopaedia of
+			 Science and Technology</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Doubleday</publisher>, 
+			 <date type="publication" normal="1964"
+			 certainty="certain">1964</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Millar, David" role="editor">Millar,
+			 David</persname>,
+			 <persname source="ncarules" normal="Millar, Ian" role="editor">Millar,
+			 Ian</persname>, <persname source="ncarules" normal="Millar, John"
+			 role="editor">Millar, John</persname>,
+			 <persname source="ncarules" normal="Millar, Margaret" role="editor">Millar,
+			 Margaret</persname>, <title render="italic">Chambers Concise Dictionary of
+			 Scientists</title>, (<imprint>
+			 <geogname source="lcsh" normal="Cambridge (England)"
+			 authfilenumber="547">Cambridge </geogname>/<geogname
+			 normal="Edinburgh (Scotland)" authfilenumber="517">Edinburgh</geogname>, 
+			 <publisher>Chambers Cambridge</publisher>, 
+			 <date type="publication" normal="1989"
+			 certainty="certain">1989</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020404">04 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

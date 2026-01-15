@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1860 20020516 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1860</titleproper> 
+		  <subtitle>Auerbach | Charlotte | 1899-1994 | geneticist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 16 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020516">16 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1860</titleproper> 
+		<subtitle>Auerbach | Charlotte | 1899-1994 | geneticist</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+		  University Library Special Collections Division, 16 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020516">16 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1860"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1860</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1860" normal="Auerbach, Charlotte">Auerbach |
+		  Charlotte | 1899-1994 | geneticist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  
+<p>Charlotte Auerbach was born into a learned artistic and scientific Jewish family. 
+  She went to school in Berlin and in <date normal="1919" type="single">1919</date> 
+  she began her studies in biology, chemistry, physics and the philosophy of David 
+  Hume (<date
+			 normal="1711/1776" type="life-span">1711-1776)</date> at Berlin, 
+  Wurtzburg and Freiburg. Because of antisemitism the period between <date normal="1924/1933" type="inclusive">1924-1933</date> 
+  was one of erratic employment as either a schoolteacher or researcher: she was 
+  dismissed or forced to leave many jobs. She fled Nazi Germany on the advice 
+  of her mother and arrived in England where a family friend introduced her to 
+  Professor Barger at Edinburgh University. Through Barger she met Professor Crew 
+  and, along with a number of other refugees of totalitarianism, she joined the 
+  Institute of Animal Genetics at Edinburgh as a Ph.D student. According to Auerbach 
+  Crew ran the department as his private club with social gatherings in the evenings 
+  and at weekends. From <date normal="1938" type="single">1938</date>, the reknowned 
+  Russian geneticist Hermann Joseph Muller (<date normal="1890/1967"
+			 type="life-span">1890-1967</date>) joined the Institute - this according 
+  to Lotte changed her whole life as he introduced her to mutagenics. She first 
+  came to notice as a scientist in <date normal="1941/1942" type="inclusive">1941-1942</date> 
+  when with AJ Clark and JM Robson she discovered that mustard gas, a highly toxic 
+  substance that had been used in trench warfare, caused genetic mutation in fruit 
+  flies (Drosophila). In so doing she founded the study of gene mutation by chemicals 
+  - mutagenisis was her personal contribution to science. Her approach was biological 
+  rather than chemical in that, while she acknowledged that mutation took place 
+  in the chemistry of the gene, she adhered to the idea that it was the biological 
+  interaction that gave the process its complexity. She used Drosophila, and later, 
+  microorganisms such as Neurospora and yeasts to test the mutagenic properties 
+  of other agents (mustard gas had proved too dangerous). From this she pursued 
+  four lines of enquiry: the patterns of combinations called mosaics (mutant and 
+  non-mutant cells), that increased mutation occurred in delayed or stored genes 
+  affected by a mutagen, 'replicating instabilities', i.e., that mosaics produced 
+  more mosaics in later generations, and that in 'specifity'- parts of the gene 
+  were affected differently by mutagenisis. Lotte was profoundly independent and 
+  as a scientist, and compassionate as a person: she supported CND, loathed racism, 
+  and adored children. In <date normal="1947" type="single">1947</date> she published 
+  under the pseudonym, Charlotte Austen (a favourite author in her childhood) 
+  a popular book of fairy stories called Adventures with Rosalind.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Charlotte Auerbach was the grandchild of Leopold Auerbach
+			 (1828-1897), the neuro-anatomist and discoverer of Auerbach's plexus, and the
+			 daughter of the chemist, Friedrich Auerbach (1870-1925). Lotte's principal
+			 collaborators in research and publication were H Moser, AJ Clark, PT Shukla and
+			 JM Robson on mustard gas and other chemical mutagenic agents of Drosophila, FAE
+			 Crew on the mutagenesis of the mouse, and D Ramsay on Neurospora.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p>91 published scientific works including:</p> 
+		  <p><bibref><title>Genetics in the Atomic Age</title>, (<imprint><date
+			 type="publication" normal="1956"
+			 certainty="certain">1956</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Mutation</title>, (<imprint><date type="publication"
+			 normal="1962" certainty="certain">1962</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Science of Genetics</title>, (<imprint><date type="publication"
+			 normal="1962" certainty="certain">1962</date>)</imprint></bibref></p> 
+		  <p><bibref><title> Mutation Research: Problems, Results and
+			 Perspectives</title>, (<imprint><date type="publication" normal="1976"
+			 certainty="certain">1976</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1935">1935</date>: Awarded Ph.D.,
+			 University of Edinburgh</p> 
+		  <p><date type="single" normal="1947">1947</date>: Awarded D.Sc.,
+			 University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1949">1949</date>: Elected
+			 Fellow, Royal Society of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1957">1957</date>: Elected
+			 Fellow, The Royal Society </p> 
+		  <p><date type="appointmentspan" normal="1959/1969">1959-1969</date>:
+			 Honorary Director of Unit of Mutagenesis Research, University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1967">1967</date>: Appointed
+			 Personal Chair, University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1969">1969</date>: Appointed
+			 Professor Emeritus, University of Edinburgh</p> 
+		  <p><date type="single" normal="1977">1977</date>: Awarded Darwin Medal,
+			 The Royal Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Biographical Memoirs of the Fellows of the Royal
+			 Society</title>, ( <imprint><geogname source="lcsh"
+			 authfilenumber="530" normal="London (England)">London</geogname>, 
+			 <publisher>The Royal Society</publisher>, 
+			 <date type="publication"
+			  normal="1995">1995</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Stewart, Margaret" role="archivist">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020516">16 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

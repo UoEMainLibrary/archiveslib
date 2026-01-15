@@ -1,0 +1,1 @@
+<p>Navigation:: <a href="./">Start</a> | <a href="search.php">Search</a> | <a href="project.php">Project</a></p>

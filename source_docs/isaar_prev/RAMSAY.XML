@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0220 20020327 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0220</titleproper> 
+		  <subtitle>Ramsay | Sir | Andrew Crombie | 1814-1891 |
+			 geologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 27 March 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020327">27 March 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0220</titleproper> 
+		<subtitle>Ramsay | Sir | Andrew Crombie | 1814-1891 |
+		  geologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 27 March 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020327">27 March 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0220"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0220</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0220"
+		 normal="Ramsay, Sir, Andrew Crombie">Ramsay | Sir | Andrew Crombie | 1814-1891
+		  | geologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir Andrew Crombie Ramsay, who was the son of a Glasgow dye
+			 manufacturer, became involved with the study of geology comparatively late in
+			 life. His first major geological work came in Autumn 
+			 <date type="single" normal="1840">1840</date> when he was
+			 instrumental in the preparation of a geological model of the island of Arran,
+			 for the British Association for the Advancement of Science. The competence he
+			 showed in this endeavour, and his subsequent preparation of a guided visit to
+			 the island for members of the association (which never took place), convinced
+			 Roderick Impey Murchison of his worth, and Murchison obtained a post at the
+			 Geological Survey of Great Britain for him. He subsequently occupied a number
+			 of positions in University College London, the Government School of Mines and
+			 the Geological Survey, which culminated in him being appointed Director-General
+			 of the latter in 
+			 <date type="single" normal="1871">1871</date>.</p> 
+		  <p>Over his career, Ramsay produced between forty and fifty scientific
+			 papers. His most important work was on glaciation, denudation and fluvial
+			 systems. He controversially - though largely correctly - explained how certain
+			 mountain valleys and lakes were formed by the glaciers that once flowed through
+			 them. His work on denudation was based on his study of South Wales, in which he
+			 proved, from study of strata, that the area had experienced substantial
+			 denudation in the distant past. His work on rivers, in particular the Rhine, is
+			 considered less interesting and remains controversial.</p> 
+		  <p>Ramsay's main interests surrounded geomorphology, stratigraphy and
+			 the origin of geographical features. He had little time for palaeontology and
+			 petrology, and it is said that this refusal to look at theories that did not
+			 interest him was the cause of many of his mistakes.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Sir Andrew Crombie Ramsay's main patron was Sir Roderick Impey
+			 Murchison (<date type="life-span" normal="1792/1871">1792-1871</date>),
+			 professor of geology at the University of Edinburgh.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Geology of the Island of Arran</title>, ( 
+			 <imprint><date type="publication"
+			 normal="1841">1841</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Geology of North Wales</title>, (<imprint><date
+			 type="publication" normal="1866">1866</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Geological Map of England and Wales</title>, ( 
+			 <imprint><date type="publication"
+			 normal="1874">1874</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Physical Geology and Geography of Great
+			 Britain</title>, (<imprint><date type="publication"
+			 normal="1894">1894</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1844">1844</date>: Elected Fellow of the
+			 Geological Society</p> 
+		  <p><date type="appointmentdate" normal="1847">1847</date>: Appointed
+			 Professor of Geology at University College London</p> 
+		  <p><date normal="1852" type="appointmentdate">1852</date>: Appointed
+			 Lecturer in Geology at the Government School of Mines</p> 
+		  <p><date type="appointmentdate" normal="1862">1862</date>: Elected
+			 President of the Geological Society</p> 
+		  <p><date type="appointmentdate" normal="1862">1862</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="single" normal="1862">1862</date>: Awarded Cross of St.
+			 Maurice and St. Lazare</p> 
+		  <p><date type="single" normal="1866">1866</date>: Awarded Neill Prize
+			 of the Royal Society of Edinburggh</p> 
+		  <p><date type="single" normal="1866">1866</date>: Awarded Doctor of Law
+			 (LLD) at the University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1871">1871</date>: Appointed
+			 Director-General of the Government School of Mines</p> 
+		  <p><date type="single" normal="1871">1871</date>: Awarded Wollaston
+			 Medal of the Geological Society</p> 
+		  <p><date type="appointmentdate" normal="1880">1880</date>: Elected
+			 President of the British Association for the Advancement of Science</p> 
+		  <p><date type="single" normal="1881">1881</date>: Awarded
+			 Knighthood</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol XI</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1975"
+			 certainty="certain">1975</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 XVI</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1909"
+			 certainty="certain">1909</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020327">27 March
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

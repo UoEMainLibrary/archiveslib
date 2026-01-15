@@ -1,0 +1,35 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Chemistry</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/c/">c</a><h1>Chemistry</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=255&term=Chemistry" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1483&view=basic">Three medical notebooks, two of which relate to Alexander Woodcock fl. 1833-1845 </a> () </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-205&view=basic">Papers of Dr. John Walker </a> (1731-1803) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-205-2-3&view=basic">Papers in geography, science, and letters </a> (1743-1783) Papers of Dr. John Walker</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16&view=basic">Papers of Joseph Black and family </a> (1746-1799) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C2-1-1&view=basic">Students of the College of Chemistry (William Cullen) </a> (1755-1765) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1375&view=basic">James Johnson: notes from lectures on chemistry by Joseph Black </a> (1770-1775) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-204&view=basic">Lecture Notes of John Robison </a> (1774-1806) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1374&view=basic">A Law: notes from lectures on Chemistry by Joseph Black </a> (1775) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16-I-79-80&view=basic">Letter from Lord Kames to Joseph Black </a> (1775) Papers of Joseph Black and family</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16-I-87-88&view=basic">Letter from Lorenz Florenz Friedrich von Crell to Joseph Black </a> (1779) Papers of Joseph Black and family</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16-I-103-104&view=basic">Letter from Martin Wall to Joseph Black </a> (1780) Papers of Joseph Black and family</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1369&view=basic">Notes from lectures by Thomas Charles Hope and Joseph Black </a> (1796-1797) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-206-1&view=basic">Minutes </a> (1808) Records of the Wernerian Natural History Society</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-206-1-2&view=basic">Minutes volume 2 </a> (1830) Records of the Wernerian Natural History Society</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C2-1-2&view=basic">Class Register (TC Hope) </a> (1830-1843) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C2-1-3&view=basic">Student Records </a> (1839) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C2-1-4&view=basic">Chemistry Class Album </a> (1844-1858) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C2-1-6&view=basic">Practical Chemistry Classbook </a> (1854-1874) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C2-1-5&view=basic">Chemistry Class Registration Book (Sir Lyon Playfair and Alexander Crum Brown) </a> (1858-1873) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C2-1-13&view=basic">Laboratory Apparatus </a> (1859-1860) Records of the University of Edinburgh</li>
+</ul>
+<a href="21.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

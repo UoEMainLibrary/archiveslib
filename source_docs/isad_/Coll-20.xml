@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-20">GB
+		237 Coll-20</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Photographs and Diaries of John Shaw Smith
+			 (1811-1873)</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-20">
+    <did>
+      <unittitle>Photographs and Diaries of John Shaw Smith
+			 (1811-1873)</unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-20</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">E99.41</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Photographs and Diaries of John Shaw
+		  Smith (1811-1873)</unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1849-1852">1849-1852</unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>5 boxes photographs, 1 folder, 2 microfilm boxes
+		  diaries. </extent>
+      </physdesc>
+      <strong>Physical condition</strong>:  Access to records in a fragile condition may be
+		  restricted.<br/>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">Smith, John Shaw</origination>
+      <langmaterial encodinganalog="isadg(2)343" label="">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>John Shaw Smith was Irish. He was born 1811, and died 1873.</p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The collection is composed of: a folder containing a typescript copy
+		  of a diary of a journey from Italy to the Holy Land, covering the period 18
+		  December 1850 to 6 September 1852; two microfilms of diaries covering the
+		  period 1849 to 1850; and five boxes of photographs showing scenes of Ireland,
+		  Paris, Switzerland, Rome, Pompei, Athens, Istanbul, Jerusalem, Cairo, Thebes,
+		  Abu Simbel, Nubia, Petra, and more.</p>
+    </scopecontent>
+    <descgrp>
+      <acqinfo encodinganalog="isadg(2)324">
+        <head>Immediate source of acquisition</head>
+        <p>Collection gifted by Basil Megaw, November 1999, Accession no.
+		  E99.41.</p>
+      </acqinfo>
+      <accruals encodinganalog="isadg(2)333">
+        <head>Accruals</head>
+        <p>Check the local Indexes for details of any additions.</p>
+      </accruals>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Generally open for consultation to bona fide researchers, but please
+		  contact repository for details in advance.</p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Important finding aids generally are: the alphabetical Index to
+		  Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives, consisting of typed slips in sheaf binders and to which additions
+		  were made until 1987; and the Index to Accessions Since 1987. </p>
+      </otherfindaid>
+      <note>
+        <head>Note</head>
+        <p>The biographical/administrative history was compiled using material
+		  contained in the collection.</p>
+        <head>Archivist's Note</head>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+				Collections Division.</note>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

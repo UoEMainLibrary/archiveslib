@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1117">GB
+		237 Coll-1117</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Scrapbook of newspaper cuttings, largely relating to the
+			 books of Sir James Purves-Stewart (1869-1949) and his views on
+			 Euthanasia</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20070511" certainty="certain">11 May
+			 2007</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1117"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1117</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2007.21</physloc><unittitle
+		encodinganalog="isadg(2)312">Scrapbook of newspaper cuttings, largely relating
+		  to the books of Sir James Purves-Stewart (1869-1949) and his views on
+		  Euthanasia</unittitle><unitdate normal="1906/1939"
+		encodinganalog="isadg(2)313">1906-1939</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 volume </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">unknown</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p> James Purves-Stewart was born on 20 November 1869, the son of a
+		  master tailor in Edinburgh. He was educated at the city's Royal High School and
+		  he studied at the universities of Edinburgh and Jena, graduating from Edinburgh
+		  with the degrees of M.A., and M.D. in 1894. He was an Assistant to the
+		  Professor of Physiology and Professor of Medicine at Edinburgh University, and
+		  between 1900 and 1901 he was Physician to the Imperial Yeomanry Field Hospital
+		  during the South African campaign (Boer War). During the First World War he
+		  served in the Mediterranean on Malta, at Gallipoli, Salonika, and in Egypt.</p>
+		
+		<p>Purves-Stewart received the C.B. in 1916, and he was knighted (KCMG)
+		  in 1918.</p>
+		<p>His publications include 
+		<title>Diagnosis of nervous diseases</title> (1906) which went to a 10th
+		edition in 1948, 
+		<title>Intracranial tumours</title> (1927), 
+		<title>A physician's tour in Soviet Russia</title> (1932), 
+		<title>Robert Burns, a medical aspect</title> (1935), his autobiography 
+		<title>Sands of time</title> (1939), and 
+		<title>Over military age</title> (1942).</p>
+		<p>Latterly Purves-Stewart had been consulting physician at Westminster
+		  Hospital and to West End Hospital for nervous Diseases, physician to the Royal
+		  National Orthopaedic Hospital, consulting physician to King Edward VII Hospital
+		  for Officers at Osborne, and consulting physician to H. M. Forces in the
+		  Mediterranean.</p>
+		<p>Sir James Purves-Stewart died on 14 June 1949.</p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The volume - a scrapbook - contains newspaper cuttings in small part
+		  consisting of reviews of Purves-Stewart's notable published work 
+		<title>Diagnosis of nervous diseases</title> (1906). There are reviews
+		from the 
+		<title>BMJ</title>, the 
+		<title>Athenaeum</title> (8 Dec. 1906); 
+		<title>The Lancet</title> (8 May 1909), 
+		<title>La Clinique</title> (12 Aout 1910), and the 
+		<title>Bulletin Medical de l'Algerie</title> (Alger, 25 Aout 1910), but
+		in large part consisting of controversial articles in the 1930s about
+		Purves-Stewart's views on voluntary euthanasia and about the administration of
+		euthanasia, on occasions, by physicians. There are a number of articles from
+		the 
+		<title>Western Mail </title>, from the 
+		<title>Catholic Herald</title>, from the 
+		<title>Daily Sketch</title>, and from other British newspapers. </p> 
+		<p>The scrapbook contains other cuttings mentioning Purves-Stewart in
+		  relation to Canadian hospitals in France, and his views on the Empire. There
+		  are a few cuttings relating to an international congress on hydrology in North
+		  Africa in 1909 at which he appears to have given a paper. There are also
+		  cuttings of jokes and verses.</p>
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Item accessioned to collections in May 2007, and given Accession no:
+			 E2007.21.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance of visit.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared for this collection.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using the
+			 following material: (1) 
+		  <title>Who was who 1941-1950</title>. (Reprinted). p.1106. London: Adam
+		  and Charles Black, 1985.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D. Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Euthanasia</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph
+			 altrender="surname">Purves-Stewart</emph><emph
+			 altrender="title">Sir</emph><emph altrender="forename">James</emph><emph
+			 altrender="dates">1869-1949</emph><emph
+			 altrender="epithet">Physician</emph><emph altrender="other"></emph></persname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0693 20020416 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0693</titleproper> 
+		  <subtitle>Monro (Secondus) | Alexander | 1733-1817 | professor of
+			 anatomy, University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 16 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020416">16 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0693</titleproper> 
+		<subtitle>Monro (Secondus) | Alexander | 1733-1817 | professor of
+		  anatomy, University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 16 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020416">16 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0693"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0693</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0693" normal="Monro, Alexander">Monro
+		  (Secondus) | Alexander | 1733-1817 | professor of anatomy, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Alexander Monro (<date type="life-span"
+			 normal="1733/1817">1733-1817</date>), Professor of Anatomy and Surgery at the
+			 University of Edinburgh, was a member of a family of anatomists - he followed
+			 his father in his post and his son followed him. He was educated at the High
+			 School in Edinburgh and then, from age 12, at the city's university. At
+			 university, he studied mathematics and philosophy (in which he did not
+			 graduate, as was the custom with arts students) before specialising in
+			 medicine. He became a Doctor of Medicine in 
+			 <date type="single" normal="1755">1755</date>.</p> 
+		  <p>In 
+			 <date type="appointmentdate" normal="1754">1754</date>, Monro was
+			 appointed as conjoint Professor of Anatomy and Surgery, along with his father.
+			 Monro was a popular lecturer - his post was granted after students of his
+			 father (for whom he occasionally lectured before he gained his own position)
+			 expressed their approval of his teaching. He eventually took over the full
+			 responsibilities and the title of Professor of Anatomy and Surgery. His skills
+			 encouraged growing numbers to attend his lectures, and attendance reached a
+			 peak of 436 in 
+			 <date type="single" normal="1783">1783</date>. Though Monro was an
+			 anatomist, not a surgeon, his jealousy made him block all attempts to establish
+			 a separate chair of surgery at the university.</p> 
+		  <p>Monro is notable for the medical records he kept (10,007 cases
+			 detailed in 33 volumes) and for his discovery of the Foramen of Monro, which
+			 links the lateral and third ventricles of the brain. This discovery was
+			 explained in his publication, <bibref><title>Observations on the Structure and
+			 Functions of the Nervous System</title></bibref>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Alexander Monro was the youngest son of Alexander Monro, his
+			 predecessor in the chair of Anatomy and Surgery at the University of Edinburgh.
+			 His own son, Alexander Monro, succeeded him in the chair of Anatomy and
+			 Surgery, and lectured, among other things, on the phrenology of serial killer
+			 Burke, whose body he had dissected.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable Publications:</p> 
+		  <p><bibref><title>The Structure and Physiology of Fishes Explained and
+			 Compared With Those of Man and Other Animals </title>, (<imprint> 
+			 <date type="publication" normal="1785"
+			 certainty="certain">1785</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Description of All the Bursae Mucosae of the Human
+			 Body; Their Structure Explained and Compared With That of the Capsular
+			 Ligaments of the Joints, and of Those Sacs which Line the Cavities of the
+			 Thorax and Abdomen: With Remarks on the Accidents and Diseases Which Affect
+			 Those Several Sacs, and on the Operations Necessary for their Cure.</title>, ( 
+			 <imprint> 
+			 <date type="publication" normal="1788"
+			 certainty="certain">1788</date>)</imprint></bibref></p> 
+		  <p><bibref><title>In Experiments on the Nervous System, With Opium and
+			 Metalline Substances; Made Chiefly With the View of Determining the Nature and
+			 Effects of Animal Electricity</title>, (<imprint> 
+			 <date type="publication" normal="1794"
+			 certainty="certain">1794</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Observations on the Muscles and Particularly on the
+			 Effects of their Oblique Fibres: With an Appendix, in Which the Pretension of
+			 Dr. Gilbert Blande, That He First Demonstrated the Same Effect to Be Produced
+			 by Oblique Muscles as by Straight Ones, With a Less Proportional Decurtation of
+			 Fibres is Proved to be Quite Unfounded</title>, (<imprint> 
+			 <date type="publication" normal="1797"
+			 certainty="certain">1797</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="chairdate" normal="1754">1754</date>: Appointed conjoint
+			 Professor of Anatomy and Surgery, University of Edinburgh</p> 
+		  <p><date type="single" normal="1755">1755</date>: Awarded Doctor of
+			 Medicine (MD), University of Edinburgh</p> 
+		  <p><date type="chairdate" normal="1758">1758</date>: Appointed Profesor
+			 of Anatomy and Surgery, University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1759">1759</date>: Elected
+			 Fellow, Royal College of Physicians in Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1760/1763">1760-1763</date>:
+			 Elected Joint Secretary, Philosophical Society of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1763">1763</date>: Elected
+			 President, Royal College of Physicians of Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1763/1783">1763-1783</date>:
+			 Elected Secretary, Royal Society of Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			 role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol IX</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1974"
+			  certainty="certain">1974</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 XIII</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1909"
+			  certainty="certain">1909</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Sheila
+			 Devlin-Thorp</persname>, <title render="italic">Scotland's Cultural Heritage,
+			 vol I</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Manpower Services Commision (STEP) and the University of
+				Edinburgh</publisher>, 
+			 <date type="publication" normal="1981"
+			 certainty="certain">1981</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020416">16 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

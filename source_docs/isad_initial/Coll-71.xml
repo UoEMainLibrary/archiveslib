@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-71"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237 Coll-71
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Certificates,
+			 Diplomas, etc of Principal William Robertson (1721-1793) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-71</unitid>
+		
+		<physloc>PC 2.1-9; PC 3.10-14 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Certificates, Diplomas, etc of
+		  Principal William Robertson (1721-1793) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1743-1783">1743-1783 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>14 items, 1
+		  pair spectacles (in 2 plan chest drawers). </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Principal of Edinburgh University and historian, Sir William
+		  Robertson, was born on 19 September 1721 at the manse in Borthwick, Midlothian,
+		  where his father was minister. He received his early education at the parish
+		  school in Borthwick and then at the Burgh School in Dalkeith. In the autumn of
+		  1733, Robertson entered the University of Edinburgh studying Arts and Divinity.
+		  After completion of his studies and earning his license to preach, he became
+		  minister of Gladsmuir in East Lothian in 1743. With the approach to Edinburgh
+		  of the Jacobite army in 1745, Robertson left his manse to offer his services,
+		  with some others, to Sir John Cope against the Rebellion. However, Cope
+		  declined to admit them. In 1746, Robertson was elected as member to the General
+		  Assembly of the Church of Scotland. This indicated steady advancement in his
+		  career. In 1753 he began work on a long writing project on the history of
+		  Scotland which culminated in his 
+		<title>History of Scotland </title> (1759). The work was a great success
+		and shortly before its publication he received the degree of Doctor of Divinity
+		from Edinburgh University. Shortly after publication of his work he was
+		successively appointed Chaplain of Stirling Castle and Chaplain Royal in 1759,
+		elected joint-minister of Greyfriars Church in Edinburgh in 1761, became
+		Principal of the University in 1762, and in 1764 was appointed Historiographer
+		Royal for Scotland. His next literary work was the 
+		<title>History of Charles V </title> (1769) which enhanced his reputation
+		in Europe and earned him praise from Voltaire and the Empress Catherine of
+		Russia. His last great work was the 
+		<title>History of America </title> (1777). His life was also filled by
+		his work with the affairs of the General Assembly and with those of Edinburgh
+		University. The initiative to rebuild the University - Old College - owed its
+		origins to the influence of Robertson. He had launched a public appeal which
+		won the support of successive Town Councils and Lords Provost, and he managed
+		to secure the services of the architect Robert Adam. In 1791, Robertson's
+		health began to decline and he died of jaundice on 11 June 1793 </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>Among a number of interesting certificates and diplomas, the
+		  collection includes Robertson's commission as Principal of the University,
+		  1762; his Royal appointment as Historiographer, 1763; a diploma of foreign
+		  membership of the St. Petersburg Academy of Sciences, 1783; and, his
+		  spectacles. The items are in vellum of various sizes, and often with paper or
+		  wax seals. </p> 
+	 </scopecontent> 
+	 <acqinfo encodinganalog="isad(g) 3.2.5./marc 541"> 
+		<p>Deposited in 1989 by Lt.-Commander David Robertson-Macdonald, April
+		  1989 and made a gift in 1992. </p> 
+	 </acqinfo> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Robertson</emph> <emph altrender="forename">William</emph>
+		  <emph altrender="dates">1721-1793</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Church of
+		  Scotland</emph> <emph altrender="x">General Assembly</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Greyfriars
+		  Church</emph> <emph altrender="z">Scotland</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Historians</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">History</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H71; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows at various shelfmarks letters of
+		  William Robertson to different individuals; and, accounts of his stipend at
+		  Gladsmuir. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

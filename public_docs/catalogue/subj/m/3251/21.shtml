@@ -1,0 +1,26 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Music History and criticism</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/m/">m</a><h1>Music History and criticism</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=3251&term=Music History and criticism" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1163&view=basic">Letter to Sir Donald Francis Tovey from John Alexander Fuller Maitland </a> (1930) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1973&view=basic">Letter to Sir Donald Francis Tovey from [G. N. Wintour] </a> (1931) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1950&view=basic">Letter to Sir Donald Francis Tovey from Paul Wittgenstrein </a> (1932) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1978&view=basic">Letter to Sir Donald Francis Tovey from Unknown </a> (1932) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1948&view=basic">Letter to Sir Donald Francis Tovey from Alberic Wynberg </a> (1933) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1872&view=basic">Letter to Sir Donald Francis Tovey from Alfred Weintraud </a> (1937) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1854&view=basic">Letter to Sir Donald Francis Tovey from W. M. Tso </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2209&view=basic">Postcard to Hubert James Foss from Henry Havergal </a> (1940) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2153&view=basic">Letter to Robert Calverley Trevelyan from Hubert James Foss </a> (1943) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2201&view=basic">Letter to Dr Mary Gardner Grierson from Bernard H. Haggin </a> (1952) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2740&view=basic">Postcard to Dr Mary Gardner Grierson from Unknown </a> (1952) Papers of Sir Donald Francis Tovey</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /home/lib/lacddt/archives/public_docs/us/.htpasswd
+Require valid-user

@@ -1,0 +1,21 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Museum Buildings</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/m/">m</a><h1>Museum Buildings</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2518&term=Museum Buildings" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-7-2-1&view=basic">Royal Scottish Museum plans </a> (1925-1927) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-7&view=basic">Plans of Chambers Street development, Edinburgh </a> (1925-1973) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-7-2&view=basic">Plans: Proposals for the new Museum of Scotland </a> (1925-1973) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-UOL-A-2-1&view=basic">"A sculpture museum on an Italian lake" </a> (1932) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-UOL-A-2&view=basic">Second year assignments </a> (1932-1933) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-7-2-2&view=basic">Plans for the proposed National Museum of Antiquities of Scotland and the Royal Scottish Museum extension, Chambers Street, Edinburgh </a> (1970) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-7-2-3&view=basic">Plans for the proposed National Museum of Antiquities of Scotland </a> (1970) The Percy Johnson-Marshall Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

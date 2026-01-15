@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0335" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0263 20020308 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0263</titleproper> 
+		  <subtitle>Gregory | James | 1638-1675 | professor of mathematics, St
+			 Andrews and Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+			 University Library Special Collections Division, 8 March 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020308">8 March 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0263</titleproper> 
+		<subtitle>Gregory | James | 1638-1675 | professor of mathematics, St
+		  Andrews and Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Duncan Fisher,</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020308">8 March 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0263"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0263</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0263" normal="Gregory, James">Gregory | James |
+		  1638-1675 | professor of mathematics, St Andrews and Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>James Gregorie (he favoured this Scottish spelling over 'Gregory')
+			 was born in Drumoak, near Aberdeen, Scotland, in 
+			 <date type="birth" normal="163811">November 1638</date>. His father
+			 having died young, he was sent by his older brother to Aberdeen to attend
+			 grammar school and then Marischal College. Their mother had taught her sons to
+			 love geometry, and everyone hoped that James in particular would developed his
+			 clear talent in mathematics, and also his growing interests in optics and
+			 astronomy. </p> 
+		  <p>The young graduate established a grown-up reputation in London in 
+			 <date type="single" normal="1663">1663</date>, with a digest of what
+			 he had learned thus far, the Optica Promota. It was unremarkable except for
+			 some very original thoughts on a compact reflecting telescope. Suddenly he had
+			 admirers in the scientific establishment. They included John Collins,
+			 accountant and science gossip, Robert Hooke, the Oxford physicist who
+			 eventually built the telescope, and Sir Robert Moray, Scots polymath and
+			 founding member of the Royal Society, who introduced him to as many influential
+			 men as he could. The telescope design also attracted the attention of a young
+			 man in Cambridge, one Isaac Newton, who was at work on a similar project of his
+			 own; Gregorie carried on much friendly correspondence with him later. </p> 
+		  <p>He bolstered his reputation in<date type="single"
+			 normal="1664">1664</date> by moving to Padua for a few years, for study under
+			 Stefano degli Angeli, pupil of Evangelista Torricelli (<date type="life-span"
+			 normal="1608/1647">1608-1647</date>). There he brought out two works of
+			 proto-calculus, the Vera circuli et hyperbolae quadratura and the Geometriae
+			 pars universalis. These, breathlessly reviewed by Collins, secured his
+			 admission to the Royal Society upon his return. He updated his colleagues, who
+			 were eager to hear, on continental science, and he entered the professional
+			 lists on his own, with an Exercitationes geometricae. These were meant as a
+			 sortie against Christian Huygens and Nicholas Mercator. </p> 
+		  <p>By 
+			 <date type="appointmentdate" normal="1669">1669</date> his prestige
+			 was great enough that Sir Robert could help find him a job. He arranged an
+			 appointment to the new chair of mathematics at St Andrews. Gregorie went,
+			 married a local widow, and settled into teaching basic maths and science. He
+			 found the post disappointingly provincial. Through Collins he kept
+			 corresponding with the scientific establishment, which continued to hold him in
+			 high esteem. Even Huygens, he learned, his erstwhile enemy, tried for a while
+			 to persuade Louis XIV to invite him to Paris on a stipend from the
+			 Acad&#x00C3;&#x00A9;mie des Sciences. </p> 
+		  <p>Indeed St Andrews was comparitively inward-looking. Not only could
+			 Gregorie not evangelize for higher mathematics, he was hindered in his plans
+			 for a formal astronomy programme, complete with an observatory. He had been
+			 known to go door-to-door to raise funds for this. However, in 
+			 <date type="publication" normal="1672">1672</date>, in exchange for
+			 contributing a little essay to a colleague's scurrilous book against a Glasgow
+			 rival, (the <bibref><title>Great and New Art of Weighing
+			 Vanity</title></bibref>), he was given the University's commission to proceed
+			 at last. Its grateful author, regent William Sanders, wrested it from a stoutly
+			 resistant faculty. Gregorie left for London in raptures in 
+			 <date type="single" normal="1673">1673</date>, meaning to caucus with
+			 astronomer John Flamsteed, to buy equipment, and to meet Newton if he could.
+			 </p> 
+		  <p>He had the misfortune to return to St Andrews after a student
+			 uprising. Young scholars had rebelled, sure enough, over the issue of
+			 antiquated curriculum. Regents resentful of Gregorie's established modishness
+			 now withheld his servants and salary, and debarred professional visits from
+			 colleagues. Gregorie was compelled by 
+			 <date type="appointmentdate" normal="1674">1674</date> to accept a
+			 new professorship of mathematics at Edinburgh. There, at last, he had money and
+			 encouragement, and he was not denied contact with colleagues. Sadly, he was
+			 felled by a stroke in October of the very next year, at the age of 37, and was
+			 dead a few days later. It was fitting at least that he was stricken before a
+			 telescope, showing the moons of Jupiter to enthusiastic students. </p> 
+		  <p>Denied by geography much knowledge of the parallel mathematical work
+			 in Britain and abroad, James Gregorie nevertheless discovered for himself the
+			 general interpolation and biomial theorems, derived a number of trigonometric
+			 series, notably for the natural and logarithmic tangent and secant, and found a
+			 series solution to a problem posed by Kepler, employing 20 years before Newton
+			 a Taylor development of a function in terms of its nth order derivatives. In
+			 applied science, in dynamics in particular, he bridged Galieleo's Discorsi and
+			 Newton's Principia, proposing solutions to dozens of astronomical problems,
+			 ranging from planetary ellipses to designing the 'catadioptric' telescope of
+			 mirrors and lenses. Much of the correspondence from his short career is lost to
+			 us, and he was reluctant to publish. But all evidence suggests that James
+			 Gregorie was a weightier figure than tradition has allowed. Newton, in
+			 particular, almost certainly owes him more than anyone has yet recognized. </p>
+		  
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>John Collins (<date type="life-span"
+			 normal="1625/1683">1625-1683</date>), maths teacher, book seller, and
+			 accountant, collected and disseminated scientific news zealously, a friendly
+			 register of all the latest developments. He was famously encouraging of young
+			 mathematicians like Gregorie. Christian (or Christiaan) Huygens (<date
+			 type="life-span" normal="1629/1695">1629-1695</date>), the formidable Fleming,
+			 was famous by James Gregorie's scientific coming-of-age for his work in the
+			 early calculus, statics, and practical astronomy, and above all, for inventing
+			 the pendulum clock. Sir Robert Moray, or Murray, or Murrey (<date
+			 type="life-span" normal="1603/1678" certainty="uncertain">c1608-1673</date>),
+			 was a professional diplomat, friendly with Richelieu, Mazarin, and Charles II.
+			 His avocational interest in chemistry made him a formidable lobbyist for
+			 scientific enterprises like the Royal Society. Gregorie probably never met Sir
+			 Isaac Newton (<date type="life-span" normal="1642/1727">1642-1727</date>) in
+			 person. Stefano degli Angeli (<date type="life-span"
+			 normal="1623/1697">1623-1697</date>) was a Bologna-trained statics expert. He
+			 was also a priest, in which capacity he remained even while occupying the chair
+			 in mathematics in Padua. Nicholas Mercator (<date type="life-span"
+			 normal="1615/1692" certainty="uncertain">c1620-1687</date>), was England's
+			 German-born expert on logarithms, and the designer of the fountains at
+			 Versailles. John Flamsteed (<date type="life-span"
+			 normal="1646/1719">1646-1719</date>), not appointed astronomer royal until 
+			 <date type="appointmentdate" normal="1675">1675</date>, was still
+			 teaching himself the art, enrolled as a non-resident student in Cambridge. When
+			 James Gregorie went to see him, Sir Jonas Moore, Master of the Royal Ordnance,
+			 was about to propose that Flamsteed be installed in an observatory at Chelsea
+			 College. Nephew David Gregory (<date type="life-span"
+			 normal="1659/1708">1659-1708</date>), who favoured this English spelling of the
+			 family name, sat eventually in the maths chair at Edinburgh and then the
+			 Savilian chair of astronomy in Oxford, but was still a student in Marischal
+			 College when his Uncle James died. </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p><bibref><title> Optica Promota, Seu Abdita Radiorum Reflexorum &amp;
+			 Refractorum Mysteria, Geometrica Enucleata; cui Subnectitur Appendix,
+			 Subtilissimorum Astronomiae Problemata in Resolutionem Exhibens</title>, ( 
+			 <imprint>London,<date type="publication" normal="1663"
+			 certainty="certain">1663</date>)</imprint></bibref></p> 
+		  <p><bibref><title> Vera Circuli et Hyperbolae Quadratura, in Propria
+			 Sua Proportionis Specie, Inventa &amp; Demonstrata</title>, ( 
+			 <imprint>Padua,<date type="publication" normal="1667"
+			 certainty="certain">1667</date>)</imprint></bibref></p> 
+		  <p><bibref><title> Geometriae pars Universalis, Inserviens Quantitatum
+			 Curvarum Transmutatationi &amp; Mensurae</title>, ( <imprint>Padua,<date
+			 type="publication" normal="1668"
+			 certainty="certain">1668</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Exercitationes Geometricae</title>, ( 
+			 <imprint>London,<date type="publication" normal="1668"
+			 certainty="certain">1668</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1668">1668</date>: Elected
+			 member, the Royal Society of London</p> 
+		  <p><date type="appointmentdate" normal="1669">1669</date>: Appointed
+			 Professor of Mathematics, University of St Andrews</p> 
+		  <p><date type="appointmentdate" normal="1674">1674</date>: Appointed
+			 Professor of Mathematics, University of Edinburgh </p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Gillespie, CC "
+			 role="editor">Gillespie, CC, ed</persname>, <title>Dictionary of Scientific
+			 Biography</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="New York">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970/1990"
+			  certainty="certain">1970-1990</date>)</imprint>, s.v. "Gregory, James" by
+			 <persname normal="Whiteside, DT" role="author">DT Whiteside</persname></bibref>
+			 </p> 
+		  <p><bibref><persname source="ncarules"
+			 normal="Turnbull, Herbert Westren" role="author">Turnbull, Herbert
+			 Westren</persname>, <title>James Gregory. Tercentenary Memorial Volume</title>,
+			 (<imprint>London, for the Royal Society of Edinburgh 
+			 <publisher>G Bell &amp; Sons Ltd</publisher>, 
+			 <date type="publication" normal="1939"
+			  certainty="certain">1939</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Fisher, Duncan" role="researcher">Duncan Fisher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020308">08 March
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

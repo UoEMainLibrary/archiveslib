@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4590</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-03-16">20 March 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Aimee Shaw</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>updated</eventType>
+                <eventDateTime>2 May 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>30 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Isle of Skye</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 114/01 009/00 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1866 114/01 0004</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW112/58</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4590</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacDonald</part>
+                <part localType="given">Angus</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Farmer, Portree, Isle of Skye</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1766" notAfter="1771" notBefore="1761">c1766</fromDate>
+                    <toDate standardDate="1866-02-23">23 February 1866</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Angus, or Alasdair, MacDonald was the son of Donald MacDonald, farmer, and
+                    Catherine MacDonald née Martin. </p>
+                <p>He died of infrimity and old age at the age of 99 and his daughter Catherine
+                    MacDonald signed the certificate.</p>
+                <chronList>
+                    <chronItem><date notAfter="1771" notBefore="1761" standardDate="1766"
+                            >c1766</date><placeEntry>Portree Isle of
+                            Skye</placeEntry><event>birth</event></chronItem>
+                    <chronItem>
+                        <date standardDate="1866-02-23">23 February 1866</date>
+                        <placeEntry>Portree, Isle of Skye</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

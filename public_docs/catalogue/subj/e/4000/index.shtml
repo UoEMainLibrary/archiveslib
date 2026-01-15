@@ -1,0 +1,21 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Exiles</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/e/">e</a><h1>Exiles</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=4000&term=Exiles" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-13&view=basic">Song entitled 'Laoi Chlann Uisne' and accompanying note </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-14&view=basic">Story entitled 'Each-drai Chlann Uisne' </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-97&view=basic">Story about Sir Seumas Ruadh and Am Morar Ban </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-218&view=basic">Song beginning 'An uair bhios an cruai seo uaim' </a> (1884) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-55&view=basic">Story about dissection and Prince Sobieski of Poland </a> (1886) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-3&view=basic">Story entitled 'Iain Lom' </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-1&view=basic">Story entitled 'Burns' </a> (1892) The Carmichael Watson Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

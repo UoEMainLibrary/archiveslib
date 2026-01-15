@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0786 20020227 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0786</titleproper> 
+		  <subtitle>Bradley | Orlando Charnock | 1871-1937 | lecturer, University
+			 of Edinburgh and principal, Royal Dick Veterinary College</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 27 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020227">27 February 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0786</titleproper> 
+		<subtitle>Bradley | Orlando Charnock | 1871-1937 | lecturer, University
+		  of Edinburgh and principal, Royal Dick Veterinary College</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+		  University Library Special Collections Division, 27 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020227">27 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0786"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0786</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0786"
+		 normal="Bradley, Orlando Charnock">Bradley | Orlando Charnock | 1871-1937 |
+		  lecturer, University of Edinburgh and principal, Royal Dick Veterinary
+		  College</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Orlando Charnock Bradley attended the Harris Institute in Preston
+			 where he studied chemistry, animal physiology and botany, before entering the
+			 New Veterinary College, Edinburgh, which had been set up in 
+			 <date normal="1873" type="single">1873</date> by William Williams, a
+			 former Professor and Principal of the Dick College. Bradley graduated MRCVS
+			 (Member of the Royal College of Veterinary Surgeons) in 
+			 <date normal="1892" type="single">1892</date>, and was appointed to
+			 the post of lecturer in comparative anatomy, and put in charge of the College
+			 Hospital. At this time he wrote a paper on the treatment of intestinal tympany
+			 in the horse, which revealed his keen observation for detail, which he was to
+			 develop significantly over the years.</p> 
+		  <p>It seems that Bradley entered Edinburgh Medical School not out of an
+			 intense interest in clinical veterinary medicine, but more to increase his
+			 knowledge of comparative anatomy, which he studied under Sir William Turner
+			 (<date normal="1832/1916" type="life-span">1832-1916</date>). In 
+			 <date normal="1900" type="single">1900</date> he obtained his MB
+			 (Bachelor of Medicine), ChB (Bachelor of Surgery), and commenced research on
+			 mammalian anatomy. Bradley was appointed the Goodsir Memorial Fellow at the
+			 University of Edinburgh from 
+			 <date normal="1903/1905" type="appointmentspan">1903-1905</date>, and
+			 in 
+			 <date normal="1905" type="single">1905</date> he was awarded the
+			 degree of Doctor of Science for his thesis on the Development and Morphology of
+			 the Mammalian Hind-Brain. Two years later he was awarded a doctorate in
+			 medicine for his research into the development of the mammalian liver.</p> 
+		  <p>The period 
+			 <date normal="1893/1908" type="inclusive">1893-1908</date> was a
+			 highly productive literary period, with forty-seven original scientific
+			 publications to his name, mainly on anatomical, genetical and historical
+			 subjects. Bradley wrote a number of textbooks on veterinary science that have
+			 proved invaluable to students through the years, and he was also the founder
+			 and editor of the <bibref><title>Veterinary Review</title></bibref> from 
+			 <date normal="1917/1920" type="inclusive">1917-1920</date>, which was
+			 set up to offer information about the current available veterinary literature.
+			 In 
+			 <date normal="1900" type="appointmentdate">1900</date> he was elected
+			 to the Chair of Anatomy in the Royal (Dick) Veterinary College and to the
+			 Principalship of the College in 
+			 <date normal="1911" type="appointmentdate">1911</date>, in which year
+			 he was also offered the post of Barclay and Goodsir Lecturer in Comparative
+			 Anatomy in the University of Edinburgh. Bradley was officially elected to the
+			 Council of the Royal College of Veterinary Surgeons in 
+			 <date normal="1911" type="appointmentdate">1911</date>; being
+			 rewarded for his wisdom with the post of Vice-preident in 
+			 <date normal="1912" type="appointmentdate">1912</date> and then
+			 finally promoted to the post of President of Council from 
+			 <date normal="1920/1922" type="appointmentspan">1920-1922</date>.
+			 </p> 
+		  <p>Back in 
+			 <date normal="1909" type="single">1909</date> he had outlined his
+			 vision to unite all of the many veterinary societies scattered around the
+			 country into one national association. The following year a steering group was
+			 set up under his direction to investigate the possibility of setting up the
+			 scheme, the results of which came to fruition in 
+			 <date normal="1914" type="single">1914</date>, with the formation of
+			 the National Veterinary Medical Association of Great Britain and Ireland. It
+			 was no surprise then when Bradley was chosen to be the Association's first
+			 Director, a position he held until 
+			 <date normal="1922" type="single">1922</date>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>no information available</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Outlines of Veterinary Anatomy</title>, ( 
+			 <imprint><date type="publication" normal="1896/1897"
+			 certainty="certain">1896-1897</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Structure of the Fowl, 1st edition</title>, ( 
+			 <imprint><date type="publication" normal="1915"
+			 certainty="certain">1915</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Topographical Anatomy of the Dog, 1st
+			 edition</title>, (<imprint><date type="publication" normal="1919"
+			 certainty="certain">1919</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Topographical Anatomy of the Limbs of the
+			 Horse</title>, ( <imprint><date type="publication" normal="1920"
+			 certainty="certain">1920</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Topographical Anatomy of The Thorax and Abdomen of
+			 the Horse</title>, ( <imprint><date type="publication" normal="1922"
+			 certainty="certain">1922</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Topographical Anatomy of The Head and Neck of the
+			 Horse</title>, ( <imprint><date type="publication" normal="1923"
+			 certainty="certain">1923</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The History of the Edinburgh Veterinary
+			 College</title>, ( <imprint><date type="publication" normal="1923"
+			 certainty="certain">1923</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1893">1893</date>: Elected
+			 Fellow, Royal Physical Society, Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1893">1893</date>: Elected
+			 Fellow, Royal Society, Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1903/1911">1903-1911</date>:
+			 Appointed Secretary, Royal Physical Society, Edinburgh</p> 
+		  <p><date type="single" normal="1908">1908</date>: Awarded John Henry
+			 Steel memorial medal, Royal College of Veterinary Surgeons</p> 
+		  <p><date type="appointmentspan" normal="1912/1915">1912-1915</date>:
+			 Appointed President, Royal Physical Society, Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1914/1922">1914-1922</date>:
+			 Appointed President, National Veterinary Medical Association of Great Britain
+			 and Ireland</p> 
+		  <p><date type="appointmentspan" normal="1934/1937">1934-1937</date>:
+			 Appointed Vice-President, Royal Society, Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1935">1935</date>: Elected
+			 Honorary Fellow, Royal College of Veterinary Surgeons</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref> <corpname normal="Royal Society of Edinburgh">Royal
+			 Society of Edinburgh</corpname>, <title render="italic">Proceedings of the
+			 Royal Society of Edinburgh, vol 58, Obituary Notices: Orlando Charnock
+			 Bradley</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Royal Society of Edinburgh</publisher>, 
+			 <date type="publication" normal="1937/1938"
+			 certainty="certain">1937-1938</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Burnett, John H" role="author">Burnett,
+			 John H</persname>, <title render="italic">University Portraits II, Orlando
+			 Charnock Bradley</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Eyre &amp; Spottiswoode</publisher>, 
+			 <date type="publication" normal="1986"
+			 certainty="certain">1986</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Williams, TI" role="editor">Williams,
+			 Trevor, I</persname>and
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor"> Lee,
+			 Sidney</persname>(eds), <title render="italic">Dictionary of National
+			 Biography, vol x</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			 certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Withers, Charles WJ" role="editor">Withers,
+			 Charles WJ</persname>, <title render="italic">The Rev. Dr. John Walker and the
+			 Practice of Natural History in the Late Eighteenth-Century Scoltland</title>, (
+			 <imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Archives of Natural History, vol 18</publisher>, 
+			 <date type="publication" normal="1991"
+			 certainty="certain">1991</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Who Was Who 1929-1940</title>, ( <imprint><geogname
+			 source="lcsh" authfilenumber="499" normal="Great Britain">Great
+			 Britain</geogname>, 
+			 <publisher>A and C Black Ltd</publisher>, 
+			 <date type="publication"
+			 normal="1941">1941</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020227">27 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

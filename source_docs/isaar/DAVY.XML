@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-P0175 20020515 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 P0175</titleproper> 
+		  <subtitle>Davy | Sir | Humphry | 1778-1829 | natural
+			 philosopher</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 15 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020515">15 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 P0175</titleproper> 
+		<subtitle>Davy | Sir | Humphry | 1778-1829 | natural
+		  philosopher</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 15 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020515">15 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0175"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0175</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0175" normal="Davy, Sir, Humphrey">Davy | Sir |
+		  Humphry | 1778-1829 | natural philosopher</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir Humphry Davy (<date type="life-span"
+			 normal="1778/1829">1778-1829</date>) is primarily remembered for his invention
+			 of the miner's safety lamp. However, his main body of work was carried out in
+			 his role as a chemist. He was also involved in the field of medicine in the
+			 early years of his career.</p> 
+		  <p>Davy showed signs of brilliance from a young age. As a child, he is
+			 known to have developed the interest in the world that persisted for his entire
+			 life. He considered becoming a poet, though he abandoned his literature for
+			 science aged 19. In his early 20s, Davy became friends with Davies Giddy, later
+			 Gilbert (<date normal="1767/1839" type="life-span">1767-1839</date>), who was
+			 to become president of the Royal Society. Davy was able to use Giddy's
+			 laboratory to carry out experiments on nitrous oxide (laughing gas) - which he
+			 inhaled in order to test the theory that it was the "principle of contagion".
+			 On Gilbert's recommendation, Davy was appointed to the Medical Pneumatic
+			 Institution in order to continue his experiments into the medical uses of
+			 various gases. He nearly died during one experiment while inhaling carburetted
+			 hydrogen gas.</p> 
+		  <p>His discoveries relating to the chemical effects of electricity won
+			 him an invitation to France from Napoleon Bonaparte (<date type="life-span"
+			 normal="1769/1821">1769-1821</date>), to be presented with the emperor's prize
+			 at the Institut de France in 
+			 <date type="single" normal="1806">1806</date>, despite the state of
+			 war that existed between Britain and France at the time. During this trip to
+			 the continent, Davy investigated iodine (and its similarity to chlorine) and
+			 proved that diamond is a form of carbon. His investigations into electrolysis
+			 led directly to his discovery, a year later, of sodium and potassium, which he
+			 electrolysed from soda and potash. With other techniques, he also isolated a
+			 number of other metals for the first time.</p> 
+		  <p>In other work, Davy proved that chlorine was an element (many
+			 considered it to be a compound containing oxygen), and disproved therefore the
+			 oxygen theory of acids. He (correctly) suggested that all acids contain
+			 hydrogen. Davy also invented a form of sacrificial protection for the navy's
+			 copper ships that was eventually dropped, because it worked too well: the
+			 copper remained free of oxidisation, allowing for the vessels' hulls to be be
+			 colonised by shellfish.</p> 
+		  <p>Davy's safety lamp for miners is the invention or discovery that is
+			 most associated with his name. He had been asked to investigate "fire-damp"
+			 (methane gas) explosions in coal mines, caused by the candles miners used as
+			 lighting. Davy's solution to the problem was both simple and elegant: he
+			 surrounded the flame of the candle with wire gauze, allowing the light to get
+			 out, and, crucially, allowing the gas that entered the lamp to explode without
+			 the explosion spreading outside the lamp: the lamp cooled the explosion down by
+			 dissipating the heat into the gauze, reducing the temperature to below the
+			 level at which the surrounding gas could explode. This invention, which Davy
+			 never patented, saved many miners' lives.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Sir Humphry Davy discovered the talents of Michael Faraday (<date
+			 type="life-span" normal="1791/1867">1791-1867</date>), though the two men
+			 eventually fell out.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>West-Country Collections</title></bibref></p> 
+		  <p><bibref><title>Researches, Chemical and Philosophical, chiefly
+			 concerning Nitrous Oxide and its Respiration</title>, (<imprint><date
+			 type="publication" normal="1799"
+			 certainty="certain">1799</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1798">1798</date>: Appointed
+			 Chemical Superintendent of the Medical Pneumatic Institution</p> 
+		  <p><date type="appointmentdate" normal="1801">1801</date>: Appointed
+			 Assistant Lecturer in Chemistry, Director of the Chemical Laboratory and
+			 Assistant Editor of the Journals of the Institution, Royal Institution</p> 
+		  <p><date type="appointmentdate" normal="1803">1803</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="single" normal="1805">1805</date>: Awarded Copley Medal
+			 of the Royal Society</p> 
+		  <p><date type="single" normal="1806">1806</date>: Awarded Napoleon
+			 Prize, Institut de France</p> 
+		  <p><date type="single" normal="1811">1811</date>: Awarded honorary
+			 Doctor of Laws (LLD) degree, Trinity College, Dublin</p> 
+		  <p><date type="single" normal="1812">1812</date>: Awarded
+			 Knighthood</p> 
+		  <p><date type="single" normal="1818">1818</date>: Awarded Baronetcy</p>
+		  
+		  <p><date type="appointmentdate" normal="1820">1820</date>: Elected
+			 Predsident of the Royal Society</p> 
+		  <p><date type="single" normal="1826">1826</date>: Awarded Royal Medal
+			 of the Royal Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Concise Dictionary of National Biography</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="532"
+			 normal="London (England)">London (England)</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			 certainty="certain">1992</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 V</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			 certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Encyclopaedia Britannica</title>,
+			 (<imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			 normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			 certainty="certain">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020515">15 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

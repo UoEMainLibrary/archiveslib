@@ -1,0 +1,950 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 1.0)//EN" "file:///../ead/ead.dtd">
+<ead> 
+  <eadheader findaidstatus="edited-full-draft"> 
+	 <eadid source="GB 0237" type="FPI">"-//Edinburgh University Archives ::
+		Finding Aids//DOCUMENT GB-0237-EUA-DCPE-OSA 20010615//EN"</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Records of Dunfermline College of Physical Education Old
+			 Students Association</titleproper> 
+		  <subtitle>DCPE Old Students Association</subtitle> 
+		  <author>Creator of original finding aid unknown.</author> 
+		</titlestmt> 
+		<editionstmt> 
+		  <edition>First edition</edition> 
+		</editionstmt> 
+		<publicationstmt> 
+		  <publisher>Glasgow University Archive Services on behalf of GASHE
+			 project. </publisher> 
+		  <address> 
+			 <addressline>77-87 Dumbarton Road </addressline> 
+			 <addressline>Glasgow </addressline> 
+			 <addressline>Scotland </addressline> 
+			 <addressline>G11 6PW </addressline> 
+			 <addressline>United Kingdom </addressline> 
+		  </address> 
+		  <date type="publication" certainty="certain" normal="2002-10">October
+			 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation encodinganalog="isadg(2)373">Rachel Hosker, GASHE project
+		  archivist (Edinburgh), 21 March 2001, as part of the Research Support Libraries
+		  Programme funded project &apos;Gateway to Archives of Scottish Higher
+		  Education&apos;.<lb/>The finding aid was XML encoded by Andrew Semple,
+		  Administration Assistant,15 June 2001, using a template developed by Lynda
+		  Smart, Assistant Archivist using XMetal Version 2.0. <lb/>The correspondences
+		  between the ISAD(G) elements and the EAD element types, and between EAD element
+		  types and MARC fields, were adapted by Pete Johnston, Glasgow University
+		  Archive Services, and Paul Watry and Julie Allinson, Liverpool University,
+		  Department of Special Collections and Archives, from those recommended in the 
+		  <bibref> 
+			 <title>EAD Application Guidelines Version 1.0</title></bibref>.
+		  <lb/>Amendments were made by Lynda Smart, Assistant Archivist, Glasgow
+		  Unversity Archive Services to update the correspondences between the EAD and
+		  ISAD(G) elements so the EAD elements correspond to ISAD(G) Second
+		  Edition.</creation> 
+		<langusage>The finding aid was encoded in English.</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No amendments to date.</item> 
+		</list> 
+	 </revisiondesc> 
+  </eadheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB-0237-EUA-DCPEOSA<lb/>Records of Dunfermline College of
+		  Physical Education Old Students Association</titleproper> 
+		<author>Compiled by Rachel Hosker, GASHE project archivist, 21 March
+		  2001.</author> 
+		<publisher>Glasgow University Archive Services</publisher> 
+		<date type="publication" certainty="certain" normal="2002-10">October
+		  2002</date>
+	 </titlepage> 
+  </frontmatter> 
+  <archdesc level="fonds" langmaterial="eng" type="inventory"
+	audience="external" id="GB-0237-EUA-DCPEOSA"> 
+	 <did> 
+		<head>Identity</head> 
+		<unitid repositorycode="0237" encodinganalog="isadg(2)311"
+		 label="Reference Code(s)" countrycode="GB">GB 0237 EUA DCPEOSA</unitid> 
+		<unittitle encodinganalog="isadg(2)312" label="Title">Records of
+		  Dunfermline College of Physical Education Old Students Association</unittitle> 
+		<unitdate type="inclusive" encodinganalog="isadg(2)313"
+		 label="Date(s)" certainty="certain" normal="1912/1995">1912-1995</unitdate> 
+		<physdesc label="Extent and Medium of the unit of description "
+		 encodinganalog="isadg(2)315">
+		  <extent encodinganalog="isadg(2)315" unit="metres">23 items</extent>
+		  </physdesc> 
+		<physdesc label="Physical characteristics and technical requirements"
+		 encodinganalog="isadg(2)344"> <physfacet encodinganalog="isadg(2)344">Access to
+		  records in a fragile condition may be restricted</physfacet></physdesc> 
+		<repository label="Repository" audience="external"
+		 encodinganalog="NAHSTE31"> 
+		  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+			normal="Edinburgh University Library Special Collections Division"
+			source="ncarules">Edinburgh University Library Special Collections
+			 Division</corpname></repository> 
+		<origination encodinganalog="isadg(2)321"
+		 label="Name of Creator(s)">
+		  <corpname
+			normal="Dunfermline College of Physical Education Old Students Association"
+			authfilenumber="C1334" source="ncarules"> Dunfermline College of Physical
+			 Education Old Students Association</corpname></origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322" audience="external">
+		<head>Administrative History</head> 
+		<p>The Old Students Association met at least once a year and dealt with
+		  the annual report, the secretary's report, the treasurer's report, membership,
+		  yearly record of membership, life membership, committee membership, finances,
+		  fees, the establishment of colour awards and discussion of training at the
+		  college.</p> 
+	 </bioghist>
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and content</head> 
+		<p>Records of the Governing Body including minutes 1912-1993,
+		  correspondence/papers 1931-1992, annual reports 1907-1995.</p>
+	 </scopecontent> 
+	 <arrangement encodinganalog="isadg(2)334"> 
+		<head>System of arrangement</head> 
+		<p>Arranged chronologically in series.</p> 
+	 </arrangement> 
+	 <admininfo> 
+		<head>Administrative Information</head> 
+		<custodhist encodinganalog="isadg(2)323"> 
+		  <head>Archival history</head> 
+		  <p>These records have never left the custody of the University. First
+			 Transfers of records to the University Archives and Special Collections
+			 Division occurred before formal accessioning procedures were put in place.</p> 
+		</custodhist> 
+		<appraisal encodinganalog="isadg(2)332"> 
+		  <head>Appraisal, destruction and scheduling information</head> 
+		  <p> These records are for permanent retention.</p> 
+		</appraisal> 
+		<accruals encodinganalog="isadg(2)333"> 
+		  <head>Accruals</head> 
+		  <p>Expected</p> 
+		</accruals> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions governing access</head> 
+		  <p>By appointment - access to recent official records and records
+			 containing confidential information is restricted in accordance with University
+			 policies and relevant legislation.</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="isadg(2)342"> 
+		  <head>Conditions governing reproduction</head> 
+		  <p>Usual Conditions: educational use and conditions of documents.</p>
+		  <p> Applications for permission to reproduce images or quote should be
+			 sent to Edinburgh University Archivist.</p> 
+		</userestrict> 
+		<admininfo encodinganalog="isadg(2)343" audience="external"> 
+		  <head>Language of material</head> 
+		  <p>English</p> 
+		</admininfo> 
+		<altformavail encodinganalog="isadg(2)352"> 
+		  <head>Existence and location of copies</head> 
+		  <p>No known copies</p> 
+		</altformavail> 
+	 </admininfo> 
+	 <add> 
+		<head>Additional Descriptive Data</head> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Finding aids</head> 
+		  <p>File list in custody of Edinburgh University Archivist.</p> 
+		</otherfindaid> 
+		<add encodinganalog="isadg(2)351"> 
+		  <head>Existence and location of originals</head> 
+		  <p>This material is original. </p> 
+		</add> 
+	 </add> 
+	 <odd> 
+		<head>Notes</head> 
+		<odd encodinganalog="isadg(2)372"> 
+		  <head>Rules and Conventions</head> 
+		  <p>Description compiled in line with the following international
+			 standards: 
+			 <corpname>International Council on Archives Committee on Descriptive
+				Standards</corpname>, 
+			 <bibref> 
+				<title>General International Standard Archival Description</title> 
+				<edition>Second Edition</edition><imprint> 
+				<geogname>Ottawa</geogname> 
+				<date normal="2000" certainty="certain"
+				 type="publication">2000</date></imprint></bibref>and 
+			 <bibref> 
+				<corpname>National Council on Archives</corpname>, 
+				<title>Rules for the contstruction of personal, place and corporate
+				  names</title><imprint> 
+				<date type="publication" normal="1997"
+				 certainty="certain">1997</date></imprint></bibref> 
+			 <bibref>
+				<persname role="author"></persname> 
+				<title>International Standard for Archival Authority Record for
+				  Corporate, Place, Family</title> British </bibref> 
+			 <bibref> 
+				<title>UNESCO Thesaurus</title></bibref> 
+			 <bibref>Education Thesaurus</bibref></p> 
+		  <p>The creation of this description was assisted by funding from the
+			 Research Support Libraries Programme.</p> 
+		</odd> 
+		<odd encodinganalog="isadg(2)361"> 
+		  <head>Note</head> 
+		  <note encodinganalog="isadg(2)361"> 
+			 <p>Scotland is the location of all place names in the
+				administrative/biographical history element, unless otherwise stated. </p> 
+		  </note> 
+		</odd> 
+		<odd audience="internal" encodinganalog="isadg(2)371"> 
+		  <head>Archivist&apos;s notes (private)</head> 
+		  <p audience="internal">None</p> 
+		</odd> 
+		<odd encodinganalog="isadg(2)373" audience="external"> 
+		  <head>Date(s) of Descriptions</head> 
+		  <p> Fonds level description compiled by Rachel Hosker, GASHE project
+			 archivist,<date type="single" normal="2001-03-21" certainty="certain"> 21 March
+				2001</date>.</p> 
+		  <p>Amended by Victoria Peters, GASHE project manager, 
+			 <date audience="external" type="single"
+			  normal="2002-10-16" certainty="certain">16 October 2002</date>.</p>
+		</odd> 
+	 </odd> 
+	 <controlaccess audience="external" encodinganalog="GASHE38"> 
+		<head>Controlled Access Terms</head> 
+		<controlaccess encodinganalog="GASHE383">
+		  <head>Corporate Names</head> 
+		  <p>
+			 <corpname source="ncarules"
+			  normal="Dunfermline College of Physical Education Old Students Association"
+			  authfilenumber="C1334">Dunfermline College of Physical Education Old Students
+				Association</corpname></p> 
+		</controlaccess> 
+		<controlaccess encodinganalog="GASHE381"> 
+		  <head>Subjects</head> 
+		  <p> 
+			 <subject source="othersource"
+			  othersource="british education thesaurus" authfilenumber="S0354"
+			  normal="Alumni">Alumni</subject></p>
+		  <p> 
+			 <subject source="othersource"
+			  othersource="british education thesaurus" authfilenumber="S0355"
+			  normal="Governing bodies">Governing bodies</subject></p>
+		  <p> 
+			 <subject source="othersource"
+			  othersource="british education thesaurus" authfilenumber="S0356"
+			  normal="Organizations">Organizations</subject></p>
+		  <p> 
+			 <subject source="othersource" othersource="unesco"
+			  authfilenumber="S0243" normal="Physical education">Physical
+				education</subject></p> 
+		  <p> 
+			 <subject source="othersource" othersource="unesco"
+			  authfilenumber="S0069" normal="Womens education">Womens education</subject></p>
+		  
+		</controlaccess> 
+		<controlaccess encodinganalog="GASHE384"> 
+		  <head>Place Names</head> 
+		  <p> 
+			 <geogname source="ncarules" normal="Edinburgh, Scotland"
+			  authfilenumber="G0111">Edinburgh, Scotland</geogname></p> 
+		</controlaccess> 
+	 </controlaccess>
+	 <dsc type="combined"> 
+		<c audience="external" level="series" id="GB-0237-EUA-DCPE-OSA-1-1"
+		 langmaterial="EN">
+		  <did> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="GASHE31">
+				<corpname authfilenumber="GB 0237"
+				 normal="Edinburgh University Archives" source="ncarules">Edinburgh University
+				  Archives</corpname></repository> 
+			 <unitid label="Reference Code" audience="external"
+			  encodinganalog="isadg(2)311" countrycode="GB" repositorycode="0237">GB
+				0237 EUA DCPE OSA 1/1</unitid> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Minutes and related papers</unittitle><unitdate
+			 label="Date(s)" encodinganalog="isadg(2)313"
+			 type="inclusive" certainty="certain" normal="1912/1993"
+			 audience="external">1912-1993</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external"><extent
+				audience="external">6 </extent><genreform>items</genreform></physdesc> 
+			 <physdesc label="Physical Characteristics and Technical Requirements"
+			  encodinganalog="isadg(2)344" audience="external"><physfacet
+				audience="external">Access to records in a fragile condition may be
+				restricted</physfacet></physdesc> 
+			 <origination label="Name of Creator(s)"
+			  encodinganalog="isadg(2)321" audience="external"> 
+				<corpname>Dunfermline College of Physical Education Old Students
+				  Association</corpname></origination>
+		  </did>
+		  <odd audience="internal" encodinganalog="GASHE36">
+			 <head>Institution</head> 
+			 <p>Dunfermline College of Physical Education Old Students
+				Association</p>
+		  </odd> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331">
+			 <head>Scope and Content</head> 
+			 <p>Minutes and related correspondence of meetings of the Old Students
+				Association including minutes of annual general meetings, extraordinary
+				meetings and committee meetings.</p> 
+		  </scopecontent> 
+		  <arrangement audience="external" encodinganalog="isadg(2)334">
+			 <head>System of Arrangement</head> 
+			 <p>Arranged chronologically in series.</p> 
+		  </arrangement> 
+		  <admininfo> 
+			 <head>Administrative Information</head> 
+			 <custodhist encodinganalog="isadg(2)323"> 
+				<head>Archival history</head> 
+				<p>The records have never left the custody of the University. The
+				  first transfers of records to the University Archives/ Special Collections
+				  division occurred before formal accessioning procedures were put in place.</p> 
+			 </custodhist> 
+			 <appraisal encodinganalog="isadg(2)332"> 
+				<head>Appraisal, destruction and scheduling information</head> 
+				<p> These records are for permanent retention.</p> 
+			 </appraisal> 
+			 <accruals encodinganalog="isadg(2)333"> 
+				<head>Accruals</head> 
+				<p>Expected</p> 
+			 </accruals> 
+			 <accessrestrict encodinganalog="isadg(2)341"> 
+				<head>Conditions governing access</head> 
+				<p>By appointment - access to recent official records and records
+				  containing confidential information is restricted in accordance with University
+				  policies and relevant legislation.</p> 
+			 </accessrestrict> 
+			 <userestrict encodinganalog="isadg(2)342"> 
+				<head>Conditions governing reproduction</head> 
+				<p>Usual Conditions: educational use and conditions of documents.
+				  </p>
+				<p>Applications for permission to reproduce images or quote should
+				  be sent to Edinburgh University Archivist.</p> 
+			 </userestrict> 
+			 <admininfo encodinganalog="isadg(2)343" audience="external"> 
+				<head>Language of material</head> 
+				<p>English</p> 
+			 </admininfo> 
+			 <altformavail encodinganalog="isadg(2)352"> 
+				<head>Existence and location of copies</head> 
+				<p>No known copies</p> 
+			 </altformavail> 
+		  </admininfo> 
+		  <add> 
+			 <head>Additional Descriptive Data</head> 
+			 <otherfindaid encodinganalog="isadg(2)345"> 
+				<head>Finding aids</head> 
+				<p>File list in custody of Edinburgh University Archivist.</p> 
+			 </otherfindaid> 
+			 <add encodinganalog="isadg(2)351"> 
+				<head>Existence and location of originals</head> 
+				<p>This material is original. </p> 
+			 </add> 
+		  </add> 
+		  <odd> 
+			 <head>Notes</head> 
+			 <odd encodinganalog="isadg(2)372"> 
+				<head>Rules and Conventions</head> 
+				<p>Description compiled in line with the following international
+				  standards: 
+				  <corpname>International Council on Archives Committee on
+					 Descriptive Standards</corpname>, 
+				  <bibref> 
+					 <title>General International Standard Archival
+						Description</title> 
+					 <edition>Second Edition</edition><imprint> 
+					 <geogname>Ottawa</geogname> 
+					 <date normal="2000" certainty="certain"
+					  type="publication">2000</date></imprint></bibref>and 
+				  <bibref> 
+					 <corpname>National Council on Archives</corpname>, 
+					 <title>Rules for the contstruction of personal, place and
+						corporate names</title><imprint> 
+					 <date type="publication" normal="1997"
+					  certainty="certain">1997</date></imprint></bibref> 
+				  <bibref>
+					 <persname role="author"></persname> 
+					 <title>International Standard for Archival Authority Record for
+						Corporate, Place, Family</title> British </bibref> 
+				  <bibref> 
+					 <title>UNESCO Thesaurus</title></bibref> 
+				  <bibref>Education Thesaurus</bibref></p> 
+				<p>The creation of this description was assisted by funding from
+				  the Research Support Libraries Programme.</p> 
+			 </odd> 
+			 <odd encodinganalog="isadg(2)361"> 
+				<head>Note</head> 
+				<note encodinganalog="isadg(2)361"> 
+				  <p>Scotland is the location of all place names in the
+					 administrative/biographical history element, unless otherwise stated. </p> 
+				</note> 
+			 </odd> 
+			 <odd audience="internal" encodinganalog="isadg(2)371"> 
+				<head>Archivist&apos;s notes (private)</head> 
+				<p audience="internal">None</p> 
+			 </odd> 
+			 <odd encodinganalog="isadg(2)373" audience="external"> 
+				<head>Date(s) of Descriptions</head> 
+				<p> Series level description created by Rachel Hosker, GASHE
+				  project archivist, 21 March 2001, as part of the Research Support Libraries
+				  Programme funded project &apos;Gateway to Archives of Scottish Higher
+				  Education&apos;.</p> 
+			 </odd> 
+		  </odd> 
+		  <c audience="external" level="file" id="GB-0237-EUA-DCPE-OSA-1-1-1-1"
+			langmaterial="EN">
+			 <did> 
+				<repository encodinganalog="GASHE31"> 
+				  <corpname normal="Edinburgh University Archives"
+					authfilenumber="GB 0237" source="ncarules">Edinburgh University
+					 Archives</corpname></repository> 
+				<unitid label="Reference Code" audience="external"
+				 encodinganalog="isadg(2)311" countrycode="GB" repositorycode="0237">GB
+				  0237 EUA DCPE OSA 1/1/1/1 </unitid> 
+				<unittitle label="Title" encodinganalog="isadg(2)312"
+				 audience="external">Minute book </unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1912/1973" audience="external">1912-1973</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent
+				  audience="external">1 </extent><genreform>volume</genreform></physdesc> 
+				<physdesc
+				 label="Physical Characteristics and Technical Requirements"
+				 encodinganalog="isadg(2)344" audience="external"><physfacet
+				  audience="external">Blue cotton cover, decorative embroidered
+				  front</physfacet></physdesc> 
+			 </did>
+			 <odd audience="internal" encodinganalog="GASHE36">
+				<head>Institution</head> 
+				<p>Dunfermline College of Physical Education Old Students
+				  Association</p>
+			 </odd> 
+			 <odd encodinganalog="isadg(2)371" audience="internal">
+				<head>Archivist&apos;s notes (private)</head> 
+				<p>None</p>
+			 </odd>
+			 <odd encodinganalog="isadg(2)373" audience="external">
+				<head>Date(s) of Description</head> 
+				<p>File level description compiled by Rachel Hosker, GASHE project
+				  archivist, 
+				  <date audience="external" type="single" normal="2001-03-21"
+					certainty="certain">21 March 2001</date>.</p>
+			 </odd> 
+		  </c>
+		  <c audience="external" level="file" id="GB-0237-EUA-DCPE-OSA-1-1-1-2"
+			langmaterial="EN">
+			 <did> 
+				<repository encodinganalog="GASHE31"> 
+				  <corpname normal="Edinburgh University Archives"
+					authfilenumber="GB 0237" source="ncarules">Edinburgh University
+					 Archives</corpname></repository> 
+				<unitid label="Reference Code" audience="external"
+				 encodinganalog="isadg(2)311" countrycode="GB" repositorycode="0237">GB
+				  0237 EUA DCPE OSA 1/1/1/2</unitid> 
+				<unittitle label="Title" encodinganalog="isadg(2)312"
+				 audience="external">Minutes and papers of committee meetings and annual general
+				  meetings</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1971/1980" audience="external">1971-1980</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent
+				  audience="external">To be confirmed </extent></physdesc> 
+				<physdesc
+				 label="Physical Characteristics and Technical Requirements"
+				 encodinganalog="isadg(2)344" audience="external"><physfacet
+				  audience="external">None which affect the use of this
+				  material</physfacet></physdesc> 
+			 </did>
+			 <odd audience="internal" encodinganalog="GASHE36">
+				<head>Institution</head> 
+				<p>Dunfermline College of Physical Education Old Students
+				  Association</p>
+			 </odd> 
+			 <odd encodinganalog="isadg(2)371" audience="internal">
+				<head>Archivist&apos;s notes (private)</head> 
+				<p>None</p>
+			 </odd>
+			 <odd encodinganalog="isadg(2)373" audience="external">
+				<head>Date(s) of Description</head> 
+				<p>File level description compiled by Rachel Hosker, GASHE project
+				  archivist, 
+				  <date audience="external" type="single" normal="2001-03-21"
+					certainty="certain">21 March 2001</date>.</p>
+			 </odd> 
+		  </c>
+		  <c audience="external" level="file" id="GB-0237-EUA-DCPE-OSA-1-1-1-3"
+			langmaterial="EN">
+			 <did> 
+				<repository encodinganalog="GASHE31"> 
+				  <corpname normal="Edinburgh University Archives"
+					authfilenumber="GB 0237" source="ncarules">Edinburgh University
+					 Archives</corpname></repository> 
+				<unitid label="Reference Code" audience="external"
+				 encodinganalog="isadg(2)311" countrycode="GB" repositorycode="0237">GB
+				  0237 EUA DCPE OSA 1/1/1/3</unitid> 
+				<unittitle label="Title" encodinganalog="isadg(2)312"
+				 audience="external">Minutes and papers of committee meetings and annual general
+				  meetings</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1980/1989" audience="external">1980-1989</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent
+				  audience="external">To be confirmed</extent></physdesc> 
+				<physdesc
+				 label="Physical Characteristics and Technical Requirements"
+				 encodinganalog="isadg(2)344" audience="external"><physfacet
+				  audience="external">None which affect the use of this
+				  material</physfacet></physdesc> 
+			 </did>
+			 <odd audience="internal" encodinganalog="GASHE36">
+				<head>Institution</head> 
+				<p>Dunfermline College of Physical Education Old Students
+				  Association</p>
+			 </odd> 
+			 <odd encodinganalog="isadg(2)371" audience="internal">
+				<head>Archivist&apos;s notes (private)</head> 
+				<p>None</p>
+			 </odd>
+			 <odd encodinganalog="isadg(2)373" audience="external">
+				<head>Date(s) of Description</head> 
+				<p>File level description compiled by Rachel Hosker, GASHE project
+				  archivist, 
+				  <date audience="external" type="single" normal="2001-03-21"
+					certainty="certain">21 March 2001</date>.</p>
+			 </odd> 
+		  </c>
+		  <c audience="external" level="file" id="GB-0237-EUA-DCPE-OSA-1-1-1-4"
+			langmaterial="EN">
+			 <did> 
+				<repository encodinganalog="GASHE31"> 
+				  <corpname normal="Edinburgh University Archives"
+					authfilenumber="GB 0237" source="ncarules">Edinburgh University
+					 Archives</corpname></repository> 
+				<unitid label="Reference Code" audience="external"
+				 encodinganalog="isadg(2)311" countrycode="GB" repositorycode="0237">GB
+				  0237 EUA DCPE OSA 1/1/1/4</unitid> 
+				<unittitle label="Title" encodinganalog="isadg(2)312"
+				 audience="external">Minutes and papers of committee meetings and annual general
+				  meetings</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+				normal="1990/1993" audience="external">1990-1993</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent
+				  audience="external">To be confirmed</extent></physdesc> 
+				<physdesc
+				 label="Physical Characteristics and Technical Requirements"
+				 encodinganalog="isadg(2)344" audience="external"><physfacet
+				  audience="external">None which affect the use of this
+				  material</physfacet></physdesc> 
+			 </did>
+			 <odd audience="internal" encodinganalog="GASHE36">
+				<head>Institution</head> 
+				<p>Dunfermline College of Physical Education Old Students
+				  Association</p>
+			 </odd> 
+			 <odd encodinganalog="isadg(2)371" audience="internal">
+				<head>Archivist&apos;s notes (private)</head> 
+				<p>None</p>
+			 </odd>
+			 <odd encodinganalog="isadg(2)373" audience="external">
+				<head>Date(s) of Description</head> 
+				<p>File level description compiled by Rachel Hosker, GASHE project
+				  archivist, 
+				  <date audience="external" type="single" normal="2001-03-21"
+					certainty="certain">21 March 2001</date>.</p>
+			 </odd> 
+		  </c>
+		  <c audience="external" level="file" id="GB-0237-EUA-DCPE-OSA-1-1-1-5"
+			langmaterial="EN">
+			 <did> 
+				<repository encodinganalog="GASHE31"> 
+				  <corpname normal="Edinburgh University Archives"
+					authfilenumber="GB 0237" source="ncarules">Edinburgh University
+					 Archives</corpname></repository> 
+				<unitid label="Reference Code" audience="external"
+				 encodinganalog="isadg(2)311" countrycode="GB" repositorycode="0237">GB
+				  0237 EUA DCPE OSA 1/1/1/5</unitid> 
+				<unittitle label="Title" encodinganalog="isadg(2)312"
+				 audience="external">Duplicate minutes</unittitle><unitdate label="Date(s)"
+				encodinganalog="isadg(2)313" type="single" certainty="certain"
+				normal="1992" audience="external">September -May 1992</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent
+				  audience="external">To be confirmed</extent></physdesc> 
+				<physdesc
+				 label="Physical Characteristics and Technical Requirements"
+				 encodinganalog="isadg(2)344" audience="external"><physfacet
+				  audience="external">None which affect the use of this
+				  material</physfacet></physdesc> 
+			 </did>
+			 <odd audience="internal" encodinganalog="GASHE36">
+				<head>Institution</head> 
+				<p>Dunfermline College of Physical Education Old Students
+				  Association</p>
+			 </odd> 
+			 <odd encodinganalog="isadg(2)371" audience="internal">
+				<head>Archivist&apos;s notes (private)</head> 
+				<p>None</p>
+			 </odd>
+			 <odd encodinganalog="isadg(2)373" audience="external">
+				<head>Date(s) of Description</head> 
+				<p>File level description compiled by Rachel Hosker, GASHE project
+				  archivist, 
+				  <date audience="external" type="single" normal="2001-03-21"
+					certainty="certain">21 March 2001</date>.</p>
+			 </odd> 
+		  </c>
+		  <c audience="external" level="file" id="GB-0237-EUA-DCPE-OSA-1-1-1-6"
+			langmaterial="EN">
+			 <did> 
+				<repository encodinganalog="GASHE31"> 
+				  <corpname normal="Edinburgh University Archives"
+					authfilenumber="GB 0237" source="ncarules">Edinburgh University
+					 Archives</corpname></repository> 
+				<unitid label="Reference Code" audience="external"
+				 encodinganalog="isadg(2)311" countrycode="GB" repositorycode="0237">GB
+				  0237 EUA DCPE OSA 1/1/1/6</unitid> 
+				<unittitle label="Title" encodinganalog="isadg(2)312"
+				 audience="external">Correspondence re meetings</unittitle><unitdate
+				label="Date(s)" encodinganalog="isadg(2)313" type="single"
+				certainty="certain" normal="1993" audience="external">1993</unitdate> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent
+				  audience="external">To be confirmed</extent></physdesc> 
+				<physdesc
+				 label="Physical Characteristics and Technical Requirements"
+				 encodinganalog="isadg(2)344" audience="external"><physfacet
+				  audience="external">None which affect the use of this
+				  material</physfacet></physdesc> 
+			 </did>
+			 <odd audience="internal" encodinganalog="GASHE36">
+				<head>Institution</head> 
+				<p>Dunfermline College of Physical Education Old Students
+				  Association</p>
+			 </odd> 
+			 <odd encodinganalog="isadg(2)371" audience="internal">
+				<head>Archivist&apos;s notes (private)</head> 
+				<p>None</p>
+			 </odd>
+			 <odd encodinganalog="isadg(2)373" audience="external">
+				<head>Date(s) of Description</head> 
+				<p>File level description compiled by Rachel Hosker, GASHE project
+				  archivist, 
+				  <date audience="external" type="single" normal="2001-03-21"
+					certainty="certain">21 March 2001</date>.</p>
+			 </odd> 
+		  </c>
+		</c>
+		<c audience="external" level="series" id="GB-0237-EUA-DCPE-OSA-1-1-2"
+		 langmaterial="EN">
+		  <did> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="GASHE31">
+				<corpname authfilenumber="GB 0237"
+				 normal="Edinburgh University Archives" source="ncarules">Edinburgh University
+				  Archives</corpname></repository> 
+			 <unitid label="Reference Code" audience="external"
+			  encodinganalog="isadg(2)311" countrycode="GB"
+			  repositorycode="REPLACE">GB 0237 EUA DCPE OSA 1/1/2</unitid> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Correspondence and papers </unittitle><unitdate
+			 label="Date(s)" encodinganalog="isadg(2)313"
+			 type="inclusive" certainty="certain" normal="1931/1992"
+			 audience="external">1931-1992</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external"><extent
+				audience="external">2 </extent><genreform>items</genreform></physdesc> 
+			 <physdesc label="Physical Characteristics and Technical Requirements"
+			  encodinganalog="isadg(2)344" audience="external"><physfacet
+				audience="external">Access to records in a fragile condition may be
+				restricted</physfacet></physdesc> 
+			 <origination label="Name of Creator(s)"
+			  encodinganalog="isadg(2)321" audience="external">Dunfermline College of
+				Physical Education Old Students Association</origination>
+		  </did>
+		  <odd audience="internal" encodinganalog="GASHE36">
+			 <head>Institution</head> 
+			 <p>Dunfermline College of Physical Education Old Students
+				Association</p>
+		  </odd> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331">
+			 <head>Scope and Content</head> 
+			 <p>GB 0237 EUA OSA 1/1/2 Press releases 1951-1992 </p> 
+			 <p>GB 0237 EUA OSA 1/1/2(?) Correspondence and papers 1931-1951</p>
+		  </scopecontent> 
+		  <arrangement audience="external" encodinganalog="isadg(2)334">
+			 <head>System of Arrangement</head> 
+			 <p>Arranged chronologically in series.</p> 
+		  </arrangement> 
+		  <admininfo> 
+			 <head>Administrative Information</head> 
+			 <custodhist encodinganalog="isadg(2)323"> 
+				<head>Archival history</head> 
+				<p>The records have never left the custody of the University. The
+				  first transfers of records to the University Archives/ Special Collections
+				  division occurred before formal accessioning procedures were put in place.</p> 
+			 </custodhist> 
+			 <acqinfo encodinganalog="isadg(2)324"> 
+				<head>Immediate source of acquisition</head> 
+				<p>Unknown</p> 
+			 </acqinfo> 
+			 <appraisal encodinganalog="isadg(2)332"> 
+				<head>Appraisal, destruction and scheduling information</head> 
+				<p> These records are for permanent retention.</p> 
+			 </appraisal> 
+			 <accruals encodinganalog="isadg(2)333"> 
+				<head>Accruals</head> 
+				<p>Expected</p> 
+			 </accruals> 
+			 <accessrestrict encodinganalog="isadg(2)341"> 
+				<head>Conditions governing access</head> 
+				<p>Access is by appointment</p> 
+			 </accessrestrict> 
+			 <userestrict encodinganalog="isadg(2)342"> 
+				<head>Conditions governing reproduction</head> 
+				<p>Usual Conditions: educational use and conditions of documents.
+				  Applications for permission to reproduce images or quote should be sent to
+				  Edinburgh University Archivist.</p> 
+			 </userestrict> 
+			 <admininfo encodinganalog="isadg(2)343" audience="external"> 
+				<head>Language of material</head> 
+				<p>English</p> 
+			 </admininfo> 
+			 <altformavail encodinganalog="isadg(2)352"> 
+				<head>Existence and location of copies</head> 
+				<p>No known copies</p> 
+			 </altformavail> 
+		  </admininfo> 
+		  <add> 
+			 <head>Additional Descriptive Data</head> 
+			 <otherfindaid encodinganalog="isadg(2)345"> 
+				<head>Finding aids</head> 
+				<p>File list in custody of Edinburgh University Archivist.</p> 
+			 </otherfindaid> 
+			 <add encodinganalog="isadg(2)351"> 
+				<head>Existence and location of originals</head> 
+				<p>This material is original. </p> 
+			 </add> 
+		  </add> 
+		  <odd> 
+			 <head>Notes</head> 
+			 <odd encodinganalog="isadg(2)372"> 
+				<head>Rules and Conventions</head> 
+				<p>Description compiled in line with the following international
+				  standards: 
+				  <corpname>International Council on Archives Committee on
+					 Descriptive Standards</corpname>, 
+				  <bibref> 
+					 <title>General International Standard Archival
+						Description</title> 
+					 <edition>Second Edition</edition><imprint> 
+					 <geogname>Ottawa</geogname> 
+					 <date normal="2000" certainty="certain"
+					  type="publication">2000</date></imprint></bibref>and 
+				  <bibref> 
+					 <corpname>National Council on Archives</corpname>, 
+					 <title>Rules for the contstruction of personal, place and
+						corporate names</title><imprint> 
+					 <date type="publication" normal="1997"
+					  certainty="certain">1997</date></imprint></bibref> 
+				  <bibref>
+					 <persname role="author"></persname> 
+					 <title>International Standard for Archival Authority Record for
+						Corporate, Place, Family</title> British </bibref> 
+				  <bibref> 
+					 <title>UNESCO Thesaurus</title></bibref> 
+				  <bibref>Education Thesaurus</bibref></p> 
+				<p>The creation of this description was assisted by funding from
+				  the Research Support Libraries Programme.</p> 
+			 </odd> 
+			 <odd encodinganalog="isadg(2)361"> 
+				<head>Note</head> 
+				<note encodinganalog="isadg(2)361"> 
+				  <p>Scotland is the location of all place names in the
+					 administrative/biographical history element, unless otherwise stated. </p> 
+				</note> 
+			 </odd> 
+			 <odd audience="internal" encodinganalog="isadg(2)371"> 
+				<head>Archivist&apos;s notes (private)</head> 
+				<p audience="internal">None</p> 
+			 </odd> 
+			 <odd encodinganalog="isadg(2)373" audience="external"> 
+				<head>Date(s) of Descriptions</head> 
+				<p> Series level description created by Rachel Hosker, GASHE
+				  project archivist, 21 March 2001, as part of the Research Support Libraries
+				  Programme funded project &apos;Gateway to Archives of Scottish Higher
+				  Education&apos;.</p> 
+			 </odd> 
+		  </odd> 
+		</c>
+		<c audience="external" level="series" id="GB-0237-EUA-DCPE-OSA-1-1-3"
+		 langmaterial="EN">
+		  <did> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="GASHE31">
+				<corpname authfilenumber="GB 0237"
+				 normal="Edinburgh University Archives" source="ncarules">Edinburgh University
+				  Archives</corpname></repository> 
+			 <unitid label="Reference Code" audience="external"
+			  encodinganalog="isadg(2)311" countrycode="GB" repositorycode="0237">GB
+				0237 EUA DCPE OSA 1/1/3</unitid> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Annual reports </unittitle><unitdate label="Date(s)"
+			 encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+			 normal="1914/1995" audience="external">1914-1995</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external"><extent
+				audience="external">16 </extent><genreform>items</genreform></physdesc> 
+			 <physdesc label="Physical Characteristics and Technical Requirements"
+			  encodinganalog="isadg(2)344" audience="external"><physfacet
+				audience="external">Access to records in a fragile condition may be
+				restricted</physfacet></physdesc> 
+			 <origination label="Name of Creator(s)"
+			  encodinganalog="isadg(2)321" audience="external"> Dunfermline College
+				of Physical Education Old Students Association</origination>
+		  </did>
+		  <odd audience="internal" encodinganalog="GASHE36">
+			 <head>Institution</head> 
+			 <p> Dunfermline College of Physical Education Old Students
+				Association</p>
+		  </odd> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331">
+			 <head>Scope and Content</head> 
+			 <p>Bound volumes include several annual reports. In some cases they
+				do not follow chronologically as years are missing. Included are the committee
+				members, indexes to old students and College staff. Stated are the rules and
+				constitution, financial statements, secretary's reports, minutes, present
+				students' reports, news of College sports fixtures and results and news of old
+				students. The President of the Association also had a page where an editorial
+				was produced.</p> 
+		  </scopecontent> 
+		  <arrangement audience="external" encodinganalog="isadg(2)334">
+			 <head>System of Arrangement</head> 
+			 <p>Arranged chronologically in series.</p> 
+		  </arrangement> 
+		  <admininfo> 
+			 <head>Administrative Information</head> 
+			 <custodhist encodinganalog="isadg(2)323"> 
+				<head>Archival history</head> 
+				<p>The records have never left the custody of the University. The
+				  first transfers of records to the University Archives/ Special Collections
+				  division occurred before formal accessioning procedures were put in place.</p> 
+			 </custodhist> 
+			 <acqinfo encodinganalog="isadg(2)324"> 
+				<head>Immediate source of acquisition</head> 
+				<p> Dunfermline College of Physical Education Old Students
+				  Association.</p> 
+			 </acqinfo> 
+			 <appraisal encodinganalog="isadg(2)332"> 
+				<head>Appraisal, destruction and scheduling information</head> 
+				<p> These records are for permanent retention.</p> 
+			 </appraisal> 
+			 <accruals encodinganalog="isadg(2)333"> 
+				<head>Accruals</head> 
+				<p>Expected</p> 
+			 </accruals> 
+			 <accessrestrict encodinganalog="isadg(2)341"> 
+				<head>Conditions governing access</head> 
+				<p>By appointment - access to recent official records and records
+				  containing confidential information is restricted in accordance with University
+				  policies and relevant legislation.</p> 
+			 </accessrestrict> 
+			 <userestrict encodinganalog="isadg(2)342"> 
+				<head>Conditions governing reproduction</head> 
+				<p>Usual Conditions: educational use and conditions of
+				  documents.</p>
+				<p> Applications for permission to reproduce images or quote should
+				  be sent to Edinburgh University Archivist.</p> 
+			 </userestrict> 
+			 <admininfo encodinganalog="isadg(2)343" audience="external"> 
+				<head>Language of material</head> 
+				<p>English</p> 
+			 </admininfo> 
+			 <altformavail encodinganalog="isadg(2)352"> 
+				<head>Existence and location of copies</head> 
+				<p>No known copies</p> 
+			 </altformavail> 
+		  </admininfo> 
+		  <add> 
+			 <head>Additional Descriptive Data</head> 
+			 <otherfindaid encodinganalog="isadg(2)345"> 
+				<head>Finding aids</head> 
+				<p>File list in custody of Edinburgh University Archivist.</p> 
+			 </otherfindaid> 
+			 <add encodinganalog="isadg(2)351"> 
+				<head>Existence and location of originals</head> 
+				<p>This material is original. </p> 
+			 </add> 
+		  </add> 
+		  <odd> 
+			 <head>Notes</head> 
+			 <odd encodinganalog="isadg(2)372"> 
+				<head>Rules &amp; Conventions</head> 
+				<p>Description compiled in line with the following international
+				  standards: 
+				  <corpname>International Council on Archives Committee on
+					 Descriptive Standards</corpname>, 
+				  <bibref> 
+					 <title>General International Standard Archival
+						Description</title> 
+					 <edition>Second Edition</edition><imprint> 
+					 <geogname>Ottawa</geogname> 
+					 <date normal="2000" certainty="certain"
+					  type="publication">2000</date></imprint></bibref>and 
+				  <bibref> 
+					 <corpname>National Council on Archives</corpname>, 
+					 <title>Rules for the contstruction of personal, place and
+						corporate names</title><imprint> 
+					 <date type="publication" normal="1997"
+					  certainty="certain">1997</date></imprint></bibref> 
+				  <bibref>
+					 <persname role="author"></persname> 
+					 <title>International Standard for Archival Authority Record for
+						Corporate, Place, Family</title> British </bibref> 
+				  <bibref> 
+					 <title>UNESCO Thesaurus</title></bibref> 
+				  <bibref>Education Thesaurus</bibref></p> 
+				<p>The creation of this description was assisted by funding from
+				  the Research Support Libraries Programme.</p> 
+				<odd encodinganalog="isadg(2)361"> 
+				  <head>Note</head> 
+				  <note encodinganalog="isadg(2)361"> 
+					 <p>Scotland is the location of all place names in the
+						administrative/biographical history element, unless otherwise stated. </p> 
+				  </note> 
+				</odd> 
+				<odd audience="internal" encodinganalog="isadg(2)371"> 
+				  <head>Archivist&apos;s notes (private)</head> 
+				  <p audience="internal">None</p> 
+				</odd> 
+			 </odd> 
+			 <odd encodinganalog="isadg(2)373" audience="external"> 
+				<head>Date(s) of Descriptions</head> 
+				<p> This finding aid was created by Rachel Hosker GASHE Project
+				  Archivist (Edinburgh), 22 March 2001, as part of the Research Support Libraries
+				  Programme funded project &apos;Gateway to Archives of Scottish Higher
+				  Education&apos;.</p> 
+			 </odd> 
+		  </odd> 
+		  <controlaccess audience="external" encodinganalog="GASHE38">
+			 <head>Controlled Access Terms</head> 
+			 <controlaccess encodinganalog="GASHE381">
+				<head>Subjects</head> 
+				<p>
+				  <subject source="othersource"
+					othersource="british education thesaurus" audience="external"
+					normal="Annual reports" authfilenumber="S0006">Annual reports</subject></p>
+				<p>
+				  <subject source="othersource" othersource="unesco"
+					audience="external" normal="Financial statements"
+					authfilenumber="S0039">Financial statements</subject></p>
+				<p>
+				  <subject source="othersource" othersource="unesco"
+					audience="external" normal="Sport">Sport</subject></p> 
+			 </controlaccess> 
+		  </controlaccess>
+		</c>
+	 </dsc> 
+  </archdesc></ead>

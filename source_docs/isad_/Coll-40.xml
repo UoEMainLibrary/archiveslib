@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-40">GB
+		237 Coll-40</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers of James Murray, 2nd Duke of Atholl
+			 (1690-1764)</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-40">
+    <did>
+      <unittitle>Papers of James Murray, 2nd Duke of Atholl
+			 (1690-1764)</unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-40</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Dc.1.37/1-2</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers of James Murray, 2nd Duke
+		  of Atholl (1690-1764)</unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1701-1799">18th century</unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>circa 150 letters. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label="">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>James Murray was born on 28 September 1690. He was the third son of
+		  John Murray, 2nd Marquis and 1st Duke of Atholl (1660-1724). By June 1714, Lord
+		  James had reached the ranks of Captain and Lt.-Col. in the 1st Footguards
+		  (King's Company). Then came the Jacobite Rebellion of 1715 in support of the
+		  'Old Pretender', James Francis Edward Stewart (1688-1766), and led by John
+		  Erskine, 11th Earl of Mar. Lord James joined the Duke of Argyll's government
+		  forces at Perth in January-February 1716 and marched in pursuit of the
+		  Jacobites to Aberdeen. To the north, at Peterhead, the 'Old Pretender' had
+		  arrived from Lorraine just before Christmas, but with the collapse of the
+		  Rebellion he sailed from Montrose, Angus, just a few weeks later.</p>
+      <p>Lord James' older brother, William Murray, Marquis of Tullibardine
+		  (1689-1746), had taken part in the indecisive Rebellion and his rights to the
+		  family honours and estates were therefore stripped from him by Act of
+		  Parliament. These would now pass to Lord James since the eldest brother, John
+		  Murray, had been killed earlier at the Battle of Malplaquet in August 1709.</p>
+      <p>Meanwhile, in 1715, Lord James had been elected MP for Perthshire, and
+		  in 1722 he was chosen again. On the death of his father in 1724, he became 2nd
+		  Duke of Atholl. His rather than William's succession to the family honours and
+		  estates was confirmed by a new Act of Parliament in 1733. That same year he was
+		  appointed Lord Privy Seal. In 1734, he received the Order of the Thistle. In
+		  1736, James Murray, now 2nd Duke of Atholl, also inherited sovereignty of the
+		  Isle of Man and an English barony through a family connection to the 10th Earl
+		  of Derby. Between 1737 and 1741 he was able to sit in Parliament both as an
+		  English Baron and a Scottish Peer.</p>
+      <p>In July 1745, the 'Young Pretender' Prince Charles Edward Stewart
+		  (1720-1788) accompanied by William Murray (titular Duke of Atholl) and six
+		  other supporters landed at Moidart in the west of Scotland. Within six weeks of
+		  the raising of the Jacobite standard at Glenfinnan in August 1745, Charles had
+		  overrun Scotland and James Murray had fled southwards. The dispossessed William
+		  Murray now took possession of Blair Castle in Perthshire, the family seat.</p>
+      <p>By December, the Jacobites had reached Derby, and although still
+		  undefeated they won practically no support either in the Lowlands of Scotland
+		  or in England, and they began a fateful withdrawal to Scotland. James Murray
+		  joined the army of the Duke of Cumberland in pursuit of Prince Charles and the
+		  Jacobites and arrived in Edinburgh on 30 January 1746. He continued northwards
+		  to the Atholl estates and summoned his men to attend him and to join the
+		  government troops in their march towards Inverness. In April 1746, at the
+		  Battle of Culloden, the last battle to be fought on British soil, the Jacobites
+		  were defeated. James Murray, 2nd Duke of Atholl, regained Blair Castle and the
+		  Atholl estates.</p>
+      <p>In 1763, Murray resigned the office of Lord Privy Seal on his
+		  appointment as Keeper of the Great Seal and as Lord Justice General. James
+		  Murray, 2nd Duke of Atholl, died at Dunkeld, Perthshire, on 8 January 1764.
+		  </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The collection contains letters to the Duke about the Jacobite
+		  Rebellion, 1745-1746, along with a few earlier papers.</p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Generally open for consultation to bona fide researchers, but please
+		  contact repository for details in advance.</p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Important finding aids generally are: the alphabetical Index to
+		  Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives, consisting of typed slips in sheaf binders and to which additions
+		  were made until 1987; and the Index to Accessions Since 1987. </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>Check the local Indexes for references to the Atholl family. In
+		  addition, the UK National Register of Archives (NRA), updated by the Historical
+		  Manuscripts Commission, notes the following relating to James Murray, 2nd Duke
+		  of Atholl: correspondence and papers, 1681-1714, Blair Castle, Ref. NRA(S)0234
+		  NRA 11000 Stewart-Murray; legal correspondence, 1705-1723, National Library of
+		  Scotland, Manuscripts Division, Ref. MS 1403, and correspondence with the 1st
+		  and 2nd Marquesses of Tweeddale, 1696-1716, National Library of Scotland,
+		  Manuscripts Division, Ref. MSS 6487, 6488, 7020-7030, 7104 passim;
+		  correspondence with the Earl of Dunmore, circa 1703-1710, College of William
+		  and Mary, NRA 22219 Murray; letters to Lord Godolphin, 1703-1708, British
+		  Library, Manuscript Collections, Ref. Add MS 28055; letters to Duchess of
+		  Hamilton, 1713-1716, Private, Ref. NRA(S)2177/C3 NRA 10979 Hamilton;
+		  correspondence (15 items) with Lord Leven, 1708-1721, National Archives of
+		  Scotland, Ref. GD26/13/152 NRA 29368 Leslie Melville, also correspondence with
+		  Earl of Mar, Ref. GD124 NRA 32022 Erskine, and letters to Duke of Montrose,
+		  1703-1717, Ref. GD 220/5 NRA 32572 Graham.</p>
+      </relatedmaterial>
+      <note>
+        <head>Note</head>
+        <p>The biographical/administrative history was compiled using the
+		  following material: (1) Keay, John. and Keay, Julia (eds.). 
+		Collins encyclopaedia of Scotland. London: Harper Collins,
+		1994. (2) Lee, Sidney (ed.). 
+		Dictionary of national biography. Vol.13.
+		Masquerier-Myles. London: Smith, Elder and Co., 1909.</p>
+        <head>Archivist's Note</head>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+				Collections Division</note>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

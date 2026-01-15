@@ -1,0 +1,132 @@
+
+$COMMENT {
+  display: block;
+  color: red;
+  white-space: pre;
+  font-weight: bold;
+  font-size: 8pt;
+  font-family: Arial;
+}
+
+@sq-tag-makes-line-non-empty ;
+
+/* Use Arial for default font */
+$DOCUMENT {
+  font-family: "Arial";
+  font-size: 10pt;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+$PROCINS {
+  color: black;
+  background-color: #c0c0c0;
+}
+
+archdesc>did {
+  display: block;
+  margin-top: 5pt;
+  color: black;
+}
+
+archdesc>did>origination {
+  margin-left: 10pt;
+  font-family: Arial;
+  font-size: 10pt;
+}
+
+controlaccess>controlaccess>head {
+  margin-left: 25pt;
+}
+
+controlaccess>corpname, controlaccess>subject, controlaccess>geogname, controlaccess>persname {
+  margin-left: 30pt;
+} 
+
+dsc {
+  display: inline;
+  background-color: fuchsia;
+}
+
+dsc>>scopecontent, archdesc>>head, scopecontent>p, repository, archdesc>did>repository, archdesc>did>unittitle, archdesc>did>unitdate, archdesc>did>abstract, archdesc>did>physdesc, archdesc>did>physloc, archdesc>did>unitid {
+  margin-left: 10pt;
+}
+
+head {
+  font-weight: bold;
+}
+
+bioghist {
+  background-color: #FFFFCC;
+}
+
+p {
+  font-family: Arial;
+  font-size: 10pt;
+  text-align: left;
+  display: block;
+}
+
+item {
+  display: list-item;
+  margin-left: 12pt;
+  list-style-type: disc;
+}
+
+list {
+  display: list;
+  list-style-type: disc;
+}
+
+scopecontent {
+  background-color: #CCCCFF;
+}
+
+did {
+  background-color: #99FFFF;
+  background-attachment: scroll;
+}
+
+c, did>unittitle {
+  border: medium;
+}
+
+controlaccess {
+  background-color: #FFCC99;
+  font-family: Arial;
+  font-size: 10pt;
+  display: block;
+}
+
+c {
+  background-color: #66FF00;
+}
+
+repository, unitid, edition, publisher, genreform, date, unitdate {
+  font-family: Arial;
+  font-size: 10pt;
+}
+
+persname, geogname, bibref, eadid, editionstmt, entry, event, eventgrp, extref, extrefloc, famname, filedesc, fileplan, frontmatter, function, head, head01, head02, index, indexentry, item, label, langusage, linkgrp, list, listhead, name, namegrp, note, notestmt, num, occupation, odd, organization, origination, otherfindaid, physdesc, physloc, prefercite, processinfo, profiledesc, ptrgrp, publicationstmt, ref, refloc, relatedmaterial, revisiondesc, row, runner, scopecontent, separatedmaterial, seriesstmt, sponsor, subject, subtitle, table, tbody, tfoot, tgroup, thead, titlepage, titleproper, titlestmt, abstract, accessrestrict, accruals, acqinfo, add, address, addressline, admininfo, altformavail, appraisal, archdesc, archref, arrangement, author, bibliography, bibseries, bioghist, blockquote, c, change, chronitem, chronlist, container, creation, custodhist, dao, daodesc, daogrp, daoloc, defitem, did, div, dsc, ead, eadheader, corpname {
+  font-family: Arial;
+  font-size: 10pt;
+  display: block;
+}
+
+title {
+  font-family: Arial;
+  font-size: 10pt;
+  font-style: italic;
+}
+
+frontmatter {
+  background-color: #99CCCC;
+}
+
+archdesc {
+  background-color: #FFCCCC;
+}
+
+descgrp {
+  background-color: #FFCCCC;
+}

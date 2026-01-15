@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-31"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-31</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>The Edinburgh Collection of Drawings from the Office of
+			 Sir Rowand Anderson </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-31</unitid>
+		
+		<physloc>PC Edinburgh Collection 1-267 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">The Edinburgh Collection of Drawings
+		  from the Office of Sir Rowand Anderson </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1814-1924">1814-1924 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>26 plan
+		  chest drawers. </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>The architect Robert Rowand Anderson was born in Forres in 1834.
+		  Anderson had four years of legal training, and then while serving with the
+		  Royal Engineers he studied construction and design. He then entered the
+		  Architectural Section of the School of the Board of Manufactures, and before
+		  setting up in practice in Edinburgh, in around 1875, he spent a year in
+		  continental travel. His practice was very successful and his output was large.
+		  His work included the Medical Schools, Edinburgh, the Scottish National
+		  Portrait Gallery (and Museum of Antiquities), Edinburgh, the Montrose Memorial
+		  within the High Kirk of St. Giles, Edinburgh, and Central Station Hotel,
+		  Glasgow. Anderson was knighted in 1902 and he was the first President of the
+		  Scottish Institute of Architects. He died on 1 June 1921. Already holding the
+		  majority of architect William Playfair's drawings and many office letters of
+		  Robert Lorimer, some of the historic drawings of Rowand Anderson, Kininmonth
+		  and Paul came to Edinburgh University Library in 1976. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The collection, held in plan chest drawers, includes some plans and
+		  elevations of the Medical School (1874) and some relating to the McEwan Hall
+		  (1890s) in Edinburgh, as well as drawings of many public and private buildings
+		  throughout the country: banks, barracks, libraries, institutions, and mansions.
+		  One of the drawers contains unsorted and miscellaneous material. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Anderson</emph> <emph altrender="forename">R. Rowand</emph>
+		  <emph altrender="title">Sir</emph> <emph altrender="epithet">(Robert
+		  Rowand)</emph> <emph altrender="dates">1834-1921</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Architects</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Architecture</emph> <emph altrender="x">Scotland</emph>
+		  </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H31 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

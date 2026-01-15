@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4584</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-01-11">11 January 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>5 December 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Birth 1805 529/0010 0058 Muckairn</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1834 523/0020 0157 Kilmore and
+                            Kilbride</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1841 census for Oban</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 523/00 009/0 013</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Oban</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 523/00 009/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Oban</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 523/00 003/00 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Oban</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 523/00 004/00 014</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1881 523/00 0011</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1881 census for Oban</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 523/00 001/00 014</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Oban</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 523/00 001/00 021</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1897 523/00 0089</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Sheriff Court record</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Court reference 1898 SC51/32/48 Dunoon Sheriff
+                            Court</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4584</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Whyte</part>
+                <part localType="given">Duncan</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Watchmaker, Oban, Argyll and Bute</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1805-10-22">22 October
+                        1805</fromDate><toDate standardDate="1897-12-25">25 December
+                    1897</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Duncan Whyte was born on 22 October 1805 in Lorn Furnace, or Bonawe Furnace, a
+                    small industrial settlement just outside Taynuilt, Argyll. His father was
+                    William Whyte, and is listed on the birth record as a carpenter, possibly at the
+                    large ironworks there, though Duncan's death record has him as a postmaster; his
+                    mother was Catherine Whyte née Campbell.</p>
+                <p>In 1834 Duncan, now living in Oban, married Jean Whyte née Stevenson, a
+                    shoemaker's daughter from Kilmarnock. By 1851 they were living at 7 Combie
+                    Street, Oban, presumably above Duncan's shop, with no less than seven young
+                    children and a servant. After then, the family appears to have flitted around
+                    the town, first to another property on Crombie Street, then around several
+                    locations on the town's George Street. Duncan was widowed in 1881 when Jean died
+                    aged 72, the cause of death given as bronchitis. Duncan Whyte himself died in
+                    1897, having outlived his wife by nearly seventeen years, and his son-in-law
+                    signed the death certificate. .</p>
+                <p>Whyte clearly had no little success in his business, leaving behind accumulated
+                    wealth of over £3,200 pounds, detailed along with his will in a lengthy Sheriff
+                    Court record of 1898.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1797">22 October 1805</date>
+                        <placeEntry>Argyll</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1889-12-22">25 December 1897</date>
+                        <placeEntry>Victoria Place, Oban</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

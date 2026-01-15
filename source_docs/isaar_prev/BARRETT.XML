@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-P0277 20020509 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0277</titleproper> 
+		  <subtitle>Barrett | Lucas | 1837-1862 | geologist and
+			 naturalist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 09 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020509">09 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0277</titleproper> 
+		<subtitle>Barrett | Lucas | 1837-1862 | geologist and
+		  naturalist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 09 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020509">09 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0277"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0277</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0277" normal="Barrett, Lucas">Barrett | Lucas |
+		  1837-1862 | geologist and naturalist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Lucas Barrett (<date type="life-span"
+			 normal="1837/1862">1837-1862</date>), a geologist, was the son of an
+			 ironfounder, and was educated at Ashton's School, Royston, Cambridgeshire, then
+			 at University College School. He did not go to university. From an early age,
+			 Barrett showed an interest in geology, spending time in local chalk quarries as
+			 a child, looking for fossils. He was also a frequent visitor to the British
+			 Museum's natural history galleries during his schooldays. In 
+			 <date type="single" normal="1853">1853</date>, after completing
+			 school, he spent a short period of time in Ebersdorf (Germany) to study
+			 chemistry and German. He made a geological trip to Bavaria in this time. </p> 
+		  <p>Aged just 18, Barrett was appointed as curator of the Woodwardian
+			 Museum in Cambridge, and was elected a Fellow of the Geological Society of
+			 London, the youngest person ever to be elected to this body. He also worked for
+			 Professor Adam Sedgwick (<date type="life-span"
+			 normal="1785/1873">1785-1873</date>) at this time, by delivering lectures on
+			 his behalf. From 
+			 <date type="inclusive" normal="1855/1857">1855-1857</date>, he spent
+			 the summer months carrying out surveys of the waters between Shetland and
+			 Norway (in association with R McAndrew, in 
+			 <date type="single" normal="1855">1855</date>), and the coastal
+			 waters of Greenland (<date type="single" normal="1856">1856</date>) and Spain
+			 (<date type="single" normal="1857">1857</date>). These expeditions gave him
+			 extensive knowledge of marine science. During his period in Cambridge, he
+			 prepared a detailed geological map of Cambridgeshire, which was reprinted
+			 several times.</p> 
+		  <p>In 
+			 <date type="appointmentdate" normal="1859">1859</date>, he was
+			 appointed to the post of Director of the Geological Survey of Jamaica. While in
+			 Jamaica, he determined the cretaceous age of the limestone that forms part of
+			 the Blue Mountains - this he did by examining the fossilised shells encased in
+			 the rock. One of these shells was of a previously undiscovered type, and was
+			 named "Barrettia" in his honour. He also showed that the orbitoidal limestone
+			 of Jamaica, previously thought to be of the carboniferous age, was, in fact,
+			 Miocene. He also conducted experiments at sea off Jamaica, repeating the tests
+			 he had carried out in European waters several years earlier. He found the two
+			 areas to have very similar fauna, making him conclude that 90% of the globe's
+			 ocean beds form a "nearly uniform province all over the world".</p> 
+		  <p>In 
+			 <date type="single" normal="1862">1862</date>, he returned briefly to
+			 Britain, in order to act as commissioner for Jamaica at the International
+			 Exhibition. He acquired a diving suit before returning to Jamaica, where he
+			 used it to examine coral reefs. After several successful descents in shallow
+			 waters, he was drowned during a dive in deeper waters off Kingston, aged only
+			 25.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Worked under Adam Sedgwick (<date type="life-span"
+			 normal="1785/1873">1785-1873</date>) at the University of Cambridge.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Geological Map of Cambridgeshire</title>, (
+			 <imprint><date type="publication" certainty="uncertain"
+			 normal="1852/1862">c1857</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1855">1855</date>: Appointed
+			 Curator of the Woodwardian Museum, Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1855">1855</date>: Elected
+			 Fellow of the Geological Society</p> 
+		  <p><date type="appointmentdate" normal="1859">1859</date>: Appointed
+			 Director, Geological Survey of Jamaica</p> 
+		  <p><date type="appointmentdate" normal="1862">1862</date>: Appointed
+			 Commissioner for Jamaica for the International Exhibition</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 I</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			 certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p><bibref><corpname normal="Encyclopaedia Britannica"
+			 role="editor">Encyclopaedia Britannica</corpname>, <title>Barrett, Lucas (from
+			 the 1911 Encyclopaedia Britannica)</title>, (<extref
+			 href="http://29.1911encyclopedia.org/B/BA/BARRETT_LUCAS.htm">http://29.1911encyclopedia.org/B/BA/BARRETT_LUCAS.htm</extref>
+			 <imprint>, 
+			 <date type="publication" normal="1911"
+			 certainty="certain">1911</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020509">09 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1106">GB
+		237 Coll-1106</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Notes, in shorthand, of Clinical Lectures probably given
+			 by James Gregory (d. 1731), Professor of Medicine, King's, Aberdeen
+			 </titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20070129" certainty="certain">29 January
+			 2007</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			 normal="International Council on Archives Committee on Descriptive Standards"
+			 source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			 role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1106"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1106</unitid> 
+		<physloc label="Shelfmark"
+		encodinganalog="shelfmark">E2007.4</physloc><unittitle
+		encodinganalog="isadg(2)312">Notes, in shorthand, of Clinical Lectures probably
+		  given by James Gregory (d. 1731), Professor of Medicine, King's, Aberdeen
+		  </unittitle><unitdate normal="1705/1705"
+		encodinganalog="isadg(2)313">1705</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 volume </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Unknown</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>James Gregory (d. 1731) was Professor of Medicine at King's College,
+		  Aberdeen. He was the son of James Gregory (1638-1675) the mathematician, and
+		  grandson of John Gregory (d. 1653).</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The lectures are noted as having been taken down in 1705. They are
+		  written in shorthand. Type of shorthand is unknown. The writer is unknown. The
+		  notes in the volume cover 228 pages. Title page states 
+		<title>Notes of Gregory's clinical lectures</title>. There is a rear
+		index of contents in longhand.</p> 
+		<p>Note: James Gregory (d.1731) is probably the only Gregory among this
+		  fanous family able to have actually given lectures in 1705.</p>
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Item recivered during decant, 2007. Accession no: E2007.4.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance of visit.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared for this collection.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>From open encyclopaedic material.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Medicine</emph><emph
+			 altrender="z"></emph><emph altrender="y"></emph><emph
+			 altrender="x"></emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph
+			 altrender="surname">Gregory</emph><emph altrender="title"></emph><emph
+			 altrender="forename">James</emph><emph altrender="dates">d. 1731</emph><emph
+			 altrender="epithet">Professor of Medicine, King's College,
+			 Aberdeen</emph></persname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

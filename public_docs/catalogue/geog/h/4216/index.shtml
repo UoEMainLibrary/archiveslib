@@ -1,0 +1,20 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Haclait Benbecula Inverness-shire Scotland </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/geog/a/">Authority terms: geographic names</a> &gt; <a href="/catalogue/geog/h/">h</a><h1>Haclait Benbecula Inverness-shire Scotland </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=geog&id=4216&term=Haclait Benbecula Inverness-shire Scotland " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW150-72&view=basic">Note about lays which John MacLellan knows </a> (1864-1874) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW90-17&view=basic">Reminder to 'See the old woman at Hacleit Mairearad NicLeoid for old songs' </a> (1867-1877) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW119-33&view=basic">Poem entitled 'A Mhuillearstach' and accompanying notes </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW119-51&view=basic">Story about Beinnvòr </a> (1872) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW119-52&view=basic">Story about Sithein a Bhealaich </a> (1872) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW111-76&view=basic">Note about Eilean an Du-chonnaidh </a> (1874) The Carmichael Watson Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

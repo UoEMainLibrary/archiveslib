@@ -1,0 +1,275 @@
+#!/home/cpan/bin/perl -w
+#
+# view_isad.pl
+#
+
+use strict;
+use XML::Twig;
+use Storable;
+use Fcntl;
+use MLDBM qw(DB_File Storable);         # DB_File and Storable
+
+
+# configuration section ####################################################
+
+my $repository_root = "/home/archives/catalogue_repository";
+my $docs_root = "/home/archives/catalogue_source_docs/docs";
+my $cat_root = "/home/archives/public_docs/catalogue";
+my $view_isad_url = "http://www.archives.lib.ed.ac.uk/catalogue/cs/viewcat.pl";
+
+############################################################################
+
+my $isad_root = "$repository_root/isad";
+
+my %form_data;
+my %idtable;
+tie %idtable, 'MLDBM', "$isad_root/idtable.mldbm", O_RDONLY, 0640 or die $!;
+
+undef $/;	# get entire files at once when reading
+
+# pull_CGI_args
+#
+# Standard CGI read stuff nicked from somewhere rather than take the 
+# overhead of the full CGI.pm
+#########################################################################
+
+sub pull_CGI_args {
+  my $my_data;
+  if($ENV{'REQUEST_METHOD'} eq "GET") { 
+    $my_data = $ENV{'QUERY_STRING'}; 
+  } else {
+    my $data_length = $ENV{'CONTENT_LENGTH'}; 
+    my $bytes_read = read(STDIN, $my_data, $data_length); 
+  } 
+  
+  my @name_value_array = split(/&/, $my_data); 
+  
+  # Here's where we do the actual work. We're going to cycle 
+  # through @name_value_array to decode the name=value pairs 
+  
+  foreach my $name_value_pair (@name_value_array)  { 
+    my ($name, $value) = split(/=/, $name_value_pair); 
+    $name =~ tr/+/ /; 
+    $value =~ tr/+/ /; 
+    $name =~ s/%(..)/pack("C",hex($1))/eg; 
+    $value =~ s/%(..)/pack("C",hex($1))/eg; 
+
+# Finally, we'll load the variables into an associative array 
+# so we can use it when we need it. 
+
+    if($form_data{$name}) { 
+      $form_data{$name} .= "\t$value"; 
+    } else { 
+      $form_data{$name} = $value; 
+    } 
+  } 
+}
+
+# main
+#
+#########################################################################
+
+&pull_CGI_args;
+
+my $id = $form_data{"id"} || die "no id specified";
+## my $view = $form_data{"view"} || die "no view specified";
+my $view = "basic";
+
+# load the master table mapping document IDs to location in the 
+# filesystem. Obtain the working directory and title of the document
+# being requested
+
+exists $idtable{$id} || die "key $id doesn't exist";
+my ($component_dir, $titletext, $lowdate, $highdate, $level) = @{$idtable{$id}};
+
+(($view eq "basic") || ($view eq "admin")) || die "invalid view";
+
+# print headers
+
+print "Content-type: text/html\n\n";
+
+open(HTML_INPUT, "$cat_root/includes/top_header.php");
+while (<HTML_INPUT>) {
+  print $_;
+}
+
+print "<title>Catalogue entry - $titletext</title>";
+
+open(HTML_INPUT, "$cat_root/includes/cat_header.php");
+while (<HTML_INPUT>) {
+  print $_;
+}
+
+open(HTML_INPUT, "$cat_root/includes/lower_header.php");
+while (<HTML_INPUT>) {
+  print $_;
+}
+
+if ($view eq "basic") {
+print "<table summary=\"layout\" border=\"0\" width=\"100%\"><tr><td valign=\"top\" width=\"50%\">";
+
+# print pre-built HTML body
+
+open(HTML_INPUT, "$isad_root/$component_dir/$view.html");
+while (<HTML_INPUT>) {
+  print $_;
+}
+
+if ($view eq "basic") {
+##  print <<EOF;
+##<tr><td colspan="2" valign="middle" class="viewlink"><p>
+##<a href="$view_isad_url?id=$id&view=admin">[View administrative information]</a>
+##</p>
+##</td></tr>
+##EOF
+} else {
+  print <<EOF;
+<tr><td colspan="2" valign="middle" class="viewlink"><p>
+<a href="$view_isad_url?id=$id&view=basic">[View descriptive information]</a>
+</p>
+</td></tr>
+EOF
+}
+print "</table>\n";
+
+close(HTML_INPUT);
+
+print "</td><td valign=\"top\">";
+# print navigation list 
+
+### start ancestors
+  my @ancestors = split /\//, $component_dir;
+  pop @ancestors;		# last member is current component
+
+# obtain a list of all subcomponents by listing subdirectories
+
+  opendir(COMPONENT_DIR, "$isad_root/$component_dir") or die "can't list directory: $!";
+  my @subcomponents = grep -d, map "$isad_root/$component_dir/$_", readdir COMPONENT_DIR;
+  closedir(COMPONENT_DIR);
+
+  shift @subcomponents;	# the first two directories listed are always
+  shift @subcomponents;	# the current and parent dirs . & ..
+
+	## starte form
+	print <<EOF;
+<div class="requestLink">
+<span class="requestHeader">Want to consult this?<br /></span>
+<form action="../request.php" method="GET">
+<input type="hidden" name="level" value="$level" />
+<input type="hidden" name="title" value="$titletext" />
+<input type="hidden" name="refid" value="$id" />
+<input type="hidden" name="warning" value=
+EOF
+
+if (scalar(@subcomponents) == 0) {
+print "1";
+}
+else {
+print "2";
+}
+
+print <<EOF;
+ />
+<input type="submit" value="Request" />
+</form>
+</div>
+EOF
+## end form
+
+	## sub1
+  unless (scalar(@ancestors) == 0) { #+1
+    my $count = 0;
+    print "<div class=\"ancestors\">\n";
+		print "<span class=\"ancestorsHeader\">Position within collection:<br /><br /></span>";
+		print "<div>\n";
+		
+		## sub2
+    foreach my $ancestor (@ancestors) { #2
+      print "&nbsp;&nbsp;&nbsp;&nbsp;" x $count;
+			if ($count > 0) {
+			print "<img src=\"/catalogue/graphics/folder.jpg\" alt=\"folder graphic\" />&nbsp;";
+			}
+      print "<a href=\"$view_isad_url?id=$ancestor&view=$view\">$idtable{$ancestor}[1]</a><br />\n";
+      $count++;
+    } #-2
+		##end sub2
+		
+      print "&nbsp;&nbsp;&nbsp;&nbsp;" x $count;
+			print "<img src=\"/catalogue/graphics/folder.jpg\" alt=\"folder graphic\" />&nbsp;";			
+			print"$titletext";
+		print "</div>\n";
+    print "</div>\n";
+  } #-1
+	## end sub 1
+	
+### end ancestors
+	
+
+
+# and print a list of links as subcomponents
+
+
+ ## sub 1
+ unless (scalar(@subcomponents) == 0) {
+		
+	  my $sc_titletext;
+    my $sc_ref;
+		my $sc_lowdate;
+    my $sc_highdate;
+		
+		print "<div class=\"descendants\">\n";
+		print "<span class=\"descendantsHeader\">Comprises or includes:<br /></span>\n";
+    print "<ul>\n";
+		## sub2
+    foreach my $subcomponent (@subcomponents) {
+    $subcomponent =~ s/.*\///;		# strip off path
+    $sc_titletext = @{$idtable{$subcomponent}}[1];
+		$sc_lowdate = @{$idtable{$subcomponent}}[2];
+    $sc_highdate = @{$idtable{$subcomponent}}[3];
+		$sc_ref = @{$idtable{$subcomponent}}[0];
+		
+		my @sc_subref = split(/-/, $sc_ref);
+		my $sub_r = $sc_subref[-1];
+      print "<li style=\"list-style:none;\">";
+      print "/$sub_r - <a href=\"$view_isad_url?id=$subcomponent&view=$view\">$sc_titletext</a> ($sc_lowdate";
+		 ## sub3
+     if ($sc_lowdate eq $sc_highdate) {
+     print ")" }
+ 		 else { 
+		 print "-$sc_highdate)" }
+     ## end sub3
+     print "</li>\n";
+    }
+		## end sub2
+    print "</ul>\n";
+		
+    print "</div>\n";
+}
+## end sub1
+## end subcomponents
+
+  if (-r "$docs_root/$id.shtml") {
+	print "<div class=\"docs\">";
+		print "<span class=\"docsHeader\">Supporting documents</span>";
+		open(HTML_INPUT, "$docs_root/$id.shtml");
+		while (<HTML_INPUT>) {
+  	print $_;
+		}
+	print "</div>";
+  }
+	
+#### create link for staff to use to access CMSys ##
+	print "<div class=\"staffonly\">";
+print "<form action=\"http://www.lib.ed.ac.uk/resources/collections/cmsys/content/cms.php\"><input type=\"hidden\" name=\"func\" value=\"locations\" /><input type=\"hidden\" name=\"view\" value=\"results_EUA\" /><input type=\"hidden\" name=\"refid\" value=\"$id\" /><input type=\"submit\" value=\"internal use only\" /></form>";
+print "</div>";
+###################################################
+	
+print "</td></tr></table>";
+}  #end if ($view eq "basic")
+
+
+open(HTML_INPUT, "$cat_root/includes/footer.php");
+while (<HTML_INPUT>) {
+  print $_;
+}
+

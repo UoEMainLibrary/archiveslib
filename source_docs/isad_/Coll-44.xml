@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-44">GB 237
+		Coll-44</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Pollock-Morris
+			 Correspondence. Letters of Professor Robert Jameson (1774-1854) </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-44">
+    <did>
+      <unittitle>Pollock-Morris
+			 Correspondence. Letters of Professor Robert Jameson (1774-1854) </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-44</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 1996/1-17 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Pollock-Morris Correspondence. Letters
+		  of Professor Robert Jameson (1774-1854) </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1812-1854">1812-1854 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>17 box
+		  files (1 linear metre). </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The mineralogist Robert Jameson was born in Leith on 11 July 1774. His
+		  early education was received in Leith and then he became the apprentice of a
+		  surgeon in Leith, with the aim of going to sea. He also attended classes at
+		  Edinburgh University, studying medicine, botany, chemistry, and natural
+		  history. By 1793, and influenced by the Professor of Natural History, John
+		  Walker (1731-1803), he abandoned medicine and the idea of being a ship's
+		  surgeon, and focused instead on science, particularly geology and mineralogy.
+		  Jameson was given the responsibility of looking after the University's museum.
+		  In 1793, he went to London, meeting naturalists and visiting museums to take
+		  notes. A visit to the Shetland Islands followed in 1794, to explore the
+		  geology, mineralogy, zoology and botany there. This led to the publication of 
+		The mineralogy of the Shetland Islands and of Arran, with an
+		  appendix containing observations on peat, kelp, and coal  (1798).
+		Earlier, in 1796, Jameson read two papers rejecting the vulcanist
+		interpretation of the formation of Earth that had been put forward by Edinburgh
+		geologist James Hutton (1726-1797). Hutton had propounded the theory that the
+		features of the Earth's crust were caused by natural processes over geologic
+		time; the principle of uniformitarianism. Instead, Jameson supported the ideas
+		of Abraham Gottlob Werner (1750-1817) who had proclaimed the aqueous origin of
+		rocks; that rocks were formed when immense quantities of minerals precipitated
+		out of the waters of the biblical flood. Other visits to the Scottish islands
+		in the north and west, and to Ireland, produced the two volume 
+		Mineralogy of the Scottish isles  (1800) which was a
+		fuller description of his views. In 1800, he spent a year at the mining academy
+		in Freiburg, Saxony, to study under Werner. He returned to Edinburgh in 1802.
+		On the death of Walker in 1803, Jameson was appointed Regius Professor of
+		Natural History and Keeper of the University Museum. Over his fifty year
+		tenure, he built up a huge collection of mineralogical and geological specimens
+		for the Museum, including fossils, birds and insects. Although he had been one
+		of the great exponents of Werner's geological tenets and founded the Wernerian
+		Natural History Society in 1808, Jameson afterwards admitted conversion to the
+		views of Hutton. He died in Edinburgh on 19 April 1854. Shortly after his
+		death, the University Museum was transferred to the Crown and became part of
+		the Royal Scottish Museum (now Royal Museum) in Edinburgh's Chambers Street.
+		</p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Jameson Letters in Gen. 1996/15-17, from other correspondents,
+		  hold a wide range of content, mostly in English, but some in German and French,
+		  on matters ranging from accounts and bills, the health of Abraham Gottlob
+		  Werner, Jameson's own health, specimens and catalogue of minerals,
+		  contributions to journals, and various introductions. Some of the letters are
+		  also about personal matters and plans. </p>
+    </scopecontent>
+    <descgrp>
+      <acqinfo encodinganalog="isadg(2)324">
+        <head>Immediate source of acquisition</head>
+        <p>Papers referred to as the Pollock-Morris collection of manuscripts
+		  were preserved by Mrs. Jane Catherine Pollock-Morris, the great-grand-niece of
+		  Robert Jameson. Pollock-Morris was the mother of Mrs. Seton Dickson of
+		  Symington, Ayrshire, owner of the Pollock-Morris MSS in the late-1960s, and who
+		  gifted several Jameson items to Edinburgh University Library. </p>
+      </acqinfo>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H44; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows papers and correspondence of Robert
+		  Jameson at Gen. 121-131, notebooks containing diaries of tours and
+		  mineralogical notes of walks at Dc.7.125-136. Other journals, notes, and
+		  letters of Professor Jameson are within Gen. 1999. </p>
+      </relatedmaterial>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

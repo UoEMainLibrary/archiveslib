@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0255 20010130 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0255</titleproper> 
+		  <subtitle>Watt | James | 1736-1819 | engineer</subtitle> 
+		  <author>Compiled for the NAHSTE project by Rachael Third, Edinburgh
+			 University Library Special Collections Division, 30 January 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020130">30 January 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0255</titleproper> 
+		<subtitle>Watt | James | 1736-1819 | engineer</subtitle> 
+		<author>Compiled for the NAHSTE project by Rachael Third, Edinburgh
+		  University Library Special Collections Division, 30 January 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020130">30 January 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0255"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0255</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0255" normal="Watt, James">Watt | James |
+		  1736-1819 | engineer</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>James Watt was born in Greenock in 
+			 <date normal="1736" type="single">1736</date>. In his late teens Watt
+			 went to London to learn to be a mathematical and philosophical instrument
+			 maker, and upon his return to Glasgow he got a job making instruments with the
+			 University of Glasgow, who gave him accommodation and a workshop. In 
+			 <date normal="1763" type="single">1763</date> John Anderson (<date
+			 type="life-span" normal="1726/1796">1726-1796</date>) asked him to repair an
+			 early steam engine he had acquired. This early model, known as a Newcomen
+			 engine, was very inefficient, wasting a lot of time and fuel. Two years later,
+			 he discovered the reason for the waste of power and hit upon the idea of
+			 condensing the steam in a separate vessel. This removed the need for heating
+			 and cooling, making the engine faster, safer, and more fuel-efficient. In 
+			 <date normal="1769" type="single">1769</date> he patented his steam
+			 engine.</p> 
+		  <p> Between 
+			 <date normal="1775/1800" type="inclusive">1775-1800</date> Watt was
+			 in partnership with Matthew Boulton (<date normal="1728/1809"
+			 type="life-span">1728-1809</date>), a Birmingham engineer, producing engines
+			 based on Watt's new model, at Soho Engineering Works in Birmingham. Engineers
+			 from all the industrialised countries flocked to see their factories. Watt's
+			 engines were initially used for pumping water from Cornish tin and copper
+			 mines. Later, the new cotton mills, which had been built near fast-flowing
+			 rivers to take advantage of water power, almost all switched to steam.
+			 Gradually, mills began to move toward the centres of population. At first,
+			 steam power was used mainly for spinning, but eventually weaving was also
+			 powered by steam engine. By 
+			 <date normal="1819" type="death">1819</date>, the year of Watt's
+			 death, there were 18 steam weaving factories in Glasgow, with 2800 looms.</p> 
+		  <p>Apart from his steam research, which he originally carried out in
+			 the grounds of Kinneil House near Linlithgow, Watt was involved in many other
+			 projects. He solved the problem of how to convert the up-and-down piston
+			 movement to rotary movement (so that engines could power looms, bellows, and
+			 other mechanical devices), he created the term "horsepower", and also invented
+			 the rev. counter, a machine for copying sculpture, and a letter copying press
+			 (a very early photocopier!) In 
+			 <date normal="1882" type="single">1882</date>, 63 years after Watt's
+			 death, the British Association gave his name to the unit of electrical power -
+			 and today James Watt's name is to be found written on almost every light bulb
+			 in the world.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>James Watt became a close colleague of both Joseph Black (<date
+			 normal="1728/1799" type="life-span">1728-1799</date>) and John Robison (<date
+			 normal="1739/1805" type="life-span">1739-1805</date>). He corresponded very
+			 frequently with scientific men in France, and Antoine Laurent Lavoisier and
+			 Comte Claude Louis Berthollet (<date normal="1748/1822"
+			 type="life-span">1748-1822</date>) were among his closest acquaintances.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>none</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1784">1784</date>: Elected
+			 Fellow, Royal Society of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1785">1785</date>: Elected
+			 Fellow, Royal Society of London</p> 
+		  <p><date type="single" normal="1806">1806</date>: Elected Honorary
+			 Doctor of Law, University of Glasgow</p> 
+		  <p><date type="appointmentdate" normal="1808">1808</date>: Elected
+			 Member, Institute of France</p> 
+		  <p><date type="appointmentdate" normal="1814">1814</date>: Elected
+			 Foreign Associ&#x00C3;&#x00A9;, Acad&#x00C3;&#x00A9;mie des Sciences</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><corpname normal="Oxford University Press"
+			 authfilenumber="1553">Oxford University Press</corpname>, <title>The Concise
+			 Dictionary of National Biography</title>, (<imprint><geogname source="lcsh"
+			 authfilenumber="483" normal="New York (New York, United States)">New
+			 York</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			 certainty="certain">1992</date>)</imprint></bibref> </p> 
+		  <p><bibref><persname role="editor" normal="Lee, Sidney">Sidney
+			 Lee</persname>, <title>The Concise Dictionary of National Biography,
+			 Vol.XX</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1909"
+			 certainty="certain">1909</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Encyclopaedia Britannica, Volume 12</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication"
+			 normal="1964">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Third, Rachael">Rachael Third</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020130">30 January
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

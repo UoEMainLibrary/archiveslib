@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4657</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-06-16">16 June 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Lynne Bulmer</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>22 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1828 birth certificate for Alness, Inverness-shire</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Birth certificate 1828 057/0020 0045</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1856 Statutory marriage certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Statutory marriage certificate 1856 081/00
+                            0014</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Rosskeen </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 081/00 007/00 029</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Rosskeen </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 081/00 007/00 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Rosskeen </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 081/00 007/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1891 census for Rosskeen </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 081/00 007/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1901 census for Rosskeen </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1901 081/00 007/00 021 </span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1907 081/00 0054</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW116/15</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4657</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Cameron</part>
+                <part localType="given">John</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Shoemaker, Rosskeen, Ross-shire</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1828-12-17">17 December 1828</fromDate>
+                    <toDate standardDate="1907-10-11">11 October 1907</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>John Cameron was the son of John Cameron, crofter, and Mary Cameron née Cameron.
+                    Throughout his life he worked as a master shoemaker in Rosskeen, Ross-shire. In
+                    1856 he married Ann Mackenzie and at the time of the 1881 census they had eight
+                    children. </p>
+                <p>He died in 1907 and his daughter Mary McKenzie witnessed the certificate. </p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1828-12-17">17 December 1828</date>
+                        <placeEntry>Bridgend, Alness, Inverness-shire</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1828-12-17">15 August 1856</date>
+                        <placeEntry>Bridgend, Alness, Inverness-shire</placeEntry>
+                        <event>marriage</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1907-10-11">11 October 1907</date>
+                        <placeEntry>Rosskeen, Ross-shire</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

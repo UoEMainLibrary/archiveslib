@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1004 20020528 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1004</titleproper> 
+		  <subtitle>Nisbet | Hugh Bryan | 1902-1969 | principal of Heriot-Watt
+			 University</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 28 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020528">28 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1004</titleproper> 
+		<subtitle>Nisbet | Hugh Bryan | 1902-1969 | principal of Heriot-Watt
+		  University</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 28 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020528">28 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1004"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1004</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1004" normal="Nisbet, Hugh Bryan">Nisbet | Hugh
+		  Bryan | 1902-1969 | principal of Heriot-Watt University</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Hugh Bryan Nisbet (<date type="life-span"
+			 normal="1902/1969">1902-1969</date>), an organic chemist and principal of
+			 Heriot-Watt College, was born and brought up in Edinburgh, where he attended
+			 George Heriot's School, then studied at Heriot-Watt College, where he gained
+			 the qualifications of associate, B.Sc, Ph.D and D.Sc. He also spent a period in
+			 Graz and Vienna (Austria) studying organic chemistry with experts in the field,
+			 including Fritz Pregl, winner of the 
+			 <date type="single" normal="1923">1923</date> Nobel Prize for
+			 Chemistry and Herbert Feigl (<date type="life-span"
+			 normal="1902/1988">1902-1988</date>).</p> 
+		  <p>His scientific work, on which he based many papers, dealt mainly
+			 with pyrazoline local anaesthetics, analytical problems and investigations of
+			 pyridine bases in shale oil and coal tar. His entire academic career was spent
+			 at Heriot-Watt College. He held a number of positions within the department of
+			 chemistry, rising to become professor in 1946. He was appointed principal on
+			 James Cameron Smail's (<date type="life-span"
+			 normal="1880/1970">1880-1970</date>) retirement in 
+			 <date type="single" normal="1950">1950</date>.</p> 
+		  <p>As principal, he continued the expansion policy of his predecessor,
+			 which had been suspended during the war years. The reforms of the college led
+			 to it being granted university status by the government in 
+			 <date type="single" normal="1966">1966</date>, the year of his
+			 departure from the principal's post. When the college became Heriot-Watt
+			 University, Nisbet became vice-chancellor, a position he held only for a short
+			 while before retiring in 
+			 <date type="single" normal="1967">1967</date>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p>None</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1921">1921</date>: Appointed
+			 Demonstrator in Chemistry, Heriot-Watt College</p> 
+		  <p><date type="appointmentspan" normal="1924/1946">1924-1946</date>:
+			 Appointed Lecturer in Applied Chemistry, Heriot-Watt College</p> 
+		  <p><date type="single" normal="1934">1934</date>: Awarded Doctor of
+			 Philosophy (Ph.D) degree, Heriot-Watt College and the University of
+			 Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1940">1940</date>: Elected
+			 Fellow of the Royal Society of Edinburgh</p> 
+		  <p><date type="chairspan" normal="1946/1950">1946-1950</date>:
+			 Appointed Professor of Chemistry, Heriot-Watt College</p> 
+		  <p><date type="appointmentspan" normal="1950/1966">1950-1966</date>:
+			 Appointed Principal of Heriot-Watt College</p> 
+		  <p><date type="appointmentspan" normal="1955/1958">1955-1958</date>:
+			 Elected Vice-President of the Royal Society of Edinburgh</p> 
+		  <p><date type="single" normal="1963">1963</date>: Awarded Commander of
+			 the order of the British Empire (CBE)</p> 
+		  <p><date type="appointmentdate" normal="1964">1964</date>: Appointed
+			 Vice-Chairman, Scottish Technical Education Consultative Council</p> 
+		  <p><date type="single" normal="1964">1964</date>: Awarded Royal
+			 Norwegian Order of St Olav</p> 
+		  <p><date type="appointmentspan" normal="1966/1967">1966-1967</date>:
+			 Appointed Vice-Chancellor of Heriot-Watt University</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><corpname
+			 normal="Open University, Department of the History of Science and Technology">Open
+			 University, Department of the History of Science, Technology and
+			 Medicine</corpname>, <title>Biographical Database of British Chemists</title>,
+			 (<extref
+			 href="http://www5.open.ac.uk/Arts/chemists/person.cfm?SearchID=3882">http://www5.open.ac.uk/Arts/chemists/person.cfm?SearchID=3882</extref>, 
+			 <imprint><publisher>The Open University</publisher>, 
+			 <date type="publication" normal="2002"
+			 certainty="certain">2000</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Year Book of the Royal Society of Edinburgh
+			 1971-1972, Sessions 1969-1971</title>, (<imprint><geogname source="lcsh"
+			 authfilenumber="517" normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Royal Society of Edinburgh</publisher>, 
+			 <date type="publication" normal="1972"
+			 certainty="certain">1972</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Who's Who 1968-1969</title>, <imprint><geogname
+			 source="lcsh" authfilenumber="483"
+			 normal="New York (New York, United States">New York</geogname>, 
+			 <publisher>St Martin's Press</publisher>, 
+			 <date type="publication" normal="1967"
+			 certainty="certain">1967</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020528">28 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

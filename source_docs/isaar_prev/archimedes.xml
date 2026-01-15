@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"></aarid> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1090 20020423 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1090</titleproper> 
+		  <subtitle>Archimedes, of Syracuse</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 23 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020423">23 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1090</titleproper> 
+		<subtitle>Archimedes, of Syracuse</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 23 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020423">23 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1090"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1090</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1090"
+		 normal="Archimedes of Syracuse">Archimedes, of Syracuse</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Archimedes of Syracuse (<date type="life-span"
+			 normal="-292/-217">c287-212 BC</date>) was a mathematician and inventor. His
+			 father was Pheidias, an astronomer, of which we know nothing. While he is
+			 famous now, as he was then, largely because of his inventions, it is reported
+			 that he despised invention as being less "pure" than geometry, and he never
+			 wrote about his creations. Little is known about his life, though he is
+			 described by some as having been a relative - by others as a close friend - of
+			 Hiero (or Hieron) II, King of Syracuse, who employed him as a tutor to his son.
+			 He almost certainly spent a part of his life studying in Alexandria - where he
+			 is thought to have played an important role in the development of Euclidian
+			 mathematics. It is probably here that he met Conon of Samos, who he remained in
+			 correspondence with as a personal as well as professional friend.</p> 
+		  <p>Among the inventions he is credited with is the Screw of Archimedes,
+			 an early type of pump he is thought to have created when in Alexandria, which
+			 is still used in traditional agriculture in some areas of the world. He is also
+			 - almost certainly apocryphally - said to have installed an arrangement of
+			 mirrors on the city defences of Syracuse which set fire to attacking Roman
+			 ships. He is believed to have invented the compound pulley as a way of
+			 demonstrating the possibility of moving very large masses - he bragged that,
+			 moved to a position outside the Earth, he could move the entire planet without
+			 difficulty. More famously (though also less probably), he is said to have
+			 thought of a way of proving King Hiero II had been cheated when supplied with a
+			 new crown, by comparing the mass and volume of a block of pure gold of equal
+			 mass with the crown. By showing the crown had a larger volume than the equally
+			 massive block of gold, so the story goes, he proved that a metal with a lower
+			 density had been added to the gold. While the story is improbable, it may
+			 relate to one of his real achievements, the elucidation of Archimedes' Law,
+			 which explains the change in weight due to buoyancy experienced by objects
+			 submerged in water.</p> 
+		  <p>He wrote a number of books, ten of which have survived largely
+			 intact. These deal mostly with geometrical problems - particularly centres of
+			 gravity of solids, studies of spheres and conical sections, spirals and other
+			 mathematical matters. Among his propositions, particularly interestingly, are
+			 an approximation of 'pi' - which he reached after circumscribing and inscribing
+			 a circle with two 96-sided polygons, an explanation of the law of levers, a
+			 foundation for theoretical mechanics, a means of accurately approximating
+			 square roots of large numbers, a precursor to Newton and Leibniz's calculus and
+			 a proposed system of numbering for large figures which went high enough -
+			 8x10^16 in modern notation - to count to a higher number than the number of
+			 grains of sand that would fill the universe - or so Archimedes believed.</p> 
+		  <p>Archimedes' work the <bibref><title>Sandreckoner</title></bibref>,
+			 in which he introduces his number system, is of historical interest, because it
+			 contains an early reference to Aristarchus' heliocentric system and uses
+			 results of Phidias (his father) and Eudoxus to determine the size of the
+			 universe. It is dedicated to Gelo (Gelon), King Hiero's son. In his book, the
+			 <bibref><title>Method</title></bibref>, Archimedes explains his scientific
+			 methods to the reader, and is a unique document, detailing how one of the
+			 greatest minds of the classical world worked. In <bibref><title>On the Sphere
+			 and the Cylinder</title></bibref>, which he considered to be his most important
+			 work, Archimedes proves that a sphere's surface area is two thirds that of the
+			 circumscribing cylinder (including bases) and a sphere's volume is two thirds
+			 that of a circumscribing cylinder.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Archimedes was the son of astronomer Pheidias. He had a close
+			 relationship with astronomer and mathematician Conon of Samos.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>On Plane Equilibria or Centres of Gravity of
+			 Planes</title></bibref></p> 
+		  <p><bibref><title>On the Sphere and the Cylinder</title></bibref></p> 
+		  <p><bibref><title>On Spirals</title></bibref></p> 
+		  <p><bibref><title>On Floating Bodies</title></bibref></p> 
+		  <p><bibref><title>The Sandreckoner</title></bibref></p> 
+		  <p><bibref><title>Method</title></bibref></p> 
+		  <p><bibref><title>On Conoids and Spheroids</title></bibref></p> 
+		  <p><bibref><title>A Collection of Lemmas</title></bibref></p> 
+		  <p><bibref><title>The Quadrature of Parabola</title></bibref></p> 
+		  <p><bibref><title>The Measurement of the Circle</title></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>None known</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Encyclopaedia Britannica vol II</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London (England)</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1976"
+			 certainty="certain">1976</date>)</imprint></bibref> </p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			 role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of scientific biography, vol II</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970"
+			  certainty="certain">1970</date>)</imprint></bibref></p> 
+		  <p><bibref><corpname source="ncarules"
+			 normal="University of St Andrews" role="author">University of St
+			 Andrews</corpname>, <title>Archimedes of Syracuse</title>, (<extref
+			 href="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Archimedes.html">http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Archimedes.html</extref>,
+			 <imprint><publisher>University of St Andrews</publisher>, 
+			 <date type="publication" certainty="certain" normal="199901">January
+				1999</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020423">23 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

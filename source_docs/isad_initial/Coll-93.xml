@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-93"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-93</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Professor R. L. G. Ritchie (1880-1954) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-93</unitid>
+		
+		<physloc>Dk.2.25-35 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Professor R. L. G. Ritchie
+		  (1880-1954) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260" normal="1916">circa
+		  1916 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>12 boxes.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Robert Lindsay Graeme Ritchie was born in Glasgow on 16 November 1880.
+		  He was educated at Aberdeen Grammar School and then at Aberdeen University
+		  where he was awarded the degree of M.A. in 1904. He also studied at Strasbourg
+		  University in 1903. Between 1904 and 1908, Ritchie was in Paris at the Ecole
+		  des Hautes Etudes. He was Lecturer in French at Edinburgh University between
+		  1909 and 1919. Ritchie became Professor of French Language and Literature at
+		  Birmingham University in 1919 and in 1946 he became Professor of French at
+		  University College, Exeter. His publications include 
+		<title>France: a companion to French studies </title> (1937), 
+		<title>Chretien de Troyes and Scotland </title> (1952), and 
+		<title>The Normans in Scotland </title> (1954). Robert Lindsay Graeme
+		Ritchie died on 10 April 1954. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The papers of Professor Ritchie consist mainly of material relating to
+		  a projected work on the French element in Scots. The collection is composed of
+		  general and introductory material, notes on purely Scots words, material on
+		  phonology, a glossary, a bibliography, and unworked notes on French loanwords
+		  and personal names. There is also material on Arthurian studies. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) 
+		  <title>Who was who </title>, Vol.5. 1951-1960 (London: Adam and Charles
+		  Black, 1961). </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Ritchie</emph> <emph altrender="forename">Robert Lindsay
+		  Graeme</emph> <emph altrender="dates">1880-1954</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">University of
+		  Birmingham</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">University of
+		  Exeter</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">French language</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">French literature</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Scots language</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

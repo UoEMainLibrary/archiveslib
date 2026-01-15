@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0469 20020507 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0469</titleproper> 
+		  <subtitle>Balfour | Sir | Isaac Bayley | 1853-1922 | professor of
+			 botany, University of Edinburgh and regius keeper of the Royal Botanic Gardens,
+			 Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 07 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020507">07 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance froBalfourm Pete Johnston, Lesley Richmond and
+		  Moira Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0469</titleproper> 
+		<subtitle>Balfour | Sir | Isaac Bayley | 1853-1922 | professor of botany,
+		  University of Edinburgh and regius keeper of the Royal Botanic Gardens,
+		  Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 07 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020507">07 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0469"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0469</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0469"
+		 normal=" Balfour, Sir, Isaac Bayley">Balfour | Sir | Isaac Bayley | 1853-1922 |
+		  professor of botany, University of Edinburgh and regius keeper of the Royal
+		  Botanic Gardens, Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir Isaac Bayley Balfour (<date type="life-span"
+			 normal="1853/1922">1853-1922</date>) lived very much in the footsteps of his
+			 father, John Hutton Balfour (<date type="life-span"
+			 normal="1808/1884">1808-1884</date>), who, like him, was a botanist of some
+			 repute. Isaac Bayley Balfour was educated at the Edinburgh Academy, where,
+			 despite a promising start, he made very little impression as a pupil. This was
+			 because his interests and abilities were in the biological sciences, which were
+			 taught to him by his father, rather than the classics that were taught at
+			 school. Because of his father's post as Professor of Botany, the young Balfour
+			 was able to visit the Edinburgh Botanical Gardens, not open to the public at
+			 the time. This ready access to botany appears to have shaped Balfour's career.
+			 Balfour studied at the University of Edinburgh, from which he graduated with
+			 first class honours in 
+			 <date type="single" normal="1873">1873</date>, and at the
+			 universities in W&#x00C3;&#x00BC;rzburg and Strassburg (Strasbourg).</p> 
+		  <p>Another formative experience in Balfour's life was his participation
+			 in the astronomical expedition of 
+			 <date type="single" normal="1874">1874</date> to Rodriguez. Though
+			 the stated aim of the mission was to observe Venus, Balfour used the
+			 opportunity to investigate the local flora, and on his return, the fieldwork he
+			 had carried out permitted him to gain his doctorate. When, in 
+			 <date type="aingle" normal="1879">1879</date>, his father resigned
+			 the chair at Edinburgh, Glasgow professor Alexander Dickson (<date
+			 type="life-span" normal="1836/1887">1836-1887</date>) was appointed in his
+			 place, and the younger Balfour was promoted to the chair of botany in Glasgow.
+			 In 
+			 <date type="chairdate" normal="1884">1884</date>, he was appointed
+			 Sherardian Professor of Botany at the University of Cambridge. It was, however,
+			 after his return to Edinburgh to take up his father's old chair that Balfour
+			 left his mark. His father had greatly enlarged the botanical gardens during his
+			 tenure, but Balfour completely transformed them. Having put their finances on a
+			 safer footing by transferring them to the crown, Balfour engaged himself in a
+			 major reform of the gardens, establishing a proper botanical institute, and
+			 largely redeveloping the layout of the gardens in order to have a proper
+			 arboretum, building new laboratories and improving scientific facilities.</p> 
+		  <p>Much of Balfour's research centred on his major interest of China
+			 and the Himalayas, and he was particularly knowledgeable about Rhododendrons
+			 and Primulas. However, his real skill was in organisation, and he thoroughly
+			 changed for the better the study of botany in the three departments he
+			 chaired.</p> 
+		  <p>Balfour produced a number of papers during his career, but he did
+			 not publish any books.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Isaac Bayley Balfour was the son of botanist John Hutton Balfour
+			 (<date type="life-span" normal="1808/1884">1808-1884</date>).</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>None</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1873">1873</date>: Awarded Batchelor of
+			 Science degree (BSc) with first class honours, University of Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1873/1878">1873-1878</date>:
+			 Appointed Lecturer in Botany, Royal Veterinary College, Edinburgh</p> 
+		  <p><date type="single" normal="1875">1875</date>: Awarded Doctor of
+			 Science degree (DSc), University of Edinburgh</p> 
+		  <p><date type="single" normal="1877">1877</date>: Awarded Batchelor of
+			 Medicine, Batchelor of Surgery degree (MB,CM), University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1877">1877</date>: Elected
+			 Fellow of the Royal Society of Edinburgh</p> 
+		  <p><date type="chairdate" normal="1879">1879</date>: Appointed
+			 Professor of Botany, University of Glasgow</p> 
+		  <p><date type="single" normal="1884">1884</date>: Awarded Master of
+			 Arts degree (MA), University of Oxford</p> 
+		  <p><date type="appointmentdate" normal="1884">1884</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1884">1884</date>: Appointed
+			 Professor of Botany, University of Oxford</p> 
+		  <p><date type="single" normal="1897">1897</date>: Awarded Victoria
+			 Medal of Honour, Royal Horticultural Society</p> 
+		  <p><date type="single" normal="1901">1901</date>: Awarded Doctor of
+			 Laws degree (LLD), University of Glasgow</p> 
+		  <p><date type="single" normal="1919">1919</date>: Awarded Linnean Medal
+			 of the Linnean Society</p> 
+		  <p><date type="single" normal="1921">1921</date>: Awarded Honorary
+			 Doctor of Laws degree (LLD), University of Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname role="editor"
+			 normal="Gillispie, Charles C">Gillispie, Charles C</persname><title>Dictionary
+			 of Scientific Biography, vol I</title>(<imprint><geogname
+			 normal="New York (N.Y., United States)" authfilenumber="483" source="lcsh">New
+			 York</geogname>,<publisher>Scribner's</publisher>,<date type="publication"
+			 normal="1970">1970</date>)</imprint></bibref> </p> 
+		  <p> <bibref> <corpname normal="Royal Society" role="editor">Royal
+			 Society</corpname>, <title render="italic">Proceedings of the Royal Society of
+			 London, Series B, vol. 96</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Harrison &amp; Sons</publisher>, 
+			 <date type="publication" normal="1924"
+			  certainty="certain">1924</date>)</imprint></bibref></p> 
+		  <p><bibref><persname source="ncarules" normal="Turner, A Logan"
+			 role="editor">A Logan Turner</persname>, <title>The History of the University
+			 of Edinburgh</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Oliver and Boyd</publisher>, 
+			 <date type="publication" normal="1933"
+			  certainty="certain">1933</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020507">07 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,36 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Social Interaction</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/s/">s</a><h1>Social Interaction</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=192&term=Social Interaction" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="821">
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2607&view=basic">Letter to Dr Mary Gardner Grierson from Sophie Weisse </a> (1938) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2605&view=basic">Letter to Dr Mary Gardner Grierson from Sophie Weisse </a> (1938) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1061&view=basic">Letter to Sir Donald Francis Tovey from Sir Walford Davis </a> (1938) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L866&view=basic">Postcard to Donald Tovey from Ernest Walker </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1011&view=basic">Letter to Sir Donald Francis Tovey from Erik Chisholm </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1408&view=basic">Letter to Sir Donald Francis Tovey from A. Middleton </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1&view=basic">Letter to Sir Thomas Henry Wait Armstrong from Sir Donald Francis Tovey </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2606&view=basic">Letter to Dr Mary Gardner Grierson from Sophie Weisse </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L17&view=basic">Letter to Robert Bruce from Sir Donald Francis Tovey </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1982&view=basic">Letter to Sir Donald Francis Tovey from [Sofia Murller] </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L702&view=basic">Letter to Sir Donald Francis Tovey from Sir Thomas Henry Wait Armstrong </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L1921&view=basic">Letter to Sir Donald Francis Tovey from Sophie Weisse </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L907&view=basic">Letter to Sir Donald Francis Tovey from Pablo Casals </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2197&view=basic">Letter to Robert Calverley Trevelyan from Charles Guthrie </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L320&view=basic">Letter to Mary Gardner Grierson from Sir Donald Franics Tovey </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L704&view=basic">Letter to Sir Donald Francis Tovey from Sir Thomas Henry Wait Armstrong </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L703&view=basic">Letter to Sir Donald Francis Tovey from Sir Thomas Henry Wait Armstrong </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2041&view=basic">Letter to Sophie Weisse from Fanny Behrens </a> (1940) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2096&view=basic">Postcard to Hubert James Foss from Thomas Harold Hunt Craxton </a> (1940) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2029&view=basic">Letter to Clara Tovey from Mary Beasley </a> (1940) Papers of Sir Donald Francis Tovey</li>
+</ul>
+<a href="801.shtml">Previous</a>
+<a href="841.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

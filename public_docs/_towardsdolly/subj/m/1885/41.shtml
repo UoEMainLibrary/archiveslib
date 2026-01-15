@@ -1,0 +1,22 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Milk Yield</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/m/">m</a><h1>Milk Yield</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=1885&term=Milk Yield" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="41">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-434&view=basic">The value of indicator traits in the genetic improvement of dairy cattle </a> (1988) Roslin Offprints and Related Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-967&view=basic">The effect of genetic selection for milk yield on the response to growth hormone secretagogues in immature cattle </a> (1991) Roslin Offprints and Related Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1077&view=basic">Physiological attributes of male and juvenile cattle differing in genetic merit for milk yield: a review </a> (1991) Roslin Offprints and Related Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1279&view=basic">Genetic parameters of test day records of British Holstein-Friesian heifers </a> (1992) Roslin Offprints and Related Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1331&view=basic">Univariate and multivariate parameter estimates for milk production traits using an animal model. II: Efficiency of selection when using simplified covariance structures </a> (1992) Roslin Offprints and Related Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1333&view=basic">Univariate and multivariate parameter estimates for milk production traits using an animal model. I: Description and results of REML analyses </a> (1992) Roslin Offprints and Related Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1223&view=basic">Estimation of variances and covariances of milk traits by REML with an individual animal model </a> (1992) Roslin Offprints and Related Papers</li>
+</ul>
+<a href="21.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

@@ -1,0 +1,18 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Heifers</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/h/">h</a><h1>Heifers</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4564&term=Heifers" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-779&view=basic">Effects of chronic treatment with a potent GnRH agonist on peripheral FSH concentrations and ovarian follicle development in heifers </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-780&view=basic">Evolution of the requirement for FSH and LH during ovarian follicle growth and development in cattle </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-782&view=basic">Pretreatment with recombinant bovine somatotropin enhances the superovulatory response to FSH in heifers </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

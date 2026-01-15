@@ -1,0 +1,2 @@
+cd bin/catalogue
+./catalogue_build_repository

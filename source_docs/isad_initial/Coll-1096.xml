@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1096">GB
+		237 Coll-1096</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of Thomas Hume (fl.1873-1875), Surgeon, and Andrew
+			 Crawford Hume (d. 1970)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20060811" certainty="certain">11 August
+			 2006</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1096"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1096</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2006.27</physloc><unittitle
+		encodinganalog="isadg(2)312">Papers of Thomas Hume (fl.1873-1875), Surgeon, and
+		  Andrew Crawford Hume (d. 1970)</unittitle><unitdate normal="yyyy/yyyy"
+		encodinganalog="isadg(2)313">1873-1927</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 box </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language>;
+		  <language langcode="lat">Latin</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Hume, Andrew Crawford</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>Mr. Andrew Crawford Hume was born circa 1903. He obtained his
+		  qualification to practice as a Veterinary Surgeon in 1927. Latterly Hume had
+		  lived and practiced in Weybridge, Surrey, England, and had been a partner in
+		  the firm Hume, Crittall and Westaway. He retired circa 1966. Mr. Andrew
+		  Crawford Hume MRCVS died at Weybridge Hospital in the spring of 1970. His
+		  funeral took place at Randalls Park Crematorium and Cemetery, Leatherhead.</p> 
+		<p>Thomas Hume may have been born in the mid-19th century (late-1840s or
+		  mid-1850s). He obtained surgical qualifications from Edinburgh University in
+		  1873 (M.B.). The following year in 1874 he was appointed as a surgeon in the
+		  army. He became a surgeon with the Indian Medical Service. he was also a Fellow
+		  of the Botanical Society, Edinburgh. His publications include 
+		<title>Jail hygiene in India</title>, published in Calcutta, 1881, and 
+		<title>Vaso-motor diseases in India</title>, 1879.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The collection contains: 
+		  <list> 
+			 <item>1 x degree certificate in the name of Andrew Crawford
+				Hume</item> 
+			 <item>4 x degree/certificates in the name of Thomas Hume</item> 
+			 <item>1 tool-bound volume containing 
+				<title>Jail hygiene in India</title>, published in Calcutta, 1881,
+				and 
+				<title>Vaso-motor diseases in India</title>, 1879, which was owned
+				by A. Hume aboard 'HMS Marathon', Bombay, Sept. 1891</item> 
+		  </list></p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Accessioned August 2006, Accession no: E2006.27.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance of visit.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared for this collection.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using material
+			 contained within the collection.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D. Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph
+			 altrender="a">Veterinarians</emph></subject> 
+		  <subject source="lcsh"><emph altrender="a">Surgeons</emph></subject>
+		  <subject source="lcsh"><emph altrender="a">Degrees,
+			 Academic</emph></subject>
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph altrender="surname">Hume</emph><emph
+			 altrender="title"></emph><emph altrender="forename">Andrew Crawford</emph><emph
+			 altrender="dates">d. 1970</emph><emph altrender="epithet">Veterinary
+			 Surgeon</emph></persname> 
+		  <persname rules="ncarules"><emph altrender="surname">Hume</emph><emph
+			 altrender="title"></emph><emph altrender="forename">Thomas</emph><emph
+			 altrender="dates">(fl.1873-1875)</emph><emph
+			 altrender="epithet">Surgeon</emph></persname>
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE384"> 
+		  <head>Places</head>		  
+		  <!-- LCSH -->
+		  <geogname source="lcsh"><emph altrender="a">India</emph></geogname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

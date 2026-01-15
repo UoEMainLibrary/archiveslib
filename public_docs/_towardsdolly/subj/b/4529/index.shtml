@@ -1,0 +1,22 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Blood proteins</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/b/">b</a><h1>Blood proteins</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4529&term=Blood proteins" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-41&view=basic">Observations on the 'non-protein nitrogen' of fowl's blood </a> (1957) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-245&view=basic">Plasma protein levels and physiological state in Brown Leghorn hens </a> (1962) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-318&view=basic">The relationship of egg-laying to changes in the plasma proteins of the domestic fowl </a> (1963) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-6&view=basic">A new transferrin allele in sheep </a> (1986) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-288&view=basic">Selecting broilers for high or low plasma VLDL concentration: comparison of in vivo lipogenesis between fat and lean lines </a> (1988) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-280&view=basic">Line-specific expression patterns of a compound foreign gene with a MUP promoter and a HSV thymadine kinase reporter in tissues of transgenic mice </a> (1988) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-286&view=basic">Insulin-like growth factor binding proteins in chicken serum </a> (1988) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-290&view=basic">Genetics of atherosclerosis and plasma lipoproteins in mice </a> (1988) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-Baillie-P2366 20030523 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 Baillie P2366</titleproper> 
+		  <subtitle>Baillie | Peter | 1889-1914 | Scottish missionary
+			 doctor</subtitle> 
+		  <author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+			 University Library Special Collections Division, 23 May 2003</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20030523">23 May 2003</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>ENG</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 Baillie P2366</titleproper> 
+		<subtitle>Baillie | Peter | 1889-1914 | Scottish missionary
+		  doctor</subtitle> 
+		<author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+		  University Library Special Collections Division, 23 May 2003</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20030523">23 May 2003</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-Baillie-P2361"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 Baillie P2366</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 Baillie P2366" normal="Baillie, Peter">Baillie | Peter
+		  | 1889-1914 | Scottish missionary doctor</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Peter Baillie was born in 1889, the son of Rev John Baillie, Free
+			 Church Minister of Gairloch, and his wife Annie Macpherson. He was educated at
+			 Inverness Royal Academy and then at George Watson's College. Entering Edinburgh
+			 University in 1907, he graduated with a M.B., Ch.B. in 1912. For many years he
+			 was a member of the Philomathic Society and became its President in 1911.</p> 
+		  <p>He was senior house surgeon at Mildmay Mission Hospital, London, for
+			 six months and in January 1914 he left Britain for Jalna, India, taking up a
+			 post to which he had been appointed by the Foreign Mission Committee of the
+			 United Free Church. He was ordained as a missionary elder of Langside Hill
+			 United Free Church, Glasgow, prior to his departure. On 16 May 1914, some time
+			 after arriving in India, Peter attended a language course at Mahableshwar,
+			 where he was the victim of an accidental drowning.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Peter Baillie's father was John Baillie, Free Church Minister at
+			 Gairloch. One brother was John Baillie (1886-1960), the internationally
+			 reknowned theologian, the other, Donald Macpherson Brother was Chair of
+			 Systematic Theology at the University of St. Andrews. His cousin was Sir Duncan
+			 Colvin Baillie (1856-1919), colonial administrator.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>None</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1911" certainty="certain">1911</date>:
+			 President of the Philomatic Society, University of Edinburgh</p> 
+		  <p><date type="single" normal="1912" certainty="certain">1912</date>:
+			 M.B., Ch.B., University of Edinburgh</p> 
+		  <p><date type="single" normal="1913" certainty="certain">1913</date>:
+			 Senior House Surgeon, Mildmay Mission Hospital, London</p> 
+		  <p><date type="single" normal="1914" certainty="certain">1914</date>:
+			 [medical position], Foreign Misission Committee of the United Free Church of
+			 Scotland</p> 
+		  <p><date type="single" normal="1914" certainty="certain">1914</date>:
+			 Missionary Elder, Langside United Free Church, Glasgow</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>None.</p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref><corpname
+			 normal="National Council on Archives">National Council on Archives</corpname>
+			 <title>Rules for the Construction of Personal, Place and Corporate Names (NCA
+			 Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persona and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Buttars, Grant">Grant Buttars</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020523">23 May
+				2003</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

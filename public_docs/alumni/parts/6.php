@@ -1,0 +1,83 @@
+<?php 	 $view = $_GET['view'];
+   		 $subview = $_GET['subview'];
+		 $imgid = $_GET['id'];
+		 $year = $_GET['year'];
+		 $image = $_GET['image'];
+		 
+	echo "<h2>".$pagetitle."</h2>";
+	
+	$sql_str="SELECT DISTINCT year FROM eua_students_ld WHERE year>0 ORDER BY year ASC";
+	$yearsearch = mysql_db_query($dbname, $sql_str, $id_link) or die("Select Failed!");
+	echo "<form action='".$_SERVER['PHP_SELF'] ."' method='GET'>";
+	echo "<input type='hidden' name='view' value='ld'/>";
+	echo "<input type='hidden' name='subview' value='year'/>";
+	echo "<a href='".$_SERVER['PHP_SELF'] ."?view=ld'>Start</a> | Select year to view: ";
+	echo "<select name='year'>";
+	echo "<option value='".$year."'>".$year."</option>";
+	while ($results = mysql_fetch_array($yearsearch)) {	
+		 echo "<option value='".$results['year']."'>".$results['year']."</option>";
+		 }
+	echo "</select>"; 
+	echo "<input type='submit' value='Go'/>";
+	echo "</form>";
+	
+	if (!isset($subview) || $year == '') {
+	
+	echo "<p>Please select a year above to navigate to relevant page(s) for that year</p><hr />";
+	include "info/6.php";
+	}
+	elseif ($subview == "year") {
+		 
+		 echo "<h3>Pages relating to the year ".$year."</h3>";
+
+	$sql_str="SELECT * FROM eua_students_ld WHERE year LIKE '$year'";
+
+	$yearsearch = mysql_db_query($dbname, $sql_str, $id_link) or die("Select Failed!");
+	
+		echo "<ul>";
+		while ($results = mysql_fetch_array($yearsearch)) {		
+		echo "<li><a href='".$_SERVER['PHP_SELF']."?view=ld&amp;subview=image&amp;image=".$results['image']."&amp;year=".$year."'>".$results['image']."</a></li>";		
+		}
+		echo "</ul>";
+		
+	}
+	elseif ($subview == "image") {
+	
+			 echo "<h3>Page relating to ".$year."</h3>";
+
+		
+		echo "<img src='../dao/".$image.".jpg' />";
+		
+##		$next = $image+1;
+##		$prev = $image-1;
+		
+##		echo "<div><a href='".$_SERVER['PHP_SELF']."?view=ld&amp;subview=image&amp;image=".$prev."&amp;year=0'>&lt;&lt;&lt;</a> | ".$next."</div>";
+	echo "<table summary='' cellpadding='5' width='100%'><tr>";
+		echo "<td valign='top' width='50%'><h3>All years on this page</h3>";
+		
+		$sql_str="SELECT year FROM eua_students_ld WHERE image=$image";
+
+	$yearsearch = mysql_db_query($dbname, $sql_str, $id_link) or die("Select Failed!");
+	
+		echo "<ul>";
+		while ($results = mysql_fetch_array($yearsearch)) {		
+		echo "<li><a href='".$_SERVER['PHP_SELF']."?view=ld&amp;subview=year&amp;year=".$results['year']."'>".$results['year']."</a></li>";		
+		}
+		echo "</ul></td>";
+		
+				echo "<td valign='top' width='50%'><h3>All pages relating to ".$year."</h3>";
+		
+		$sql_str="SELECT image FROM eua_students_ld WHERE year=$year";
+
+	$imagesearch = mysql_db_query($dbname, $sql_str, $id_link) or die("Select Failed!");
+	
+		echo "<ul>";
+		while ($results = mysql_fetch_array($imagesearch)) {		
+		echo "<li><a href='".$_SERVER['PHP_SELF']."?view=ld&amp;subview=image&amp;image=".$results['image']."&amp;year=".$year."'>".$results['image']."</a></li>";		
+		}
+		echo "</ul></td>";	
+		echo "</tr></table>";		
+	
+	}
+			
+?>

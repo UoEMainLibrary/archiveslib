@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237">GB 237 EUA GD4</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>University of Edinburgh Charter</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20071113" certainty="certain">13 November
+			 2007</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-EUA-GD4"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA
+		  GD4</unitid> 
+		<physloc label="Shelfmark" encodinganalog="shelfmark">SR
+		  PCD1</physloc><unittitle encodinganalog="isadg(2)312">University of Edinburgh
+		  Charter</unittitle><unitdate normal="yyyy/yyyy"
+		encodinganalog="isadg(2)313">1582</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 item </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="lat">Latin</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">James VI, King of Scotland</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>The University of Edinburgh was established as the 'Tounis College' by
+		  a charter of novodamus from King James VI of Scotland in 1582.. This gifted old
+		  ecclesiastical revenues to the burgh of Edinburgh to be used to establish a
+		  college. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>Charter under the Great Seal. The seal itself is not present.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<custodhist> 
+		  <head>Archival History</head> 
+		  <p>Assumed to have been in the posession of the city until loaned to
+			 the University in November 1995.</p> 
+		</custodhist> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Long term loan from Edinburgh City Archives (its ref. Historical
+			 Charter 65), Acc 96/018.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>This item is not normally produced for general consultation. A good
+			 article, facsimile and translation is available in
+			 <bibref><title>Charters of Foundation and Early Documents</title>,
+				(<imprint><publisher>Coimbra
+				  Group</publisher>,<date>1994</date></imprint>)</bibref>.</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="isadg(2)342"> 
+		  <head>Conditions Governing Reproduction</head> 
+		  <p><?xm-replace_text {Restrictions on Reproduction}?></p> 
+		</userestrict> 
+		<altformavail encodinganalog="isadg(2)352"> 
+		  <head>Existence and Locations of Copies</head> 
+		  <p>Published copy in, 
+			 <bibref> 
+				<title>Charters of Foundation and Early Documents</title>,
+				(<imprint><publisher>Coimbra
+				  Group</publisher>,<date>1994</date></imprint>)</bibref></p> 
+		</altformavail> 
+		<bibliography encodinganalog="isadg(2)354"> 
+		  <head>Publication Note</head> 
+		  <p>
+			 <bibref><title>Charters of Foundation and Early Documents</title>,
+				(<imprint><publisher>Coimbra
+				  Group</publisher>,<date>1994</date></imprint>)</bibref></p> 
+		</bibliography> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p><?xm-replace_text {Note}?></p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Catalogued by Grant Buttars, 13 November 2007</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head> 
+		  <subject source="lcsh" authfilenumber="2610">Charters</subject>
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head> 
+		  <persname source="ncarules" authfilenumber="GB 0237 EUA P2830"
+		  normal="James VI">James VI | 1566-1625 | King of Scotland</persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses &amp; Organisations</head> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 NAHSTE C0073"
+		  normal="University of Edinburgh">University of Edinburgh | 1583-: | university
+			 | Edinburgh (Scotland)</corpname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

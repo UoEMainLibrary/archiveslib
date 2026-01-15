@@ -1,0 +1,191 @@
+<!--full ISAAR declarations starts here-->
+
+<!ELEMENT isaarcpf (aarheader+, frontmatter+, aar+)>
+
+<!ELEMENT aarheader (aarid+, filedesc+, profiledesc+, revisiondesc+)>
+<!ATTLIST aarheader
+	audience 	(internal | external) "external"
+	langencoding	CDATA	#IMPLIED	
+	aarstatus	CDATA	#IMPLIED	
+>
+
+<!ELEMENT frontmatter (titlepage)>
+
+<!ELEMENT aar (authcontrolarea+, infoarea+, notearea+)>
+<!ATTLIST aar
+	type	(person | corporatebody | family) "person"
+	id	ID	#REQUIRED
+>
+
+<!-- Meta-data...(aarheader) starts here -->
+
+<!ELEMENT aarid (#PCDATA)>
+<!ATTLIST aarid
+	source	CDATA	#IMPLIED	
+	type 	CDATA	#IMPLIED
+>
+
+<!ELEMENT filedesc (titlestmt, publicationstmt)>
+<!ELEMENT titlestmt (titleproper | subtitle | author)*>
+
+<!ELEMENT titleproper (lb | #PCDATA)*>
+<!ELEMENT subtitle (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+
+<!ELEMENT publicationstmt (publisher, address, date)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT address (addressline+)*>
+<!ELEMENT addressline (#PCDATA)>
+
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date
+	type		CDATA		#REQUIRED
+	normal		CDATA		#REQUIRED
+	certainty	(certain | uncertain)  "certain"
+>
+<!ELEMENT profiledesc (creation, langusage)>
+<!ELEMENT creation (lb | bibref | #PCDATA)>
+
+<!ELEMENT bibref (persname+ | corpname+ | title? | edition? | imprint? | extref+ | #PCDATA)*>
+
+<!ELEMENT persname (#PCDATA)>
+<!ATTLIST persname
+	source		(ncarules | lcsh)	"ncarules"
+	authfilenumber	CDATA			#IMPLIED	
+	normal		CDATA			#IMPLIED
+	role		CDATA			#IMPLIED
+>
+
+<!ELEMENT corpname (#PCDATA)>
+<!ATTLIST corpname
+	source		(ncarules | lcsh)	"ncarules"
+	authfilenumber	CDATA			#IMPLIED	
+	normal		CDATA			#IMPLIED
+	role		CDATA			#IMPLIED
+>
+
+<!ELEMENT list (item+)*>
+<!ELEMENT item (date* | #PCDATA)*>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+	render	CDATA 	#FIXED	"italic"
+	inline	CDATA	#FIXED	"true"
+>
+
+<!ELEMENT edition (#PCDATA)>
+
+<!ELEMENT imprint (geogname+ | publisher+ | date+ | #PCDATA)*>
+<!ELEMENT geogname (#PCDATA)>
+<!ATTLIST geogname
+	source		(ncarules | lcsh)	"ncarules"
+	othersource    	CDATA			#IMPLIED		
+	authfilenumber	CDATA			#REQUIRED	
+	normal		CDATA			#REQUIRED
+	role		CDATA			#IMPLIED
+>
+
+<!ELEMENT extref (#PCDATA)>
+<!ATTLIST extref
+	href	CDATA	#IMPLIED
+	inline	CDATA	#FIXED 	"true"
+>
+
+
+<!ELEMENT langusage (language)>
+<!ELEMENT language (#PCDATA)>
+
+<!ELEMENT revisiondesc (list)>
+
+<!-- Front Matter declarations starts here-->
+
+<!ELEMENT titlepage (titleproper, subtitle, author, publisher, date)>
+
+
+
+<!-- element list for the Authority Record starts here-->
+
+<!ELEMENT authcontrolarea (head, unitid, authentry)>
+<!ATTLIST authcontrolarea  
+	encodinganalog CDATA #IMPLIED
+>
+
+<!ELEMENT infoarea (head, occsphere, relships, otherinfo, honqual)>
+<!ATTLIST infoarea 
+	encodinganalog CDATA #IMPLIED
+>
+
+<!ELEMENT notearea (archnote, rules, creationdate)>
+<!ATTLIST notearea 
+	encodinganalog CDATA #IMPLIED
+>
+
+<!-- element list for authority control area -->
+
+<!ELEMENT head (#PCDATA)>
+
+<!ELEMENT unitid (#PCDATA)>
+<!ATTLIST unitid
+	label		CDATA 	#IMPLIED
+	encodinganalog	CDATA	#IMPLIED
+	type		CDATA	#IMPLIED
+	countrycode	CDATA	#FIXED	"GB"
+	repositorycode	CDATA	#IMPLIED
+	audience	(internal | external) "external"
+>		
+
+<!ELEMENT authentry (#PCDATA)>
+<!ATTLIST authentry
+	label		CDATA 	#IMPLIED
+	encodinganalog	CDATA	#IMPLIED
+	audience	(internal | external) "external"
+	authfilenumber 	CDATA	#REQUIRED
+	normal		CDATA	#REQUIRED
+	href		CDATA 	#IMPLIED
+>
+
+<!-- element list for information area -->
+
+<!ELEMENT occsphere (head, p+)>
+<!ATTLIST occsphere
+	encodinganalog	CDATA	#IMPLIED
+	audience	(internal | external) "external"
+> 
+
+<!ELEMENT p (bibref* | date* | persname* | corpname* | geogname* | list* | #PCDATA)*>
+
+<!ELEMENT relships (head, p+)>
+<!ATTLIST relships
+	encodinganalog 	CDATA	#IMPLIED
+	audience	(internal | external) "external"
+>
+<!ELEMENT otherinfo (head, p+)>
+<!ATTLIST otherinfo
+encodinganalog 	CDATA	#IMPLIED
+	audience	(internal | external) "external"
+>
+
+<!ELEMENT honqual (head, p+)>
+<!ATTLIST honqual
+	encodinganalog 	CDATA	#IMPLIED
+	audience	(internal | external) "external"
+>
+<!-- element list for the note area -->
+
+<!ELEMENT archnote (head, p+)>
+<!ATTLIST archnote 
+	encodinganalog	CDATA	#IMPLIED
+	audience	(internal | external) "external"
+> 
+
+<!ELEMENT rules (head, p+)>
+<!ATTLIST rules
+	encodinganalog	CDATA	#IMPLIED
+	audience	(internal | external) "external"
+>
+
+<!ELEMENT creationdate (p | persname | date | #PCDATA)*>
+<!ATTLIST creationdate
+	encodinganalog	CDATA	#IMPLIED
+	audience	(internal | external) "external"
+>

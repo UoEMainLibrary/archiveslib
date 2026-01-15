@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-26"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-26</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Professor David Bayne Horn (1901-1969) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-26</unitid>
+		
+		<physloc>Gen. 1824 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Professor David Bayne Horn
+		  (1901-1969) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260" normal="1969">before
+		  1969 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>15 boxes, 7
+		  notebooks (2 linear metres). </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>David Bayne Horn was born on 9 July 1901. He was educated at Edinburgh
+		  Institution, later called Melville College (now Stewart's Daniel &amp;amp;
+		  Melville College). He then studied at Edinburgh University, gaining a first
+		  class honours degree in history, MA, 1922. In 1923, Horn joined the staff of
+		  the History Department of the University as an Assistant in History. In 1927 he
+		  became a Lecturer in History, and in 1929 was awarded the degree of D.Litt. at
+		  the University for his thesis on 
+		<title>Sir Charles Hanbury Williams and European diplomacy </title>. Horn
+		then went on to become Professor of Modern History in 1954. A writer as well as
+		a lecturer, his main interest lay in the field of 18th century diplomatic
+		history and 18th century British foreign policy in particular. His publication
+		record includes 
+		<title>A history of Europe, 1871-1920 </title> (1927), 
+		<title>British diplomatic representatives, 1689-1789 </title> (1932), 
+		<title>Scottish diplomatists, 1689-1789 </title> (1944), 
+		<title>British public opinion and the first partition of Poland </title>
+		(1945), 
+		<title>British diplomatic service, 1689-1789 (1961), Frederick the Great
+		  and the rise of Prussia </title> (1964), 
+		<title>Great Britain and Europe in the eighteenth century </title>
+		(1967). At the time of his death on 7 August 1969, Horn was engaged in writing
+		a full-length history of the University, having been given two years' leave of
+		absence for the project. In 1967 he had written a shorter history of the
+		University. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of Professor Horn are a boxed, unnumbered, uncatalogued
+		  collection of papers, drafts, notes, and miscellaneous items. The most
+		  significant material relates to the proposed 'long history' of the University.
+		  Also included are background materials (drafts, notes, bibliographies,
+		  offprints, etc.) relating to Horn's publications on 18th century British
+		  diplomatic history: 
+		<title>The British diplomatic service, 1689-1789 </title> (1961); 
+		<title>Great Britain and Europe in the eighteenth century </title>
+		(1967). There are also packets containing handwritten notes, maps, technical
+		data, clippings, photos and offprints relating to Scottish mountains and
+		climbing; various lecture notes, correspondence, bronze award medals, and loose
+		papers. </p> 
+	 </scopecontent> 
+	 <acqinfo encodinganalog="isad(g) 3.2.5./marc 541"> 
+		<p>The collection was deposited at by Horn's daughter, Hazel Horn. An
+		  initial deposit was made in October 1969 shortly after her father's death, and
+		  then in 1977 a further large instalment of notes and papers was deposited. </p>
+		
+	 </acqinfo> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Horn</emph> <emph altrender="forename">David Bayne</emph>
+		  <emph altrender="dates">1901-1969</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Historians</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Diplomatic and consular service</emph> <emph altrender="z">Great
+		  Britain</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H26; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows correspondence with Sir Richard Lodge
+		  at Gen. 766/1. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

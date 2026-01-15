@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1095 20020425 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1095</titleproper> 
+		  <subtitle>Apollonius of Perga | 262-190 BC | Greek
+			 mathematician</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 25 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020425">25 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 GB 0237 NAHSTE P1095</titleproper> 
+		<subtitle>Apollonius of Perga | 262-190 BC | Greek
+		  mathematician</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 25 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020425">25 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1095"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1095</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1095" normal="Apollonius of Perga">Apollonius
+		  of Perga | 262-190 BC | Greek mathematician</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Apollonius of Perga (<date type="life-span" normal="-267/-185"
+			 certainty="uncertain">c262-c190 BC</date>) - whose life story remains a mystery
+			 as it is not even certain he was born in Perga, and his life dates are rough
+			 estimates - is remembered for his only major work still extant,
+			 <bibref><title>Conics</title></bibref>, an 8-book work (of which the first 7
+			 survive) which summarises the knowledge of the time on the subject, and goes on
+			 to introduce numerous major new ideas. The terms "ellipse", "parabola" and
+			 "hyperbola" to describe conical sections, were coined in this work, and new
+			 definitions of the shapes were found. Until then, they had been defined as
+			 sections, perpendicular to the base, of different types of cone. Apollonius
+			 redefined them all as sections, at different angles, of the same cone. He
+			 credited Conon of Samos (<date normal="-285/-215" type="life-span"
+			 certainty="uncertain">c280-c220 BC</date>), a collaborator of Archimedes of
+			 Syracuse (<date normal="-292/-217" type="life-span"
+			 certainty="uncertain">c287-212
+				BC</date>), and Euclid of Alexandria (<date type="life-span" normal="-330/-260"
+			 certainty="uncertain">c325-c265 BC</date>) with the original work on conical
+			 sections that inspired this work.</p> 
+		  <p>Of his other books, all, with the exception of
+			 <bibref><title>Cutting off a Ratio</title></bibref> (a copy of which was found
+			 in arabic translation in the 
+			 <date type="inclusive" normal="1660/1700" certainty="uncertain">late
+				17th Century</date>), have been lost, and we know their contents only through
+			 the accounts of others. The descriptions show the breadth of the subjects he
+			 tackled. The majority were on the subject of geometry, but he strayed into
+			 optics (in <bibref><title>On the Burning Mirror</title></bibref>) and even
+			 astronomy. Books V-VII of <bibref><title>Conics</title></bibref> had a limited
+			 impact on European science, as they only became available in Europe in 
+			 <date type="single" normal="1661">1661</date>, having survived only
+			 in Arabic libraries before then. Book VIII is lost, though the outline of the
+			 content has been reconstructed from the reports in others' books.</p> 
+		  <p><bibref><title>On the Burning Mirror</title></bibref> showed that,
+			 contrary to the prevalent belief of the time, parallel beams of light hitting a
+			 spherical mirror do not converge at one point. He probably investigated
+			 parabolic mirrors too (rays do come to a single focal point with parabolic
+			 mirrors). He is also said by Eutocius (<date type="life-span" normal="475/545"
+			 certainty="uncertain">c480-c540 AD</date>) to have extended Euclid's theory of
+			 irrationals and improved Archimedes' approximation of 'pi' - though it is not
+			 clear whether he did this simply by inscribing and circumscribing the circle
+			 with polygons with more sides than Archimedes' 96-gons or whether he did
+			 actually find a new method.</p> 
+		  <p>The extent of Apollonius' astronomical work is unknown; the only
+			 novelty he is credited with is a study of epicycles that suggested a way of
+			 predicting the "stationary" point in a planet's orbit. It is believed, however,
+			 that his contribution to astronomy was in all probability considerably
+			 greater.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None known.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>On the Burning Mirror</title></bibref></p> 
+		  <p><bibref><title>Conics</title></bibref></p> 
+		  <p><bibref><title>Cutting off a Ratio</title></bibref></p> 
+		  <p><bibref><title>On the Cylindrical Helix</title></bibref></p> 
+		  <p><bibref><title>Quick Delivery</title></bibref></p> 
+		  <p><bibref><title>Plane Loci</title></bibref></p> 
+		  <p><bibref><title>On Verging Constructions</title></bibref></p> 
+		  <p><bibref><title>Tangencies</title></bibref></p> 
+		  <p><bibref><title>Cutting an Area</title></bibref></p> 
+		  <p><bibref><title>On Determinate Sections</title></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>None known.</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol I</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970"
+			 certainty="certain">1970</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Encyclopaedia Britannica vol II</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London (England)</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1976"
+			 certainty="certain">1976</date>)</imprint></bibref> </p> 
+		  <p><bibref><corpname normal="University of St Andrews"
+			 role="author">University of St Andrews</corpname>, <title>Apollonius of
+			 Perga</title>, (<extref
+			 href="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Apollonius.html">http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Apollonius.html</extref>,
+			 <imprint><publisher>University of St Andrews</publisher>, 
+			 <date type="publication" certainty="certain" normal="199901">January
+				1999</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020425">25 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

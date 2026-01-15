@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-28">GB 237
+		Coll-28</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Correspondence
+			 and Papers of the Goodsir Family </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-28">
+    <did>
+      <unittitle>Correspondence
+			 and Papers of the Goodsir Family </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-28</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Dc.5.129; Gen. 289-307F; Gen. 1428; E2006.29
+		  </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Correspondence
+		  and Papers of the Goodsir Family </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1750-1870">circa 1750-1870 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>2
+		  notebooks; 1 bundle anatomical drawings; 12 boxes (2 linear metres). </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">John Goodsir,
+		  surgeon, of Largo; John Goodsir, surgeon, of Anstruther; Professor John Goodsir
+		  (1814-1867); Harry Duncan Spence Goodsir, surgeon; Rev. Joseph Taylor Goodsir;
+		  Robert Anstruther Goodsir </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The family of Goodsir had been settled on the east coast of Fife for
+		  several generations and the name was said to have been German. John Goodsir was
+		  born in Anstruther, Fife, on 20 March 1814. Goodsir was the son of Dr. John
+		  Goodsir of Anstruther and the grandson of Dr. John Goodsir of Largo in Fife. He
+		  was educated in Anstruther and then at St. Andrews where he followed four years
+		  of an Arts course but did not take a degree. In 1830 he was apprenticed to an
+		  Edinburgh surgeon-dentist and at the same time he attended medical and anatomy
+		  classes and learned practical surgery. In 1835 he took charge of the practice,
+		  and that year also obtained the license of the Royal College of Surgeons,
+		  though he did not take the M.D. degree. He then joined his father in practice
+		  in Anstruther. While there in dental practice, Goodsir wrote his first piece of
+		  scientific work, 
+		On the origin and development of the pulps and sacs of the human
+		  teeth  (1839). He also gave time to research in marine zoology, geology
+		and archaeology, and wrote on anatomy and physiology. In 1840 Goodsir went to
+		Edinburgh and in 1841 he was appointed Conservator of the Royal College of
+		Surgeons Museum, and in 1842 he moved to the University becoming Curator of the
+		University's Anatomical Museum. On the death of Alexander Monro, tertius
+		(1773-1859), he was elected as Professor of Anatomy at Edinburgh University.
+		His enthusiasm soon raised the Anatomy Department from the bad state into which
+		it had fallen under Monro. He described the anatomy of the horse and electric
+		fish, and in 1847 he began a course of summer lectures on the invertebrata.
+		Goodsir investigated cellular physiology and pathology and insisted on the
+		importance of the cell as the centre of nutrition. He claimed that the cell was
+		divided into a number of departments. His work influenced that of the German
+		physiologist Rudolf (Carl) Virchow (1821-1902) who offered insights into
+		pathological processes. In 1853, Goodsir's health began to deteriorate -
+		wasting of the spinal cord - and much of his lecturing tasks were delegated to
+		assistants, although he continued with his museum work. John Goodsir died at
+		Wardie, Edinburgh, on 6 March 1867. Goodsir's brother Harry Duncan Spence
+		Goodsir succeeded him as Conservator of the Royal College of Surgeons Museum.
+		Harry Goodsir sailed with the ill-fated Franklin Expedition in 1845, and
+		perished with it. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The correspondence and papers of the Goodsir Family includes material
+		  relating to John Goodsir, Professor of Anatomy at Edinburgh University, his
+		  father John Goodsir, surgeon of Anstruther, his grandfather John Goodsir,
+		  surgeon of Largo, and his brothers Harry Duncan Spence Goodsir, surgeon, and
+		  Rev. Joseph Taylor Goodsir. Among the correspondence are letters from and
+		  relating to Henry Mackenzie, the author of 
+		The man of feeling . Among the papers are notes by Harry
+		D. S. Goodsir on crustacea; Goodsir diplomas; the dissecting room notebook of
+		Professor Goodsir, and notes of his lectures; and, diary of Joseph Taylor
+		Goodsir covering the years 1850-1870. At Dc.5.129 is a medical notebook with a
+		description of rickets, circa 1769, owned by John Goodsir, surgeon of
+		Anstruther. At Gen. 1428 are Professor Goodsir's lectures on anatomy, 1862-63.
+		At E2006.29 are four sets of Chinese anatomical diagrams from the collection of
+		Professor Goodsir.</p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows, at various shelfmarks, references to
+		  diplomas of Professor Goodsir at Da.Cyl., letters of Goodsir, class
+		  certificates signed by him, notes of his lectures on anatomy taken down by
+		  others, and various anatomy class lists. </p>
+      </relatedmaterial>
+      <odd/>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

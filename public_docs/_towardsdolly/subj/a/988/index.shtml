@@ -1,0 +1,22 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Animal Breeds</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/a/">a</a><h1>Animal Breeds</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=988&term=Animal Breeds" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-85&view=basic">Post-natal growth changes in the skin follicle population of the New Zealand Romney and N-type sheep </a> (1959) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-127&view=basic">Population dynamics in 14 lowland breeds of sheep in Great Britain </a> (1961) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-567&view=basic">Multibreed designs. 1. Variation between breeds </a> (1976) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-568&view=basic">Multibreed designs: 2. Genetic variation within and between breeds </a> (1976) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-569&view=basic">Crossbreeding design of ABRO's multibreed experiment </a> (1977) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1330&view=basic">Dietary protein selection by Chinese and European growing pigs given choice feeding </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-135&view=basic">The effect of breed (Large White x Landrace v. purebred Meishan) on the diets selected by pigs given a choice between two foods that differ in their crude protein contents </a> (1993) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-66&view=basic">Characterization of 24 porcine (dA-dC)n-(dT-dG)n microsatellites: genotyping of unrelated animals from four breeds and linkage studies </a> (1993) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

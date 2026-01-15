@@ -1,0 +1,35 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Archaeology</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/a/">a</a><h1>Archaeology</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=156&term=Archaeology" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-203-1-552-553&view=basic">Letter to Sir Charles Lyell from Edouard Claparede </a> (1859) Papers of Sir Charles Lyell</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW362&view=basic">Material relating to antiquarian and archaeological sites in the Outer Hebrides </a> (1860-1899) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW112-57&view=basic">Song entitled 'Laoidh Na h Inghinne' and accompanying story </a> (1864) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114&view=basic">Field notebook belonging to Alexander Carmichael </a> (1864) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107&view=basic">Field notebook of Alexander Carmichael </a> (1864-1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW150-69&view=basic">Archaeological notes on Loch Sgadavagh Isle and accompanying sketch </a> (1864-1874) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-4&view=basic">Note entitled Cladh Bhrianain Barra </a> (1865) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-3&view=basic">Note about Dun-Chathalein </a> (1865) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-2&view=basic">Note entitled Cladh Bhrianain </a> (1865) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW113-29&view=basic">Note about mortar mills in North Uist </a> (1865) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-5&view=basic">Notes on Saint Brianain [Brendan] </a> (1865) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-2&view=basic">Sketch of 'Dun Ban' </a> (1865) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-3&view=basic">Journal account entitled 'Notes' from a trip looking at archaeological sites on An t-Eilean Sgitheanach/Isle of Skye </a> (1865) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW113-10&view=basic">Story entitled 'Mac Righ Sorach' </a> (1865) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-4&view=basic">Journal account of a trip to the Eilean Leòdhais/Isle of Lewis including archaeological notes </a> (1866) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-45&view=basic">Placename note entitled 'Na Duin' </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-39&view=basic">Place-name note for Crois-an-t suidheachain and Leapanan Chaluim Chille </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-74&view=basic">Notes and story about Naomh Moire [Maol-ruibhe], Naomh Brian[ain] and associated archaeological sites </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-71&view=basic">Notes and story about the Lochlannaich [Vikings] </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-78&view=basic">Sketch plan of Dun a Chaolais Bhatarsay </a> (1867) The Carmichael Watson Collection</li>
+</ul>
+<a href="21.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

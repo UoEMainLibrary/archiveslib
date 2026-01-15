@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0335" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0573 20020515 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0573</titleproper> 
+		  <subtitle>Chamberlain | Charles Joseph | 1863-1943 | American
+			 botanist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+			 University Library Special Collections Division, 15 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020515">15 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0573</titleproper> 
+		<subtitle>Chamberlain | Charles Joseph | 1863-1943 | American
+		  botanist</subtitle> 
+		<author>Compiled for the NAHSTE project by Duncan Fisher,</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020515">15 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0251"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0573</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0573"
+		 normal="Chamberlain, Charles Joseph">Chamberlain | Charles Joseph | 1863-1943 |
+		  American botanist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Charles Joseph Chamberlain, born 
+			 <date type="birth" normal="18630223">23 February 1863</date> and died
+			 
+			 <date type="death" normal="19430105">5 January 1943</date>, is known
+			 for bringing zoological techniques to bear on plant study, microscopic studies
+			 of the tissue and the cell in particular. He systematized the biology and
+			 developmental morphology of the angiosperms and gymnosperms. His specialty was
+			 the cycad, a fern-like survivor of the Permian era. He learned botany at
+			 Oberlin College in Ohio, moved on to graduate study there while part-timing in
+			 public schools, then landed at the University of Chicago, where he earned the
+			 botany department's first-ever doctorate. There he stayed for half a century,
+			 teaching, publishing, and directing the university's labs, leaving only
+			 periodically for research trips. He went to Bonn in 
+			 <date type="inclusive" normal="1901/1902">1901-1902</date>, then into
+			 the wilds, like a true paleobotanist, to see cycads in their natural
+			 surroundings: Mexico in 
+			 <date type="single" normal="1904">1904</date>, 
+			 <date type="single" normal="1906">1906</date>, 
+			 <date type="single" normal="1908">1908</date>, and 
+			 <date type="single" normal="1910">1910</date>; Australia, New
+			 Zealand, and South Africa in 
+			 <date type="inclusive" normal="1911/1912">1911-1912</date>; and two
+			 subsequent trips to Cuba. Along the way, he also managed to record zoological
+			 and even cultural features of the countries through which he passed. </p> 
+		  <p>The cytology and histology he had learned at Oberlin turned out to
+			 be an inspired way of establishing the ancient lineages of living cycads. His
+			 tireless fieldwork made the University of Chicago's garden of specimens the
+			 best in the world, representing all the genera and half the known species. A
+			 monograph on the complete morphology and phylogeny of the once mysterious
+			 cycads was nearly done when he died, a mighty concluding statement to all his
+			 numerous seminal studies. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>AA Wright was the Oberlin polymath who taught Chamberlain his
+			 botany; he taught geology and zoology as well, and is probably responsible for
+			 his famous pupil's notion of wedding two of these disciplines. Eduard
+			 Strasburger was Chamberlain's research mentor in Bonn. </p> 
+		  <p> Young Charles Joseph was the son of Esdell W. and Mary Spencer
+			 Chamberlain. Chamberlain the college graduate married Martha E. Life in 
+			 <date type="single" normal="1888">1888</date>, and the couple had one
+			 daughter. Mrs Charles Joseph Chamberlain died in 
+			 <date type="death" normal="1931">1931</date>. Dr Chamberlain the
+			 widower married Martha Stanley Lathrop in 
+			 <date type="single" normal="1931">1938</date>. </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publication: </p> 
+		  <p><bibref><title>Morphology of Spermatophytes </title>, ( 
+			 <imprint><date type="publication" normal="1901"
+			 certainty="certain">1901</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Morphology of Angiosperms </title>, (<imprint><date
+			 type="publication" normal="1903"
+			 certainty="certain">1903</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Morphology of Gymnosperms </title>, (<imprint><date
+			 type="publication" normal="1910"
+			 certainty="certain">1910</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Methods in Plant Histology </title>, (<imprint><date
+			 type="publication" normal="1901/1932"
+			 certainty="certain">1901-1932</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Living Cycad </title>, (<imprint><date
+			 type="publication" normal="1919"
+			 certainty="certain">1919</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Elements of Plant Science </title>, (<imprint><date
+			 type="publication" normal="1930"
+			 certainty="certain">1930</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Gymnosperms: Structure and Evolution </title>, ( 
+			 <imprint><date type="publication" normal="1935"
+			 certainty="certain">1935</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1888">1888</date>: Awarded
+			 bachelor's degree, Oberlin College, Ohio</p> 
+		  <p><date type="appointmentdate" normal="1894">1894</date>: Awarded
+			 master's degree, Oberlin College</p> 
+		  <p><date type="appointmentdate" normal="1897">1897</date>: Awarded
+			 doctorate, University of Chicago</p> 
+		  <p><date type="appointmentdate" normal="1902">1902</date>: Appointed
+			 american editor for cytology of the Botanisches Zentralblatt</p> 
+		  <p><date type="appointmentdate" normal="1915">1915</date>: Appointed
+			 Professor of Morphology and Cytology at Chicago</p> 
+		  <p><date type="appointmentdate" normal="1923">1923</date>: Awarded
+			 honorary doctorate by Oberlin College</p> 
+		  <p><date type="appointmentdate" normal="1923">1923</date>: Served as
+			 vice-president and chairman of the botanical section of the American
+			 Association for the Advancement of Science</p> 
+		  <p><date type="appointmentdate" normal="1929">1929</date>: Elected
+			 Professor Emeritus at Chicago</p> 
+		  <p><date type="appointmentdate" normal="1931/1932">1931-2</date>:
+			 Served as president of the Botanical Society of America</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Gillespie, CC "
+			 role="editor">Gillespie, CC, ed</persname>, <title>Dictionary of Scientific
+			 Biography</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="New York">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970/1990"
+			  certainty="certain">1970-1990</date>)</imprint>, s.v. "Chamberlain, Charles
+			 Joseph" by <persname normal="Robinson, Gloria" role="author">Gloria
+			 Robinson</persname></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Fisher, Duncan" role="researcher">Duncan Fisher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020307">15 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

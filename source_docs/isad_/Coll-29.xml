@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-29">GB 237 Coll-29
+		</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>John Wain Archive </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-29">
+    <did>
+      <unittitle>John Wain Archive </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-29 </unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MSS 2851-2875; MSS 3124-3137; E95.70; E95.71 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">John Wain Archive
+		  </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1947-1994">1947-1994 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>39 boxes (6
+		  m). </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">John Barrington
+		  Wain </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The author John Barrington Wain, 1925-1994, was Professor of Poetry at
+		  University of Oxford, 1973-78. He was born in Stoke-on-Trent and educated at
+		  the High School, Newcastle-under-Lyme, and then St John's College, Oxford,
+		  where he became Fereday Fellow, 1946-49. He was a Lecturer in English
+		  Literature at the University of Reading, 1947-55, and on resignation became a
+		  freelance author and critic. Like contemporary figures, Kingsley Amis, Philip
+		  Larkin, and John Braine, Wain began publishing just as Britain was recovering
+		  from the Second World War. It was a time when writers were reacting against the
+		  orthodoxies of modernism. Wain was one of the Angry Young Men. His fictional
+		  works included 
+		Hurry on down  (1953); 
+		Living in the present  (1955); 
+		The contenders  (1958); 
+		A travelling woman  (1959); 
+		Nuncle and other stories  (1960); 
+		Strike the father dead  (1962); 
+		The young visitors  (1965); 
+		Death of the hind legs and other stories  (1966); 
+		The smaller sky  (1967); 
+		A winter in the hills  (1970); 
+		The Life Guard and other stories  (1971); 
+		The pardoner's tale  (1978); 
+		Lizzie's floating shop  (1981); 
+		Young shoulders  (1982); 
+		Where the rivers meet  (1988); 
+		Comedies  (1990); 
+		Johnson is leaving: a monodrama  (1994); and, 
+		Hungry generations  (1994). In addition he wrote poetry
+		and plays and also did much work as an editor, critic, biographer, anthologist,
+		reviewer and broadcaster. The literary manuscripts of John Barrington Wain were
+		deposited in 1974, and subsequently added to by the author until 1986, when the
+		whole deposit was purchased by the Library with the help of the Local Museums
+		Purchase Fund. These manuscripts constitute MSS 2851-2874. Some items were
+		deposited after 1985 and these, along with the manuscripts in the possession of
+		the author at his death were purchased in 1996, with the aid of the National
+		Fund for Acquisitions. These manuscripts constitute MSS 3124-3137. Further
+		manuscripts were found by his family subsequently and were gifted in December
+		1997. The manuscript of his first novel, 
+		Hurry on Down  (1953), has not survived, but notebooks,
+		manuscripts and typescripts of most of his later novels, short stories, poetry,
+		plays and criticism are present. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p> The oldest material in MSS 2851-2875 is dated 1986, and includes
+		  essays; drafts of, and corrections to 
+		The contenders , 
+		The take-over bid , and 
+		The smaller sky ; revised text, and corrected typescript
+		of 
+		The young visitors ; publisher's copy of, and notebooks
+		relating to 
+		A winter in the hills ; revision to, and radio adaptation
+		of 
+		A winter in the hills ; drafts and copies of poems;
+		lectures; drafts of 
+		Harry in the night ; work relating to Samuel Johnson;
+		passages and fragments from 
+		The pardoner's tale ; various notebooks; and, drafts of 
+		Frank , 
+		Young shoulders , 
+		Lizzie's floating shop,  and 
+		Good morning blues . In MSS 3124-3137 there is material
+		dated from the 1980s up to 1994 and containing manuscripts and typescripts for
+		radio plays; manuscripts and typescripts of Volume 1 and 2 of the Oxford
+		Trilogy, these being, 
+		Where the rivers meet , and 
+		Comedies ; transcript material and draft material from
+		Volume 3 of the Oxford Trilogy, 
+		Hungry generations ; and, material for a projected Volume
+		4 of the Oxford Trilogy, 
+		The end of war . There are letters and diaries, and
+		notebooks containing miscellaneous ideas, drafts, outlines, quotations,
+		telephone numbers and travel notes. </p>
+      <p>In addition, at E95.70 there is a poem 
+		Arrival, and at E95.71 a play 
+		Spade.</p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H29 </p>
+      </otherfindaid>
+      <processinfo>
+        <head>Archivists's Note</head>
+        <p>1947-1994 </p>
+      </processinfo>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

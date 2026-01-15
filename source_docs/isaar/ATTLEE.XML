@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-P1809 20020502 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 P1809</titleproper> 
+		  <subtitle>Attlee | Clement Richard | 1883-1967 | 1st Earl Attlee, Prime
+			 Minister of Great Britain</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+			 University Library Special Collections Division, 02 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020501">02 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 P1809</titleproper> 
+		<subtitle>Attlee | Clement Richard | 1883-1967 | 1st Earl Attlee, Prime
+		  Minister of Great Britain</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 02 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020501">01 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1809"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1809</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1809" normal="Attlee, Clement Richard">Attlee |
+		  Clement Richard | 1883-1967 | 1st Earl Attlee, Prime Minister of Great
+		  Britain</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Clement Richard Attlee (<date type="life-span"
+			 normal="1883/1967">1883-1967</date>), Labour prime minister of Britain from 
+			 <date type="appointmentspan" normal="1945/1951">1945-1951</date>,
+			 presided over one of the most radical peacetime administrations in Britain's
+			 history. Born into a prosperous family (his father was a solicitor), Attlee
+			 went to private schools then to University College, Oxford, from which he
+			 graduated with a second-class degree. The turning point in his life came when
+			 he visited a boys' club in London's East End, which was supported by his old
+			 school. The squalor he saw converted him from a conservative into a socialist.
+			 In 
+			 <date type="single" normal="1907">1907</date>, he became the manager
+			 of the club and settled in the area. In 
+			 <date type="single" normal="1908">1908</date>, he joined the
+			 Independent Labour Party (ILP), a precursor of the modern Labour Party, and
+			 soon after became a lecturer in social administration at Sidney Webb's London
+			 School of Economics (LSE).</p> 
+		  <p> Unlike many of his contemporaries in the Labour movement, Attlee
+			 was not a pacifist, and he fought in the Middle East and in France (where he
+			 was wounded) in World War 1. His breakthrough in politics occurred shortly
+			 after the end of the war, when the council of the London borough of Stepney
+			 elected him mayor. Attlee joined the House of Commons in 
+			 <date type="appointmentdate" normal="1922">1922</date> and served as
+			 under-secretary of state for war in the short-lived Labour administration of 
+			 <date type="single" normal="1924">1924</date>. He also held several
+			 posts in the 
+			 <date type="single" normal="1929">1929</date> government. When, in 
+			 <date type="single" normal="1931">1931</date>, Prime Minister James
+			 Ramsay MacDonald ended the Labour government in order to form a "National
+			 Government" with the Conservatives, Attlee joined the majority of his party in
+			 disowning MacDonald's actions and going into opposition. The Labour meltdown of
+			 the 
+			 <date type="single" normal="1931">1931</date> election - when the
+			 total number of Labour and allied MPs dropped to just 52 - turned out to be a
+			 blessing in disguise for Attlee, as he was one of the few remaining
+			 high-profile Labour MPs, and became deputy leader under George Lansbury (<date
+			 type="life-span" normal="1859/1940">1859-1940</date>). During the 
+			 <date type="single" normal="1935">1935</date> election campaign,
+			 Lansbury resigned over his anti-war views, leaving the road clear for Attlee to
+			 take control. He remained leader for 20 years.</p> 
+		  <p> Attlee's important role in government came during World War 2.
+			 Having edged (Arthur) Neville Chamberlain (<date type="life-span"
+			 normal="1869/1940">1869-1940</date>) out of office, the Labour party joined a
+			 coalition administration under Winston Churchill (<date
+			 type="life-span" normal="1874/1965">1874-1965</date>) in which several Labour
+			 MPs played key roles. In 
+			 <date type="appointmentdate" normal="1942">1942</date>, Attlee rose
+			 to become deputy prime minister, a job he carried out with much skill, though
+			 his careful and understated style contrasted with Churchill's charismatic
+			 flamboyance.</p> 
+		  <p> In the 
+			 <date type="single" normal="1945">1945</date> election, much to
+			 Attlee's surprise, the Labour party won a substantial majority after
+			 campaigning for a "Socialist Commonwealth of Great Britain". The following six
+			 years of government saw radical changes from the style of government of the
+			 pre-war years. Many industries were nationalised, the embryonic welfare state
+			 was enlarged, and free healthcare was introduced, as well as major reforms in
+			 education, finance and urban planning. The statist policies of wartime were, if
+			 anything, extended, and Britain saw what was probably its only true socialist
+			 government. The election of 
+			 <date type="single" normal="1951">1951</date> sent a mixed message.
+			 Labour's vote was the largest ever received by a British political party, but
+			 the complexity of the "first past the post" electoral system allowed his
+			 wartime colleague Churchill to return to power despite getting less votes.
+			 After a further defeat in 
+			 <date type="single" normal="1955">1955</date>, Attlee resigned the
+			 leadership of the Labour Party. He was immediately elevated to the House of
+			 Lords.</p> 
+		  <p> It is said that Attlee's skills were in detailed committee work and
+			 making people with conflicting opinions and personalities work together, rather
+			 than particular administrative skills. Nonetheless, despite the disastrous
+			 final 20 months of his government after the indecisive 
+			 <date type="single" normal="1950">1950</date> election (when several
+			 cabinet ministers resigned because of the introduction of NHS charges and the
+			 prosecution of the Korean War, denting Labour's wafer-thin majority), Attlee
+			 remains one of the more successful British prime ministers of the 
+			 <date type="inclusive" normal="1900/1999" certainty="uncertain">20th
+				Century</date>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>No relevant relationships.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>The Labour Party in Perspective</title>, ( 
+			 <imprint><date type="publication" normal="1937"
+			 certainty="certain">1937</date>)</imprint></bibref></p> 
+		  <p><bibref><title>As it Happened</title> (<imprint> 
+			 <date type="publication" normal="1954"
+			 certainty="certain">1954</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1919">1919</date>: Elected
+			 Mayor, London Borough of Stepney</p> 
+		  <p><date type="appointmentspan" normal="1922/1950">1922-1950</date>:
+			 Elected Member of Parliament (MP) for Limehouse</p> 
+		  <p><date type="appointmentdate" normal="1924">1924</date>: Appointed
+			 Under-Secretary of State for War</p> 
+		  <p><date type="appointmentdate" normal="1930">1930</date>: Appointed
+			 Chancellor of the Duchy of Lancaster</p> 
+		  <p><date type="appointmentspan" normal="1935/1955">1935-1955</date>:
+			 Elected Leader of the Labour Party</p> 
+		  <p><date type="appointmentdate" normal="1940">1940</date>: Appointed
+			 Lord Privy Seal</p> 
+		  <p><date type="appointmentspan" normal="1942/1945">1942-1945</date>:
+			 Appointed Deputy Prime Minister</p> 
+		  <p><date type="appointmentdate" normal="1943">1943</date>: Appointed
+			 Lord President of the Council</p> 
+		  <p><date type="appointmentspan" normal="1945/1951">1945-1951</date>:
+			 Appointed Prime Minister of Great Britain</p> 
+		  <p><date type="single" normal="1955">1955</date>: Awarded Earldom</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref><title render="italic">Encyclopaedia Britannica</title>, ( 
+			 <imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			 normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			 certainty="certain">1964</date>)</imprint></bibref></p> 
+		  <p><bibref><persname source="ncarules" normal="Williams, ET"
+			 role="editor">Williams, ET</persname>,
+			 <persname normal="Nicholls, CS" role="editor">Nicholls, CS</persname>,
+			 <title>Dictionary of National Biography 1961-1970</title>, (<imprint><geogname
+			 source="lcsh" authfilenumber="532" normal="Oxford (England)">Oxford</geogname>,
+			 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1981"
+			 certainty="certain">1981</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020502">02 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

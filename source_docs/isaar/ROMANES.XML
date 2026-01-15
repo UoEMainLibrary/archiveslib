@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0694 20020405 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0694</titleproper> 
+		  <subtitle>Romanes | George John | 1848-1894 | biologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+			 University Library Department of Special Collections, 05 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020405">05 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0694</titleproper> 
+		<subtitle>Romanes | George John | 1848-1894 | biologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 05 April 2002</author> 
+		<publisher>Edinburgh University Library Department of Special
+		  Collections</publisher> 
+		<date type="single" normal="20020405">05 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0694"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0694</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0694" normal="Romanes, George John">Romanes |
+		  George John | 1848-1894 | biologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>George John Romanes (<date type="life-span"
+			 normal="1848/1894">1848-1894</date>), the eminent Darwinist scientist, was born
+			 in Canada, but brought up in London. His childhood was dogged by ill health,
+			 hampering his education, and he showed no early sign of his later brilliance.
+			 He attended Gonville and Caius College, Cambridge, graduating in the second
+			 class in 
+			 <date type="single" normal="1870">1870</date>. Charles Darwin (<date
+			 normal="1809/1882" type="life-span">1809-1882</date>) - a personal friend of
+			 his - had substantial influence on the studies of Romanes. Despite early strong
+			 religious beliefs, Romanes was converted to Darwinism, and wrote a critical
+			 treatise on theism, under the pseudonym
+			 <bibref><title>Physicus</title></bibref>. At the end of his life, he wrote a
+			 second religious treatise, this time orthodox in belief, under the pseudonym of
+			 <bibref><title>Metaphysicus</title></bibref>.</p> 
+		  <p>Romanes' studies covered three related fields: physiology,
+			 psychology and evolution. He conducted a number of experiments on the jellyfish
+			 (medusa) in order to determine whether it has a nervous system. He also
+			 co-operated with James Cossar Ewart (<date normal="1851/1933"
+			 type="life-span">1851-1933</date>) and Sir Edward Sharpey
+			 Sch&#x00C3;&#x00A4;fer (<date normal="1850/1935"
+			 type="life-span">1850-1935</date>) on a number of his experiments. One of his
+			 controversial conclusions was that mutual infertility is the cause, rather than
+			 the effect, of separate evolution of species. His interest in psychology was
+			 actually primarily an interest in animal psychology, on which he wrote a number
+			 of works. His studies on this were considered, however, to be speculative and
+			 anthropomorphic, and were rapidly superseded by better works. They were,
+			 nonetheless, useful in starting debate on the subject.</p> 
+		  <p>Romanes' childhood ill health caught up with him in later life, and
+			 he moved to Oxford to escape the unhealthy atmosphere of London. He died there
+			 in 
+			 <date type="single" normal="1894">1894</date>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Romanes had a personal and professional friendship with Charles
+			 Darwin, and a working relationship with James Cossar Ewart and Sir Edward
+			 Sharpey Sch&#x00C3;&#x00A4;fer.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Candid Examination of Theism</title>,<imprint>(<date
+			 type="publication" normal="1878">1878</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Animal Intelligence</title>, <imprint>(<date
+			 type="publication" normal="1881">1881</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Mental Evolution in Animals</title>, <imprint>(<date
+			 type="publication" normal="1883">1883</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Mental Evolution in Man</title>, <imprint>(<date type="publication"
+			 normal="1888">1888</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Darwin and After Darwin</title>, <imprint>(<date type="publication"
+			 normal="1892">1892</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1870">1870</date>: Batchelor of Arts
+			 (BA), Gonville and Caius College, Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1879">1879</date>: Elected
+			 Fellow of the Royal Society (FRS)</p> 
+		  <p><date type="single" normal="1882">1882</date>: Awarded Honorary
+			 Doctor of Law (LLD), University of Aberdeen</p> 
+		  <p><date type="chairspan" normal="1886/1890">1886-1890</date>:
+			 Appointed Professor at the University of Edinburgh</p> 
+		  <p><date type="chairspan" normal="1888/1891">1888-1891</date>:
+			 Appointed Fullerian Professor Physiology at the Royal Institution</p> 
+		  <p><date type="single" normal="1891">1891</date>: Awarded Master of
+			 Arts (MA), University of Oxford</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of scientific biography, Vol. XI</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1975"
+			 certainty="certain">1975</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 XVIII</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1909"
+			 certainty="certain">1909</date>)</imprint></bibref></p> 
+		  <p><bibref> <title>Concise Dictionary of National Biography,Vol.
+			 III</title>, (<imprint><geogname source="lcsh" authfilenumber="532"
+			 normal="London (England)">London (England)</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			 certainty="certain">1992</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Department of Special Collections, 
+			 <date type="single" normal="20020405">05 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

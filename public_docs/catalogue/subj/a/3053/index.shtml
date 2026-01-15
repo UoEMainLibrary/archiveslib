@@ -1,0 +1,18 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Airport Terminals</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/a/">a</a><h1>Airport Terminals</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=3053&term=Airport Terminals" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-E-4-8-6&view=basic">Plans: South Bank permanent development (3) </a> (1948-1958) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-E-4-8&view=basic">South Bank: plans </a> (1950-1965) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-E-4-8-15&view=basic">Plans: South Bank permanent development - airlines town terminal </a> (1953) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-E-4-8-3&view=basic">Plans: Scheme A site layout plans </a> (1953) The Percy Johnson-Marshall Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

@@ -1,0 +1,493 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="0237" publicid="GB 237 EUA IN2">GB
+		237 EUA IN2</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Records of the Royal (Dick) Veterinary
+			 College</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date.</item> 
+		</list> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-EUA-IN2"> 
+	 <did> 
+		<head>Fonds Summary</head><repository audience="external"
+		label="Repository" encodinganalog="NAHSTE31"> Edinburgh University Library,
+		  Special Collections</repository> 
+		<unitid label="Reference Code" encodinganalog="isadg(2)311"
+		 countrycode="GB" repositorycode="237">GB 237 EUA IN2</unitid><unittitle
+		label="Title" encodinganalog="isadg(2)312" audience="external">Records of the
+		  Royal (Dick) Veterinary College</unittitle><unitdate label="Date(s)"
+		encodinganalog="isadg(2)313" type="inclusive" certainty="certain"
+		normal="1823/1951" audience="external">1823-1951</unitdate> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external"><extent>approx. 40 linear
+		  metres </extent></physdesc> 
+		<origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+		 audience="external"> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 NAHSTE C0541"
+			normal="Royal (Dick) Veterinary College" role="creator">Royal (Dick) Veterinary
+			 College | 1839-1951 | veterinary college | Edinburgh
+			 (Scotland)</corpname></origination><langmaterial audience="external"
+		label="Language/scripts of material" encodinganalog="isadg(2)343">This material
+		  is in <language langcode="eng">English</language></langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322" audience="external"> 
+		<head>Administrative History</head> 
+		<p>William Dick was the son of an Aberdeenshire farrier who had
+		  established himself in Edinburgh in the latter part of the eighteenth century.
+		  He availed himself of the unparalleled opportunities for education then
+		  available in Edinburgh, attending lectures given by John Barclay, a well known
+		  and respected anatomist. Dr. Barclay encouraged this intelligent young man, who
+		  travelled to London in 1817 to study at the London Veterinary College. Such was
+		  Dick's previous education in Edinburgh that, within three months, he "had the
+		  confidence to apply for a diploma" - and got it.</p> 
+		<p>Back in Edinburgh, he then faced the frustrating task of establishing
+		  his own veterinary school. He repeatedly presented free lectures to small
+		  groups of students. Finally, in November 1823 a regular class got underway,
+		  supported throughout the entire session by student fees totalling £42 and a
+		  grant of £50 from the Highland Society, of which Dr. Barclay was a
+		  Director.</p> 
+		<p>The School was to make more or less steady progress, with its finances
+		  and the manners and morals of the students watched over by William's
+		  redoubtable elder sister Mary! These students were expected to attend classes
+		  given by medical lecturers in the University. A system of oral examinations was
+		  established and by 1828 there was a final public examination. Successful
+		  students received a certificate stating that they were "qualified to practise
+		  the veterinary art". In 1833, Dick paid for the erection of improved
+		  accommodation on the site of his forge in Clyde Street. This was to serve his
+		  school until 1914, when it moved into new buildings at Summerhall that are
+		  still in use. In 1839, his school officially became a College and he a
+		  Professor. By the time of Dick's death in 1866, the 818 students he had taught
+		  were to be found throughout the world. Among them were the founders of
+		  veterinary schools in Canada, USA, Australia and Ireland.</p> 
+		<p>The College continued to flourish and its staff have played a major
+		  part in the life of the profession and of the Royal College. Among the most
+		  famous of its graduates was John McFadyean, who entered the College at its low
+		  point in 1874 and later became a member of its staff. He then went as Principal
+		  to the London Veterinary School and has been justifiably claimed as the founder
+		  of modern veterinary science. Perhaps his most outstanding moment was his
+		  courageous, but so polite, public rebuttal, at a conference in Edinburgh in
+		  1901, of Robert Koch's vehemently held conviction that bovine tuberculosis was
+		  little hazard to man. Other particularly notable graduates include Thomas
+		  Dalling, Alexander Robertson and Robert Coombs.</p> 
+		<p>The college was reconstituted as an integral part of the University of
+		  Edinburgh in 1951 and became a full faculty in 1964.</p> 
+	 </bioghist> 
+	 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>Provisionally: 
+		  <list> 
+			 <item>/1. Administration 
+				<list> 
+				  <item>Board of Management: Minutes (1905-1951)</item> 
+				  <item>Property, Law &amp; Finance Committee: Minutes
+					 (1921-1922)</item> 
+				  <item>Finance Committee: Minutes (1923-1950)</item> 
+				  <item>Education Committee: Minutes (1924-1949)</item> 
+				  <item>Calendar (1889-1952)</item> 
+				</list></item> 
+			 <item>/2. Finance 
+				<list> 
+				  <item>Abstracts of Accounts (1906-1951)</item> 
+				  <item>Ledgers &amp; account books (1876-1951) </item> 
+				  <item>Abstracts of Accounts (1906-1951)</item> 
+				  <item>Capital Grants</item> 
+				  <item>Research Grants</item> 
+				  <item>Staff Renumeration</item> 
+				  <item>College Extension Fund</item> 
+				</list></item> 
+			 <item>/3. Personnel 
+				<list> 
+				  <item>Senior vacancies (1930-1946) </item> 
+				  <item>Salary records (1943-1950)</item> 
+				  <item>Staff appointments &amp; resignations</item> 
+				  <item>General correspondence</item> 
+				</list></item> 
+			 <item>/4. Student Administration 
+				<list> 
+				  <item>Records of students' matriculation, attendence, graduation
+					 etc. (1863-1959)</item> 
+				</list></item> 
+			 <item>/5. Estate 
+				<list> 
+				  <item>Plans of Summerhall and Easter Bush property</item> 
+				</list></item> 
+			 <item>/6. Photographs and slides</item> 
+		  </list></p> 
+	 </scopecontent> 
+	 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses and Organisations</head> 
+		  <corpname authfilenumber="GB 0237 NAHSTE C0541"
+		  normal="Royal (Dick) Veterinary College" rules="ncarules"><emph
+			 altrender="a">Royal (Dick) Veterinary College</emph> | 1839-1951 | veterinary
+			 college | Edinburgh (Scotland)</corpname> 
+		  <corpname authfilenumber="GB 0237 NAHSTE C1416"
+		  normal="University of Edinburgh, Faculty of Veterinary Medicine"
+		  rules="ncarules"><emph altrender="a">University of Edinburgh | Faculty of
+			 Veterinary Medicine</emph> | 1964-: | university faculty | Edinburgh
+			 (Scotland)</corpname> 
+		  <corpname authfilenumber="GB 0237 EUA C2837"
+		  normal="University of Edinburgh, Royal (Dick) School of Veterinary Studies"
+		  rules="ncarules"><emph altrender="a">University of Edinburgh | Royal (Dick)
+			 School of Veterinary Studies</emph> | 1951-1964</corpname> 
+		</controlaccess> 
+	 </controlaccess><descgrp> 
+		<head>Administrative Information</head> 
+		<custodhist encodinganalog="isadg(2)323" audience="external"> 
+		  <head>Archival History</head> 
+		  <p>Transferred to Edinburgh University Archives directly from the Royal
+			 (Dick) School of Veterinary Studies.</p> 
+		</custodhist> 
+		<acqinfo encodinganalog="isadg(2)324" audience="external"> 
+		  <head>Immediate Source of Acquisition or Transfer</head> 
+		  <p>Bulk transferred from the Royal (Dick) School of Veterinary Studies,
+			 Accession Acc 04/002.</p> 
+		</acqinfo> 
+		<appraisal encodinganalog="isadg(2)332" audience="external"> 
+		  <head>Appraisal, Destruction and Scheduling Information</head> 
+		  <p> Some appreaisal has still to be done.</p> 
+		</appraisal> 
+		<accruals encodinganalog="isadg(2)333" audience="external"> 
+		  <head>Accruals</head> 
+		  <p>Accruals likely.</p> 
+		</accruals> 
+		<arrangement encodinganalog="isadg(2)334" audience="external"> 
+		  <head>System of Arrangement</head> 
+		  <p> This material has still to be properly arranged.</p> 
+		</arrangement> 
+		<accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+		  <head>Conditions Governing Access</head> 
+		  <p> Personal data relating to living individuals may be restricted
+			 under the Data Protection Act 1998.</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="isadg(2)342" audience="external"> 
+		  <head>Conditions Governing Reproduction</head> 
+		  <p> Applications for permission to quote should be sent to the Director
+			 of Collections. Reproduction subject to usual conditions: educational use and
+			 condition of documents.</p> 
+		</userestrict><phystech encodinganalog="isadg(2)344" audience="external">
+		  
+		  <head>Physical Characteristics and Technical Requirements</head> 
+		  <p> Glass plate negatives, slides and film will/may need specialist
+			 equipment to view.</p></phystech> 
+		<otherfindaid encodinganalog="isadg(2)345" audience="external"> 
+		  <head>Finding Aids</head> 
+		  <p>Survey list available to readers in the Special Collections Reading
+			 Room, covering</p> 
+		</otherfindaid> 
+		<processinfo audience="internal"> 
+		  <processinfo encodinganalog="isadg(2)373" audience="internal"> 
+			 <head>Date(s) of Description</head> 
+			 <p> 
+				<persname source="ncarules" role="archivist" normal="REPLACE">Grant
+				  Buttars</persname><date type="descriptiondate" normal="20050328"
+				certainty="certain">28 March 2005</date></p> 
+		  </processinfo> 
+		</processinfo></descgrp> 
+	 <dsc> 
+		<c level="subfonds" id="GB-237-EUA-IN2-4"> 
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				EUA IN2/4</unitid> 
+			 <physloc label="Shelfmark"
+			 encodinganalog="shelfmark"></physloc><unittitle
+			 encodinganalog="isadg(2)312">Student
+				Administration</unittitle><unitdate normal="1866/"
+			 encodinganalog="isadg(2)313">1866-</unitdate><repository label="Repository"
+			 encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				Collections</repository> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			 encodinganalog="isadg(2)315" audience="external"><extent type="linear"
+				unit="metre">2 metres</extent></physdesc><langmaterial><language
+				langcode="eng">English</language></langmaterial> 
+			 <origination label="Name of Creator(s)"
+			 encodinganalog="isadg(2)321">Edinburgh University Library</origination> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Records of student matriculation, graduation and academic
+				results.</p> 
+		  </scopecontent> 
+		  <descgrp> 
+			 <head>Administrative Information</head> 
+			 <accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+				<head>Conditions Governing Access</head> 
+				<p>Records relating to living individuals may be restricted under
+				  the Data Protection Act 1998. Unless proof of death is given, any individual
+				  will be considered living up to 75 years after (potential) graduation.</p> 
+			 </accessrestrict> 
+			 <processinfo audience="internal"> 
+				<processinfo encodinganalog="isadg(2)373" audience="internal"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					 normal="REPLACE">Grant Buttars</persname><date type="descriptiondate"
+					 normal="20070626" certainty="certain">26 June 2007</date></p> 
+				</processinfo> 
+			 </processinfo></descgrp>
+		  <c level="series" id="GB-237-EUA-IN2-4-1"> 
+			 <did> 
+				<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				  EUA IN2/4/1</unitid> 
+				<physloc label="Shelfmark"
+				encodinganalog="shelfmark"></physloc><unittitle
+				encodinganalog="isadg(2)312">Declarations by Students / Matriculation
+				  Albums</unittitle><unitdate normal="1866/1942"
+				encodinganalog="isadg(2)313">1866-1942</unitdate><repository label="Repository"
+				encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				  Collections</repository> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				encodinganalog="isadg(2)315" audience="external"><extent type="linear"
+				  unit="metre">10 volumes</extent></physdesc><langmaterial><language
+				  langcode="eng">English</language></langmaterial> 
+				<origination label="Name of Creator(s)"
+				encodinganalog="isadg(2)321">Edinburgh University Library</origination> 
+			 </did> 
+			 <scopecontent encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>These volumes contain dated forms containing the students'
+				  names, each signed by the relevant student.</p> 
+			 </scopecontent> 
+		  </c> 
+		  <c level="series" id="GB-237-EUA-IN2-4-2"> 
+			 <did> 
+				<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				  EUA IN2/4/2</unitid> 
+				<physloc label="Shelfmark"
+				 encodinganalog="shelfmark"></physloc><unittitle
+				encodinganalog="isadg(2)312">Student Registers</unittitle><unitdate
+				normal="1863/1917" encodinganalog="isadg(2)313">1863-1917</unitdate><repository
+				label="Repository" encodinganalog="NAHSTE31">Edinburgh University Library,
+				  Special Collections</repository> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent type="linear"
+				  unit="metre">5 volumes</extent></physdesc><langmaterial><language
+				  langcode="eng">English</language></langmaterial> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321">Edinburgh University Library</origination> 
+			 </did> 
+			 <scopecontent encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Registers of students containing various personal details,
+				  academic results, etc.</p> 
+			 </scopecontent> 
+			 <c level="item" id="GB-237-EUA-IN2-4-2-1"> 
+				<did> 
+				  <unitid encodinganalog="isadg(2)311" label="Reference code">GB
+					 237 EUA IN2/4/2/1</unitid> 
+				  <physloc label="Shelfmark"
+					encodinganalog="shelfmark"></physloc><unittitle
+				  encodinganalog="isadg(2)312">Student Register</unittitle><unitdate
+				  normal="1863/1891" encodinganalog="isadg(2)313">1863-1891</unitdate><repository
+				  label="Repository" encodinganalog="NAHSTE31">Edinburgh University Library,
+					 Special Collections</repository> 
+				  <physdesc label="Extent and Medium of the Unit of Description"
+					encodinganalog="isadg(2)315" audience="external"><extent type="linear"
+					 unit="metre">1 volume</extent></physdesc><langmaterial><language
+					 langcode="eng">English</language></langmaterial> 
+				  <origination label="Name of Creator(s)"
+					encodinganalog="isadg(2)321">Edinburgh University Library</origination> 
+				</did> 
+				<scopecontent encodinganalog="isadg(2)331"> 
+				  <head>Scope and Content</head> 
+				  <p>Registers of students containing some or all of the following
+					 details on students: name, session number, progression number, date of entry,
+					 native place, fees paid and by whom, attendence, examination results, remarks.
+					 </p> 
+				  <p>In addition, there are scattered details of prize lists and
+					 similar.</p> 
+				</scopecontent> 
+			 </c> 
+			 <c level="item" id="GB-237-EUA-IN2-4-2-2"> 
+				<did> 
+				  <unitid encodinganalog="isadg(2)311" label="Reference code">GB
+					 237 EUA IN2/4/2/2</unitid> 
+				  <physloc label="Shelfmark"
+					encodinganalog="shelfmark"></physloc><unittitle
+				  encodinganalog="isadg(2)312">Student Register 'No.1'</unittitle><unitdate
+				  normal="1901/1915" encodinganalog="isadg(2)313">1901-1915</unitdate><repository
+				  label="Repository" encodinganalog="NAHSTE31">Edinburgh University Library,
+					 Special Collections</repository> 
+				  <physdesc label="Extent and Medium of the Unit of Description"
+					encodinganalog="isadg(2)315" audience="external"><extent type="linear"
+					 unit="metre">1 volume</extent></physdesc><langmaterial><language
+					 langcode="eng">English</language></langmaterial> 
+				  <origination label="Name of Creator(s)"
+					encodinganalog="isadg(2)321">Edinburgh University Library</origination> 
+				</did> 
+				<scopecontent encodinganalog="isadg(2)331"> 
+				  <head>Scope and Content</head> 
+				  <p>Forms containing some or all of the following details on
+					 students: name, matriculation number, nationality, name and address of parent
+					 or guardian, age, previous education and examination results. These are bound
+					 in order by matriculation number, with an index to names at the front.</p> 
+				</scopecontent> 
+			 </c> 
+			 <c level="item" id="GB-237-EUA-IN2-4-2-3"> 
+				<did> 
+				  <unitid encodinganalog="isadg(2)311" label="Reference code">GB
+					 237 EUA IN2/4/2/3</unitid> 
+				  <physloc label="Shelfmark"
+					encodinganalog="shelfmark"></physloc><unittitle
+				  encodinganalog="isadg(2)312">Register of students from other
+					 colleges</unittitle><unitdate normal="1889/1904"
+				  encodinganalog="isadg(2)313">1886-1904</unitdate><repository label="Repository"
+				  encodinganalog="NAHSTE31">Edinburgh University Library, Special
+					 Collections</repository> 
+				  <physdesc label="Extent and Medium of the Unit of Description"
+					encodinganalog="isadg(2)315" audience="external"><extent type="linear"
+					 unit="metre">1 volume</extent></physdesc><langmaterial><language
+					 langcode="eng">English</language></langmaterial> 
+				  <origination label="Name of Creator(s)"
+					encodinganalog="isadg(2)321">Edinburgh University Library</origination> 
+				</did> 
+				<scopecontent encodinganalog="isadg(2)331"> 
+				  <head>Scope and Content</head> 
+				  <p>[to be completed]</p> 
+				</scopecontent> 
+				<controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				  <head>Index</head> 
+				  <controlaccess encodinganalog="NAHSTE381"> 
+					 <head>Subjects</head> 
+					 <subject source="lcsh" authfilenumber="1940">Student
+						Records</subject> 
+				  </controlaccess> 
+				</controlaccess> 
+			 </c> 
+			 <c level="item" id="GB-237-EUA-IN2-4-2-4"> 
+				<did> 
+				  <unitid encodinganalog="isadg(2)311" label="Reference code">GB
+					 237 EUA IN2/4/2/4</unitid> 
+				  <physloc label="Shelfmark"
+					encodinganalog="shelfmark"></physloc><unittitle
+				  encodinganalog="isadg(2)312">Attendence Register</unittitle><unitdate
+				  normal="1901-1908" encodinganalog="isadg(2)313">1901-1908</unitdate><repository
+				  label="Repository" encodinganalog="NAHSTE31">Edinburgh University Library,
+					 Special Collections</repository> 
+				  <physdesc label="Extent and Medium of the Unit of Description"
+					encodinganalog="isadg(2)315" audience="external"><extent type="linear"
+					 unit="metre">1 volume</extent></physdesc><langmaterial><language
+					 langcode="eng">English</language></langmaterial> 
+				  <origination label="Name of Creator(s)"
+					encodinganalog="isadg(2)321">Edinburgh University Library</origination> 
+				</did> 
+				<scopecontent encodinganalog="isadg(2)331"> 
+				  <head>Scope and Content</head> 
+				  <p>Contains some or all of the following details on students:
+					 name, subject, marks and professional examination results</p> 
+				</scopecontent> 
+				<controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				  <head>Index</head> 
+				  <controlaccess encodinganalog="NAHSTE381"> 
+					 <head>Subjects</head> 
+					 <subject source="lcsh" authfilenumber="1940">Student
+						Records</subject> 
+				  </controlaccess> 
+				</controlaccess> 
+			 </c> 
+			 <c level="item" id="GB-237-EUA-IN2-4-2-5"> 
+				<did> 
+				  <unitid encodinganalog="isadg(2)311" label="Reference code">GB
+					 237 EUA IN2/4/2/5</unitid> 
+				  <physloc label="Shelfmark"
+					encodinganalog="shelfmark"></physloc><unittitle
+				  encodinganalog="isadg(2)312">Address Book (students)</unittitle><unitdate
+				  normal="1891/1917" encodinganalog="isadg(2)313">1891-1917</unitdate><repository
+				  label="Repository" encodinganalog="NAHSTE31">Edinburgh University Library,
+					 Special Collections</repository> 
+				  <physdesc label="Extent and Medium of the Unit of Description"
+					encodinganalog="isadg(2)315" audience="external"><extent type="linear"
+					 unit="metre">1 volume</extent></physdesc><langmaterial><language
+					 langcode="eng">English</language></langmaterial> 
+				  <origination label="Name of Creator(s)"
+					encodinganalog="isadg(2)321">Edinburgh University Library</origination> 
+				</did> 
+				<scopecontent encodinganalog="isadg(2)331"> 
+				  <head>Scope and Content</head> 
+				  <p>Contains some or all of the following details on students:
+					 name, session number, date, address, fees paid, name of parent/guardian</p> 
+				</scopecontent> 
+				<controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				  <head>Index</head> 
+				  <controlaccess encodinganalog="NAHSTE381"> 
+					 <head>Subjects</head> 
+					 <subject source="lcsh" authfilenumber="1940">Student
+						Records</subject> 
+				  </controlaccess> 
+				</controlaccess> 
+			 </c> 
+		  </c> 
+		  <c level="series" id="GB-237-EUA-IN2-4-3"> 
+			 <did> 
+				<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				  EUA IN2/4/3</unitid> 
+				<physloc label="Shelfmark" encodinganalog="shelfmark">Box:
+				  EUA-A-125 - EUA-A-138</physloc><unittitle encodinganalog="isadg(2)312">Student
+				  record schedules</unittitle><unitdate normal="1911/1959"
+				encodinganalog="isadg(2)313">1911-1959</unitdate><repository label="Repository"
+				encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				  Collections</repository> 
+				<physdesc label="Extent and Medium of the Unit of Description"
+				 encodinganalog="isadg(2)315" audience="external"><extent type="linear"
+				  unit="metre">14 boxes</extent></physdesc><langmaterial><language
+				  langcode="eng">English</language></langmaterial> 
+				<origination label="Name of Creator(s)"
+				 encodinganalog="isadg(2)321">Edinburgh University Library</origination> 
+			 </did> 
+			 <scopecontent encodinganalog="isadg(2)331"> 
+				<head>Scope and Content</head> 
+				<p>Schedules of students separated into 3 categories: 1) Graduates;
+				  2) Students who left or went on to complete at the Royal College of Vetrinary
+				  Surgeons; 3) Diploma in State Veterinary Medicine (DVSM) students.</p>
+				<p>Content typically includes: name, birthplace, nationality, age,
+				  previous veterinary education, professional exams passed, school education,
+				  preliminary exams, name &amp; address of parent/guardian, home address,
+				  Edinburgh address, academic results, signature, date. A photograph is sometimes
+				  attached.</p> 
+			 </scopecontent> 
+			 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+				<head>Index</head> 
+				<controlaccess encodinganalog="NAHSTE381"> 
+				  <head>Subjects</head> 
+				  <subject source="lcsh" authfilenumber="1940">Student
+					 Records</subject> 
+				</controlaccess> 
+			 </controlaccess> 
+			 <descgrp> 
+				<head>Administrative Information</head> 
+				<acqinfo encodinganalog="isadg(2)324" audience="external"> 
+				  <head>Immediate Source of Acquisition or Transfer</head> 
+				  <p>Accession Acc 05/053. Prior to accessioning, these records had
+					 been held by Edinburgh University Archives, since 1995, as part of a
+					 Departmental Records Transfer from the then Faculty of Veterinary Medicine, DRT
+					 95/03.</p> 
+				</acqinfo> 
+				<otherfindaid encodinganalog="isadg(2)345" audience="external"> 
+				  <head>Finding Aids</head> 
+				  <p>An alphabetical list of students is avalable in the Special
+					 Collections Reading Room.</p> 
+				</otherfindaid> 
+				<processinfo audience="internal"> 
+				  <processinfo encodinganalog="isadg(2)373" audience="internal"> 
+					 <head>Date(s) of Description</head> 
+					 <p> 
+						<persname source="ncarules" role="archivist"
+						 normal="REPLACE">Grant Buttars</persname><date type="descriptiondate"
+						normal="20070626" certainty="certain">26 June 2007</date></p> 
+				  </processinfo> 
+				</processinfo></descgrp>
+		  </c> 
+		</c> 
+	 </dsc> 
+  </archdesc>
+</ead>

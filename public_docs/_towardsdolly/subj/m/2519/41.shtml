@@ -1,0 +1,19 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Molecular Genetics</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/m/">m</a><h1>Molecular Genetics</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=2519&term=Molecular Genetics" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="41">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-712&view=basic">The chicken a model vertebrate genome </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-713&view=basic">Chicken genome mapping a new era in avian genetics </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-737&view=basic">Molecular Genetics of Sex Determination. Stephen S. Wachtel (ed). Academic Press, London. 1994. Pp. 518. Price £59.50, hardback. ISBN 0 12 728960 7. [book review] </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-710&view=basic">A comprehensive molecular response for QTL mapping in poultry </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="21.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

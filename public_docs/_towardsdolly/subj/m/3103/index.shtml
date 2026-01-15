@@ -1,0 +1,18 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Memorandums</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/m/">m</a><h1>Memorandums</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=3103&term=Memorandums" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-2-2&view=basic">Typescript titled 'Memorandum regarding poultry research in the Institute of Animal Genetics, Edinburgh', by Alan Greenwood </a> (1934) Papers of Alan W. Greenwood</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-5-3-3&view=basic">Typescript titled 'The Directors Club' </a> (1962) Papers of Alan W. Greenwood</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-5-3-5&view=basic">Typescript titled ' The Poultry Research Centre of the Agricultural Research Council, 1947-1962: A Director's Story' </a> (1968) Papers of Alan W. Greenwood</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-3-6&view=basic">Typescripts of Alan Greenwood's memorandum 'The Poultry Research Centre of the Agricultural Research Council 1947-1962: A Director's Story (compiled as memory serves, and perhaps as conscience dictates' (1968) </a> (1968-1985) Papers of Alan W. Greenwood</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

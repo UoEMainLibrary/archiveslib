@@ -1,0 +1,4 @@
+open (FILE,"../blah.php");
+my $file = <FILE>;
+close(FILE);
+print "<a href=\"$file\">$file</a>";

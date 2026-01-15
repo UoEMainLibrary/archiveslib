@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0776 20020628//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0776</titleproper> 
+		  <subtitle>Donald | Hugh Paterson | 1908-1989 | geneticist and director
+			 of Animal Breeding Research Organisation</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+			 University Library Special Collections Division, 28 June 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020628">28 June 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0776</titleproper> 
+		<subtitle>Donald | Hugh Paterson | 1908-1989 | geneticist and director of
+		  Animal Breeding Research Organisation</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+		  University Library Special Collections Division, 28 June 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020628">28 June 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0776"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0776</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0776" normal="Donald, Hugh Paterson">Donald |
+		  Hugh Paterson | 1908-1989 | geneticist and director of Animal Breeding Research
+		  Organisation</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Hugh Donald, was a key figure in the improvement of the science and
+			 practise of animal production. He was born in New Zealand and educated at the
+			 New Zealand agricultural college, Lincoln College, where he was a brilliant
+			 student and acquired three degrees by the age of 26. Initially he trained as a
+			 plant geneticist with an interest in discovering new varieties of wheat. In the
+			 early 
+			 <date normal="1930/1939" certainty="uncertain"
+			  type="inclusive">1930s</date> there were few opportunities in this field and he
+			 was advised by the plant geneticist, Otto Frankel (<date normal="1900/1998"
+			 type="life-span">1900-1998</date>), to switch to animal work. At that date
+			 Edinburgh was one of very few places in the world that was developing animal
+			 genetics, so in 
+			 <date normal="1934" type="single">1934</date> he joined the Institute
+			 of Animal Genetics at Edinburgh University. However, Edinburgh had poor
+			 facilities for livestock work, and so for two years he worked on Drosophila
+			 with Rowena Lamy. </p> 
+		  <p>Shortly after completing his PhD thesis (<date normal="1936"
+			 type="single">1936</date>) Donald was appointed junior lecturer at the
+			 Shotthead Farm under Alick Buchanan-Smith. Here he ran the farm (doing much of
+			 the manual work), the breeding programme, he did research and taught
+			 undergraduates. In the 
+			 <date normal="1930/1939" type="inclusive"
+			  certainty="uncertain">1930s</date> he worked with cytologists, geneticists,
+			 pharmacologists and his colleagues included Auerbach, Muller, Greenwood,
+			 Buchanan-Smith and Koller who all contributed to the new science of
+			 agricultural and pure genetics. Donald improved the quality and production of
+			 pigs, and by extension led to the improved quality of livestock generally. Much
+			 of his work emphasised the social and economic context for improved livestock
+			 and hence was particularly relevant for developing nations. </p> 
+		  <p>In the 
+			 <date normal="1970/1979" type="inclusive"
+			  certainty="uncertain">1970s</date> he described how the Edinburgh Institute
+			 under the leadership of Francis Crew in the 
+			 <date normal="1930/1939" type="inclusive"
+			  certainty="uncertain">1930s</date> combined laboratory work and practice in a
+			 multidisciplinary scientific setting. For Donald this was enormously
+			 stimulating and beneficial. He fostered this approach during his years as
+			 Director of the Agricultural Research Council's Animal Breeding Research
+			 Organisation (ABRO) in Edinburgh. ABRO grew under his directorship to run six
+			 farms in the UK developing improved breeds such as Friesian, Ayrshire, Jersey
+			 cattle, and Blackface sheep. Donald was one of the first scientists to transfer
+			 embryos between different varieties of sheep. His studies of identical and
+			 fraternal twin cattle successfully improved fertility, body weight and milk
+			 flow. </p> 
+		  <p>In the 
+			 <date normal="1950/1959" certainty="uncertain"
+			 type="inclusive">1950s</date> Hugh Donald laid the foundation for human organ
+			 transplantation when he grafted skin between cattle twins. He was committed to
+			 the wider vision, and both his writings and his work contained an astute
+			 awareness of the ethical, economic and political controversies and future
+			 direction of animal breeding.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p> In the early 
+			 <date normal="1950/1959" certainty="uncertain"
+			 type="inclusive">1950s</date>he collaborated with Peter Medawar (<date
+			 normal="1915/1987" type="life-span">1915-1987</date>) on exchange skin grafting
+			 between twin cattle.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Modern Development in Animal Breeding</title>, ( 
+			 <imprint><date type="publication" normal="1966"
+			 certainty="certain">1966</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p> 
+			 <date normal="1937" type="appointmentdate">1937</date>: Elected
+			 Fellow of the Royal Society of Edinburgh</p> 
+		  <p><date normal="1946/1973" type="appointmentspan">1946-1973</date>:
+			 Appointed Director of the Agricultural Research Council's Animal Breeding
+			 Research Organisation</p> 
+		  <p><date normal="1973/1989" type="appointmentspan">1973-1989</date>:
+			 Appointed Honorary Professor, University of Edinburgh</p> 
+		  <p><date type="single" normal="1974">1974</date>: Awarded Commander of
+			 the British Empire</p> 
+		  <p><date type="appointmentdate" normal="1974/1975">1974-1975</date>:
+			 Elected President, British Society of Animal Production</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Obituary, The Scotsman</title>, ( <imprint>, 
+			 <publisher>The Scotsman</publisher>, 
+			 <date type="publication"
+			  normal="1989">1989</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="researcher" normal="Stewart, Margaret">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020625">25 June
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

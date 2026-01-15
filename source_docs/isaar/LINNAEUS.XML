@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0335" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0356 20020207 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0356</titleproper> 
+		  <subtitle>Linnaeus | Carl | 1707-1778 | Swedish taxonomist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+			 University Library Special Collections Division, 14 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020214">14 February 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0356</titleproper> 
+		<subtitle>Linnaeus | Carl | 1707-1778 | Swedish taxonomist</subtitle> 
+		<author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+		  University Library Special Collections Division, 14 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020214">14 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0356"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0356</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0356" normal="Linnaeus, Carl">Linnaeus | Carl |
+		  1707-1778 | Swedish taxonomist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Carl Linnaeus was born in S&#x00E4;dra R&#x00E5;shult,
+			 Sm&#x00E5;land, Sweden, on 
+			 <date type="birth" normal="17070523">23 May 1707</date>. He showed an
+			 early interest in botany in the garden of his father's parsonage, and developed
+			 it as a schoolboy in V&#x00E4;xj&#x00E4; under Johan Rothman, who taught him
+			 the prevailing plant-classification system of Joseph Pitton de Tournefort
+			 (<date type="life-span" normal="1656/1708">1656-1708</date>). He undertook
+			 medical training in 
+			 <date type="single" normal="1727">1727</date> at the Universities of
+			 Lund and Uppsala, but spent all the energy he could in plant study. His special
+			 interest was the novel notion of one of Tournefort's pupils that plants had
+			 gender: this he thought could be a sensible basis for their overall
+			 classification. He developed the idea among the botanists of Leyden, pausing
+			 first to take an MD in the University of Harderwijk. These botanists received
+			 his key taxonomical works rapturously, the Systema naturae (<date
+			 type="publication" normal="1735">1735</date>) and the Fundamenta botanica
+			 (<date type="publication" normal="1736">1736</date>). By the 1740's he was back
+			 home, married, and writing furiously. After doctoring a short while for the
+			 navy, and having set up a Swedish Academy of Science, he arranged a seat at the
+			 University of Uppsala, where he renovated the university's gardens and began
+			 teaching hugely popular courses in plant biology. His scholarly output was
+			 prodigious and influential. Between 
+			 <date type="single" normal="1751">1751</date> and 
+			 <date type="single" normal="1753">1753</date> he published, besides
+			 other things, an expansion of his Fundamenta, the Philosophia botanica, and a
+			 practical catalogue of plant life, the monumental Species plantarum, which
+			 tabulated some 8,000 Linnaean names. He toiled to expand the latter for the
+			 rest of his career, even as he penned other monographs and continued to update
+			 his Systema naturae. All the while, he served as court physician, inventoried
+			 economically useful plant life for Parliament, and critiqued noblemen's
+			 gardens, who finally ennobled the parson's son to Carl 'von Linn&#x00E9;' for
+			 his doughty service. He retired exhausted and suffering strokes in 1774, and
+			 died in Uppsala on 
+			 <date type="death" normal="17780110">10 January 1778</date>. </p> 
+		  <p>This compulsive organizer, who imagined that he was replicating on
+			 paper God's order in nature, gave eighteenth-century botanists overwhelmed by
+			 the new stream of foreign plants the enduring principal of sexuality as basis
+			 for classification. Artificial as he conceded this was, he never found a
+			 methodus naturalis to replace it. Linnaeus also worked out fixed rules for the
+			 lower systematic categories of genera and species, with each species
+			 distinguished from the others by a 12-word differentia specifica of standard
+			 morphological terms. As well, he devised the binomial nomenclature, one for the
+			 genus and one for the species, that we still use to keep all this precision
+			 manageable. Presciently, he hinted occasionally at a pre-Darwinian model of
+			 diversity through evolution. Linnaeus was less convincing as an animal
+			 taxonomist, but he was also less enthusiastic. He was the first at least to
+			 identify the whale as a mammal. His arrangement of the mineral kingdom had very
+			 little influence, but he did describe competently a number of fossils,
+			 correctly placing trilobites among the arthropods. He put his hand to disease
+			 classification too. In medicine he figures with Francois Boissier de Sauvages,
+			 with whom he maintained a lively correspondence, as a co-founder of systematic
+			 nosology. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Johan Rothman (fl. 
+			 <date type="single" normal="1716">1716</date>), local doctor and
+			 teacher in Linnaeus's school days in V&#x00E4;xj&#x00E4;. Kilian Stobaeus (fl. 
+			 <date type="single" normal="1727">1727</date>), physician on the
+			 medical faculty at Lund University. Olof Celsius (<date
+			 type="life-span" normal="1670/1756">1670-1756</date>), amateur botanist and
+			 dean of Uppsala Cathedral, uncle of Anders Celsius, of centigrade fame. Olof
+			 Rudbeck, Jr. (fl. 
+			 <date type="single" normal="1727">1727</date>), elderly friend of
+			 Olof Celsius and senior faculty member in Uppsala University. Johannes Burman
+			 (<date type="life-span" normal="1706/?">1706-?</date>), professor of botany and
+			 director of the Amsterdam Botanic Garden. Albert Seba (c<date type="life-span"
+			 normal="1665/?">1665-?</date>), Amsterdam apothecary and collector of plants.
+			 Herman Boerhaave (<date type="life-span" normal="1668/1738">1668-1738</date>),
+			 medical and chemical lecturer at University of Leyden, secondarily a supervisor
+			 of the university's botany programme; his special interest was systematizing
+			 medical tuition. Johan Gronovius the Younger (<date type="life-span"
+			 normal="1690/1762">1690-1762</date>), Leyden physician and botanist. George
+			 Clifford (<date type="life-span" normal="1685/1760">1685-1760</date>), wealthy
+			 Anglo-Dutch merchant, owner of the famous herbarium near Haarlem. Sir Hans
+			 Sloane (<date type="life-span" normal="1660/1753">1660-1753</date>), London
+			 physician, scientist, and collector. Johann Jacob Dillenius (<date
+			 type="life-span" normal="1687/1747">1687-1747</date>), Sherardian Professor of
+			 Botany in Oxford, famous for his knowledge of mosses. Francois Boissier de
+			 Sauvages (<date type="life-span" normal="1706/1767">1706-1767</date>),
+			 nosologist and medical semiologist. </p> 
+		  <p>Students in Uppsala who became famous in their own right included
+			 the Scandinavians Peter Ascanius and J.C. Fabricius, the entomologist; the
+			 Germans Johann Beckmann, Paul D. Giseke, and J.C.D. Schreber; the Russian
+			 Barons Demidoff; and his only American, Adam Kuhn, who became professor in
+			 Philadelphia. </p> 
+		  <p>Linnaeus, whose clergyman father, Nils Ingemarsson Linnaeus (<date
+			 type="life-span" normal="1674/1733">1674-1733</date>), had been an avid amateur
+			 botanist, collaborated from 
+			 <date type="single" normal="1759">1759</date> with his own son, Carl
+			 von Linnaeus the younger (<date type="life-span"
+			 normal="1741/1783">1741-1783</date>), whose career as a botanist was not
+			 especially luminous finally. </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p><bibref><title>Praeludia sponsaliorum plantarum</title>, ( 
+			 <imprint><date type="publication" normal="1730"
+			 certainty="certain">1730</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Hortus uplandicus</title>, (<imprint><date
+			 type="publication" normal="1730"
+			 certainty="certain">1730</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Systema naturae </title>, (<imprint><date
+			 type="publication" normal="1735"
+			 certainty="certain">1735</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Fundamenta botanica</title>, ( <imprint><date
+			 type="publication" normal="1736"
+			 certainty="certain">1736</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Biblioteca botanica </title>, (<imprint><date
+			 type="publication" normal="1736"
+			 certainty="certain">1736</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Hortus Cliffortianus </title>, (<imprint><date
+			 type="publication" normal="1737"
+			 certainty="certain">1737</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Flora lapponica </title>, (<imprint><date
+			 type="publication" normal="1737"
+			 certainty="certain">1737</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Critica botanica </title>, (<imprint><date
+			 type="publication" normal="1737"
+			 certainty="certain">1737</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Genera plantarum </title>, (<imprint><date
+			 type="publication" normal="1737"
+			 certainty="certain">1737</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Classes plantarum </title>, (<imprint><date
+			 type="publication" normal="1738"
+			 certainty="certain">1738</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Olandska och gothl&#x00C3;&#x00A4;ndska resa
+			 </title>, ( <imprint><date type="publication" normal="1745"
+			 certainty="certain">1745</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Flora suecica </title>, (<imprint><date
+			 type="publication" normal="1745"
+			 certainty="certain">1745</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Fauna suecica </title>, (<imprint><date
+			 type="publication" normal="1746"
+			 certainty="certain">1746</date>)</imprint></bibref></p> 
+		  <p><bibref><title>V&#x00E4;stg&#x00E4;ta resa </title>, (<imprint><date
+			 type="publication" normal="1747"
+			 certainty="certain">1747</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Amoenitates academicae </title>, (<imprint><date type="publication"
+			 normal="1749ff" certainty="certain">1749ff</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Sk&#x00E5;nska resa </title>, ( <imprint><date
+			 type="publication" normal="1751"
+			 certainty="certain">1751</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Philosophia botanica </title>, (<imprint><date
+			 type="publication" normal="1751"
+			 certainty="certain">1751</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Species plantarum </title>, (<imprint><date
+			 type="publication" normal="1753"
+			 certainty="certain">1753</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>By his death, Linnaeus was a member of practically every relevant
+			 learned society worldwide. </p> 
+		  <p><date type="appointmentdate" normal="1739">1739</date>: Co-founder
+			 and first President, Swedish Academy of Science, Stockholm</p> 
+		  <p><date type="appointmentdate" normal="1741">1741</date>: Appointed
+			 professor, practical medicine, University of Uppsala</p> 
+		  <p><date type="appointmentdate" normal="1742">1742</date>: Appointed to
+			 Chair of botany, Uppsala, Sweden</p> 
+		  <p><date type="appointmentdate" normal="1747">1747</date>: Appointed
+			 court physician</p> 
+		  <p><date type="appointmentdate" normal="1753">1753</date>: Created
+			 Knight of the Polar Star</p> 
+		  <p><date type="appointmentdate" normal="1761">1761 (antedated
+				1757)</date>: Elevated to the nobility as von Linn&#x00E9;</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref><persname source="ncarules" normal="REPLACE"
+			 role="author">Backlund, Anders</persname>, <title>Carl Linnaeus - Carl von
+			 Linn&#x00E9;'</title>, (<extref
+			 href="http://www.systbot.uu.se/dept/history/linneaus.html">http://www.systbot.uu.se/dept/history/linneaus.html</extref>,
+			 <imprint><publisher>Department of Systematic Botany, Uppsala
+				University</publisher>, 
+			 <date type="publication" normal="1998"
+			  certainty="certain">1998</date>)</imprint></bibref></p> 
+		  <p><bibref><persname source="ncarules" normal="Blunt, Wilfrid"
+			 role="author">Blunt, Wilfrid</persname>, <title>The Compleat Naturalist: a life
+			 of Linnaeus</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Collins</publisher>, 
+			 <date type="publication" normal="1971"
+			  certainty="certain">1971</date>)</imprint></bibref> </p> 
+		  <p><bibref><persname source="ncarules" normal="Broberg, Gunnar"
+			 role="author">Broberg, Gunnar</persname>, <title>Linnaeus. Progress and
+			 Prospects in Linnaean Research</title>, (</bibref> </p> 
+		  <p><bibref><persname source="ncarules" normal="Gillespie, CC "
+			 role="editor">Gillespie, CC, ed</persname>, <title>Dictionary of Scientific
+			 Biography</title>, (<imprint><geogname source="lcsh" authfilenumber="483"
+			 normal="New York (New York, United States)">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970/1990"
+			 certainty="certain">1970-1990</date>)</imprint>, s.v. "Linnaeus" by
+			 <persname normal="Lindroth, Sten" role="author">Sten
+			 Lindroth</persname></bibref> </p> 
+		  <p><bibref><persname source="ncarules" normal="Gourlie, Norah"
+			 role="author">Gourlie, Norah</persname>, <title>The Prince of
+			 Botanists</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Witherby</publisher>, 
+			 <date type="publication" normal="1953"
+			 certainty="certain">1953</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Fisher, Duncan" role="researcher">Duncan Fisher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020214">14 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

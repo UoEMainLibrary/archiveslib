@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1077">GB
+		237 Coll-1077</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of Tom Scott (1918-1995)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20060202" certainty="certain">02 February
+			 2006</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1077"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1077</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E95.02</physloc><unittitle
+		encodinganalog="isadg(2)312">Papers of Tom Scott
+		  (1918-1995)</unittitle><unitdate normal="yyyy/yyyy"
+		encodinganalog="isadg(2)313"><?xm-replace_text {Dates of Creation}?></unitdate><repository
+		label="Repository" encodinganalog="NAHSTE31">Edinburgh University Library,
+		  Special Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 folder </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Scott, Tom</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>The poet, Tom Scott, was born in Glasgow on 6 June 1918. He was the
+		  son of a Clydeside boilermaker. In the Depression years of the 1930s, the
+		  family moved from Glasgow to St. Andrews where an uncle of Tom had a
+		  stonemason's business. After a brief apprenticeship to a butcher, Tom became an
+		  apprentice stonemason. His poetic spirit first manifested itself in his singing
+		  voice (described variously as tenor, or bass). During the Second World War,
+		  although a pacifist, he contributed to the war effort - believing that fascism
+		  had to be fought against - through his service in the Pay Corps. It was at this
+		  time he began to write poetry. </p> 
+		<p>Scott's earlier work was in English, and after the war, settling in
+		  London, his circle included Kathleen Raine, and Dylan Thomas. Visits to Europe
+		  encouraged his Scots poetic voice and he translated the 15th century work of
+		  the French poet Villon into Scots. Other work included 
+		<title>Sea dirge</title>, 
+		<title>The ship</title>, 
+		<title>The tree</title>, 
+		<title>The dity business</title>, and 
+		<title>Brand the builder</title>. In 1966 he completed a Ph.D on the work
+		of William Dunbar which appeared as a book, and he edited 
+		<title>The Penguin book of Scottish verse</title> (1970). In 1963, Scott
+		had married Heather Fretwell and they wrote children's books. Their home was in
+		the Portobello district of Edinburgh.</p> 
+		<p>In the 1980s, he contracted myeloma, a rare form of leukaemia, but he
+		  survived this. Tom Scott died in Edinburgh Royal Infirmary on 7 August
+		  1995.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>Collection is composed of circa 100 letters from between 1956 and the
+		  late-1970s.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Accession No: E95.02. Acquired January 1995.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared for this collection</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using the
+			 following material: (1) Hendry, Joy. 'Gazette Obituaries Tom Scott'. [newspaper
+			 cutting unknown title, undated]. (2) Cookson, William. 'Obituaries Gazette Tom
+			 Scott'. 
+		  <title>The independent</title>. 14 August 1995.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="z">Poets, Scottish</emph><emph
+			 altrender="y"></emph><emph altrender="x"></emph></subject> 
+		  <subject><emph altrender="z">Scottish literature</emph><emph
+			 altrender="y">20th century</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph altrender="surname">Scott</emph><emph
+			 altrender="forename">Tom</emph><emph altrender="dates">1918-1995</emph><emph
+			 altrender="epithet">Poet</emph></persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE384"> 
+		  <head>Places</head>		  
+		  <!-- LCSH -->
+		  <geogname source="lcsh"><emph altrender="a"></emph><emph
+			 altrender="x"></emph><emph altrender="y"></emph><emph
+			 altrender="z"></emph></geogname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

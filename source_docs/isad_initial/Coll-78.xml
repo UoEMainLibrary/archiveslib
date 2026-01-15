@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-78"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-78</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Professor Gordon Donaldson (1913-1993) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-78
+		  </unitid> 
+		<physloc>Gen. 1627-1645; E2005.22; E2005.23 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Professor Gordon Donaldson
+		  (1913-1993) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1549-1993">1549-1993 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>21 boxes, 1
+		  file volume, 1 folder (2 linear metres). </extent> </physdesc> 
+		<langmaterial><language langcode="eng">English</language>;
+		  <language langcode="lat">Latin</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Donaldson, Gordon</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Gordon Donaldson was born in Leith on 13 April 1913. He was educated
+		  at the Royal High School, and then he studied History at Edinburgh University
+		  where he obtained a First Class Honours degree. His postgraduate study was
+		  conducted at the Institute of Historical Research, University of London. After
+		  graduating PhD. in 1938, and having returned to Edinburgh with medical problems
+		  ruling out military service, Donaldson was appointed as an assistant in the
+		  Scottish Record Office where he became skilled as a reader of difficult
+		  early-medieval and late-medieval manuscripts. Throughout his life he maintained
+		  an interest in the material there, making an enormous contribution to the
+		  editing of historical records. In 1947 he became a Lecturer in Scottish History
+		  at Edinburgh University. In 1955 he was appointed Reader, and in 1963 he was
+		  awarded the Chair of Professor of Scottish History and Palaeography. In 1979,
+		  Donaldson was appointed Historiographer to the Queen in Scotland. One of his
+		  chief interests was the study of ecclesiastical history. His output of edited
+		  texts, books, articles and reviews was immense and included 
+		<title>The making of the Scottish prayer book of 1637 </title> (1954), 
+		<title>Scotland - James V to James VII </title> (1965), 
+		<title>Scotland - Church and nation through sixteen centuries </title>
+		(1960), 
+		<title>Isles of home - Sixty years of Shetland </title> (1984), 
+		<title>Scottish church history </title> (1985), 
+		<title>The faith of the Scots </title> (1990). Between 1972 and 1977 he
+		was Editor of the 
+		<title>Scottish Historical Review </title> and had also been Editor of
+		the 
+		<title>Register of the Privy Seal of Scotland </title>. In 1988, he was
+		awarded the CBE. Gordon Donaldson died in Cameron Hospital, Windygates, Fife,
+		on 16 March 1993. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The papers of Professor Gordon Donaldson within Gen. 1627-1645 consist
+		  of general and individual correspondence and correspondence with institutions
+		  and publishers. There is material and notes on churches, about crofters,
+		  emigration, genealogy, and the Northern Isles. There are lectures and notes;
+		  personal and family papers; photographs; and, press cuttings. There is
+		  manuscript material, typescript material, and proofs. These all cover the
+		  period 1935-1993.</p> 
+		<p>The collection also contains circa 60 manuscripts and fragments at
+		  E2005.20. These are held in 23 separate folders in 2 boxes and represent
+		  examples of formal legal and historical Scottish documents. They had been
+		  Donaldson's private collection which he used to illustrate his Scottish
+		  documents and Palaeography courses held in the 1970s. Some are dated and from
+		  1549 to 1740. Some are undated and may be from the 15th century. Unlisted. A
+		  few are photocopies.</p> 
+		<p>Additionally, in E2005.23 there is a collection of colour and black
+		  and white slides (diapositives/transparancies) contained in two boxes. The
+		  slides show: houses and castles, and domestic architecture generally; views of
+		  Scotland, the Scottish coast, the western and northern isles, and Scottish
+		  family trees, charters, seals, other documents; Scottish towns including
+		  Dysart; Faeroe Islands; Scandinavia; England; France; the Mediterranean
+		  including Gibraltar, Sicily and Israel; Turkey; Greece; Dubrovnik, former
+		  Yugoslavia; and the USA and Canada.</p>
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) Obituary, by Very Rev. Dr. Duncan Shaw, 
+		  <title>The Scotsman </title>, 18 March 1993. (2) Obituary, by Tam
+		  Dalyell, 
+		  <title>The Independent </title>, 18 March 1993. (3) 
+		  <title>University of Edinburgh Journal </title>, Vol.21. 1963-1964,
+		  p.168 (Edinburgh: Oliver and Boyd). </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Donaldson</emph> <emph altrender="forename">Gordon</emph>
+		  <emph altrender="dates">1913-1993</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">National
+		  Archives of Scotland</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Church history</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Historians</emph> </subject> 
+		<geogname role="subject" encodinganalog="marc 651"> <emph
+		  altrender="a">Scotland</emph> <emph altrender="x">History</emph> </geogname> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

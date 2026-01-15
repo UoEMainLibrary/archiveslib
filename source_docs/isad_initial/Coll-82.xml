@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-82"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237 Coll-82
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers and
+			 Correspondence of William Paisley Earsman (1884-1965) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-82 </unitid>
+		
+		<physloc>Gen. 1949</physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers and Correspondence of William
+		  Paisley Earsman (1884-1965) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1920-1950">circa 1920-1950 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>4 boxes.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Labour movement activist William Paisley Earsman was born in Edinburgh
+		  on 16 March 1884. He was educated at a local council school in the St. Leonards
+		  area of city, and then completed an apprenticeship as a turner. He had also
+		  attended night classes at Heriot-Watt College where he was awarded a
+		  certificate in mechanical engineering. In 1908, he went to New Zealand and two
+		  years later went to Melbourne, Australia, working at the Camberwell Motor Works
+		  in 1910, with Victoria Railways until 1914, and then the Colonial Ammunition
+		  Company until 1917. While in Scotland, Earsman had become a member of the
+		  Amalgamated Society of Engineers and in Australia he joined the Melbourne
+		  District branch. He was on the Committee of the District branch from March
+		  1911, then Secretary in 1915-1916. A committed socialist and industrial
+		  unionist, Earsman was a member of the Victoria Socialist Party from 1911 to
+		  1916, and was active in industrial disputes in 1917-1919. After the 1917
+		  Revolution, he was in Russia. In 1917 too, he initiated the Victoria Labour
+		  College and was its Secretary until the middle of 1919. Earsman then went to
+		  Sydney and founded the New South Wales Labour College and acted as Secretary
+		  and Lecturer until April 1921. Earlier, he had been involved in the formation
+		  of the Communist Party of Australia and was elected Secretary on its foundation
+		  in Sydney on 30 October 1920. When the Party split in December he sought
+		  recognition for his 'Sussex Street' faction at the 3rd Congress of the Third
+		  Communist International (Comintern) in Moscow in April 1921. He was also at the
+		  Congress of the Red International of Labour Unions in July 1921. On his return
+		  to Australia in December 1921 he became mixed up in the rivalry between the two
+		  Communist Party factions in the country, but at the 4th Congress of Comintern
+		  in 1922 Earsman was successful in gaining recognition for the 'Sussex Street'
+		  faction. He became a member of the Comintern executive, met Leon Trotsky and
+		  Lenin, and was made an honorary member of the Red Army. When barred from
+		  Australia, he returned to Moscow - after a period in London and Edinburgh - and
+		  taught English at the Red Army Military Academy. When he returned to England,
+		  he worked in the testing of machine tools bound for the Soviet Union. In the
+		  late-1920s, Earsman left the Communist Party, and in 1932 he returned to
+		  Edinburgh, joining the Labour Party in 1934. Between 1934 and 1949 he was
+		  Secretary of the Edinburgh Trades Council, and in 1948 he was appointed
+		  President of the Scottish Council of the Labour Party. Not only was Earsman
+		  active in municipal affairs, he was a founder member of the Edinburgh Festival
+		  Society, 1947 to 1962, and he was awarded the OBE in 1950 for work in
+		  connection with the Festival. William Paisley Earsman died in Edinburgh on 13
+		  January 1965. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers and Correspondence of W. P. Earsman include letters,
+		  diaries, reports, articles, newscuttings, pamphlets and periodicals on
+		  Communism in Russia, and Australia etc. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using material contained
+			 within the Papers and Correspondence of W.P. Earsman, and also: (1) Obituary, 
+		  <title>The Scotsman </title>, Thursday, 14 January 1965, p.7. </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Earsman</emph> <emph altrender="forename">William
+		  Paisley</emph> <emph altrender="dates">1884-1965</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Communist Party
+		  of Australia</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  Festival Society</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Labour
+		  Party</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Third Communist
+		  International</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Communism</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Communists</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Socialism</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Socialists</emph> </subject> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

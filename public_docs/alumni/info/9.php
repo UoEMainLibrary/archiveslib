@@ -1,0 +1,3 @@
+<p>The data on these students comes from our Register of Extra-Academical Students.  These students attended classes outwith the managed degree programmes.  This was one way by which women, prior to being allowed to matricluate and graduate, gained access to University-level education.  It also allowed individuals to take classes for their of interest without signing up to a complete programme of study.</p>
+
+<p>The handwriting in the volume has been quite challenging to describe and some names have not been fully deciphered.  We hope to digitise this volume in due course to allow you to see the actual records.</p>

@@ -1,0 +1,565 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 EUA GD9">GB
+		237 EUA GD9</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Records of University of Edinburgh Dialectic
+			 Society</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="REPLACE" certainty="certain"><?xm-replace_text {insert completion date DD Month YYYY}?></date>
+		  
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-EUA-GD9"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA
+		  GD9 (previously Da.67.Dial)</unitid> 
+		<physloc label="Shelfmark" encodinganalog="shelfmark"><?xm-replace_text {Shelfmark}?></physloc><unittitle
+		encodinganalog="isadg(2)312">Records of University of Edinburgh Dialectic
+		  Society</unittitle><unitdate normal="1787/1970"
+		encodinganalog="isadg(2)313">1787-1970</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">16 boxes </extent></physdesc> 
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">University of Edinburgh Dialectic
+		  Society</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>The Dialectic Society was established in 1787. Along with the Scots
+		  Law, Plinian, Hunterian Medical and Diagnostic Societies, it formed The
+		  Associated Societies during the session of 1833-1834. This stemmed from earlier
+		  cooperation the previous session in opposition to Edinburgh Town Council and
+		  the Senatus Academicus of the University.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>Records of membership, meetings, finance, administration and
+		  activities of the society.</p> 
+	 </scopecontent> 
+	 <descgrp> 
+		<head>Administrative Information</head> 
+		<arrangement encodinganalog="isadg(2)334"> 
+		  <head>System of Arrangement</head> 
+		  <p>Arranged into seven series: History, Records of Members; Laws of the
+			 Society, Minutes, Draft Minutes, Cash Books, Miscellaneous Items</p> 
+		</arrangement> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Acquired prior to 1983 (when these records are referred to in 
+		  <title>Four Centuries: Edinburgh University Life</title>)</p> 
+		</acqinfo> 
+		<appraisal encodinganalog="isadg(2)332"> 
+		  <head>Appraisal</head> 
+		  <p>No appraisal has been undertaken. Duplicates have been identified
+			 but retained.</p> 
+		</appraisal> 
+		<accruals encodinganalog="isadg(2)333"> 
+		  <head>Accruals</head> 
+		  <p>Accruals possible but unlikely.</p> 
+		</accruals> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Generally open.</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="isadg(2)342"> 
+		  <head>Conditions Governing Reproduction</head> 
+		  <p><?xm-replace_text {Restrictions on Reproduction}?></p> 
+		</userestrict> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <processinfo audience="internal" encodinganalog="isadg(2)373"> 
+			 <head>Date(s) of Description</head> 
+			 <p> 
+				<persname source="ncarules" role="archivist"
+				normal="Buttars, Grant">Grant Buttars</persname> 
+				<date type="single" normal="20070913" certainty="certain">13
+				  September 2007</date></p> 
+		  </processinfo> 
+		</processinfo></descgrp> 
+	 <dsc>
+		<c id="GB-237-GD9-1" level="series">
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				GD9/1</unitid> 
+			 <physloc label="Shelfmark" encodinganalog="shelfmark">Box: EUA-A-146
+				- EUA-A-147</physloc><unittitle encodinganalog="isadg(2)312">History of the
+				Society</unittitle><unitdate normal="1787/1887"
+			 encodinganalog="isadg(2)313">1787-1887</unitdate><repository label="Repository"
+			 encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				Collections</repository> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			 encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">2 boxes</extent></physdesc> 
+			 <langmaterial><language
+				langcode="eng">English</language></langmaterial> 
+			 <origination label="Name of Creator(s)"
+			 encodinganalog="isadg(2)321">University of Edinburgh Dialectic
+				Society</origination> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Box: EUA-A-146
+				<list> 
+				  <item>History of the Dialectic Society, presented by R.W.S.
+					 Gray</item>
+				  <item>History of the society: list of members part I
+					 (1787-1802)</item>
+				  <item>History of the society: list of members part II
+					 (1802-1815)</item>
+				  <item>History of the society: list of members part III
+					 (1813-1821)</item>
+				  <item>History of the society: list of members part IV
+					 (1822-1824)</item>
+				  <item>History of the society: list of members part V
+					 (1825-1835)</item>
+				  <item>History of the society: list of members part VI
+					 (1836-1850)</item>
+				  <item>History of the society: list of members part VII
+					 (1851-1859)</item>
+				</list></p>
+			 <p>Box: EUA-A-147
+				<list>
+				  <item>History of the society: list of members part VIII
+					 (1859-1867)</item>
+				  <item>History of the society: list of members part IX
+					 (1869-1881)</item>
+				  <item>History of the society: list of members part X
+					 (1881-1884)</item>
+				  <item>History of the society: list of members part XI
+					 (1787-1802)</item>
+				  <item>Inaugural address (1869-1870)</item>
+				  <item>Report of Centenary proceedings (1887) [9 copies]</item>
+				</list></p> 
+		  </scopecontent> 
+		  <descgrp> 
+			 <head>Administrative Information</head> 
+			 <processinfo encodinganalog="isadg(2)371"> 
+				<head>Archivist's Notes</head> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20070914" certainty="certain">14
+						September 2007</date></p> 
+				</processinfo> 
+			 </processinfo></descgrp>
+		</c>
+		<c id="GB-237-GD9-2" level="series">
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				GD9/2</unitid> 
+			 <physloc label="Shelfmark" encodinganalog="shelfmark">Box: EUA-A-148
+				- EUA-A-149</physloc><unittitle encodinganalog="isadg(2)312">Records of
+				Members</unittitle><unitdate normal="1787/1938"
+			 encodinganalog="isadg(2)313">1787-1938</unitdate><repository label="Repository"
+			 encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				Collections</repository> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">1.5 boxes</extent></physdesc> 
+			 <langmaterial><language
+				langcode="eng">English</language></langmaterial> 
+			 <origination label="Name of Creator(s)"
+			  encodinganalog="isadg(2)321">University of Edinburgh Dialectic
+				Society</origination> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Box: EUA-A-148
+				<list>
+				  <item>Comprehensive list of members</item>
+				  <item>Roll of members (1787-1914)</item>
+				  <item>List of members (1800-1824, part 1)</item>
+				  <item>List of members (1800-1824, part 2)</item>
+				  <item>List of members (1800-1824, part 3)</item>
+				  <item>Book of attendence of members (1824-1825)</item>
+				  <item>Roll of members (1826-1830)</item>
+				  <item>Roll of members (1844)</item>
+				  <item>Roll of members (1877-1878)</item>
+				  <item>Roll of attendence of members (1884-1885)</item>
+				  <item>Roll of members (1902-1908)</item>
+				  <item>Roll of members (1908-1914)</item>
+				  <item>Secretary's list of members</item>
+				  <item>Roll of members (1919-1923)</item>
+				  <item>Roll of members (1924-1925)</item>
+				  <item>Attendence and votes of members (1894-1902)</item>
+				</list></p>
+			 <p>Box: EUA-A-149
+				<list>
+				  <item>Honorary members list [missing]</item>
+				  <item>Unidentified[Members information Almanac] (1852)</item>
+				  <item>Album (1858)</item>
+				  <item>Voting Roll (1926-1928)</item>
+				  <item>Roll book (1934-1938)</item>
+				</list></p> 
+		  </scopecontent> 
+		  <descgrp> 
+			 <head>Administrative Information</head> 
+			 <processinfo encodinganalog="isadg(2)371"> 
+				<head>Archivist's Notes</head> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20070914" certainty="certain">14
+						September 2007</date></p> 
+				</processinfo> 
+			 </processinfo></descgrp>
+		</c>
+		<c id="GB-237-GD9-3" level="series">
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				GD9/3</unitid> 
+			 <physloc label="Shelfmark" encodinganalog="shelfmark">Box:
+				EUA-A-149</physloc><unittitle encodinganalog="isadg(2)312">Laws of the
+				Society</unittitle><unitdate normal="1806/1903"
+			 encodinganalog="isadg(2)313">1806-1903</unitdate><repository label="Repository"
+			 encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				Collections</repository> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.5 boxes</extent></physdesc> 
+			 <langmaterial><language
+				langcode="eng">English</language></langmaterial> 
+			 <origination label="Name of Creator(s)"
+			  encodinganalog="isadg(2)321">University of Edinburgh Dialectic
+				Society</origination> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>
+				<list>
+				  <item>Laws of the Associated Societies of the University of
+					 Edinburgh (1880) [2 copies]</item>
+				  <item>Laws (1806)</item>
+				  <item>Laws (1817)</item>
+				  <item>Laws (1826)</item>
+				  <item>Laws (1834) [Secretary's copy]</item>
+				  <item>Laws (1844)</item>
+				  <item>Laws (1865) [2 copies]</item>
+				  <item>Laws (1883)</item>
+				  <item>Laws (1896) [6 copies, one bound]</item>
+				  <item>Laws (1903) [ 5 copies, one having been the President's
+					 copy]</item>
+				  <item>Law cases and speculative questions for the discussion of
+					 the Scots Law Society during session 1829-1830 [President's copy, including
+					 letters]</item>
+				  <item>Laws (1853)</item>
+				</list></p> 
+		  </scopecontent> 
+		  <descgrp> 
+			 <head>Administrative Information</head> 
+			 <acqinfo encodinganalog="isadg(2)324"> 
+				<head>Immediate Source of Acquisition</head> 
+				<p>Additional copy of 1886 Laws, Accession Acc. 00/035.</p> 
+			 </acqinfo>
+			 <processinfo encodinganalog="isadg(2)371"> 
+				<head>Archivist's Notes</head> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20070914" certainty="certain">14
+						September 2007</date></p> 
+				</processinfo> 
+			 </processinfo></descgrp>
+		</c>
+		<c id="GB-237-GD9-4" level="series">
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				GD9/4</unitid> 
+			 <physloc label="Shelfmark" encodinganalog="shelfmark">Box: EUA-A-150
+				- EUA-A-156</physloc><unittitle encodinganalog="isadg(2)312">Records of
+				Members</unittitle><unitdate normal="1791/1960"
+			 encodinganalog="isadg(2)313">1791-1960</unitdate><repository label="Repository"
+			 encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				Collections</repository> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">7 boxes</extent></physdesc> 
+			 <langmaterial><language
+				langcode="eng">English</language></langmaterial> 
+			 <origination label="Name of Creator(s)"
+			  encodinganalog="isadg(2)321">University of Edinburgh Dialectic
+				Society</origination> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Box: EUA-A-150
+				<list>
+				  <item>Minutes, Volume II (1791-1794)</item>
+				  <item>Minutes, Volume III (1794-1801)</item>
+				  <item>Minutes, Volume IV (1801-1806)</item>
+				  <item>Minutes, Volume V (1806-1810)</item>
+				  <item>Minutes, Volume VI (1811-1823)</item>
+				</list></p> 
+			 <p>Box: EUA-A-151
+				<list>
+				  <item>Minutes, Volume VII (1823-1833)</item>
+				  <item>Minutes, Volume VIII (1833-1841)</item>
+				</list></p>
+			 <p>Box: EUA-A-152
+				<list>
+				  <item>Minutes, Volume IX (1841-1852)</item>
+				  <item>Minutes, Volume X (1852-1861)</item>
+				</list></p>
+			 <p>Box: EUA-A-153
+				<list>
+				  <item>Minutes, Volume XI (1861-18702)</item>
+				  <item>Minutes, Volume XII (1871-1884)</item>
+				</list></p>
+			 <p>Box: EUA-A-154
+				<list>
+				  <item>Minutes, Volume XIII (1884-1885)</item>
+				  <item>Minutes, Volume XIV (1894-1900)</item>
+				</list></p>
+			 <p>Box: EUA-A-155
+				<list>
+				  <item>Minutes, Volume XV (1900-1908)</item>
+				  <item>Minutes, Volume XVI (1908-1919)</item>
+				</list></p>
+			 <p>Box: EUA-A-156
+				<list>
+				  <item>Minutes (1913-1915) {Reports of Committees]</item>
+				  <item>Minutes, Volume XVII (1925-1931)</item>
+				  <item>Minutes (1949-1960)</item>
+				  <item>Order of business (1870-1871)</item>
+				</list></p>
+		  </scopecontent> 
+		  <descgrp> 
+			 <head>Administrative Information</head> 
+			 <processinfo encodinganalog="isadg(2)371"> 
+				<head>Archivist's Notes</head> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					 normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20070914" certainty="certain">14
+						September 2007</date></p> 
+				</processinfo> 
+			 </processinfo></descgrp>
+		</c>
+		<c id="GB-237-GD9-5" level="series">
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				GD9/5</unitid> 
+			 <physloc label="Shelfmark" encodinganalog="shelfmark">Box: EUA-A-157
+				- EUA-A-159</physloc><unittitle encodinganalog="isadg(2)312">Draft
+				minutes</unittitle><unitdate normal="1799/1954"
+			 encodinganalog="isadg(2)313">1799-1954</unitdate><repository label="Repository"
+			 encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				Collections</repository> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			 encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">2.5 boxes</extent></physdesc> 
+			 <langmaterial><language
+				langcode="eng">English</language></langmaterial> 
+			 <origination label="Name of Creator(s)"
+			 encodinganalog="isadg(2)321">University of Edinburgh Dialectic
+				Society</origination> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Box EUA-A-157
+				<list>
+				  <item>Draft minutes (1798-1799)</item>
+				  <item>Draft minutes (1802-1805)</item>
+				  <item>Draft minutes (1806-1807)</item>
+				  <item>Draft minutes (1808)</item>
+				  <item>Draft minutes (1812-1815)</item>
+				  <item>Draft minutes (1816-1819)</item>
+				  <item>Draft minutes (1820-1827)</item>
+				  <item>Scroll minutes (1827-1828)</item>
+				  <item>Draft minutes (1834) [untitled; pages missing]</item>
+				  <item>Scroll minutes (begins November 1834)</item>
+				  <item>Scroll minutes (begins July 1837)</item>
+				  <item>[Draft] minutes (1844-1845)</item>
+				  <item>[Draft] minutes (1850-1854)</item>
+				  <item>[Draft] minutes (1854-1858)</item>
+				  <item>[Draft] minutes (1858-1861)</item>
+				  <item>Draft minutes (1892-1893)</item>
+				</list></p>
+			 <p>Box EUA-A-158
+				<list>
+				  <item>Draft minutes (1905-1906)</item>
+				  <item>[Draft] minutes (1906-1907)</item>
+				  <item>Draft minutes (1907-1908)</item>
+				  <item>Draft minutes (1914-1923)</item>
+				  <item>[Draft] minutes (1923-1924)</item>
+				</list></p>
+			 <p>Box EUA-A-159
+				<list>
+				  <item>[Draft] minutes (1931-1954)</item>
+				</list></p> 
+		  </scopecontent> 
+		  <descgrp> 
+			 <head>Administrative Information</head> 
+			 <processinfo encodinganalog="isadg(2)371"> 
+				<head>Archivist's Notes</head> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20070914" certainty="certain">14
+						September 2007</date></p> 
+				</processinfo> 
+			 </processinfo></descgrp>
+		</c>
+		<c id="GB-237-GD9-6" level="series">
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				GD9/6</unitid> 
+			 <physloc label="Shelfmark" encodinganalog="shelfmark">Box: EUA-A-159
+				- EUA-A-160</physloc><unittitle encodinganalog="isadg(2)312">Cash
+				books</unittitle><unitdate normal="1795/1924"
+			 encodinganalog="isadg(2)313">1795-1924</unitdate><repository label="Repository"
+			 encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				Collections</repository> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">1 box</extent></physdesc> 
+			 <langmaterial><language
+				langcode="eng">English</language></langmaterial> 
+			 <origination label="Name of Creator(s)"
+			  encodinganalog="isadg(2)321">University of Edinburgh Dialectic
+				Society</origination> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Box: EUA-A-159
+				<list> 
+				  <item>Cash book and questions (1795-1797)</item>
+				  <item>Cash book (1797-1806)</item>
+				  <item>Cash book (1806-1809)</item>
+				  <item>Cash book (1812)</item>
+				  <item>Cash book (1812-1822)</item>
+				  <item>Cash book (1822-1826)</item>
+				  <item>Cash book (1825-1826)</item>
+				  <item>Cash book (1844-1845)</item>
+				  <item>Cash book (1870)</item>
+				</list></p> 
+			 <p>Box: EUA-A-160
+				<list> 
+				  <item>Ledger list of members' fines and dues to the society
+					 (1894-1901)</item>
+				  <item>Cash book (1919)</item>
+				  <item>Ledger (1924)</item>
+				  <item>Commercial Bank of Scotland (South Bridge in account with
+					 the Dialectic Society</item>
+				</list></p>
+		  </scopecontent> 
+		  <descgrp> 
+			 <head>Administrative Information</head> 
+			 <processinfo encodinganalog="isadg(2)371"> 
+				<head>Archivist's Notes</head> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20070914" certainty="certain">14
+						September 2007</date></p> 
+				</processinfo> 
+			 </processinfo></descgrp>
+		</c>
+		<c id="GB-237-GD9-7" level="series">
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				GD9/7</unitid> 
+			 <physloc label="Shelfmark" encodinganalog="shelfmark">Box:
+				EUA-A-160</physloc><unittitle
+			 encodinganalog="isadg(2)312">Miscellaneous</unittitle><unitdate
+			 normal="1795/1924" encodinganalog="isadg(2)313">1795-1924</unitdate><repository
+			 label="Repository" encodinganalog="NAHSTE31">Edinburgh University Library,
+				Special Collections</repository> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.5 box</extent></physdesc> 
+			 <langmaterial><language
+				langcode="eng">English</language></langmaterial> 
+			 <origination label="Name of Creator(s)"
+			  encodinganalog="isadg(2)321">University of Edinburgh Dialectic
+				Society</origination> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>
+				<list> 
+				  <item>Peter Walker Nicholson and his works - Monograph</item>
+				  <item>University Reform - Report by the Acting Committee of the
+					 Association for the Improvement and Extension of Scottish Universities</item>
+				  <item>Abolition of patents - recent discussions in the United
+					 Kingdom and Continent</item>
+				  <item>Certificates of membership</item>
+				  <item>Papers, including correspondence and certificates</item>
+				  <item>Visitors' Book (1882-1970)</item>
+				</list></p> 
+		  </scopecontent> 
+		  <descgrp> 
+			 <head>Administrative Information</head> 
+			 <accessrestrict encodinganalog="isadg(2)341"> 
+				<head>Conditions Governing Access</head> 
+				<p>Visitors book ???.</p> 
+			 </accessrestrict>
+			 <processinfo encodinganalog="isadg(2)371"> 
+				<head>Archivist's Notes</head> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20070914" certainty="certain">14
+						September 2007</date></p> 
+				</processinfo> 
+			 </processinfo></descgrp>
+		</c>
+	 </dsc>
+  </archdesc>
+</ead>

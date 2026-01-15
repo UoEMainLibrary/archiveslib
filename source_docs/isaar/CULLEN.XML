@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0335" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0251 20020307 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0251</titleproper> 
+		  <subtitle>Cullen | William | 1710-1790 | physician, chemist and
+			 metalurgist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+			 University Library Special Collections Division, 7 March 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020307">7 March 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0251</titleproper> 
+		<subtitle>Cullen | William | 1710-1790 | physician, chemist and
+		  metalurgist</subtitle> 
+		<author>Compiled for the NAHSTE project by Duncan Fisher,</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020307">7 March 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0251"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0251</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0251" normal="Cullen, William">Cullen | William
+		  | 1710-1790 | physician, chemist and metallurgist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>William Cullen was born in Hamilton, Lanarkshire, Scotland, 
+			 <date type="birth" normal="17100415">15 April 1710</date>. His father
+			 was a lawyer, on special retainer to the Duke of Hamilton; his mother was of
+			 the Roberton family of Whistlebury. He attended the Hamilton Grammar School,
+			 and in 
+			 <date type="single" normal="1726">1726</date> began an arts course in
+			 general studies in the University of Glasgow. Following an interest in
+			 medicine, he apprenticed himself as surgeon apothecary to John Paisley of
+			 Glasgow, spent 
+			 <date type="appointment" normal="1729">1729</date> as surgeon to a
+			 West Indies merchant vessel, and 
+			 <date type="appointment" normal="1730/1731">1730 and '31</date> as
+			 assistant apothecary to Mr Murray of Henrietta Street, London, and in 
+			 <date type="single" normal="1732">1732</date> he started general
+			 medical practice in Shotts, Lanarkshire. A small legacy in 
+			 <date type="single" normal="1733">1733</date> financed more private
+			 study in general literature and philosophy and sent him to Edinburgh University
+			 for formal medical classes. He returned to Hamilton in 
+			 <date type="single" normal="1736">1736</date>, a physician and
+			 surgeon, and by 
+			 <date type="single" normal="1740">1740</date> held a Glasgow medical
+			 degree at last. He married in 
+			 <date type="single" normal="1741">1741</date>, started his family,
+			 and settled into terms as a town councillor and magistrate. He also became
+			 ordinary medical attendant to James, 5th Duke of Hamilton (<date
+			 type="appointment" normal="1703/1743">1703-43</date>), and his family, and his
+			 livestock. Cullen had been interested in chemistry since Edinburgh, and the
+			 Duke intended to equip a laboratory for him, and to make him superintendent of
+			 the Palace gardens. But the Duke died in 
+			 <date type="death" normal="1743">1743</date>, and in the next year
+			 the Cullens moved to Glasgow, where father practised physic and lectured
+			 extramurally in physiology, botany, and materia medica. Dr Johnstone, Professor
+			 of Medicine, let him teach chemistry as its own subject, a novel idea, and by 
+			 <date type="appointmentdate" normal="1747">1747</date> there was
+			 money for the first independent lectureship in chemistry, occupied by Cullen
+			 and one John Carrick, assistant to Robert Hamilton, Professor of Anatomy;
+			 Carrick died soon after, and was not replaced. In 
+			 <date type="appointmentdate" normal="1751">1751</date> Cullen took
+			 the chair of medicine vacated by Johnstone, continuing with chemistry lectures
+			 as best he could, then leapt to Edinburgh in 
+			 <date type="appointmentdate" normal="1755">1755</date>, when Dr
+			 Plummer, his old chemistry lecturer, died. In 
+			 <date type="appointmentdate" normal="1766">1766</date> he succeeded
+			 Robert Whytt in the Edinburgh chair of the Institutes (theory) of Medicine,
+			 later sharing lectures with John Gregory in alternate years in the practice of
+			 physic, into whose chair he moved in 
+			 <date type="appointmentdate" normal="1773">1773</date>. Cullen was a
+			 fine administrator, who helped found the Royal Society of Edinburgh and the
+			 Royal Medical Society (Edinburgh). For all his academic leadership he was
+			 elected a fellow of the Royal Society of London 
+			 <date type="appointmentdate" normal="1777">1777</date>, though he
+			 never signed the roll attesting formal admission. He died in Edinburgh on 
+			 <date type="death" normal="17900205">5 February 1790</date>, and lies
+			 interred nearby in the village of Kirknewton. </p> 
+		  <p>Cullen the chemist was unoriginal but enlightened. His papers, none
+			 ever published, show that he was willing to distinguish acids and alkalies from
+			 "salts", to acknowledge the legitimacy of Boyle's atoms, and to give symbolic
+			 precision to the affinity tables then in widespread use. Cullen the man of
+			 medicine, who published only marginally, was reasonably forward-thinking as
+			 well, especially in matters of nosology. It was Cullen the teacher who shone
+			 brightest. He was deeply entrenched in Lockean empirical philosophy, and his
+			 practical lectures, in accessible English, with student-led, hands-on
+			 demonstrations, made his courses famous as far away as Philadelphia. He
+			 evangelized for chemistry as its own academic subject, and stressed its
+			 practical applications to mining, agriculture, and manufacture. Cullen's
+			 empirical practicality finally made him famous as a general scientist too. His
+			 only important paper was the writeup of his 
+			 <date type="publication" normal="1756">1756</date> demonstration of
+			 someone else's postulated usefulness of the cold that accompanies evaporating
+			 fluids. He froze water to prove that the principles worked. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Two most important academic mentors in Cullen's life were Robert
+			 Simson (<date type="lifespan" normal="1687/1768">1687-1768</date>), the Glasgow
+			 mathematician who helped foster his interest in science and who supported him
+			 later as a young professor, and Andrew Plummer (<date type="life-span"
+			 normal="1698/1756">1698-1756</date>), experimental chemist in the medical
+			 school in Edinburgh and disciple of the influential Herman Boerhaave (<date
+			 type="life-span" normal="1668/1738">1668-1738</date>). </p> 
+		  <p> His great non-faculty patrons were Archibald Campbell, 3rd Duke of
+			 Argyll (<date type="life-span" normal="1682/1761">1682-1761</date>), lawyer and
+			 politician, who got him his Edinburgh chemistry chair; Henry Home, Lorde Kames
+			 (<date type="life-span" normal="1696/1782">1696-1782</date>), judge,
+			 agriculturalist and philosopher, who enticed him to Edinburgh; and George
+			 Drummond (<date type="life-span" normal="1687-1766">1687-1766</date>),
+			 financier and politician, responsible for the building of the Royal Infirmary
+			 and the medical school. </p> 
+		  <p> Cullen's favourite colleagues included young Lanarkshire friend
+			 William Hunter (<date type="life-span" normal="1718/1783">1718-83</date>), who
+			 became a celebrated anatomist and obstetrician; he was surgeon apothecary
+			 apprentice to Cullen for three years in Hamilton, and boarded in his house.
+			 Cullen later introduced him to another Lanarkshire friend, William Smellie
+			 (<date type="life-span" normal="1697/1763">1697-1763</date>), master of British
+			 midwifery, who helped set Hunter up in his London practice. There were also
+			 John Carrick, fellow lecturer in chemistry at Edinburgh, and John Rutherford
+			 (<date type="life-span" normal="1695/1779">1695-1779</date>), Alexander Monro
+			 (<date type="life-span" normal="1697-1767">1697-1767</date>), and Robert Whytt
+			 (<date type="life-span" normal="1714/1766">1714-1766</date>), all fellow
+			 teachers in clinical medicine. A fellow practical scientist was Francis Home
+			 (<date type="life-span" normal="1719/1813">1719-1813</date>), Professor of
+			 Materia Medica at Edinburgh; like Cullen, he worked on the chemistry of linen
+			 bleaching. </p> 
+		  <p>Numerous Cullen students went on to become important scientists in
+			 their own right. Joseph Black (<date type="life-span"
+			 normal="1728/1799">1728-1799</date>) discovered carbon dioxide. A true
+			 procedural prot&#x00C3;&#x00A9;g&#x00C3;&#x00A9; of his master, he was first to
+			 use a balance in a planned set of experiments, in the manner of a modern
+			 quantitative chemist. Other luminaries were Robert William (<date
+			 type="life-span" normal="1757/1812">1757-1812</date>), William Withering (<date
+			 type="life-span" normal="1741-1799">1741-1799</date>), John Rogerson (<date
+			 type="life-span" normal="1741/1823">1741-1823</date>), Sir Gilbert Blane (<date
+			 type="life-span" normal="1749/1834">1749-1834</date>), John Haygarth (<date
+			 type="life-span" normal="1740/1827">1740-1827</date>), John Coakley Lettsom
+			 (<date type="life-span" normal="1744-1813">1744-1813</date>), and Dr John Brown
+			 (<date type="life-span" normal="1735/1788">1735-1788</date>). There was also
+			 unfortunately Dr James Graham (<date type="life-span"
+			 normal="1745/1794">1745-1794</date>), a famous quack, who ran a sumptuous
+			 Temple of Health in London. One of his scantily-clad goddesses of health was
+			 Lady Emma Hamilton (<date type="life-span"
+			 normal="1765/1815">1765-1815</date>), n&#x00E9;e Emma Noble, more famous as
+			 Lord Nelson's mistress. Legitimate enthusiasts of Cullen's teaching methods
+			 overseas were prominent Americans like John Morgan (<date type="life-span"
+			 normal="1753/1789">1753-89</date>), Benjamin Rush (<date type="life-span"
+			 normal="1745/1813">1745-1813</date>), Thomas Parke, Wiliam Shippen (<date
+			 type="life-span" normal="1736/1808">1736-1808</date>), Adam Kuhn (<date
+			 type="life-span" normal="1741/1817">1741-1817</date>), and Benjamin Franklin
+			 (<date type="life-span" normal="1706/1790">1706-1790</date>). </p> 
+		  <p>Dr Cullen had famous acquaintances outside the sciences. One of them
+			 was another new appointment in Glasgow, an economist named Adam Smith (<date
+			 type="life-span" normal="1723/1790">1723-90</date>). Another in Glasgow was one
+			 David Hume (<date type="life-span" normal="1711/1776">1711-76</date>). In 
+			 <date type="single" normal="1773">1773</date> Dr Cullen dined with Dr
+			 Johnson, who found him very entertaining. </p> 
+		  <p>Mrs Cullen was born Anna Johnstone, daughter of the Reverend Robert
+			 Johnstone of Kilbarchan. </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publication: </p> 
+		  <p><bibref><title>"Of the Cold Produced by Evaporating Fluids and of
+			 Some Other Means of Producing Cold," in Essays and Observations Physical and
+			 Literary Read Before a Society in Edinburgh and Published by Them, II </title>,
+			 ( Edinburgh<imprint><date type="publication" normal="1756"
+			 certainty="certain">1756</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1740">1740</date>: Awarded
+			 Doctor of Medicine degree from Glasgow University</p> 
+		  <p><date type="appointmentdate" normal="1747">1747</date>: Awarded
+			 Britain's first independent lectureship in chemistry</p> 
+		  <p><date type="appointmentdate" normal="1747">1747</date>: Elected
+			 President of the Faculty of Physicians and Surgeons of Glasgow</p> 
+		  <p><date type="appointmentdate" normal="1751">1751</date>: Appointed to
+			 the chair of Medicine at the University of Glasgow</p> 
+		  <p><date type="appointmentdate" normal="1755">1755</date>: Appointed
+			 Professor of chemistry and medicine, Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1766">1766</date>: Appointed to
+			 the chair of Institutes (theory) of Medicine in Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1773">1773</date>: Becomes sole
+			 Professor of Physic in Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1773">1773</date>: Appointed
+			 First Physician to the King in Scotland</p> 
+		  <p><date type="appointmentdate" normal="1773">1773</date>: Elected
+			 President of the Royal College of Physicians in Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1777">1777</date>: Elected a
+			 Fellow of the Royal Society of London (without signing the roll)</p> 
+		  <p><date type="appointmentdate" normal="1783">1783</date>: Helps found
+			 the Royal Society of Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Blunt, Wilfrid"
+			 role="author">Doig, A, et al, eds</persname>, <title>William Cullen and the
+			 Eighteenth Century Medical World </title>, (<imprint>, 
+			 <publisher>Edinburgh University Press</publisher>, 
+			 <date type="publication" normal="1993"
+			 certainty="certain">1993</date>)</imprint></bibref> </p> 
+		  <p><bibref><persname source="ncarules" normal="Gillespie, CC "
+			 role="editor">Gillespie, CC, ed</persname>, <title>Dictionary of Scientific
+			 Biography</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="New York">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970/1990"
+			  certainty="certain">1970-1990</date>)</imprint>, s.v. "Cullen, William" by
+			 <persname normal="Lindroth, Sten" role="author">William P.D.
+			 Wightman</persname></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Fisher, Duncan" role="researcher">Duncan Fisher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020307">7 March
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

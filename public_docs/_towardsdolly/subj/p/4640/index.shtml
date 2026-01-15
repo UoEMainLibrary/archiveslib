@@ -1,0 +1,26 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Phenotype</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/p/">p</a><h1>Phenotype</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4640&term=Phenotype" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-3-39&view=basic">Typescript titled 'Genetic and environmental determinants of the spermatozoan phenotype in Drosophila' (2 copies) </a> (1970) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-746&view=basic">Debrisoquine hydroxylation phenotyping: do we expect too much? [Letter] </a> (1990) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-35&view=basic">Genetic and phenotypic relationships between physiological traits and performance test traits in sheep </a> (1993) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-177&view=basic">Estimates of genetic and phenotypic parameters of some performance traits in beef cattle </a> (1993) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-182&view=basic">Phenotypic correlations among daily records of milk yields </a> (1993) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-445&view=basic">Mapping trait genes in livestock </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-447&view=basic">Mapping quantitative trait loci in crosses between outbred lines using least squares </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-448&view=basic">Multi-marker approaches to mapping quantitative trait loci in livestock </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-363&view=basic">Genetic and phenotypic relationships between physiological traits and performance test traits in sheep </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-443&view=basic">Study of genes controlling phenotypic traits by linkage analysis using DNA markers </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-444&view=basic">Finding and exploiting genes controlling phenotypic traits using DNA markers </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-833&view=basic">Genetic and phenotypic relationships between performance test and reproduction traits in pigs selected for components of efficient lean growth rate </a> (1995) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

@@ -1,0 +1,21 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Muckairn Argyllshire Scotland </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/geog/a/">Authority terms: geographic names</a> &gt; <a href="/catalogue/geog/m/">m</a><h1>Muckairn Argyllshire Scotland </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=geog&id=4067&term=Muckairn Argyllshire Scotland " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f&view=basic">Field notebook belonging to Alexander Carmichael </a> (1867-1893) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-161&view=basic">Note about Muckairn people and marriage customs </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-253&view=basic">Story about Mrs Alexander MacPherson, daughter of the baillie of Fearnoch </a> (1884) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-236&view=basic">List of Argyll placenames and accompanying story </a> (1884) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-28&view=basic">Saying beginning 'An Laidhail chruai chreagach' </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-56&view=basic">Verse beginning 'Goirtean a Ghille reangach' and accompanying note </a> (xxxx) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-30&view=basic">Prophecy verse beginning 'Biodh na h-eich mhaide' </a> (xxxx) The Carmichael Watson Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

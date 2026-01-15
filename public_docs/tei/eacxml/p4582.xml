@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4582</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-06-03">3 June 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Aimee Shaw</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2012-12-05">5 December 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>updated</eventType>
+                <eventDateTime standardDateTime="2012-12-05">15 February 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Lynne Bulmer</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1834 OPR Births</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 113/00 0010 0040 North Uist</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for Inverness-shire</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 113/00 012/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Inverness-shire </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 387/01 031/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Inverness-shire </sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 113/00 011/00 007</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1873 113/00 0078</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Sheriff Court record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Court reference 1874 SC29/44/15 Inverness
+                            Sheriff Court</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW112/28</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4582</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacRae</part>
+                <part localType="given">James Andrew</part>
+                <part localType="title">Major</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Vallay and Griminish, North Uist</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1834-06-04">4 June 1834</fromDate>
+                    <toDate standardDate="1873-11-17">17 November 1873</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>James Andrew MacRae was born on North Uist, the son of Finlay MacRae, minister,
+                    and Isabella Maria MacRae née MacDonald.  In the 1841 census, he is found in
+                    Vallay on North Uist age 6 together with five siblings: Donald (15), Alexander
+                    (13), Duncan (10), John (8) and Jane (4). In the 1861 census, he is listed as a
+                    visitor to the household of Thomas Craigie in Perth and is described as
+                    'Captain, Inverness [H S I] Militia'.  In 1871, the census finds him back on
+                    North Uist and now the head of the household, his mother having been widowed;
+                    five servants are also listed.  At this time, he is described as 'Farmer and
+                    Captain, Inverness [H I S] Militia'; by the time of his death he had become a
+                    Major.</p>
+                <p>James Andrew MacRae (listed as 'Major' on the death certificate) died in Vallay,
+                    North Uist of pulmonary consumption at the age of 39 on 17 November 1873 and his
+                    brother John A. MacRae witnessed the certificate. </p>
+                <p>Alexander Carmichael collected a story about Vikings and seals from James Andrew
+                    MacRae around 1875.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1834-06-04">4 June 1834</date>
+                        <placeEntry>Kilmuir</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1873-11-17">17 November 1873</date>
+                        <placeEntry>Vallay, North Uist</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

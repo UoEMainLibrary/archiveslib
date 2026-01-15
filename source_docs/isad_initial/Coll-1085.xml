@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1085">GB
+		237 Coll-1085</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of Sir David Smith, Principal of Edinburgh
+			 University 1987-1994 (b. 1930) </titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20060314" certainty="certain">14 March
+			 2006</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1085"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1085</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2006.05</physloc><unittitle
+		encodinganalog="isadg(2)312">Papers of Sir David Smith, Principal of Edinburgh
+		  University 1987-1994 (b. 1930) </unittitle><unitdate normal="1986/2006"
+		encodinganalog="isadg(2)313">1986-2006</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">5 boxes </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Smith, David</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>David Smith was born in South Wales on 21 May 1930. He was educated at
+		  Colston's School, Bristol, and at St. Paul's School, London, and then studied
+		  at The Queen's College, Oxford, where he was awarded the degrees of B.A. (first
+		  class honours in Botany), 1951, and Ph.D., 1954. After National Service, his
+		  academic career continued with a research fellowship at Queen's and he was
+		  Harkness Visiting Fellow at the University of California, Berkeley. Smith was
+		  back in Oxford in 1960, this time holding a University Lectureship in the
+		  Department of Agricultural Science, as well as an appointment as Royal Society
+		  Senior Research Fellow, then Tutorial Fellow and Admissions Tutor at Wadham
+		  College. In 1975, he became a Fellow of the Royal Society.</p> 
+		<p>Smith then held the Melville Wills Chair of Botany at the University
+		  of Bristol, and in 1980 he became Professor of Rural Economy at the University
+		  of Oxford and Head of the Department of Agricultural Science. In 1986 he was
+		  knighted, and in 1987 he was appointed Principal of Edinburgh University in
+		  succession to John Harrison Burnett.</p> 
+		<p>The published work of Sir David Smith centres on the biology of
+		  symbiosis and was initially concerned with associations between algae and
+		  fungi, and latterly with a variety of associations between algae and animals.
+		  With A. Douglas he published 
+		<title>The biology of symbiosis</title> (1987).</p> 
+		<p>During his period as Principal at Edinburgh, the University was
+		  confronted by challenges in the area of teaching (staff-student ratios), in
+		  research (assessments), and in financial policy, but through the resourceful
+		  leadeship that Smith provided, the University had been able to strengthen these
+		  areas again by the time that he retired in 1994.</p> 
+		<p>Sir David Smith's portrait was painted by Scottish painter and
+		  printmaker Dame Elizabeth Blackadder (b. 1931) and it was unveiled on 21 March
+		  1994.</p> 
+		<p>From April 1994 to 2000, Sir David Smith was President of Wolfson
+		  College, Oxford.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The boxes contain 39 files and 3 scrapbooks. The files cover a variety
+		  of subjects, from: appointment as Principal; financial crisis; recovery plan;
+		  restructuring; graduation addresses; talks and speeches; anglicisation; new
+		  University logo; and, the installation of Muriel Gray as rector. The scrapbooks
+		  contain cuttings or copies of cuttings on: the closure of the Dental School;
+		  the anglicisation of Edinburgh University; attacks on the University as
+		  inefficient; league tables; cuttings relating to Smith personaly and generally;
+		  the Chair of Scottish History; and, the sale of works of art. </p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Material donated by Sir David Smith, February 2006, Accession no:
+			 E2006.05.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Generally open to bona fide researchers, but some material closed.
+			 Please contact repository for details in advance</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>In Box 1 is a list of file numbers and contents, and content of
+			 scrapbooks.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using material
+			 contained in the collection, and: (1) 
+		  <title>Who's who 2005</title>. London: A. and C. Black, 2005.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D. Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Universities and
+			 colleges</emph><emph altrender="x">Administration</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph altrender="surname">Smith</emph><emph
+			 altrender="title">Sir</emph><emph altrender="forename">David</emph><emph
+			 altrender="dates">b. 1930</emph><emph altrender="epithet">Former Principal of
+			 Edinburgh University</emph></persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses &amp; Organisations</head>		  <!-- NCA Rules -->
+		  <corpname rules="ncarules"><emph altrender="a">University of
+			 Edinburgh</emph></corpname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0063 20010416 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0063</titleproper> 
+		  <subtitle>Hutton | James | 1726-1797 | geologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 16 April 2001</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20010416">16 April 2001</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0063</titleproper> 
+		<subtitle>Hutton | James | 1726-1797 | geologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+		  University Library Special Collections Division, 16 April 2001</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20010416">16 April 2001</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0063"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0063</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0063" normal="Hutton, James">Hutton | James |
+		  1726-1797 | geologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>James Hutton was most well known for achievements in geology but his
+			 interests were not solely confined to this.</p> 
+		  <p>His most important contribution to science was his
+			 <bibref><title>Theory of the Earth</title>, (<imprint><date type="publication"
+			 normal="1785" certainty="certain">1785</date>)</imprint></bibref>. For this
+			 theory Hutton has earned the accolade of 'founder of modern geology'. Hutton's
+			 theory put forward the idea that fusion of sediments arose by the great heat
+			 which he believed to exist beneath the lower regions of the earth's crust.
+			 Heat, he claimed, was capable of fusing all the substances found in different
+			 types of sediment. He also concluded that the extreme heat that fused the
+			 sediments must be capable of producing an "expansive force, sufficient for
+			 elevating the land from the bottom of the ocean to the place it now occupies".
+			 Hutton then discussed evidence for the action of heat through folds and
+			 contortions in rocks and evidence he found in the rocks themselves. He
+			 mentioned mineral veins containing matter foreign to the strata they traverse,
+			 the widespread occurrence of volcanoes and the occurrence of what he called
+			 'subterraneous lavas' (now known to be igneous intrusions).</p> 
+		  <p> Finally, Hutton discussed one of the principle objects of his
+			 inquiry, the length of time the earth had existed as a habitable world: the
+			 question of geological time. Hutton's ideas were based on the length of time it
+			 took to wear down the land. This demonstration that the process of
+			 sedimentation was cyclical in nature was perhaps the most important advance in
+			 geological science embodied in the theory. In his <bibref><title>Theory of the
+			 Earth</title>, (<imprint><date type="publication" normal="1785"
+			 certainty="certain">1785</date>)</imprint></bibref> he noted: "with respect to
+			 Human observation, this world has neither a beginning nor an end" [pp 27-28].
+			 This principle is now accepted as axiomatic.</p> 
+		  <p>Hutton also made contributions to the study of igneous geology. He
+			 established for the first time, the existence of a new class of rocks known as
+			 'intrusive igneous'. He concluded that all igneous rocks originated in what he
+			 called 'the mineral region', a subcrustal zone of undefined depth in which heat
+			 of sufficient intensity to melt rocks prevailed. Apart from geology Hutton had
+			 interests in agriculture. For a time, Hutton was himself a farmer, and never
+			 lost this passion, for shortly before he died he was engaged in preparing for
+			 publication a treatise entitled Principles of Agriculture which still exists in
+			 manuscript form.</p> 
+		  <p>Hutton also had interests in the physical sciences, in particular,
+			 chemistry, physics and meteorology. Toward the end of his life he published a
+			 three-part book entitled <bibref><title>Dissertations on Different Subjects in
+			 Natural Philosophy</title>, (<imprint><date type="publication" normal="1792"
+			 certainty="certain">1792</date>)</imprint></bibref> where he discussed mostly
+			 meteorology, phlogiston, and the theory of matter.</p> 
+		  <p>Hutton also engaged in more philosophical concerns of the time. He
+			 published a three volume treatise on metaphysics and moral philosophy entitled,
+			 <bibref><title>An Investigation of the Principles of Knowledge and of the
+			 Progress of Reason, From Sense to Science and Philosophy</title>, ( 
+			 <imprint><date type="publication" normal="1794"
+			 certainty="certain">1794</date>)</imprint></bibref> . In this he outlined a
+			 broad deistic line introducing his belief that in nature there is abundant
+			 evidence of benevolent wisdom and design.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>His father was William Hutton, Merchant and former Edinburgh city
+			 trader.</p> 
+		  <p>His mother, Sarah Balfour, was the daughter of John Balfour whose
+			 descendants provided two professors of botany at the University of
+			 Edinburgh.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p><bibref><title>Theory of the Earth</title>, (<imprint><date
+			 type="publication" normal="1785"
+			 certainty="certain">1785</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1749">1749</date>: Awarded Doctor of
+			 Medicine, Leiden University</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Dictionary of Scientific Biography </title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="483"
+			 normal="New York (NY, United States)">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication"
+			  normal="1981">1981</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Thomson, Andrew" role="archivist">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20010416">16 April
+				2001</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

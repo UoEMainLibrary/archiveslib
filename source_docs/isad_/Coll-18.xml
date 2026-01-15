@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-18">GB 237
+		Coll-18</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Letters to
+			 Christopher Murray Grieve (1892-1978)</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-18">
+    <did>
+      <unittitle>Letters to
+			 Christopher Murray Grieve (1892-1978)</unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-18</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 2094; MSS 2942-2961</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Letters to Christopher Murray Grieve
+		  (1892-1978)</unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1978">before
+		  1978</unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>35 boxes, 1
+		  large portfolio, 37 manuscript folders (6 linear metres). </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">Christopher Murray
+		  Grieve, also known as: Hugh MacDiarmid </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Poet, essayist, literary critic, historian, and social commentator,
+		  Christopher Murray Grieve, also known as Hugh MacDiarmid, was born on 11 August
+		  1892 in Langholm, Dumfriesshire. He was educated at Langholm Academy then at
+		  Broughton Junior Student Centre in Edinburgh prior to studying at Edinburgh
+		  University. After wartime service with the Royal Army Medical Corps, 1915-20,
+		  in Salonika, Italy, and France, he became a journalist in Montrose, Angus.
+		  There he worked for the 
+		Montrose Review  and edited three issues of the first
+		post-war Scottish verse anthology 
+		Northern Numbers  (1921-23). In 1922 he founded the
+		journal 
+		Scottish Chapbook , advocating the revival of Scottish
+		literature. Grieve was a Labour member of Montrose town council from 1923, but
+		in 1928 he was one of the founder members of the National Party of Scotland
+		(now the Scottish National Party). Later on however he came to accept Marxist
+		philosophy. He was a formal member of the Communist Party from 1934 until 1938
+		when he was expelled, and rejoined in 1957. Indeed, in 1964 he was a defeated
+		Communist candidate opposing Sir Alec Douglas-Home in a Perthshire constituency
+		in the General Election. In 1929, he worked on 
+		Vox  in London, and in 1930 was living in Liverpool,
+		working as a public relations officer. Another spell in London followed. In
+		1933 Grieve moved to Whalsay in the Shetland Islands, staying there until 1941.
+		In these wartime years, he worked as a manual labourer on Clydeside, 1941-43,
+		and then on British merchant ships engaged in estuarial duties, 1943-45. After
+		the Second World War, he lived in Glasgow, Strathaven in Lanarkshire, and then
+		from 1951 in Biggar on the upper Clyde. As a poet, Grieve (Hugh MacDiarmid) was
+		the pre-eminent Scottish figure in the first half of the 20th century, and was
+		the leader of the Scottish literary renaissance. Indeed, he has been
+		acknowledged as the greatest Scottish poet since Robert Burns. Grieve rejected
+		English as a medium and wrote in an amalgam of various Scots dialects. Later on
+		he wrote Scotticised English, and then returned to Standard English. His poetic
+		work in these mediums, and under the pseudonym Hugh MacDiarmid, included 
+		A drunk man looks at the thistle  (1926), 
+		To Circumjack Cencrastus  (1930), 
+		Scots unbound  (1932), 
+		Stony limits  (1934), 
+		Second hymn to Lenin  (1935), 
+		A kist of whistles  (1947), and 
+		In memoriam James Joyce  (1955). Other works include 
+		The kind of poetry I want  (1961), 
+		The company I've kept  (1966), 
+		Celtic nationalism  (1968), 
+		A lap of honour  (1969), 
+		Song of the Seraphion  (1973), and 
+		John Knox  (1976). These titles represent only a very
+		small proportion of Grieve's enormous output as poet, prose writer, editor, and
+		translator. He was writing well into the 1970s but died of cancer in Edinburgh
+		on 9 September 1978. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The collection of letters to Christopher Murray Grieve (Hugh
+		  MacDiarmid) are organised alphabetically and into acquisitions pre-1987 (Gen.
+		  2094) and material acquired more recently (MSS 2942-2961). The correspondents
+		  include private individuals and publishers; names such as William Darling,
+		  Richard Demarco, Eric Linklater, David Daiches, Norman MacCaig, Sir Compton
+		  Mackenzie, Edwin Muir, Ezra Pound, Bertrand Russell, and William Butler Yeats.
+		  </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H18.1; Handlist H18.2; Another important finding aid is the
+		  alphabetical Index to Manuscripts held at Edinburgh University Library, Special
+		  Collections and Archives. Additions to the typed slips in sheaf binders were
+		  made until 1987. </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>also holds around 1,800 volumes from Grieve's (Hugh MacDiarmid's)
+		  library. The deposit contains books and periodicals, loose pamphlets, and
+		  miscellaneous material (at SC 7000-8648 and SD 5950-6108). In addition, the
+		  Index to Manuscripts shows at various shelfmarks original manuscripts and
+		  proofs of Grieve's work, typescripts, notes and glossaries, miscellaneous
+		  essays on Scottish subjects, and letters of and to Grieve. There are a few
+		  other volumes from his library at shelfmark JA. </p>
+      </relatedmaterial>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

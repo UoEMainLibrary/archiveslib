@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0494 20020419 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0494</titleproper> 
+		  <subtitle>Geikie | James | 1839-1915 | professor of geology, University
+			 of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 19 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020419">19 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0494</titleproper> 
+		<subtitle>Geikie | James | 1839-1915 | professor of geology, University
+		  of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 19 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020419">19 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0494"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0494</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0494" normal="Geikie, James">Geikie | James |
+		  1839-1915 | professor of geology, University of Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>James Geikie (<date type="life-span"
+			 normal="1839/1915">1839-1915</date>) was, like his more famous brother
+			 Archibald (<date type="life-span" normal="1835/1924">1835-1924</date>), a
+			 geologist and graduate of Edinburgh University. While he never entirely came
+			 out of his elder brother's shadow, James Geikie did achieve academic eminence
+			 in his own right. His work on glaciation was particularly important.</p> 
+		  <p>Geikie joined the Geological Survey under the supervision of his
+			 brother, and was charged with mapping glacial deposits in the Scottish
+			 landscape. While investigating this, he believed he had found evidence of
+			 warmer periods punctuating the ice ages. Having little conclusive evidence, he
+			 hesitated at first, but growing evidence from studies of the continental Europe
+			 convinced him he was right. His view is still accepted today.</p> 
+		  <p>He succeeded his brother in the post of Murchison Professor of
+			 Geology at the University of Edinburgh in 
+			 <date type="chairdate" normal="1882">1882</date>, and served for a
+			 period as the president of the Royal Society of Edinburgh. He received a number
+			 of honours during his career and published a number of books on his field of
+			 study. He was also the honorary editor of the <bibref><title>Scottish
+			 Geographical Magazine</title></bibref>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>James Geikie was brother of Sir Archibald Geikie (<date
+			 type="life-span" normal="1835/1924">1835-1924</date>).</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable Publications:</p> 
+		  <p><bibref><title>The Great Ice Age and its Relation to the Antiquity
+			 of Man</title> (<imprint><date type="publication"
+			 normal="1874">1874</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Prehistoric Europe</title> (<imprint><date
+			 type="publication" normal="1881">1881</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Outlines of Geology</title> (<imprint><date
+			 type="publication" normal="1886">1886</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Fragments of Earth Lore: Sketches and Addresses,
+			 Geological and Geographical</title> (<imprint><date type="publication"
+			 normal="1893">1893</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Earth Sculpture</title> (<imprint><date
+			 type="publication" normal="1898">1898</date></imprint>)</bibref></p> 
+		  <p>Interests and activities:</p> 
+		  <p>James Geikie translated in verse and published a book of the poetry
+			 of German writer Heinrich Heine (<date normal="1797/1856"
+			 type="life-span">1797-1856</date>).</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1873">1873</date>: Elected to
+			 Geological Society of London</p> 
+		  <p><date type="appointmentdate" normal="1875">1875</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="chairdate" normal="1882">1882</date>: Appointed
+			 Murchison Professor of Geology, University of Edinburgh</p> 
+		  <p><date type="single" normal="1889">1889</date>: Awarded Murchison
+			 Medal</p> 
+		  <p><date type="single" normal="1889">1889</date>: Awarded Brisbane
+			 Medal of the Royal Society of Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref><title render="italic">James Geikie</title>, (
+			 <extref
+			 href="http://57.1911encyclopedia.org/G/GE/GEIKIE_JAMES.htm">http://57.1911encyclopedia.org/G/GE/GEIKIE_JAMES.htm</extref>
+			 <imprint>, 
+			 <date type="publication" normal="1911"
+			 certainty="certain">1911</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			 role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol V</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1972"
+			  certainty="certain">1972</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Olivier Usher">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020419">19 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

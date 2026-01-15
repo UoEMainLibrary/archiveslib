@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 SYSTEM "uoe-crc-tei.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>CW 126g</title>
+                <author>Carmichael&comma; Alexander Archibald &lpar;1832&hyphen;1912&rpar;</author>
+                <sponsor>Edinburgh University Library and the Department of Scottish and Celtic Studies</sponsor>
+                <sponsor>
+                    <address>
+                        <addrLine>Edinburgh University Library</addrLine>
+                        <addrLine>Collections Division</addrLine>
+                        <addrLine>George Square</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                        <addrLine>EH8 9LJ</addrLine>
+                        <addrLine>United Kingdom</addrLine>
+                    </address>
+                </sponsor>
+                <funder>Arts &amp; Humanities Research Council&lpar;AHRC&rpar;</funder>
+                <principal>Dr John Scally</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition lang="EN">First edition<date>February 2010</date>
+                </edition>
+            </editionStmt>
+            <extent>144 KB</extent>
+            <publicationStmt>
+                <publisher>
+                    <address>
+                        <addrLine>Edinburgh University Library</addrLine>
+                        <addrLine>Collections Division</addrLine>
+                        <addrLine>George Square</addrLine>
+                        <addrLine>Edinburgh</addrLine>
+                        <addrLine>EH8 9LJ</addrLine>
+                        <addrLine>United Kingdom</addrLine>
+                    </address>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>CW 126g</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <interpretation>
+                    <!-- Interpretation describes the scope of any analytic or interpretive information added to the text in addition to the transcription. -->
+                    <p>All digital surrogates of the original source are linked with the markup textfile&period;
+                    </p>
+                    <p>All Gaelic &lpar;and some English&rpar; texts have an English summary&comma; keywords&comma; and&comma; where
+                        applicable&comma; a taxonomic reference&period;
+                    </p>
+                    <p>For some Gaelic &lpar;and English&rpar; texts a bibliographic reference&lpar;s&rpar; will be provided to printed texts&period;
+                    </p>
+                </interpretation>
+                <correction>
+                    <!-- States how and under what circumstances corrections have been made in the text. This should include the degree of correction applied to the text and the method
+                        adopted to indicate corrections within the text. -->
+                    <!-- Editorial practice should take into account: Was the text corrected during or after data capture? If so, were corrections made silently 
+                        or are they marked using the tags described in section Simple Editorial Changes? What principles have been adopted with respect to omissions,
+                        truncations, dubious corrections, alternate readings, false starts, repetitions, etc.? -->
+                    <p>Errors from the original source transcription have been kept to a minimum by employing a double re&hyphen;keying method when typed out&period; In
+                        addition&comma; all re&hyphen;keyed texts have been proof&hyphen;read by the text editors&period;
+                    </p>
+                    <p>A guiding principle of the Alexander Carmichael notebooks markup procedure is to approximate the original document as closely as possible&comma; so that
+                        the character of Carmichael&apos;s transcriptions is preserved along with its content&period; XML &lpar;eXtensible Markup Language&rpar;&comma; with its
+                        capacity to convey emendations such as deletions &lpar;crossed out&rpar; and supralinear additions and so forth&comma; can digitally reproduce an authentic
+                        version which reflects the source documents&period;
+                    </p>
+                    <p>Where authorial changes&comma; e&period;g&period; substitution&comma; have occurred in the text then this has been annotated&period;
+                    </p>
+                    <p>All words have been retained as written in the source text even when there are apparent errors in either spelling or when there has been either an omission
+                        in punctuation or grammar&period;
+                    </p>
+                    <p>In such cases missing words or letters have not been supplied&period; Quotation marks and other missing grammatical marks have not been
+                        supplied&period; Where there are gaps in the text usually because the word was inaudible &lpar;some background noise&comma; perhaps&rpar;
+                        or where the transcriber could not make out what was being said in the act of transcription &lpar;perhaps the speaker was inarticulate or mumbling
+                        or for whatever reason&rpar; then these have been tagged&comma; though not explained; where a word is now difficult&comma; illegible or just unclear&comma;
+                        then this has also been tagged&period;
+                    </p>
+                    <p>All such changes have been annotated in accordance with TEI 5 procedures&period;
+                    </p>
+                </correction>
+                <normalization>
+                    <!-- Editorial practice should take into account: Was the text normalized, for example by regularizing any non-standard spellings, dialect forms, etc.? If so, were normalizations performed silently or are they marked using the tags described in section Simple Editorial Changes? What authority was used for the regularization? Also, what principles were used when normalizing dates or numbers to provide the standard values for the value attribute described in sections Numbers and Measures and Dates and Times and what format used for them? -->
+                    <p>No normalization of the words such as changing the source text to conform with current Gaelic orthographic conventions has been undertaken&period;
+                        The texts are as given with only minor editorial changes&period; in order to preserve the integrity of the original texts&period;</p>
+                </normalization>
+                <quotation marks="all" form="std">
+                    <!-- Quotation specifies editorial practice adopted with respect to quotation marks in the original. It should be indicated whether or not quotation marks have been retained as content within the text and how these quotation marks have been indicated within the text-->
+                    <!-- Editorial practice should take into account: How were quotation marks processed? Are apostrophes and quotation marks distinguished? How? Are quotation marks retained as content in the text or replaced by markup? Was the rendition attribute used to record the specific appearance of any quotation marks removed from the text? Are there any special conventions regarding for example the use of single or double quotation marks when nested? Is the file consistent in its practice or has this not been checked? -->
+                    <p>All opening quotation marks&comma; hyphens&comma; dashes&comma; apostrophes&comma; periods&comma; colons&comma; etc&period;
+                        have been retained in the source text and have been encoded in accodance  with ISO entity references&comma; etc&period;
+                    </p>
+                    <p>All double marks have been processed using straight quotation marks&comma; that is&comma; &quot;&period; All single quotation marks have been rendered using apostrophe&period;
+                    </p>
+                </quotation>
+                <hyphenation>
+                    <!-- hyphenation summarizes the way in which hyphenation in a source text has been treated in an encoded version of it -->
+                    <!-- Editorial practice should take into account: Does the encoding distinguish "soft" and "hard" hyphens? What principle has been adopted with respect to end-of-line hyphenation where source lineation has not been retained? Have soft hyphens been silently removed, and if so what is the effect on lineation and pagination? -->
+                    <p>End&hyphen;of&hyphen;line hyphenation has been retained&period; All unambiguous end&hyphen;of&hyphen;line hyphens have been retained&comma; and the trailing part of a word has not been joined to
+                        the preceding line&period;of&hyphen;line hyphenation has been retained&period; All unambiguous end&hyphen;of&hyphen;line hyphens have been retained&comma; and the trailing part of a word has
+                        not been joined to the preceding line&period;
+                    </p>
+                </hyphenation>
+                <segmentation>
+                    <!-- segmentation describes the principles according to which the text has been segmented, for example into paragraphs, sentences, etc -->
+                    <!-- Editorial practice should take into account: How is the text segmented? If s or seg segmentation units have been used to divide up the text for analysis, how are they marked and how was the segmentation arrived at? -->
+                    <p>Folio numbers have been added in pencil at the top of each notebook page are retained using the pb &lpar;pagebreak&rpar; element together with the n attribute for
+                        the page number and the ed attribute to specify the edition&period;
+                    </p>
+                    <p>When an tale&hyphen;text or song which&comma; more often than not&comma; fills more than one page&comma; it is segmented with page break&period;
+                    </p>
+                    <p>A reference system has been built up using the identifiers of the following text units&colon; text&comma; division&comma;
+                        paragraph&period; Each nested division has an identifier which is built up by successively adding to the identifier of the text&period; Each
+                        paragraph has an identifier which adds yet another layer to the immediately superordinate identifier&period;
+                    </p>
+                </segmentation>
+            </editorialDecl>
+            <!-- End of the Editorial Declaration -->
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="gd"/>
+                <language id="en"/>
+                <language id="la"/>
+                <language id="ga">Approximately 95% of the texts are Scottish Gaelic&comma; 2&period;5% of the texts are in Irish Gaelic and the remainder being roughly
+                    divided between English and Scots&period;</language>
+            </langUsage>
+        </profileDesc>
+        <!-- The dates on which the text last edited (in reverse chronological order) is placed here which provides a change log in which is recorded any change made to a text. 
+            The date should be recorded, the name of of the editor responsible for the change should be appended and lastly the nature of the work carried out on the text -->
+        <revisionDesc>
+            <change>
+                <date value="2011-03-03">3 March 2011</date>
+                <respStmt>
+                    <name>Andrew Wiseman</name>
+                    <resp>Editor</resp>
+                </respStmt>
+                <item>Completed first tagged transcription</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text lang="EN" id="EN">
+        <front/>
+        <body>
+            <!-- REPLACE THIS with the notebook div for the whole of the item of the item -->
+            <div type="series" id="GB-237-Coll-97-CW126g">          
+                <!-- REPLACE THIS with the id of the item -->
+                <div type="item" id="GB-237-Coll-97-CW126g-1">
+                    <!-- REPLACE THIS with the number of the page  -->
+                    <pb id="CW126g-222r" n="222r"/>
+                    <!-- Pages follow Coll_97_cw_notebook_cw_foliation
+                        e.g. cw117-1v refers notebook 117 and folio 1 verso  -->
+                    <!-- REPLACE THIS by placing the content of the paragraph in     between the paragraph elements -->
+                    <!-- The edited text should follow the editorial policy given in the Tagging Guidelines -->
+                    <!-- Beginning of notebook -->
+                    <!--                        this item has been scored through as if transcribed elsewhere-->
+                   <p><date value="1893-05-06">6<hi rend="supralinear">th </hi>May 1893</date>
+                   </p>
+                    <p>Left <name type="place" key="517">Waverley Station</name> by 10-30 pm<lb/> 
+                    train for Kings Cross, <name type="place" key="530">London</name> –<lb/>
+                        <choice><abbr type="abbreviation">Geo</abbr><expan>George</expan></choice>, <name type="person" key="4198">Eoghan</name> and his <name type="person" key="3971">mother</name>.<lb/>
+                    We all went with them to the Station.<lb/>
+                    Several friends went – <name type="person">George Henderson</name><lb/> 
+                    and his uncle.            
+                    </p>
+                    <p>Poor darling boy! We shall not<lb/> 
+                        see him at the soonest for five years –<lb/>  
+                        perhaps never. God alone knows.<lb/>  
+                        This is the first break in the family.
+                    </p>
+                    <p>On Sunday morning the <date value="1893-05-07">7<hi rend="supralinear">th</hi></date><lb/>  
+                        <name type="person" key="3356">Mr John Murdoch</name> and <name type="person">Mr John<lb/>   
+                        Macdonald</name> met <name type="person" key="3971">Mary</name> and<lb/>  
+                        <name type="person" key="4198">Eoghan</name> at Finsbury Park Station,<lb/>   
+                        <name type="place" key="530">London</name> – <name type="place">Mr Macdonald</name> taking<lb/>   
+                        them home to his house 63 Circle<lb/>   
+                        Park Crouch End.
+                    </p>
+                    <p>On Saturday <date value="1893-05-13">13<hi rend="overstrike">th</hi> May</date> <name type="person" key="4198">Eoghan</name><lb/> 
+                        sailed in S.S. Scot from <name type="place" key="530">London</name><lb/>
+                        for <name type="place" key="4573">Chinde</name> <name type="place" key="2639">East Africa.</name>                        
+                        <pb id="CW126g-222v" n="222v"/>
+                        calling at the <name type="place">Cape</name> and various 
+                        places on the way. Poor dear boy!                
+                    </p>
+                    <space dim="vertical" extent="3" unit="lines"/>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-2">
+                    <lg>
+                        <l>Think truly and thy thoughts</l>
+                        <l>Shall the world’s fame fled;</l>
+                        <l>Speak truly and each word of thine</l>
+                        <l>Shall be a fruitful seed;</l>
+                        <l>Live truly and thy life shall be</l>
+                        <l>A great and noble creed</l>
+                    </lg>
+                    <note><name type="person" key="4455">Bonar</name></note>
+                    <space dim="vertical" extent="8" unit="lines"/>
+                </div>
+                <pb id="CW126g-223r" n="223r"/>
+                <pb id="CW126g-223v" n="223v"/>
+                <pb id="CW126g-224r" n="224r"/>
+                <pb id="CW126g-224v" n="224v"/>
+                <pb id="CW126g-225r" n="225r"/>
+                <pb id="CW126g-225v" n="225v"/>
+                <pb id="CW126g-226r" n="226r"/> 
+                <pb id="CW126g-226v" n="226v"/>               
+                <pb id="CW126g-227r" n="267r"/> 
+                <pb id="CW126g-227v" n="267v"/> 
+                <pb id="CW126g-228r" n="228r"/> 
+                <pb id="CW126g-228v" n="228v"/> 
+                <pb id="CW126g-229r" n="229r"/>
+                <pb id="CW126g-229v" n="229v"/> 
+                <pb id="CW126g-230r" n="230r"/>
+                <pb id="CW126g-230v" n="230v"/>
+                <pb id="CW126g-231r" n="231r"/>
+                <pb id="CW126g-231v" n="231v"/> 
+                <pb id="CW126g-232r" n="232r"/> 
+                <pb id="CW126g-232v" n="232v"/> 
+                <pb id="CW126g-233r" n="233r"/>
+                <pb id="CW126g-233v" n="233v"/> 
+                <pb id="CW126g-234r" n="234r"/>
+                <pb id="CW126g-234v" n="234v"/>
+                <pb id="CW126g-235r" n="235r"/>
+                <pb id="CW126g-235v" n="235v"/>
+                <pb id="CW126g-236r" n="236r"/>
+                <pb id="CW126g-236v" n="236v"/>
+                <pb id="CW126g-237r" n="237r"/>
+                <pb id="CW126g-237v" n="237v"/>
+                <div type="item" id="GB-237-Coll-97-CW126g-3">
+                    <p>The Spirit of <name type="person" key="4456">Pinkerton</name> breathes still – not so openly<lb/>
+                        coarse certainly. The press is <choice><abbr type="abbreviation">con</abbr><expan>considered</expan></choice> by men inimical<lb/>
+                        to the <name type="place" key="1094">Highlands</name> and they lose no <choice><abbr type="abbreviation">opp</abbr><expan>opportunity</expan></choice>justly or un<lb/>
+                        justly to attack <choice><abbr type="abbreviation">High</abbr><expan>Highlanders</expan></choice>. I have seen much of this<lb/>
+                        in my day and I have seen the kindliest acts<lb/>
+                        of the people to <choice><abbr type="abbreviation">strangs</abbr><expan>strangers</expan></choice> in distress perverted and <choice><abbr type="abbreviation">com</abbr><expan>complained</expan></choice><lb/>
+                        upon in the most venomous manner.
+                    </p>         
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-4">
+                    <p><title>Duan Na Muthairn</title> <name type="person" key="4297"><choice><abbr type="abbreviation">Dun</abbr><expan>Duncan</expan></choice> <choice><abbr type="abbreviation">Macle</abbr><expan>Maclellan</expan></choice></name><lb/>
+                        <name type="person" key="4267"><choice><abbr type="abbreviation">Don</abbr><expan>Donnachadh</expan></choice> Ban</name> <name type="place" key="4177">Carnan</name> <name type="place" key="3345"><choice><abbr type="abbreviation">S.</abbr><expan>South</expan></choice> <choice><abbr type="abbreviation">U.</abbr><expan>Uist</expan></choice></name> <date value="1874-01-17">17 <choice><abbr type="abbreviation">Jany</abbr><expan>January</expan></choice> <choice><abbr type="abbreviation">74</abbr><expan>1874</expan></choice></date>
+                    </p>
+                    <p>Heard this when a little child from an old<lb/>
+                        woman who used to frequent his fathers<lb/>
+                        house and who used to repeat long hymns<lb/>
+                        night after night at the fire side
+                    </p>
+                </div>                
+                <pb id="CW126g-238r" n="238r"/>
+                <div type="item" id="GB-237-Coll-97-CW126g-5">
+                    <p>Introduction: mention (1) kindness of<lb/>
+                        priests: no such monument ever <del rend="overstrike">erected</del><lb/>
+                        by a Protestant<lb/>
+                        (2) Roman Catholic<lb/>
+                        Piety appears here to great advantage<lb/>
+                    </p>              
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-6">
+                    <title>Marking the Lambs</title>
+                    <p><name type="person" key="4457">John <choice><abbr type="abbreviation">E.</abbr><expan>Ewen</expan></choice> Macrury </name><date value="1888-12-17">17 <choice><abbr type="abbreviation">Decr</abbr><expan>December</expan></choice> 1888</date>
+                        <choice><sic>Hear</sic><corr>Heard</corr></choice> this from <name type="person"><choice><abbr type="abbreviation">Lach</abbr><expan>Lachlann</expan></choice> Macdonald</name> 1880
+                        aged 88
+                    </p>      
+                    <title>Eolas Beum Sula</title>
+                    <p>D<del rend="overstrike">h</del>eans dusa<lb/>
+                        <name type="person">John Pearson</name> <name type="place" key="3783">Ceann tangval</name> <name type="place" key="1112"><choice><abbr type="abbreviation">B</abbr><expan>Barra</expan></choice></name><lb/>
+                        <date value="1870-12"><choice><abbr type="abbreviation">Decr</abbr><expan>December</expan></choice> 1870</date>
+                    </p>
+                    <title>Eolas an Tairbhein</title>
+                    <p>Obi chur Moire gheal &amp;<lb/>                        
+                        <name type="person" key="4234"><choice><abbr type="abbreviation">Cath</abbr><expan>Catherine</expan></choice> Macintosh</name> <name type="place" key="3799"><choice><sic>Staolgearry</sic>Staoilgearry<corr></corr></choice></name> <name type="place" key="3345"><choice><abbr type="abbreviation">S</abbr><expan>South</expan></choice> <choice><abbr type="abbreviation">U</abbr><expan>Uist</expan></choice></name><lb/>                        
+                        <date value="1875-05-20">20 May 1875</date>
+                    </p>
+                    <title>Urnaigh Chadail</title>
+                    <p><name type="person" key="4254"><choice><abbr type="abbreviation">Don</abbr><expan>Donald</expan></choice> Maccormaig</name> <name type="place" key="3787">Killipheadair</name><lb/>
+                        <date value="1883-12-21">21 <choice><abbr type="abbreviation">Dec</abbr><expan>December</expan></choice> <choice><abbr type="abbreviation">83</abbr><expan>1883</expan></choice></date>
+                    </p>                    
+                </div>
+                <pb id="CW126g-238v" n="238v"/>
+                <pb id="CW126g-239r" n="239r"/>
+                <pb id="CW126g-239v" n="239v"/>
+                <pb id="CW126g-240r" n="240r"/>
+                <pb id="CW126g-240v" n="240v"/>
+                <pb id="CW126g-241r" n="241r"/>
+                <pb id="CW126g-241v" n="241v"/>
+                <pb id="CW126g-242r" n="242r"/>
+                <pb id="CW126g-242v" n="242v"/>
+                <pb id="CW126g-243r" n="243r"/>
+                <pb id="CW126g-243v" n="243v"/>
+                <pb id="CW126g-244r" n="244r"/>
+                <pb id="CW126g-244v" n="244v"/>
+                <pb id="CW126g-245r" n="245r"/>
+                <pb id="CW126g-245v" n="245v"/>                
+                <pb id="CW126g-246r" n="246r"/>
+                <pb id="CW126g-246v" n="246v"/>
+                <pb id="CW126g-247r" n="247r"/>
+                <pb id="CW126g-247v" n="247v"/>
+                <pb id="CW126g-248r" n="248r"/>
+                <div type="item" id="GB-237-Coll-97-CW126g-7">
+                    <p>There are many brutalists<lb/>
+                        in this brutal world of ours<lb/>
+                        but to me the most hateful<lb/>
+                        brutality is the brutality of wealth.<lb/>
+                        The strong man is brutal be<lb/>
+                        cause of his strength <add place="supralinear" indicator="yes">and I can forgive him</add> the ignor<lb/>
+                        ant man is <del rend="overstrike">strong</del><add place="supralinear" indicator="no">brutal</add> because<lb/>
+                        of his ignorance and I can<lb/>
+                        forgive him.
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-8">
+                    <p>of <choice><abbr type="abbreviation">S</abbr><expan>St</expan></choice> Patrick who saw therein<lb/>
+                        the symbol of a unity in trinity
+                        <pb id="CW126g-248v" n="248v"/>
+                        The simple trefoil growing<lb/>
+                        in its own verdure of beauty has<lb/>
+                        no sense for the insensible eye<lb/>
+                        but it had for the philosopher                     
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-9">
+                    <p>Bugar = Foot of couples = lan<lb/>
+                        ain in a house. The upright<lb/>
+                        that stands in the wall of the house.<lb/>
+                        Generally of oak. This is the term<lb/>
+                        ued at <name type="place" key="4574">Overcroy</name> <name type="place" key="3680">Cumbernuald</name>.<lb/>
+                        <date value="1891-08-05">5<hi rend="supralinear">th</hi> <choice><abbr type="abbreviation">Aug</abbr><expan>Augusut</expan></choice> 1891</date>. Here on that date<lb/>
+                        with <name type="organisation" key="3948">Archaeological Association</name>.
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-10">
+                    <p><term>Sturrag</term> = <term>starrag</term> = <gloss>Hoodie</gloss><lb/>
+                        An Sturrag a gearrail 'sa choill
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-11">
+                    <lg>
+                        <l>Fhuair mi nead a Ghurrag thu</l>
+                        <l>Ann an cuil na moine</l>
+                        <l>Fhuair mi nead an fhithich thu</l>
+                        <l>S a rithist nead an Loin-duibh<lb/>
+                        a gheoibh ann</l>
+                    </lg>
+                    <pb id="CW126g-249r" n="249r"/>
+                    <p>The Clacharan is unlucky to see<lb/>
+                        when he first appears
+                    </p>
+                    <p>
+                        Gurragag = Hoodie. Gurrag thu
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-12">
+                    <p><del rend="overstrike">Geisnean – here cows goats gestate<lb/>
+                        Animals – Geis = Swan</del>
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-13">
+                    <p><del rend="overstrike"><choice><sic>Inveralln</sic><corr>Inverallen</corr></choice> (Inn) – <name type="place" key="4575">Bridge of Allan</name></del></p>    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-14">    
+                    <p>Caim see <hi rend="underlined">Duanaire</hi> p 57
+                        An eoin-bhain – <choice><abbr type="abbreviation">"</abbr>Duaniare</choice> 62
+                    </p>
+                </div>
+                <!--                        this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW126g-15">
+                    <lg>
+                        <l>Chuirein <add place="supralinear" indicator="no">{min</add> an nn <add place="infralinear" indicator="no">ann a</add> an creadhail thu</l>
+                        <l>Bhithinn fein a feitheamh ort</l>
+                        <l>Is ioma te bhidoh <choice><sic>aithreach</sic><corr>aighearach</corr></choice></l>
+                        <l>Nam bu <choice><sic>letha</sic><corr>leatha</corr></choice> fein thu</l>
+                    </lg>    
+                <lg>
+                    <l>Thogainn air mo ghualain thu</l>
+                    <l>Dh fhalbhainn eutrom ullach leat</l>
+                    <l>S mise an te bhiodh uaibhireach</l>
+                    <l>A cuallachadh an spreidhe</l>
+                </lg>    
+                    <pb id="CW126g-249v" n="249v"/>
+                    <lg>
+                        <l>Bheirinn beoir 'us brailis dhuit</l>
+                        <l>Bheirinn {<del rend="overstrike">mire meala</del><add place="supralinear" indicator="no">{fion na cailg</add> dhuit</l>
+                        <l>Bheirinn {<del rend="overstrike">fion na cailg</del><add place="supralinear" indicator="no">{mire meala</add> dhuit</l>
+                        <l>Us bainne geal nan geisnean</l>
+                        <l>Al feoil is aran – a Cheitean</l>
+                    </lg>    
+                    <lg>
+                        <l>Cas a mhoga-luirein</l>
+                        <l>A luirein a luirein</l>
+                        <l>Cas a mhoga luirean</l>
+                        <l>Air ular aig m eudail.</l>
+                    </lg>    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-16">
+                    <p>"Chrudhaich mi e caoin ri glein"<lb/>
+                        The women are busy cleaning or grinding<lb/>
+                        their corn which involves much<lb/>
+                        hard labour. They first dry this in the<lb/>
+                        sun then put it in a mortar and<lb/>
+                        afterwards with a flat basket clean<lb/>
+                        off the husks and <del rend="overstrike">dust the next thing<lb/> 
+                        is to</del> grind it between two stones the<lb/>
+                        next thing to bring wood and water to<lb/>
+                        cook it. <name type="person" key="4166">Livingstones</name> last journal<lb/>
+                        <name type="place" key="4577">Illungu</name> country p. 204
+                    </p>                        
+                </div>
+                <pb id="CW126g-250r" n="250r"/>
+                <div type="item" id="GB-237-Coll-97-CW126g-17">
+                    <p>((<name type="person" key="4460"><choice><abbr type="abbreviation">Arch</abbr><expan>Archibald</expan></choice> Maccoll</name> <name type="place" key="4579">Slateford</name> White-<lb/>
+                        Vale a low house))
+                    </p>
+                    <p><name type="person" key="4459"><choice><abbr type="abbreviation">D.</abbr><expan>Donald</expan></choice> Macdonald</name> 26 Struthers St<lb/>
+                        <name type="place" key="4578">Calton</name> <name type="place" key="519">Glasgow</name>
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-18">
+                    <p>6 to 8 drops (<gap reason="illegible" extent="one word"/> or <add place="supralinear" indicator="no"> in a</add> teaspoonful<lb/>
+                        of castor oil) <add place="supralinear" indicator="yes"></add> in glass of toddy
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-19">
+                    <p><name type="person" key="4458"><choice><abbr type="abbreviation">Mal</abbr><expan>Malcolm</expan></choice> Macdonald </name>(<name type="place" key="4580">Paible</name>)<lb/>
+                        29 <name type="place" key="4581">Lutton Place</name>
+                    </p>
+                 </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-20">
+                    <p>If there is <del rend="overstrike">out</del><add place="supralinear" indicator="no">any</add> thing proved up to the<lb/>
+                        hilt it is that an Anglicised Scot<lb/>
+                        is a greater<del rend="overstrike">st</del> enemy to his native land<lb/>
+                        and to his native people<lb/>
+                        than an English man
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-21">
+                    <p><del rend="overstrike"><name type="person" key="4462">William Scott</name> (Patrick)<lb/>
+                        22 <name type="place" key="4582">West Post</name></del>
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-22">
+                    <p><title>Michael Angelo</title> by<lb/>
+                        <name type="person" key="4462">John Abington Symonds</name>                        
+                    </p>                    
+                </div>
+                <pb id="CW126g-250v" n="250v"/>
+                <div type="item" id="GB-237-Coll-97-CW126g-23">
+                    <p><name type="person" key="4459"><choice><abbr type="abbreviation">Don.</abbr></choice> Macdonald (mac Alastair<lb/>
+                        Ic Iain Ruaidh)</name> 26 Struthers St<lb/>
+                        <name type="place" key="4578">Calton</name> <name type="place" key="519">Glasgow</name>. Has old hymns)<lb/>
+                        House 17 Cubie St off <name type="place" key="4583">Gallowgate</name>)                        
+                    </p>            
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-24">
+                    <p><term>Biromal</term> = <gloss><choice><abbr type="abbreviation">M.</abbr>Male</choice> seal Briomalaich the<lb/>
+                        the west side <name type="place" key="3344"><choice><abbr type="abbreviation">N.</abbr>North</choice> Uist</name> people</gloss><lb/>
+                        <term>Biast-mhaol</term> = <gloss>female seal</gloss><lb/>
+                        <term>Biast-dubh</term> = <gloss>otter</gloss>
+                    </p>                        
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-25">
+                    <p><term>Ullag</term> = <gloss>A stone put in red hot to dry
+                        corn and moved about. Corn dried or
+                        burnt in the drying with the ullag</gloss>. Ha!
+                        ha! tiondagh claich fo d shiol!
+                        <term>Biorsamaid</term> = <gloss>Steel yard! Cho irigil ris<lb/>
+                        a bhiorsamaid</gloss>.
+                    </p>    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-26">
+                    <p><name type="place" key="4584">Ard Thornis</name> = The Point of the nis of Thorr                     
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-27">
+                    <p>Scots Act of <choice><abbr type="abbreviation">Parl</abbr><expan>Parliament</expan></choice> anent witches 1542
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-28">
+                    <p>Dubh no d odhar no donn<lb/>
+                        Is geal leis a ghobhar a meann
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-29">
+                    <p>A mhoch eiridh h-eoin<lb/>
+                        S an t-suan Mhart
+                    </p>                    
+                </div>
+                <pb id="CW126g-251r" n="251r"/>
+                <div type="item" id="GB-237-Coll-97-CW126g-30">
+                    <p>Biodh aithne mhath agad an <add place="supralinear" indicator="no">cor</add> <del rend="overstrike">staid</del> do <add place="supralinear" indicator="yes">chuid</add>] chaorach<lb/>
+                        Ge do chaill ann madadh-alla fhiaclann<lb/>
+                        Cha do chaill e a mhiann.
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-31">
+                    <p>Bu tu fein an sealgair ors a mhial-chu <add place="supralinear" indicator="no">ris a chat</add><lb/>
+                        Ga do lasgairt anns an luaithre
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-32">
+                    <p>Gradan how made Duke of <choice><abbr type="abbreviation">Arg</abbr>Argyll</choice><lb/>
+                        says Hugh burnt the straw – mistaken<lb/>
+                        in this as in many other things regarding<lb/>
+                        his countrymen –
+                    </p>              
+                </div>          
+                <div type="item" id="GB-237-Coll-97-CW126g-33">
+                    <p>Leaba Bhride 119
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-34">
+                    <p>In some of the isles no grave was opened<lb/> 
+                        on Friday nor Person buried
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-35">
+                    <p>Introduction – Dress food <choice><abbr type="abbreviation">app</abbr><expan>appearance</expan></choice> habits<lb/>
+                        Have seen the daughters of crofters at market<lb/>
+                        as stately and as becomingly dressed as the <lb/>
+                        average young lady in Princes St
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-36">
+                    <p>Diluain Sanseil 11th Jan<lb/>
+                        <del rend="overstrike">S Johns</del> <choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> fheill Sheathin 24 June<lb/>
+                        <choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> fheill <choice><abbr type="abbreviation">Sheath</abbr><expan>Sheathain</expan></choice> is t samhradh<lb/>
+                        Theid a chuthag da taigh <choice><abbr type="abbreviation">geamh</abbr><expan>geamhraidh</expan></choice><lb/>
+                        <choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> Samhna their gamhna ris na laoigh<lb/>
+                        <choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> Ill Sheathain<lb/> 
+                        <choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> Lunastan 1 <del rend="overstrike">May</del> <choice><abbr type="abbreviation">Augt</abbr><expan>August</expan></choice><lb/>
+                        <choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> Bealltain 1 May              
+                        <pb id="CW126g-251v" n="251v"/>
+                        <title>Days</title>
+                        <choice><abbr type="abbreviation">La</abbr><expan>Latha</expan></choice> fheill  25 March // 14 <choice><abbr type="abbreviation">Augt</abbr><expan>August</expan></choice><lb/>
+                        S Ruinan		15 May<lb/>
+                        S Columba	9 June<lb/>
+                        S John		24 <supp>June</supp><lb/> 
+                        S Maloug                 25 <supp>June</supp><lb/>
+                        SS Peter and Paul 29 <supp>June</supp><lb/>
+                        Apostolic 	25 July<lb/>
+                        S Martin	11 <choice><abbr type="abbreviation">Nov</abbr><expan>November</expan></choice><lb/>
+                        S Andrew	29 In &amp; 30  <supp><choice><abbr type="abbreviation">Nov</abbr><expan>November</expan></choice></supp>          
+                    </p>                   
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-37">
+                    <p><term>Biach</term> = <gloss>foal – wolf</gloss>
+                    </p>    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-38">
+                    <title><hi rend="underlined">Keening</hi></title>
+                    <lg>
+                        <l>"Fhir tha thallad fo na bhoid</l>
+                        <l>Mu tha thu beo thigeadh tu</l>
+                    </lg>
+                    <p>Fragment</p>
+                </div>                
+                <div type="item" id="GB-237-Coll-97-CW126g-39">
+                <list>
+                    <item><name type="person" key="4267"><choice><abbr type="abbreviation">Dun</abbr><expan>Ducan</expan></choice> Maclellan</name> – <name type="place" key="4177">Carnan</name> <date value="1874-07-17">17 July <choice><abbr type="abbreviation">74</abbr><expan>1874</expan></choice></date></item>
+                    <item><name type="person" key="4251">Neill Macneil (<choice><abbr type="abbreviation">N</abbr><expan>Neill</expan></choice> mac Iain Bhain)</name> Baliurva</item>
+                    <item><del rend="overstrike">Isabell</del> <name type="person" key="4288">Isobel Chisholm</name></item>
+                    <item><name type="person" key="4236">Barbal</name> <name type="place" key="4127">Dreimisdale</name></item>
+                </list>          
+                </div>
+                <pb id="CW126g-252r" n="252r"/>                
+                <div type="item" id="GB-237-Coll-97-CW126g-40">
+                    <p>speaking of the harp as among the<lb/>
+                        instruments which were at that time<lb/>
+                        in use in Italy says This very<lb/>
+                        ancient instrument was brought to us<lb/>
+                        from <name type="place">Ireland</name> and Dante has recorded<lb/>
+                        (c. 1302) where they are excellently<lb/>
+                        made and in and <gap reason="illegible" extent="one word"/><lb/>
+                        the inhabitants of this island<lb/>
+                        have practised on for many   <lb/>                     
+                        centuries <title>Ancient Scottish <del rend="overstrike">Melodies</del>
+                        Melodies</title> by <name type="person"><choice><abbr type="abbreviation">W</abbr><expan>William</expan></choice> Dauney</name> <name type="place" key="519">Edinburgh</name>
+                        1838. p. 65
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-41">
+                    <list>
+                        <item><hi rend="underlined">Obi Ri Shuil</hi></item>                        
+                        <item><hi rend="underlined">Frith</hi></item>
+                    </list>     
+                    </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-42">
+                    <list>
+                        <item>Duan Na Muthairn</item>                        
+                       <item> Ho hi Holligan</item>              
+                    </list>
+                </div>
+                <pb id="CW126g-252v" n="252v"/>     
+                <div type="item" id="GB-237-Coll-97-CW126g-43">
+                    <p>1. "No harpe hath the sound so<lb/>
+                        melting and so prolonged as the<lb/>
+                        Irish harpe" – <name type="person">Lord Bacon</name> in his<lb/>
+                        <title>Sylva Sylvarum</title>.
+                    </p>
+                    <p>2. <name type="person">Galileo</name>, father of the famous<lb/>
+                        astronomer in his <title>Dialogues on<lb/>
+                        Ancient and Modern Music</title> first<lb/>
+                        printed in 1582 (p. 143) where,
+                    </p>                    
+                </div>
+                <!--                        this item has been scored through as if transcribed elsewhere-->
+                <div type="item" id="GB-237-Coll-97-CW126g-44">
+                    <lg>
+                        <l>The place <del rend="overstrike">thine</del><add place="supralinear" indicator="no">of peace</add> thats past belief</l>
+                        <l>The place of peace is thine</l>
+                        <l>The grief of grief and <gap reason="omitted" extent="one word"/></l>
+                        <l>And sin and sorrow mine.</l>
+                    </lg>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-45">
+                    <p><name type="person" key="4463">Mary Jolly</name> to be <choice><abbr type="abbreviation">mar</abbr><expan>married</expan></choice> Thursday 8<hi rend="supralinear">th</hi> June 2 p.m.
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-46">
+                    <lg>
+                        <l>Iarram tu dhean ailil ime romhan</l>
+                        <l>O {ait<add place="infralinear">{ailil</add>chamh}-ghilin<add place="infralinear">aoibh}-ghean</add></l>
+                    </lg>                    
+                </div>
+                <pb id="CW126g-253r" n="253r"/>
+                <div type="item" id="GB-237-Coll-97-CW126g-47">
+                    <p><name type="person" key="4464">Mrs Dowie</name>, <choice><abbr type="abbreviation">dat</abbr><expan>daughter</expan></choice> of <name type="person"><choice><abbr type="abbreviation">R</abbr><expan>Robert</expan></choice> Chambers</name><lb/>
+                        5 Howard Place, <name type="place" key="4585">Inverleith Row</name>, <name type="place" key="517">Edinburgh</name>
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-48">
+                    <p><term>Coppar, capper</term> = <gloss>capur, head chief<lb/>
+                        thing hence no doubt capar coille<lb/>
+                        king of the woods as the eagles is called<lb/>
+                        king of the birds</gloss>
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-49">
+                    <p>This book is <choice><abbr type="abbreviation">dedi</abbr><expan>dedicated</expan></choice> to the <del rend="overstrike">best of wives</del><lb/>
+                        The best of <add place="supralinear" indicator="yes">wives</add> and the best of mothers<lb/>
+                        The severest of critics but the warmest of friends<lb/>
+                        Thee my beloved <name type="person" key="3971">Mary</name>.
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-50">
+                    <p>Dr Macdonalds Poem p.190
+                        coich-anma
+                    </p>
+                    <lg>
+                        <l>Gheibh iadsan teagasg air uairibh</l>
+                        <l>Ag amharc na h-uaigh air beil do chéis</l>
+                        <l>A bheir gu cuimhne gu luaith dhoibh</l>
+                        <l>Iomadh ni chual iad bhuat fein</l>
+                    </lg>
+                    <p>"Is coir dhuinn <add place="supralinear" indicator="yes">meas bhi againn air</add> a cheis tha guilan<lb/>
+                        an anam” –
+                    </p>                    
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-51">
+                    <p>Dr <choice><abbr type="abbreviation">D</abbr><expan>Daniel</expan></choice> <choice><abbr type="abbreviation">M</abbr><expan>Munro</expan></choice> died on <date value="1880-08-02">2 <choice><abbr type="abbreviation">Decr</abbr><expan>December</expan></choice> 1880</date>
+                        in 22 Ward <name type="place" key="2597"><choice><abbr type="abbreviation">R</abbr><expan>Royal</expan></choice> Infirmary</name> <name type="place" key="517"><choice><abbr type="abbreviation">Edinr</abbr><expan>Edinburgh</expan></choice></name>
+                    </p>
+                </div>
+                <div type="item" id="GB-237-Coll-97-CW126g-52">
+                    <p><gap reason="illegible" extent="nearly whole page"/>    
+                    </p>
+                </div>           
+            </div>
+            <!-- End of the notebook -->
+        </body>
+    </text>
+</TEI.2>

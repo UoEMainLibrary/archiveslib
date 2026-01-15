@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-41">GB 237
+		Coll-41</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>C. H. Waddington Archive </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-41">
+    <did>
+      <unittitle>C. H. Waddington Archive </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-41</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MSS 3021-3079</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">C. H. Waddington Archive </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1923-1975">1923-1975 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>57 boxes (8
+		  m); 4 volumes; 1 folder. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Conrad Hal Waddington was born in Evesham, 8 November 1905. The son of
+		  a tea planter, he spent the first three years of his life in Coimbatore, Tamil
+		  Nadu (South India). At the age of four he returned to England to live with an
+		  aunt and uncle on a farm in Sedgeberrow. After sharing a governess with his
+		  cousin, he went to Aymestry House Preparatory School in Malvern Link at the age
+		  of nine. A scholarship to Clifton followed, and a move to Weybridge, living
+		  with his grandmother. It was his grandmother who encouraged his early interests
+		  in natural history, geology and archaeology. After Clifton he went to Sidney
+		  Sussex College, Cambridge, on a scholarship, and took the Natural Sciences
+		  Tripos in 1926. Early postgraduate years included studies in palaeontology,
+		  philosophy, geology, and embryology. Between 1933 and 1945, Waddington was
+		  Embryologist and Lecturer in Zoology at Strangeways Research Laboratory,
+		  Cambridge. He was a Fellow of Christ's College, Cambridge, 1934-45. During the
+		  Second World War, Waddington worked on photographic reconnaissance and with
+		  anti-shipping strikes. In 1945 came a first offer of a chair of genetics at
+		  Edinburgh University, but Waddington declined because he felt his future lay
+		  with the new National Animal Breeding and Genetics Research Organisation
+		  (NABGRO). When it was suggested however that NABGRO might be found a permanent
+		  headquarters in Edinburgh, with Waddington combining the position of chief
+		  geneticist at the Organisation with the chair of animal genetics at the
+		  University, he agreed, and a research institute grew in Edinburgh from 1947
+		  (the Institute of Animal Genetics). Into the 1950s, this grew into the largest
+		  genetics department in the UK and one of the largest in the world. By the end
+		  of the 1950s though, the research institute had become more and more
+		  compartmentalised, and Waddington himself had become interested in the setting
+		  up of an Epigenetics Laboratory. Into the 1960s, he played a major role in the
+		  expansion of the biological faculty of Edinburgh University. In 1970, he
+		  accepted an invitation from the State University of New York to spend two years
+		  in Buffalo occupying the Albert Einstein Chair in Science. While in Buffalo,
+		  and shortly before his return to Edinburgh in 1973, Waddington suffered a heart
+		  attack. Following a further heart attack outside his home, he died on 26
+		  September 1975. Waddington had been awarded the CBE in 1958, and had been
+		  elected a Fellow of the Royal Society of Edinburgh in 1948. He became a foreign
+		  member of the American Academy of Arts and Sciences in 1959 and of the Finnish
+		  Academy in 1957. In 1974 he had been elected a Fellow of the Deutsche Akademie
+		  der Naturforscher Leopoldina, a scientific academy dating from 1677. Waddington
+		  held honorary degrees from Aberdeen, Dublin, Geneva, Montreal and Prague. He
+		  had a long record of publication, from 1939 to the 1970s. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Waddington Archive consists of scientific notebooks and bundles of
+		  notes; manuscripts and typescripts of essays, articles and larger works;
+		  photographic illustrations for publications; correspondence with publishers;
+		  correspondence with scientific journals; scientific correspondence;
+		  correspondence with societies; material relating to meetings and conferences;
+		  papers and books for review; University of Edinburgh files; and other
+		  miscellaneous files. The Archive also contains confidential personal files
+		  which are not available for consultation until 2025. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H41 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

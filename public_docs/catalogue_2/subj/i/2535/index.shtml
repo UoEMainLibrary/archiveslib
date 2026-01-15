@@ -1,0 +1,13 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Investments</title>
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<h2>Authority term: Investments</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-17-42&view=basic">General: 1957</a> (1933-1957)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-17-44&view=basic">General: 1957-1958</a> (1957-1958)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

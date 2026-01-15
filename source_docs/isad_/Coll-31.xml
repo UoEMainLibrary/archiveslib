@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-31">GB 237
+		Coll-31</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>The Edinburgh Collection of Drawings from the Office of
+			 Sir Rowand Anderson </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-31">
+    <did>
+      <unittitle>The Edinburgh Collection of Drawings from the Office of
+			 Sir Rowand Anderson </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-31</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">PC Edinburgh Collection 1-267 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">The Edinburgh Collection of Drawings
+		  from the Office of Sir Rowand Anderson </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1814-1924">1814-1924 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>26 plan
+		  chest drawers. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The architect Robert Rowand Anderson was born in Forres in 1834.
+		  Anderson had four years of legal training, and then while serving with the
+		  Royal Engineers he studied construction and design. He then entered the
+		  Architectural Section of the School of the Board of Manufactures, and before
+		  setting up in practice in Edinburgh, in around 1875, he spent a year in
+		  continental travel. His practice was very successful and his output was large.
+		  His work included the Medical Schools, Edinburgh, the Scottish National
+		  Portrait Gallery (and Museum of Antiquities), Edinburgh, the Montrose Memorial
+		  within the High Kirk of St. Giles, Edinburgh, and Central Station Hotel,
+		  Glasgow. Anderson was knighted in 1902 and he was the first President of the
+		  Scottish Institute of Architects. He died on 1 June 1921. Already holding the
+		  majority of architect William Playfair's drawings and many office letters of
+		  Robert Lorimer, some of the historic drawings of Rowand Anderson, Kininmonth
+		  and Paul came to Edinburgh University Library in 1976. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The collection, held in plan chest drawers, includes some plans and
+		  elevations of the Medical School (1874) and some relating to the McEwan Hall
+		  (1890s) in Edinburgh, as well as drawings of many public and private buildings
+		  throughout the country: banks, barracks, libraries, institutions, and mansions.
+		  One of the drawers contains unsorted and miscellaneous material. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H31 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

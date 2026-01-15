@@ -1,0 +1,19 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Reprints (Publications)</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/r/">r</a><h1>Reprints (Publications)</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=6116&term=Reprints (Publications)" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-19-60&view=basic">Letter to James Cossar Ewart from Sir Edwin Ray Lankester </a> (1913) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-21-29&view=basic">Letter to James Cossar Ewart from Albert E. Mettam </a> (1915) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-4&view=basic">Reprints of journal articles and research papers </a> (1923-1967) Papers of Alan W. Greenwood</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-6-2-96&view=basic">Four items found loose among photographs </a> (1924-1967) Papers of Alan W. Greenwood</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-5-1-11&view=basic">Bound volume of lectures given by Alan Greenwood </a> (1946-1949) Papers of Alan W. Greenwood</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

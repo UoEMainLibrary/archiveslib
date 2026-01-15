@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0157 20011126 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0157</titleproper> 
+		  <subtitle>Jameson | Robert | 1774-1854 | geologist and professor of
+			 natural history, University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 26 November 2001</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20011126">26 November 2001</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services.</creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE-P0157</titleproper> 
+		<subtitle>Jameson | Robert | 1774-1854 | geologist and professor of
+		  natural history, University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+		  University Library Special Collections Division, 26 November 2001</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20011126">26 November 2001</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0157"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0157</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0157" normal="Jameson, Robert">Jameson | Robert
+		  | 1774-1854 | geologist and professor of natural history, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Robert Jameson showed a lifelong interest in natural history.
+			 Originally assigned an apprenticeship in medicine under John Cheyne (<date
+			 normal="1777/1836" type="life-span">1777-1836</date>) he attended classes at
+			 the University of Edinburgh becoming most interested in natural history. He
+			 assisted the then professor of natural history, John Walker, (<date
+			 normal="1731/1803" type="life-span">1731-1803</date>) and was given charge of
+			 the university museum. Jameson studied at the mining academy, Freiberg Saxony
+			 in 
+			 <date normal="1800" type="single">1800</date>. He returned in 
+			 <date normal="1802" type="single">1802</date> and took up the chair
+			 of natural history at Edinburgh University in 
+			 <date normal="1804" type="chairdate">1804</date>, after the death of
+			 Walker . He held the post for fifty years until his death. He is most well
+			 known for his work in mineralogy, in particularly the mapping of a mineralogy
+			 of Scotland. He was an ardent defender of the geological theory of Abraham
+			 Gottlob Werner (<date normal="1750/1817" type="life-span">1750-1817</date>) in
+			 direct opposition to James Hutton (<date normal="1726/1797"
+			 type="life-span">1726-1797</date>). He founded the Wernerian Natural History
+			 Society in 
+			 <date normal="1808" type="single">1808</date>. In 
+			 <date normal="1819" type="single">1819</date> Jameson and David
+			 Brewster (<date normal="1781/1868" type="life-span">1781-1868</date>) founded
+			 the <bibref><title>Edinburgh Philosophical Journal</title></bibref> and from 
+			 <date normal="1824/1854" type="appointmentdate">1824-1854</date>
+			 Jameson was the sole editor. Jameson was a prolific teacher and fieldworker,
+			 and might even have pioneered the use of the field for pedagogical purposes in
+			 British universities.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>no information available</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title render="italic">The Mineralogy of the Shetland
+			 Islands and of Arran</title>, (<imprint><date type="publication" normal="1798"
+			 certainty="certain">1798</date>)</imprint></bibref></p> 
+		  <p><bibref><title render="italic">Mineralogy of the Scottish
+			 Isles</title>, (<imprint><date type="publication" normal="1800"
+			 certainty="certain">1800</date>)</imprint></bibref></p> 
+		  <p><bibref><title>System of Mineralogy</title>, (<imprint><date
+			 type="publication" normal="1804"
+			 certainty="certain">1804</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Mineralogical Description of Scotland, vol. i, part
+			 I</title>, (<imprint><date type="publication" normal="1805"
+			 certainty="certain">1805</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Elements of Geognosy</title>, (<imprint><date
+			 type="publication" normal="1809"
+			 certainty="certain">1809</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Mineralogical Travels through the Hebrides, Orkeny
+			 and shetland Islands</title>, (<imprint><date type="publication" normal="1813"
+			 certainty="certain">1813</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Manual of Mineralogy</title>, (<imprint><date
+			 type="publication" normal="1821"
+			 certainty="certain">1821</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date normal="1802" type="single">1802</date>: Graduate of the
+			 Bergakademie, Freiberg</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Dictionary of Scientific Biography, volume II
+			 </title>, ( <imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (NY, United States)">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication"
+			 normal="1981">1981</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Encyclopaedia Britannica, vol 12</title>, ( <imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication"
+			 normal="1964">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20011126">26 November
+				2001</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

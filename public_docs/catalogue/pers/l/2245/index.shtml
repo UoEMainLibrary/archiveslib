@@ -1,0 +1,16 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Lambert | Richard | | fl1770 | surgeon</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/pers/a/">Authority terms: personal names</a> &gt; <a href="/catalogue/pers/l/">l</a><h1>Lambert | Richard | | fl1770 | surgeon</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=pers&id=2245&term=Lambert | Richard | | fl1770 | surgeon" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16-I-31&view=basic">Letter from Richard Lambert to Joseph Black </a> (1770) Papers of Joseph Black and family</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16-I-36-37&view=basic">Letter from Richard Lambert to Joseph Black </a> (1770) Papers of Joseph Black and family</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

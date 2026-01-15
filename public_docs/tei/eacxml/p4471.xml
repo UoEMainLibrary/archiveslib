@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4471</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-10-14">21 October 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Stephen Hall</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>11 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 118/00 013/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 118/00 007/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 118/02 005/02 013</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1865 118/02 0013</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1866 118/02 0012</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW126f/16</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4471</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Ross</part>
+                <part localType="given">Isabella</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Pauper, South Uist</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1753" notAfter="1758" notBefore="1748">c1753</fromDate>
+                    <toDate standardDate="1865-03-05">5 March 1865</toDate>
+                </dateRange></existDates>
+            <biogHist>
+                <p>Isabella Ross was born to Ronald (Ranald) MacDonald, a farmer, and Mary MacDonald
+                    née Currie. The earliest recorded details are from the 1841 Census where
+                    Isabella (50) is living with her husband Hugh (or Ewan) with her children Donald
+                    (40) and Mary (40), together with their three year old nephew Rory MacDonald, in
+                    Upper Bornish, South Uist. Her son and husband are farm labourers. Ten years
+                    later, her husband was deceased and she and her son were classed as paupers.
+                    Staying with them in Upper Bornish was Catherine MacMillan, aged 70, also a
+                    pauper. By 1861 she and her son were living with Alexander Morrison and his
+                    family in Sniseabhal to the north of Upper Bornish. </p>
+                <p>In 1865 Isabella died at Morrison’s house of natural causes at the age of 112
+                    and an Archibald Morrison signed the death certificate.</p>
+                <p>Carmichael records that she died with 'all her faculties'. Her son, Donald, died
+                    the following year on 10 July 1866, at Stoneybridge, suffering from a long-term
+                    ‘disease of the brain’ and apoplexy [Note: his father's name is recorded as
+                    Ewan]. Margaret Morrison signed the certificate.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1753" localType="" notAfter="1758" notBefore="1748"
+                            >c1753</date>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1865-03-05">5 March 1865</date>
+                        <placeEntry>Sniseabhal, South Uist</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

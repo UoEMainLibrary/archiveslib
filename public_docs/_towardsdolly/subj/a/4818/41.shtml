@@ -1,0 +1,16 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Animal models in research</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/a/">a</a><h1>Animal models in research</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4818&term=Animal models in research" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="41">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-818&view=basic">Restricted maximum likelihood estimation of variance components for univariate animal models using sparse matrix techniques and average information </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="21.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

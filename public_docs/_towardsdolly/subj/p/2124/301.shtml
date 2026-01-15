@@ -1,0 +1,18 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Pigs</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/p/">p</a><h1>Pigs</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=2124&term=Pigs" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="301">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-703&view=basic">A porcine polymorphic locus (S0040) revealsed with primers for a mouse microsatellite </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-833&view=basic">Genetic and phenotypic relationships between performance test and reproduction traits in pigs selected for components of efficient lean growth rate </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-718&view=basic">Rate and site of fat deposition in pigs selected for components of efficient lean growth rate </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="281.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

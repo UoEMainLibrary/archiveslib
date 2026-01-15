@@ -1,0 +1,27 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Caisteal Bhuirgh Benbecula Inverness-shire Scotland </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/geog/a/">Authority terms: geographic names</a> &gt; <a href="/catalogue/geog/c/">c</a><h1>Caisteal Bhuirgh Benbecula Inverness-shire Scotland </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=geog&id=4492&term=Caisteal Bhuirgh Benbecula Inverness-shire Scotland " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW150-44&view=basic">Story entitled 'Mac Iain ic Sheumais' </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW150-79&view=basic">Story about Eilean or Caisteal Bheagram </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116&view=basic">Field notebook of Alexander Carmichael </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-149&view=basic">Two stories relating to Cladh-Mhoire Nunton </a> (1871-0120) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-150&view=basic">Story about Mor mhor and Ailein mac ic Ailein </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-151&view=basic">Story of how Caisteal Stornaway was taken from the MacLeods by the MacKenzies </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-152&view=basic">Two stories about Raol mor mac ic Ailein </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-153&view=basic">Story about Aonas mac Neil </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-137&view=basic">Archaeological and historical notes on Caisteal Bhuiri and Clanranald </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW119-35&view=basic">Story entitled 'Caisteal Bhuiri' </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-148&view=basic">Story about the use of a ruin as a place of worship </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW106-107&view=basic">Note about Fiosgo Burc </a> (1872) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-273&view=basic">Prophecy about Benbecula by Coinneach Odhar </a> (1885) The Carmichael Watson Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

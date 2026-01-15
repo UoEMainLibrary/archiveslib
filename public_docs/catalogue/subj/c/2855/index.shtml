@@ -1,0 +1,23 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Childbirth</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/c/">c</a><h1>Childbirth</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2855&term=Childbirth" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW112-10&view=basic">Story under the heading 'Ur-Sgeulan' entitled 'An t-Iarla Og' </a> (1857-1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW150-55&view=basic">Song entitled 'Oran Si - Mhuracha mac Iain' and accompanying story </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-10&view=basic">Biographical note about Mrs MacDonald, Tarasaigh/Taransay </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-144&view=basic">Ghost story about a woman and newborn child </a> (1871) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW111-44&view=basic">Story about 'Alast[air] mor nam marst' of Boisdale </a> (1874) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW87-22&view=basic">Charm entitled 'Tearna Moire' [Placenta of Mary], vocabulary and accompanying story </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-193&view=basic">Note about childbirth customs </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-4-2&view=basic">Press cuttings </a> (1953-1966) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-24&view=basic">Charm beginning 'Faic a Mhoire bhean us i eir fòd a bhais' </a> (xxxx) The Carmichael Watson Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

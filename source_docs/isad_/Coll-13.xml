@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 PC Coll-13">GB 237
+		Coll-13</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>William Playfair Architectural Drawings</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-13">
+    <did>
+      <unittitle>William Playfair Architectural Drawings</unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-13</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">PC Playfair 1-72</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">William Playfair Architectural
+		  Drawings</unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1817/1849">1817-1849</unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>5062
+		  drawings in 72 plan chest drawers. </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">William Henry
+		  Playfair</origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The architect William Henry Playfair was born in Russell Square,
+		  London, July 1789. On the death of his father, Playfair was sent to reside with
+		  his uncle in Edinburgh. Professor John Playfair, mathematician and geologist
+		  and a leading figure in the Edinburgh Enlightenment, took control of his
+		  nephew's education. Following his father's profession, the young Playfair
+		  studied under William Starke of Glasgow. His first public appointment was the
+		  laying out of part of the New Town in Edinburgh in 1815. Then, after a visit to
+		  France in 1816, he established himself professionally by winning the commission
+		  in 1817 to complete the unfinished University buildings (leaving the front as
+		  designed by Robert and James Adam). He also designed the city's Royal Terrace
+		  and Regent Terrace on the Calton Hill estate; the unfinished National Monument
+		  on Calton Hill; and, the Royal Scottish Academy and the National Gallery on the
+		  Mound. While Playfair's most important works in Edinburgh have been executed in
+		  the Greek revivalist or classical style - earning for Edinburgh the title of
+		  'Athens of the North' - he was competent in other styles too. New College,
+		  housing the University's Faculty of Divinity and the Church of Scotland's
+		  General Assembly Hall (the latter being the temporary home of the Scottish
+		  Parliament from 1999) is a jagged-lined rendering of the Gothic style. He also
+		  built country houses and mansions in the Italianate and Tudor styles. Playfair
+		  died in Edinburgh after a long illness on 27 May 1857. After his death, his
+		  drawings - regarded as valuable academic remains of a leading figure in
+		  Edinburgh's Enlightenment - were preserved in the Library of the University of
+		  Edinburgh. While the University expressed willingness to accept the drawings,
+		  they asked that they should be catalogued. This was quite a task for Playfair's
+		  Trustees when they examined the contents of the Playfair house and office at 17
+		  Great Stuart Street in the city's New Town, and so they retained James A.
+		  Hamilton, Playfair's clerk, to sort and catalogue the drawings. Over five
+		  thousand drawings were eventually presented to the University. However, an
+		  almost equal amount of material was rejected as unworthy of presentation and
+		  probably included sketch books, preliminary designs and returned presentation
+		  drawings, competition designs, specifications and letters. When Playfair's
+		  library and picture collection were auctioned (by Nisbet of Hanover Street,
+		  Edinburgh) in November 1857, no mention was made of the rejected material. One
+		  of the questions for history is, what happened to the material discarded by
+		  Hamilton? </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The drawings in the collection range from Playfair's student drawings,
+		  sketch designs and preliminary schemes, to many presentation drawings in
+		  watercolours. The earliest catalogued plans, elevations and sections relate to
+		  the commission to complete the University (the College of Edinburgh), 1817
+		  onwards. The Advocates' Library, Royal Terrace, Regent Terrace, the National
+		  Gallery, the National Monument, and New College also feature in the collection.
+		  Other material relates to the Observatory, Edinburgh, and Dollar Academy and
+		  Bathgate Academy, and other commissions up to around 1849. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H13: 
+		Catalogue of Architectural Drawings by W.H. Playfair </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

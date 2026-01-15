@@ -1,0 +1,21 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Awaiting indexing</title>
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<h2>Authority term: Awaiting indexing</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-16&view=basic">Papers of Joseph Black (1728-1799)</a> (1754-1799)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-12&view=basic">Papers and Notes of Professor Thomas Charles Hope (1766-1844)</a> (1782-1842)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-13&view=basic">William Playfair Architectural Drawings</a> (1817-1849)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-7&view=basic">Papers of Professor Andrew Duncan, junior (1773-1832)</a> (1818-1832)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-9&view=basic">Papers of Professor Andrew Brown (1763-1834)</a> (1820)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-10&view=basic">Symbolae Scoticae </a> (1850)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-14&view=basic">Papers of James Cossar Ewart</a> (1866-1935)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-8&view=basic">Papers of Sir Isaac Bayley Balfour (1853-1922)</a> (1870-1920)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-15&view=basic">Papers and Correspondence of Charles Sarolea (1870-1953)</a> (1897-1952)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-Coll-1&view=basic">The Laing Collection</a> (800-)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

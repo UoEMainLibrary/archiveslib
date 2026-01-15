@@ -1,0 +1,16 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Future forecast</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/f/">f</a><h1>Future forecast</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4875&term=Future forecast" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-10-15&view=basic">File titled 'Developing Countries' containing various related articles </a> (1962-1972) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-10-14&view=basic">File titled 'Delphi' concerning techniques for intuitive future forecasting </a> (1970) Papers of Conrad Hal Waddington</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

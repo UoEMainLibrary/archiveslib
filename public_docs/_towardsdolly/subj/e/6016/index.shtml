@@ -1,0 +1,26 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Embryos</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/e/">e</a><h1>Embryos</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=6016&term=Embryos" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-11-14&view=basic">Letter to James Cossar Ewart from Sir Edwin Ray Lankester </a> (1905) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-17-81&view=basic">Letter to James Cossar Ewart from E.W Morse </a> (1911) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-21-20&view=basic">Letter to James Cossar Ewart from George A. Berry </a> (1915) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-22-12&view=basic">Letter to James Cossar Ewart from J.B Robertson </a> (1916) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-22-2&view=basic">Letter to James Cossar Ewart from Ernest William MacBride </a> (1916) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-28-7&view=basic">Letter to James Cossar Ewart from Arthur Dendy </a> (1922) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-28-10&view=basic">Letter to James Cossar Ewart from James Peter Hill </a> (1922) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-28-8&view=basic">Letter to James Cossar Ewart from Dorothy Thursby-Pelham </a> (1922) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-36-5&view=basic">Letter to James Cossar Ewart from William Thomas Calman </a> (1930) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-4-12&view=basic">Figures, plates and photographs from Waddington and Margaret Perry's work </a> (1951-1971) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-5-16&view=basic">Typescript titled 'Mammalian embryo and gamete' </a> (1957) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-4-14&view=basic">Plate for 'A Note on the effects of some cytotoxic substances on amphibian embryos', Waddington, Journal of Embryology and Experimental Morphology, 6, pp.363-364 (June 1958) </a> (1958) Papers of Conrad Hal Waddington</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

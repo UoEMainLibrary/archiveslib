@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-67"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-67</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Scotland Africa
+			 '97 Archive </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+  encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+  level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-67</unitid> 
+		<physloc>Gen. 1056-1059; E2006.38</physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Scotland Africa '97 Archive
+		  </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1996-1997">1996-1997 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>4 boxes.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Scotland Africa '97 (SA '97) was an umbrella organisation which aimed
+		  at the strengthening of existing links between Scotland and Africa and the
+		  creation of new routes to understanding and co-operation. Between May and
+		  October 1997, a series of cultural events took place with these aims in mind,
+		  under the banner 
+		<title>Scotland Africa '97 </title>. Because of the positive feedback and
+		the success of the events generally, it was decided to set up an archive
+		serving as a record of the events held. It was hoped that the archive could be
+		used as a source for researchers examining the impact of SA '97 and as a
+		resource for anyone looking for information about the organisations involved.
+		The idea for the series of cultural events came from the Centre of African
+		Studies at Edinburgh University. It was intended that the events should raise
+		the profile of Africa and explore the historical and contemporary links between
+		Scotland and the huge continent. The events held were both large and small, and
+		although many were held in Edinburgh, SA '97 offices had been established in
+		Edinburgh, Glasgow and Aberdeen to support the events of organisations all over
+		the country, from Dundee and Musselburgh, to Argyll and Inverness, and from
+		Kelso and Dumfries, to Banchory and Stromness. The events ranged from an
+		African ceramics exhibition, fashion show, and African storytime for children,
+		to a rhino awareness week, a play about Mungo Park, and an exhibition on Mary
+		Slessor. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The material for the Scotland Africa '97 Archive (in Gen. 1056-1059)
+		  was chosen to show the range of events which took place and the variety of
+		  organisations and people involved. The main body of the material consists of
+		  information of the events which took place and this is arranged alphabetically
+		  by the name of the organisation involved. The events are also more fully
+		  described in 
+		<title>The Scotland Africa '97 Brochure </title> in Folder 2 of the
+		archive. The material also includes newsletters and leaflets; management
+		committee minutes and general forum minutes; accounts; funding proposals and
+		grant applications; letters and cards; invitations; programmes, posters, and
+		flyers; audio tapes; conference and seminar reports; press releases;
+		catalogues, information sheets, and information packs; and, photographs and
+		press cuttings.</p> 
+		<p>E2006.38 is a folder containing 10 black and white exhibition
+		  photographs taken by Matt Laver, photographer, Edinburgh. They feature: costume
+		  and dance; Wole Soyinka; Julius Nyerere; Jackson Hulungwani; an Adzido dance
+		  workshop; a spirit talk; Kinsi Abdulleh; a Lamu snake dance; Lorna and Jenny;
+		  and, Mara.</p>
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Park</emph> <emph altrender="forename">Mungo</emph>
+		  <emph altrender="dates">1771-1806</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Slessor</emph> <emph altrender="forename">Mary
+		  Mitchell</emph> <emph altrender="dates">1848-1915</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Centre of
+		  African Studies (University of Edinburgh)</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">University of
+		  Edinburgh (Centre of African Studies)</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Exhibitions</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H67 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

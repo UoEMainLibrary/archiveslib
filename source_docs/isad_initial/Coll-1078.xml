@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1078">GB
+		237 Coll-1078</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Transcript of John Rutherford lectures and Alexander Monro
+			 works, by John Firth (fl. 1738-1747)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20060203" certainty="certain">03 February
+			 2006</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1078"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1078</unitid> 
+		<physloc label="Shelfmark" encodinganalog="shelfmark">Gen. 1928;
+		  E95.52</physloc><unittitle encodinganalog="isadg(2)312">Transcript of John
+		  Rutherford lectures and Alexander Monro works, by John Firth (fl.
+		  1737-1747)</unittitle><unitdate normal="1737/1738"
+		encodinganalog="isadg(2)313">1737-1738</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">2 volumes </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language>;
+		  <language langcode="lat">Latin</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Firth, John</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>John Firth of York, a member of the medical profession, was admitted
+		  to the use of Edinburgh University Library on 10 May 1737. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>Notes from the lectures of Professor John Rutherford (1695-1779) on
+		  the Practice of Physic, 1737-1738, mainly in Latin, at Gen. 1928. Starts, 'Some
+		  excerpts taken from ye Lectures of Dr. John Rudderford ... 1737'. A 375 page
+		  volume with lectures on Boerhave's 
+		<title>Aphorisms</title>.</p> 
+		<p>At E95.52, a 283 page volume containing: transcription of works by
+		  Professor Alexander Monro (1695-1779), being 'A treatise of wounds and
+		  tumours'; copies of letters dating from 1738, starting with one by Dr. Pringle,
+		  Professor of Moral Philosophy, but mostly from Abraham Swaine who worked in the
+		  'Medical Shop' of Mr. Hunter.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Accession No: E72.57. Acquired November 1972. Accession No:
+			 E95.52.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact reporitory for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared for this collection.</p> 
+		</otherfindaid> 
+		<relatedmaterial encodinganalog="isadg(2)353"> 
+		  <head>Related Material</head> 
+		  <p><?xm-replace_text {Related Materials}?></p> 
+		</relatedmaterial> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using other
+			 finding aids in Special Collections, and correspondence files.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Wounds and
+			 injuries</emph></subject> 
+		  <subject><emph altrender="a">Tumours</emph></subject> 
+		  <subject><emph altrender="a">Medicine</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph altrender="surname">Firth</emph><emph
+			 altrender="forename">John</emph><emph altrender="dates">fl.
+			 1738-1747</emph></persname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

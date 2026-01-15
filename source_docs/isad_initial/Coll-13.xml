@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 PC Coll-13"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-13</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>William Playfair Architectural Drawings</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15), 
+			 <date normal="20050223">23 February 2005</date></item> 
+		</list> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections</corpname>
+		  </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-13</unitid> 
+		<physloc>PC Playfair 1-72</physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">William Playfair Architectural
+		  Drawings</unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1817/1849">1817-1849</unitdate> 
+		<origination encodinganalog="isad(g) 3.2.1./marc 700">William Henry
+		  Playfair</origination> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>5062
+		  drawings in 72 plan chest drawers. </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>The architect William Henry Playfair was born in Russell Square,
+		  London, July 1789. On the death of his father, Playfair was sent to reside with
+		  his uncle in Edinburgh. Professor John Playfair, mathematician and geologist
+		  and a leading figure in the Edinburgh Enlightenment, took control of his
+		  nephew's education. Following his father's profession, the young Playfair
+		  studied under William Starke of Glasgow. His first public appointment was the
+		  laying out of part of the New Town in Edinburgh in 1815. Then, after a visit to
+		  France in 1816, he established himself professionally by winning the commission
+		  in 1817 to complete the unfinished University buildings (leaving the front as
+		  designed by Robert and James Adam). He also designed the city's Royal Terrace
+		  and Regent Terrace on the Calton Hill estate; the unfinished National Monument
+		  on Calton Hill; and, the Royal Scottish Academy and the National Gallery on the
+		  Mound. While Playfair's most important works in Edinburgh have been executed in
+		  the Greek revivalist or classical style - earning for Edinburgh the title of
+		  'Athens of the North' - he was competent in other styles too. New College,
+		  housing the University's Faculty of Divinity and the Church of Scotland's
+		  General Assembly Hall (the latter being the temporary home of the Scottish
+		  Parliament from 1999) is a jagged-lined rendering of the Gothic style. He also
+		  built country houses and mansions in the Italianate and Tudor styles. Playfair
+		  died in Edinburgh after a long illness on 27 May 1857. After his death, his
+		  drawings - regarded as valuable academic remains of a leading figure in
+		  Edinburgh's Enlightenment - were preserved in the Library of the University of
+		  Edinburgh. While the University expressed willingness to accept the drawings,
+		  they asked that they should be catalogued. This was quite a task for Playfair's
+		  Trustees when they examined the contents of the Playfair house and office at 17
+		  Great Stuart Street in the city's New Town, and so they retained James A.
+		  Hamilton, Playfair's clerk, to sort and catalogue the drawings. Over five
+		  thousand drawings were eventually presented to the University. However, an
+		  almost equal amount of material was rejected as unworthy of presentation and
+		  probably included sketch books, preliminary designs and returned presentation
+		  drawings, competition designs, specifications and letters. When Playfair's
+		  library and picture collection were auctioned (by Nisbet of Hanover Street,
+		  Edinburgh) in November 1857, no mention was made of the rejected material. One
+		  of the questions for history is, what happened to the material discarded by
+		  Hamilton? </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The drawings in the collection range from Playfair's student drawings,
+		  sketch designs and preliminary schemes, to many presentation drawings in
+		  watercolours. The earliest catalogued plans, elevations and sections relate to
+		  the commission to complete the University (the College of Edinburgh), 1817
+		  onwards. The Advocates' Library, Royal Terrace, Regent Terrace, the National
+		  Gallery, the National Monument, and New College also feature in the collection.
+		  Other material relates to the Observatory, Edinburgh, and Dollar Academy and
+		  Bathgate Academy, and other commissions up to around 1849. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Playfair</emph> <emph altrender="forename">William
+		  Henry</emph> <emph altrender="dates">1790-1857</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Playfair</emph> <emph altrender="forename">John</emph>
+		  <emph altrender="dates">1748-1819</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Architects</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Architecture</emph> <emph altrender="x">Scotland</emph>
+		  </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Architecture</emph> <emph altrender="x">Designs and plans</emph>
+		  <emph altrender="x">Presentation drawings</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H13: 
+		<title>Catalogue of Architectural Drawings by W.H. Playfair</title> </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

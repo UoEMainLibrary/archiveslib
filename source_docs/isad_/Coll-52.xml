@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-52">GB 237
+		Coll-52</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers of Douglas
+			 Guthrie (1885-1975) </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-52">
+    <did>
+      <unittitle>Papers of Douglas
+			 Guthrie (1885-1975) </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-52</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 1727; Gen. 1991</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers of Douglas Guthrie (1885-1975)
+		  </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1864-1967">1864-1967 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>17 boxes, 1
+		  notebook (2 linear metres). </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Douglas Guthrie was born 8 September 1885. He was the son of the Rev.
+		  William Guthrie, Dysart, in Fife, a Free Church minister. Guthrie was educated
+		  at Kirkcaldy High School and at the Royal High School, Edinburgh. He studied at
+		  Edinburgh University, and at Jena and Paris, and was awarded the degrees of
+		  Bachelor of Medicine and Bachelor of Surgery in 1907. Postgraduate study was
+		  carried out in Hamburg, Jena, Berlin and Paris. He was awarded the degree of
+		  M.D. in 1909. His specialisation was Otolaryngology. He became a Fellow of the
+		  Royal College of Surgeons of Edinburgh in 1913, and Fellow of the Royal College
+		  of Physicians of Edinburgh in 1961. Guthrie spent six years in general practice
+		  in Lanark, and during the First World War he served in the Royal Army Medical
+		  Corps and then as Commandant of a Royal Air Force officer's hospital. In 1919
+		  he became ear and throat surgeon to the Royal Hospital for Sick Children in
+		  Edinburgh, and surgeon to the Ear and Throat Infirmary. From 1920 he was
+		  Lecturer on Diseases of Ear, Nose and Throat at the School of Medicine of Royal
+		  Colleges, Edinburgh. He was also aural specialist to the Scottish Command. On
+		  his retiral from practice in 1945, Guthrie was appointed Lecturer on History of
+		  Medicine at Edinburgh University in succession to Dr. John Comrie (1875-1939).
+		  He held the post until 1956. Guthrie's publication record included 
+		A history of medicine  (1945), 
+		Lord Lister: His life and doctrine  (1949), 
+		The Royal Edinburgh Hospital for Sick Children, 1860-1960 
+		(1960), 
+		Janus in the doorway  (1964), and 
+		Dr. John Leyden , 1775-1811  (1964). In 1948, Guthrie
+		founded the Scottish Society of History of Medicine. He died in Edinburgh on 8
+		June 1975. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>Within the collection of Guthrie Papers, Gen. 1727 contains notes of
+		  lectures on clinical surgery in Edinburgh University taken down by Douglas
+		  Guthrie, 1903-1904. The material at Gen. 1991, in folders and envelopes,
+		  contains newspaper cuttings and offprints of articles relating to Dr. John
+		  Leyden; notes, typescripts and articles on antiseptics and Joseph Lister;
+		  typescripts of lectures; photographs; correspondence with academics; catalogues
+		  of libraries holding early medical books; and, articles, typescripts, notebooks
+		  on a range of topics. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H52; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows synopses of lectures on the history of
+		  medicine delivered in Edinburgh University, 1946-56, see Dc.4.98/4. Also, for a
+		  letter of, and letters to Douglas Guthrie, see Dk.7.54/1 and Dk.7.60/12-14.
+		  </p>
+      </relatedmaterial>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

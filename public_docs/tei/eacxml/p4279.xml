@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4279</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-10-12">12 October 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>7 February 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 118/01 005/01 016</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 118/01 005/01 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1894 118/01 0008</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW119/72–75</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW150/57–59</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4279</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacInnes</part>
+                <part localType="given">Christina</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>[Cairistina nighean Dùghaill]; Pauper, Hacklet, Benbecula</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1807" notAfter="1812" notBefore="1802"
+                        >c1807</fromDate><toDate standardDate="1894-02-17">17 February
+                    1894</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Christina or Chirsty MacInnes was born in 1806, daughter of Dugald MacInnes,
+                    crofter, and Effy or Oighrig née MacInnes. By 1841 she was living as a cottar
+                    with her widowed mother and her sister Mary (1818–95) at 9 Hacleit. In 1852 Mary
+                    had a natural son Dugald by William MacAulay: he took over the croft after the
+                    previous tenants moved to Lìonacleit in 1879.</p>
+                <p>Alexander Carmichael recorded Cairistìona nighean Dùghaill on 16 June 1876,
+                    possibly at his own house in Creag Goraidh. He describes her as ‘bean bhoc[hd] a
+                    bhios a sniomh dhan mhnaoi agam’ (‘a poor woman who spins for my wife’): in
+                    other words, one of the women who was involved in Mary Frances’ ‘Home
+                    Industries’ charity work. She sang for him what appears to be a song by a
+                    betrayed lover, then stray lines from the beginning of the Fenian ballad about
+                    Conall [Gulban], and a recommendation to consult ‘Donul Curri S[outh]
+                    Lochboisdale’ [CW150/84-85]. Chirsty MacInnes may also have recited the items
+                    which follow: two apparently related prayers, <span>Ùrnaigh Togail an
+                        Teine</span>, and <span>A Dhé fadaidh féin ’nam chridhe a-steach</span>, the
+                    saying <span>‘Bu mhath an t-saighdearachd mur bhi na blàir’</span>, and the word
+                        <span>Aithealag</span>, <span>éibhleag</span>, translated as ‘small peat
+                    fire’ [CW150/86-91].</p>
+                <p>From the purple and black pencils used in this recording session, it’s clear that
+                    Carmichael thereupon opened another notebook and continued taking down items
+                    from Chirsty MacInnes: the well-known and lengthy religious hymn <span>Laoidh
+                        Dhùghaill Liosadair</span> [CW119/57], a version of the prayer before sleep
+                        <span>Laighidh mi a-nochd</span> [CW119/58], as well as, perhaps, some
+                    remarks on the story behind the song <span>Laoidh na h-Ighne</span> which
+                    Carmichael had taken down from Duncan MacDonald, Snaoiseabhal, some five years
+                    previously (probably after she herself had sung it), and the phrase <span>Bheir
+                        bumailear breith ach có bheir ceart[as?]</span> [CW119/60].</p>
+                <p>Christina MacInnes died on 17 February 1894 of ‘asthma [and] old age’. Her death
+                    certificate was witnessed by her nephew Dugald MacInnes or MacAulay.</p>
+                <p>Alexander Carmichael ascribes to Christina MacInnes <span>Coisrig Cadail</span>,
+                    a <span>Sleep Consecration</span> [<span localType="mods-titleinfo">CG</span> i,
+                    80–1] which has a few points of contact with her own prayer before sleep;
+                    another sleep prayer <span>Laighim am Leabaidh</span> [ibid., 94–5]; and a
+                    description of how to set the <span>iomairt</span> (cloth striped lengthwise):
+                        <span>Suidheachadh na h-Iomairt</span> [ibid., 302–3].</p>
+                <p>From notes made concerning the projected content of the volume which would become
+                        <span>Carmina Gadelica</span>, Alexander Carmichael certainly considered
+                    ascribing to her <span>Ora Turais</span> (‘Ionnlai mi m aodan’) and the cattle
+                    charm ‘Siubhal coire siubhal coille’ [CW124 fo.3]; also<span> Laoidh Dhughaill
+                        Liosadair</span>, the prayer before sleep <span>Laighidh mise
+                    a-nochd</span>, as well as <span>Laoidh na h-Ighne</span>, this last under the
+                    title <span>Binneach nam Beann</span> [ibid. fos.6, 8]; and finally the charm
+                        <span>Achlasan Chaluim Chille</span> [ibid. fo.9]. If these ascriptions are
+                    correct, she well merited his tribute to her in a footnote to his list of
+                    reciters: ‘She had an immense amount of old lore, runes, and stories of great
+                    literary interest’ [<span localType="mods-titleinfo">CG</span> ii, 375].</p>
+                <p>Although no items ascribed to Christina’s sister Mary appear in extant field
+                    notebooks, Carmichael clearly recorded from her. Her name is given as the
+                    informant for <span>Ora Buadh</span> [‘Cumraig Dhe is Dhomhnach’] in the draft
+                        <span localType="mods-titleinfo">Carmina</span> contents [CW124 fo.3], while
+                    in the printed volumes she is cited as the source for <span>An Liuthail</span>
+                        (<span>‘The Lustration’</span>) [<span localType="mods-titleinfo">CG</span>
+                    i, 58–9], as well as information about the <span>loireag</span> (‘a small mite
+                    of womanhood that does not belong to this world, but to the world thither’) on
+                    Beinn Mhór [ibid. ii, 320–1].</p>
+                <p>Again, in the drafts Christina’s nephew Dugald MacAulay (1852–1910) is given as
+                    the source for two charms: <span>a Sian</span> (‘An sian chuir Moir air a Mac’)
+                    and a version of the well-known bone-healing charm beginning <span>Chaidh Brìde
+                        a-mach</span> [CW124 fo.9]. These are both ascribed to him in <span
+                        localType="mods-titleinfo">Carmina Gadelica</span> [<span
+                        localType="mods-titleinfo">CG</span> ii, 18–19, 36–7], with the additional
+                    footnote: ‘He very kindly showed me the rites for curing the sprain and the red
+                    pleura and for counteracting the evil eye’ [ibid. 379n.6].</p>
+                <p>On 4 September 1906 Alexander Carmichael would record from Dugald MacAulay the
+                    song <span>Cuist Eònachain</span> [CW244 fos.139–40].</p>
+                <p>Dugald MacAulay, who ‘has a reputation in the island as a good storyteller’
+                    [Angus Macmillan and Taigh Eachdraidh Bheinn na Faghla, <span
+                        localType="mods-titleinfo">Benbecula Donors in Carmina Gadelica</span>
+                    (Balivanich, 2007), 21], is given as the source for a number of other items
+                    printed in later volumes of <span localType="mods-titleinfo">Carmina
+                        Gadelica</span>: <span>Altachadh</span>, or <span>Altachadh
+                        Shomhairle</span>; <span>Guidhe Turais</span> (‘He learned it from his
+                    mother and from her sister, who lived with his mother. These two old women had
+                    innumerable hymns, songs, stories and fables, sayings and proverbs, full of
+                    wisdom and beauty, almost all of which died with them.’); <span>Am Beannachadh
+                        Turais</span> (‘The reciter … said that he always recited this little prayer
+                    to himself, ‘fo m’anail’, ‘under my breath’, when he went upon a journey,
+                    however short the distance, however small the matter of his errand’),
+                        <span>Beannachadh Taimh</span>; <span>Eòlas Faireimidh</span> (<span>‘Charm
+                        for the Evil Eye’</span>); and <span>Teab an t-Sionnaich</span> [ibid. iii,
+                    54–5, 178–9, 180–1, 338–9; iv, 170–1, 248].</p>
+                <p>To the first of these is appended the description: ‘MacAulay is an old man, full
+                    of old songs and hymns, runes and incantations, fairy stories and strange
+                    beliefs. These he heard from his aunt and mother, who were full of song and
+                    story, natural and supernatural, and of old lore of the most curious kind. … He
+                    said that Somhairle Mac Calmain was a good man, moving about doing no harm,
+                    asking nothing and always getting enough. In his travels he was always crooning
+                    these little hymns to himself. This description might fit MacAulay himself, save
+                    that he seldom leaves his wind-swept moorland home.’ </p>
+                <chronList>
+                    <chronItem><date standardDate="1807" notAfter="1812" notBefore="1802"
+                            >c1807</date><placeEntry>Benbecula</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1876-06-16">16 June
+                            1876</date><placeEntry>Hacklet, Benbecula</placeEntry><event>visited by
+                            Alexander Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1894-02-17">17 February
+                            1894</date><placeEntry>Hacklet,
+                            Benbecula</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

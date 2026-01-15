@@ -1,0 +1,15 @@
+<!--#include virtual="/ght/includes/top_header.php" -->
+<title>Godfrey Thomson Project: Merseyside England </title>
+
+<!--#include virtual="/ght/includes/cat_header.php" -->
+<!--#include virtual="/ght/includes/lower_header.php" -->
+
+
+<a href="/ght/catalogues">Catalogue</a> &gt; <a href="/ght/geog/a/">Authority terms: geographic names</a> &gt; <a href="/ght/geog/m/">m</a><h1>Merseyside England </h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/ght/cs/viewauth.php?type=geog&id=5581&term=Merseyside England " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1310-1-1-26-20&view=basic">Letter from Professor Alex J D Porteous, formerly of Liverpool University </a> (1955) Papers of Godfrey H. Thomson</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/ght/includes/footer.php" -->

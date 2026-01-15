@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-70"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-70</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Colin Cameron
+			 Collection of Nyasaland / Malawi Government Documents </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-70</unitid> 
+		<physloc>Gen. 1061-1069 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Colin Cameron Collection of Nyasaland
+		  / Malawi Government Documents </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1952-1969">1952-1969 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>9 boxes (1
+		  linear metre). </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Colin Cameron was born in Lanark on 24 August 1933. He was educated at
+		  Uddingston Grammar School and then studied Law at Glasgow University graduating
+		  in May 1957 with the degree of Bachelor of Law. While at University he
+		  represented the Law Faculty on the Students' Representative Council. He was
+		  resident in Uddingston, Glasgow, when his application for entry as an immigrant
+		  to the Federation of Rhodesia and Nyasaland was approved in June 1957. In
+		  Nyasaland (now Malawi), Cameron took up an appointment as a Solicitor with
+		  Messrs Wilson and Morgan, Legal Practitioners, Blantyre, a law concern strongly
+		  connected to the United Federal Party - the party of Sir Roy Welensky, Prime
+		  Minister of the Federation of Rhodesia and Nyasaland, 1956-63. During a state
+		  of emergency in 1959, Cameron gave legal help to Africans who had been arrested
+		  and detained, and this led to objections from his employers and to ostracism by
+		  the white community. Cameron was a paid-up member of the African National
+		  Congress. In 1959, he also became a member of the Church of Central Africa
+		  Presbyterian and three of his children were baptised into the local church. On
+		  the expiry of his contract, he returned to Scotland in late 1960, but at the
+		  request of Dr. Hastings K. Banda he returned to Africa to stand in the 1961
+		  General Election against the United Federal Party. In this Election for the
+		  Nyasaland Legislative Council held on 15 August 1961, Cameron, then aged 27,
+		  campaigned as an independent candidate in the Soche Constituency, receiving
+		  support in his campaign from the Malawi Congress Party headed by Banda. Cameron
+		  voiced his sympathy with the African Nationalist movement and expressly
+		  denounced apartheid. He indicated too that he was against the federal structure
+		  in Central Africa at that time. A daring challenge to Welensky to debate
+		  election issues with him met with the answer that the Prime Minister was fully
+		  committed. Cameron was elected to the Council along with the first Africans
+		  elected to government in Malawi, and in September 1961, he became Minister of
+		  Works and Transport with responsibility for Works, Transport, Water Supply and
+		  Sewerage across the country. Thereafter he was Minister of Transport and
+		  Communications with the responsibility of transferring the federal functions of
+		  Road, Rail, Air, and the Post Office back to the Malawi Government. The Central
+		  African Federation to which Cameron indicated his opposition was dissolved in
+		  1963. In August 1964, Cameron resigned from the Cabinet on the issue of the
+		  introduction by Banda of an amendment to the Constitution allowing detention
+		  without trial as part of the law of the newly independent Malawi. On the
+		  resumption of private legal practice in Blantyre he represented the former
+		  Minister of Education, Henry Chipembere, in a constitutional case which
+		  challenged Banda in the High Court, but this resulted in him having to leave
+		  Malawi with his family on forty-eight hours notice. During the next thirty
+		  years, Cameron established his own legal practice in Irvine, Scotland, and
+		  although unable to return to Malawi he continued to support and take an active
+		  interest in refugees from Malawi who were then living in Zambia, Tanzania,
+		  Zimbabwe, and the United Kingdom. After the first multi-party elections in
+		  Malawi in May 1994, Cameron and his wife were invited back to the country and
+		  he was offered the position of Honorary Consul for the Republic of Malawi in
+		  Scotland by the new President of the country, Bakili Muluzi. Colin Cameron was,
+		  for six years, a member of the Council of the Law Society of Scotland, is an
+		  active member of Amnesty International, and is an active member of the Scottish
+		  National Party. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>Contained in the Colin Cameron Collection are personal letters of
+		  congratulation on his election and his appointment as Minister; various
+		  personal documents including his letter of appointment as Minister; personal
+		  and private correspondence; business, correspondence, and questions and answers
+		  of the Legislative assembly, 1963-64; material for speeches; ministerial
+		  material; and, constituency material. The Collection also includes material on
+		  housing rentals policy; passenger transport; main and district council roads;
+		  road safety; air services; lake services; and, material relating to various
+		  agencies and institutions in the country. There is also material on Cameron's
+		  invitations, tours and visits. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Cameron</emph> <emph altrender="forename">Colin</emph>
+		  <emph altrender="dates">1933-</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Welensky</emph> <emph altrender="forename">Roy</emph>
+		  <emph altrender="title">Sir</emph> <emph altrender="dates">1907-1991</emph>
+		  </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Banda</emph> <emph altrender="forename">Hastings
+		  Kamuzu</emph> <emph altrender="dates">c1902-1997</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Muluzi</emph> <emph altrender="forename">Bakili</emph>
+		  </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">African National
+		  Congress</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Central African
+		  Federation</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Federation of
+		  Rhodesia and Nyasaland</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Malawi Congress
+		  Party</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Malawi</emph> <emph altrender="x">Politics and government</emph>
+		  </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Transportation</emph> </subject> 
+		<geogname encodinganalog="marc 651"> <emph altrender="z">Rhodesia</emph>
+		  </geogname> 
+		<geogname encodinganalog="marc 651"> <emph altrender="a">Malawi</emph>
+		  </geogname> 
+		<geogname role="subject" encodinganalog="marc 651"> <emph
+		  altrender="a">Malawi</emph> <emph altrender="x">History</emph>
+		  <emph altrender="y">1953-1964</emph> </geogname> 
+		<geogname role="subject" encodinganalog="marc 651"> <emph
+		  altrender="a">Malawi</emph> <emph altrender="x">History</emph>
+		  <emph altrender="y">1964-</emph> </geogname> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H70 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

@@ -1,0 +1,36 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Students</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/s/">s</a><h1>Students</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2227&term=Students" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="41">
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACA-SCI-1-12&view=basic">Faculty of Science Minute Book </a> (1918-1921) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACA-SCI-1-13&view=basic">Faculty of Science Minute Book </a> (1922-1924) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACA-SCI-1-14&view=basic">Faculty of Science Minute Book </a> (1924-1929) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1329&view=basic">Material relating to Thomas Archibald Campbell Brownlie B.Sc. (Engineering), Edinburgh 1935 </a> (1928-1999) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACA-SCI-1-15&view=basic">Faculty of Science Minute Book </a> (1929-1932) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1455&view=basic">Edinburgh University memorabilia relating to James Robert Thom, 1929-1932, 1954 </a> (1929-1954) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1525&view=basic">Material relating to Agnes Waugh, and student outings in the 1930s </a> (1933-1936) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACA-SCI-1-16&view=basic">Faculty of Science Minute Book </a> (1933-1943) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1263&view=basic">Collection relating to James Stewart Fraser </a> (1935-1944) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1541&view=basic">Papers of Margaret Melville Rae Martin MB ChB Edin., (1941-2005) </a> (1941-2001) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACA-SCI-1-17&view=basic">Faculty of Science Minute Book </a> (1943-1949) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1293&view=basic">Material relating to James S. Robson </a> (1945-1950) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1269&view=basic">Collection of Thomas Jaffrey McNair </a> (1946-1963) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1446&view=basic">Material collected by Elsie G. Taylor </a> (1947-2007) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACA-SCI-1-18&view=basic">Faculty of Science Minute Book </a> (1949-1953) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1435&view=basic">Collection of Class certificates 1951-1954 of John Robertson, Law student </a> (1951-1954) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACA-SCI-1-19&view=basic">Faculty of Science Minute Book </a> (1954-1959) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1318&view=basic">Material relating to the career of Peter McIntyre, Editor of the Edinburgh University Calendar, and former Clerk to the University Senate </a> (1954-1982) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-17-39&view=basic">General: early 1956 </a> (1956) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1&view=basic">Records of the Department of Molecular Biology </a> (1957-1993) Records of the University of Edinburgh</li>
+</ul>
+<a href="21.shtml">Previous</a>
+<a href="61.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

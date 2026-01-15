@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT GB 0237
+		NAHSTE P1864 20020703//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1864</titleproper> 
+		  <subtitle>Roberts | John Alexander Fraser | 1900-1987 |
+			 geneticist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+			 University Library Special Collections Division, 03 July 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020703">03 July 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1864</titleproper> 
+		<subtitle>Roberts | John Alexander Fraser | 1900-1987 |
+		  geneticist</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart , Edinburgh
+		  University Library Special Collections Division, 03 July 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020703">03 July 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1864"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1864</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1864"
+		 normal="Roberts, John Alexander Fraser">Roberts | John Alexander Fraser |
+		  1900-1987 | geneticist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Fraser Roberts studied the science of genetics in its application to
+			 inheritance in humans. His interest focused on the application of laboratory
+			 and statistical knowledge in the field, and ultimately he became a pioneer of
+			 genetic counselling. He was the eldest child of a Welsh farmer and a Scots
+			 mother. Early in life he showed an interest in the attempts of local farmers to
+			 improve their sheep flocks by selective breeding - even then, as later in life,
+			 he loved collecting data, plotting it onto graphs and in statistics.</p>
+		  <p> He had achieved university entrance qualification by the age of 15,
+			 and in 
+			 <date normal="1916" type="single">1916</date> he went to University
+			 College, South Wales to study agriculture. In 
+			 <date normal="1920" type="single">1920</date> he moved to Cambridge
+			 where he first undertook research into sheep. This brought him into contact
+			 with Professor F.A.E. Crew (<date type="life-span"
+			 normal="1886/1973">1886-1973</date>) at the Institute of Animal Breeding at the
+			 University of Edinburgh, and he went to Edinburgh in 
+			 <date normal="1923" type="single">1923</date>. Whilst there his
+			 genetical research was leading him more towards human work, and Crew suggested
+			 that he study medicine. Thus he became a medical graduate of the University of
+			 Edinburgh in 
+			 <date normal="1936" type="single">1936</date>. </p>
+		  <p>During World War II he served as a surgeon-commander in the RNVR and
+			 assisted the Admiralty with the collation of statistical material. After the
+			 war he returned to Edinburgh and qualified M.D. in 
+			 <date normal="1943" type="single">1943</date> for his thesis on the
+			 distribution of blood groups between the people of North Wales and southern
+			 England. Since 
+			 <date normal="1933" type="single">1933</date> he had been involved in
+			 the Burden Mental Health Research Department at the Stoke Park Colony, Bristol.
+			 His early work there involved the assessment of intelligence and by 
+			 <date normal="1946" type="single">1946</date> this interest had
+			 developed into pioneering work in genetic counselling. He founded the first
+			 genetic counselling clinic in Europe at the Hospital for Sick Children, Great
+			 Ormand Street in 
+			 <date normal="1946" type="single">1946</date>, and was the first
+			 Director of the Clinical Genetics Research Unit there from 
+			 <date normal="1957" type="single">1957</date> until he retired in 
+			 <date normal="1964" type="single">1964</date>. </p>
+		  <p>The research he carried out at that time provided much-needed data
+			 derived from systematic laboratory and family studies on the incidence and
+			 frequency of inherited disease. This information enabled counsellors to provide
+			 a coherent picture to their clients of the risks of inherited disease in their
+			 families. In addition to his work on intelligence he also examined the
+			 relationship between blood group and inherited disease, and the genetical
+			 causes of high blood pressure and diseases of the nervous system. The precision
+			 and clarity that he brought to his research is evident in his book, An
+			 Introduction to Medical Genetics, the first student text on genetics. It is
+			 still highly regarded and went into eight editions from 
+			 <date normal="1940/1985" type="publication">1940-1985</date>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>He collaborated with R.A. Fisher (<date normal="1890/1962"
+			 type="life-span">1890-1962</date>), from 
+			 <date normal="1924" type="single">1924</date>, and with E.O. Lewis on
+			 the genetics of intelligence and mental handicap.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Fraser Darling published numerous papers in scientific journals, and
+			 over 21 monographs. Notable publications:</p> 
+		  <p><bibref><title>The Story of Scotland </title>, ( <imprint><date type="publication"
+			 normal="1942" certainty="certain">1942</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Care of Farm Animals </title>, ( <imprint><date
+			 type="publication" normal="1943"
+			 certainty="certain">1943</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Crofting Agriculture </title>, ( <imprint><date
+			 type="publication" normal="1945"
+			 certainty="certain">1945</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Alaska: An Ecological Reconnaissance </title>, ( 
+			 <imprint><date type="publication" normal="1953"
+			 certainty="certain">1953</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>An Ecological Renaissance of the Mara Plains in Kenya
+			 Colony </title>, ( <imprint><date type="publication" normal="1960"
+			 certainty="certain">1960</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Wild life in an African territory: a study made for
+			 the Game and Tsetse Control Dept. of Northern Rhodesia </title><imprint><date
+			 type="publication" normal="1960"
+			 certainty="certain">1960</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Impacts of Man on the Biosphere </title> 
+			 <imprint><date type="publication" normal="1969"
+			 certainty="certain">1969</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head>
+		  <p>Held numerous appointments and honours amongst these are:</p> 
+		  <p> 
+			 <date normal="1927" type="single">1927</date>: Elected Fellow, Royal
+			 Society of Edinburgh</p> 
+		  <p><date normal="1928/1931" type="appointmentspan">1928-1931</date>:
+			 Appointed Head, Biology Department, Wool Industries Research Association,
+			 Leeds</p> 
+		  <p><date normal="1931" type="single">1931</date>: Graduated DSc,
+			 University of Edinburgh</p> 
+		  <p><date type="single" normal="1933">1933</date>: Appointed Macaulay
+			 Research Fellow in Human Biology, University of Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1940/1957">1940-1957</date>:
+			 Appointed Director, Stoke Hospital, Bristol</p> 
+		  <p> 
+			 <date type="appointmentdate" normal="1949">1949</date>: Elected
+			 Fellow, Royal College of Physicians, London</p> 
+		  <p> 
+			 <date type="appointmentdate" normal="1952">1952</date>: Appointed
+			 Galton Lecturer, Eugenics Society</p> 
+		  <p> 
+			 <date type="appointmentspan" normal="1957/1959">1957-1959</date>:
+			 Elected President, Royal Anthropological Institute of Great Britain and
+			 Northern Ireland</p>
+		  <p> 
+			 <date type="appointmentspan" normal="1960/1962">1960-1962</date>:
+			 Elected President, Biometric Society</p>
+		  <p><date type="single" normal="1963">1963</date>: Elected Fellow, Royal
+			 Society</p>
+		  <p><date type="single" normal="1965">1965</date>: Awarded Commander of
+			 the Order of the British Empire</p>
+		  <p><date type="single" normal="1971">1971</date>: Founder Fellow, Royal
+			 College of Psychiatrists</p>
+		  <p><date type="single" normal="1976">1976</date>: Awarded Ballantyne
+			 Prize, Royal College of Physicians, Edinburgh</p>
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Boyd, John Morton"
+			 role="editor"> Polani, P.E.</persname><title>Biographical Memoirs of Fellows of
+			 the Royal Society, vol. 38</title>, ( <imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <date type="publication"
+			  normal="1988">1988</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Who's Who 1978</title>, ( <imprint><geogname
+			 source="lcsh" authfilenumber="499" normal="Great Britain">Great
+			 Britain</geogname>, 
+			 <publisher>A and C Black Ltd</publisher>, 
+			 <date type="publication"
+			 normal="1978">1978</date>)</imprint></bibref></p>
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="researcher" normal="Stewart, Margaret">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020703">03 July
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

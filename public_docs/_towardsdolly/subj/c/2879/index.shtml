@@ -1,0 +1,16 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Church and the World</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/c/">c</a><h1>Church and the World</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=2879&term=Church and the World" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-4-1-26&view=basic">The World Mission of the Church </a> (1907-1960) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-4-1-25&view=basic">What is the Church? </a> (1938) Papers of Professor John Baillie, and Baillie Family Papers</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

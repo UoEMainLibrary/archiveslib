@@ -1,0 +1,35 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Wells</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/w/">w</a><h1>Wells</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2153&term=Wells" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16-I-49-50&view=basic">Letter from Thomas Reid to Joseph Black </a> (1773) Papers of Joseph Black and family</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-9-1&view=basic">Notes for lectures on 'Geographical Evolution' </a> (1860-1899) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-54&view=basic">Archaeological notes on Crois-Ch-Chille [Crois Chaluim Chille] and Tobar C-Chille [Tobar Chaluim Chille] </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-74&view=basic">Notes and story about Naomh Moire [Maol-ruibhe], Naomh Brian[ain] and associated archaeological sites </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-97&view=basic">Possibly historical notes [writing smudged and illegible] </a> (1867-1877) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f&view=basic">Field notebook belonging to Alexander Carmichael </a> (1867-1893) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-33&view=basic">Story entitled 'An t-Each Ursunn' and accompanying song </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-11&view=basic">Notes on Cnoc an Teampuil, Tobar Chriosd and Tobar Uc Roige. </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-13&view=basic">Notes on Tobar Bhi'it [Bridgit], Tobar Eachinn and Tota Chrissein </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-14&view=basic">List of names of wells and chapel on Barra </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-32&view=basic">Note on wells in graveyards on North Uist </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW106-25&view=basic">Custom and archaeological finds relating to Eala </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW106-8&view=basic">Note about Cilleandraist </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW106-35&view=basic">Notes about Lismore church </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-98&view=basic">Note about the well at Udal </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-4&view=basic">Notes relating to Taransay </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW106&view=basic">Field notebook belonging to Alexander Carmichael </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-63&view=basic">Archaeological note about a skeleton and Tobar Che </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW106-10&view=basic">Note about the location of the well Tobar tai dhearc [Tobar Taigh Dhearg] </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-71&view=basic">Archaeological notes on Bogha na Cille, Tobar Rua and Carragh, Borve and accompanying sketch and story </a> (1870) The Carmichael Watson Collection</li>
+</ul>
+<a href="21.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

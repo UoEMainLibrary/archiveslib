@@ -1,0 +1,36 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Plants</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/p/">p</a><h1>Plants</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=140&term=Plants" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="61">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-62&view=basic">References for books on natural history </a> (1886) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-202&view=basic">Vocabulary note for plants </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-203&view=basic">Note about boiling burdock and horns for treating consumption </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-133&view=basic">Vocabulary note for tadpole, dragonfly and some plants </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-216&view=basic">Note about the plant 'Barra-bhrisgean' [silverweed] </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89&view=basic">Field notebook belonging to Alexander Carmichael </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-181&view=basic">Vocabulary note which reads 'Iain Giurain = Puffin grows on logs' </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-320&view=basic">Note entitled 'Native Dyes' </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-75&view=basic">Vocabulary list containing six words </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-8&view=basic">Note about the symbolism of the trinity in the trefoil flower </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-9&view=basic">Charm beginning 'Ach[lasan] Chal[uim] chille' [St John's Wort] </a> (1890) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-3&view=basic">Notes about the plants lus-mor [spearwort] and lus an acrais [hunger plant] </a> (1890) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW108-89&view=basic">Note on plants </a> (1891) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-76&view=basic">Note about the pool Loch-li in Barraigh/Isle of Barra </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-21&view=basic">Vocabulary note which reads 'Brocan = bogha-muc = B. hyacthin' </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-187&view=basic">Note entitled 'The blessed bramble' </a> (1894) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-43&view=basic">Note entitled 'Lus an acrais' </a> (1894) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-157&view=basic">Vocabulary note which reads 'Stonal = Danger Mislein Sea Grass' </a> (1894) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-15&view=basic">Vocabulary note for 'Bun-dearg' and 'Bun-dubh' and accompanying placename note for 'Beinn Chinndearg' </a> (1903) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-43&view=basic">Proverb which reads 'S fhearr [dealbhadh] an [fhraoch] Na gearoch an [rothaide]' </a> (1904) The Carmichael Watson Collection</li>
+</ul>
+<a href="41.shtml">Previous</a>
+<a href="81.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

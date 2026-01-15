@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4073</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-11-16">30 November 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>15 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Birth 1830 058/0020 0176 Applecross</span>
+                        <span localType="ead-repository">Old Parish Register and General Register
+                            Office for Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 058/00 011/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 062/00 002/00 029</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 058/02 002/02 015</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 058/02 002/02 014</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 058/02 003/02 016</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1901 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1901 058/02 004/02 014</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1915 058/02 0005</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW117/33</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4073</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacKay</part>
+                <part localType="given">Barbara</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Cottar, Badan Mhugaidh, Ross and Cromarty</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1830-04-01">1 April
+                        1830</fromDate><toDate standardDate="1915-04-18">18 April
+                    1915</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Barbara MacKay was born in Badan Mhugaidh, Applecross to Murdo MacKay, fisherman,
+                    and Mary MacKay née MacDonald. Census records from 1861 and 1871 show her living
+                    as head of a small household with her nephew John MacLennan and in 1871 her son
+                    John Cameron (12) is recorded. For most of the period covered in the returns she
+                    worked as a housekeeper. In the 1901 census her younger sister Eliza is living
+                    with her as well as her nephew John. </p>
+                <p>Barbara died in April 1915 of senile marasmus and her sister Eliza MacKay signed
+                    the certificate. </p>
+                <p>Carmichael collected a charm from Barbara in 1909.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1830-04-01">1 April 1830</date>
+                        <placeEntry>Applecross</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1909-09">September 1909</date>
+                        <placeEntry>Badan Mhugaidh, Ross and Cromarty</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem><date standardDate="0905-04-18">18 April 1915</date><placeEntry>Badan
+                            Mhugaidh</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

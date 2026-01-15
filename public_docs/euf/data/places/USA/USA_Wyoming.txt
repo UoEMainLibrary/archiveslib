@@ -1,0 +1,25 @@
+<!-- @version $Id: USA_Wyoming.txt,v 1.2 2005/03/30 23:44:42 yalnifj Exp $ -->
+<!-- @see http://countyhunter.com/counties.htm -->
+Albany
+Big Horn
+Campbell
+Carbon
+Converse
+Crook
+Fremont
+Goshen
+Hot Springs
+Johnson
+Laramie
+Lincoln
+Natrona
+Niobrara
+Park
+Platte
+Sheridan
+Sublette
+Sweetwater
+Teton
+Uinta
+Washakie
+Weston

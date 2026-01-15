@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1083">GB
+		237 Coll-1083</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Correspondence and Memorabilia relating to Edinburgh
+			 University Rectorial Elections</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20060220" certainty="certain">20 February
+			 2006</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage> 
+		<descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint> 
+			 <date type="publication" certainty="certain"
+			  normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname> 
+			 <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint> 
+			 <date type="publication" normal="1997"
+			  certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1083"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1083</unitid> 
+		<physloc label="Shelfmark" encodinganalog="shelfmark">E2006.03;
+		  E2007.20</physloc> 
+		<unittitle encodinganalog="isadg(2)312">Correspondence and Memorabilia
+		  relating to Edinburgh University Rectorial Elections</unittitle> 
+		<unitdate normal="2003/2006"
+		 encodinganalog="isadg(2)313">2003-2006</unitdate> 
+		<repository label="Repository" encodinganalog="NAHSTE31">Edinburgh
+		  University Library, Special Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">2 folders </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Wintersgill, Donald</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>In a letter published in the 2002/2003 Winter edition of 
+		<title>EDiT</title>, the public relations magazine of Edinburgh
+		University, Donald Wintersgill sought reminiscences of Edinburgh Rectorial
+		campaigns. The memorabilia and reminiscences gathered from the appeal were
+		brought together in a work entitled 
+		<title>The Rectors of the University of Edinburgh 1859-2000</title>
+		published by the Dunedin Academic Press in 2005.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>In one folder of the collection (E2006.03) there are letters
+		  mentioning events and reminiscences concerning Rectorial elections, candidate
+		  nominations, and pre-election speeches. There is memorabilia in the form of
+		  pamphlets and promotional leaflets feature the following candidates: Harold
+		  Macmillan; Alistair Sim; Sir Alexander Fleming; Aga Khan; Sir Andrew Murray;
+		  Jimmy Logan; John Cameron; Stephen Potter, Douglas Young, and Sir Robert
+		  Watson-Watt. There is also a copy of Edinburgh University 
+		<title>Student's handbook 1943 and 1944</title>, a photograph of Kenneth
+		Alsopp with supporters, cutting relating to Patrick Reyntiens, cutting relating
+		to memories of student days 1937-1942, and photo-copy of newpaper photograph of
+		Evelyn Waugh supporters.</p> 
+		<p>The other folder (E2007.20) contains: a couple of letters thanking the
+		  receipt of copies of the entitled 
+		<title>The Rectors of the University of Edinburgh 1859-2000</title>;
+		printed letter informing of the protocol for the Investiture and Address of the
+		Rector (Jo Gromond), Friday 24 February (no date); printed order of proceedings
+		for the Investiture of the Rector (Malcolm Muggeridge), Thursday 16 February
+		1967; printed copy of the Rectorial Address given by Dr. James Robertson
+		Justice, Thursday 20 February 1958; a photograph of Kenneth Alsopp with
+		supporters; three photographs taken on the day of the installation of Dr. James
+		Robertson Justice in 1958, with one showing the Duke of Edinburgh outside the
+		McEwan Hall, Justice held aloft on his chair adjacent to the Reid Music Hall,
+		and Justice signing autograph books; and, an invitation for a student to attend
+		the ceremony of Installation of the Rector at University of St. Andrews,
+		Younger Graduation Hall, Friday 20 April 1956.</p>
+	 </scopecontent> 
+	 <!--Delete any tags not required-->
+	 <descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Accession No: E2006.03. Material acquired from Donald
+			 Wintersgill.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Some material closed, otherwise open to bona fide researchers, but
+			 please contact repository for details in advance..</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared for this collection.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administative history was compiled using material
+			 contained in the collection.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Students</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph
+			 altrender="surname">Wintersgill</emph><emph altrender="title"></emph><emph
+			 altrender="forename">Donald</emph><emph altrender="dates">fl. 1975-2006
+			 </emph><emph altrender="epithet"></emph><emph
+			 altrender="other"></emph></persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses &amp; Organisations</head>		  <!-- NCA Rules -->
+		  <corpname rules="ncarules"><emph altrender="a">University of
+			 Edinburgh</emph></corpname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

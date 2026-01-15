@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead2002.dtd">
+<ead> 
+  <eadheader audience="internal" findaidstatus="edited-full-draft"> 
+	 <eadid countrycode="GB" mainagencycode="0237">"-//Edinburgh University
+		Library Department of Special Collections :: Finding Aids//DOCUMENT GB-0237-<?xm-replace_text {rest of reference code, use hyphens between each portion}?>
+<?xm-replace_text {date of creation of finding aid in NORMAL form}?>//EN"</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 <?xm-replace_text {3.1.1; reference code}?></titleproper>
+		  
+		  <subtitle>Records of / Papers of <?xm-replace_text {3.1.2; title}?>
+			 held at Edinburgh University Special Collections Division</subtitle> 
+		  <author>Compiled for the <?xm-replace_text {Delete grey text and insert PROJECT NAME}?>
+			 Project by <?xm-replace_text {name of describer}?>, Edinburgh
+			 University Library Department of Special Collections, <?xm-replace_text {insert completion date of whole collection DD Month YYYY}?>
+		  </author> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library Special
+			 Collections Division</publisher> 
+		  <address> 
+			 <addressline>University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address><date type="single" normal="REPLACE" certainty="certain"><?xm-replace_text {insert completion date of whole collection DD Month YYYY}?></date>
+		  
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated using the XMetal template prepared, as part of
+		  the Percy Johnson-Marshall and Baillie Papers Projects by Sarah Higgins,
+		  Edinburgh University Library Special Collections Division, 2003, adapting work
+		  for the NAHSTE project undertaken in 2001.<lb/>The correspondences between the
+		  ISAD(G) elements and the EAD element types were adapted by Sarah Higgins from
+		  those recommended in the 
+		  <bibref><title>Encoded Archival Description Tag Library</title>, 
+			 <edition>Version 2002</edition>, <imprint><date type="publication"
+			 normal="1999" certainty="certain">2002</date></imprint></bibref></creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change><date type="REPLACE" normal="REPLACE" certainty="REPLACE"><?xm-replace_text {date of description revision}?></date>
+		  
+		  <item><?xm-replace_text {details of revision description}?></item><!--Repeat CHANGE as required-->
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper> GB 0237 <?xm-replace_text {3.1.1; reference code}?>
+		  Records of / Papers of <?xm-replace_text {3.1.2; title}?></titleproper>
+		
+		<author>Compiled by <?xm-replace_text {XXX}?> Edinburgh University
+		  Library Special Collections Division, <?xm-replace_text {insert completion date of whole collection DD Month YYYY}?></author>
+		
+		<publisher>Edinburgh University Library Special Collections Division
+		  </publisher> 
+		<date type="single"><?xm-replace_text {insert completion date of whole collection DD Month YYYY}?></date>
+		
+	 </titlepage> 
+  </frontmatter><!--2.1: ARCHDESC: complete LEVEL and ID-->
+  <archdesc level="fonds" id="GB-0237-EUA-UFCSTC"> 
+	 <did> 
+		<head>Collection Summary</head><repository label="Repository"
+		audience="external" encodinganalog="NAHSTE31"> 
+		  <corpname authfilenumber="GB 0237 NAHSTE C0126"
+			normal="Edinburgh University Library Special Collections Division"
+			source="ncarules">Edinburgh University Library Special Collections
+			 Division</corpname></repository> 
+		<unitid label="Reference Code" encodinganalog="isadg(2)311"
+		 countrycode="GB" repositorycode="0237" audience="external">GB 0237 EUA
+		  UFCSTC</unitid><unittitle label="Title" encodinganalog="isadg(2)312"
+		audience="external">Records of the United Free Church of Scotland Training
+		  College, Edinburgh </unittitle><unitdate label="Dates of creation of material "
+		encodinganalog="isadg(2)313" audience="external" type="inclusive"
+		normal="1847/1968" certainty="certain">1847-1968 [after 1907 mostly Moray House
+		  Club records]</unitdate> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1.5 metres</extent> </physdesc> 
+		<origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+		 audience="external"> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 EUA C2839"
+			normal="United Free Church			 of Scotland Training College, Edinburgh"
+			role="creator">United Free Church of Scotland Training College | Edinburgh
+			 (Scotland)</corpname></origination><langmaterial encodinganalog="isadg(2)343"
+		label="Language/scripts of material" audience="external"><language
+		  langcode="ENG">English</language></langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322" audience="external"> 
+		<head>Administrative History</head> 
+		<p>The creation of the United Free Church Training College followed the
+		  disruption of the Church of Scotland in 
+		  <date type="single" normal="1843" certainty="certain"
+			audience="external">1843</date> , when the United Free Church of Scotland
+		  established its own teacher training college. The College officially welcomed
+		  students after considerable alterations, in 
+		  <date type="single" normal="1848" certainty="certain"
+			audience="external">1848</date> . In 
+		  <date type="single" normal="1907" certainty="certain"
+			audience="external">1907</date> it merged with the Church of Scotland College
+		  to become the Edinburgh Provincial Training Centre.</p> 
+		<p>All classes and teaching practice took place at Moray House,
+		  Edinburgh. This accommodation continued to be used after the merger in 
+		  <date type="single" normal="1907" certainty="certain"
+			audience="external">1907</date> .</p> 
+		<p>Subjects that the trainee teachers had to be proficient in included
+		  Religious Knowledge, English, Geography, History, Penmanship, Arithmetic,
+		  French, Vocal Music, Drawing, Algebra, Geometry, Latin, Domestic Economy, Greek
+		  Trigonometry, and School Management. Trainee Teachers were not only assessed by
+		  examination in subjects set, but also at their skill in teaching and in their
+		  general conduct.</p> 
+		<p>The former student society 'The Moray House Club' continued long after
+		  the college changed its name, status and structure.</p> 
+	 </bioghist> 
+	 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p> 
+		  <list> 
+			 <item>Student records: certificate registers 1873-1907, progress and
+				character of students catalogue 1849-1856</item> 
+			 <item>Moray House Club records: minutes 1877-1968, accounts
+				1907-1968, annual reports 1881-1948</item> 
+		  </list></p> 
+	 </scopecontent> 
+	 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses and Organisations</head> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 EUA C2839"
+			normal="United Free Church			 of Scotland Training College, Edinburgh">United
+			 Free Church of Scotland Training College | Edinburgh (Scotland)</corpname> 
+		</controlaccess> 
+	 </controlaccess><descgrp> 
+		<head>Administrative Information</head> 
+		<custodhist encodinganalog="isadg(2)323" audience="external"> 
+		  <head>Archival History</head> 
+		  <p><?xm-replace_text {2.6.1: archival history}?> Unknown</p> 
+		</custodhist> 
+		<acqinfo encodinganalog="isadg(2)324" audience="external"> 
+		  <head>Immediate Source of Acquisition or Transfer</head> 
+		  <p><?xm-replace_text {2.6.2: source of acquisition}?> Unknown</p> 
+		</acqinfo> 
+		<relatedmaterial encodinganalog="isadg(2)353" audience="external"> 
+		  <head>Related units of description</head> 
+		  <p> United Free Church of Scotland Training College Normal School and
+			 Moray House College Demonstration School Archive Collection (ref: GB 0237 EUA
+			 DEM)</p> 
+		  <p>Edinburgh Provincial Training Centre (ref: GB 0237 EUA EPTC)</p> 
+		</relatedmaterial> 
+		<bibliography encodinganalog="isadg(2)354" audience="external"> 
+		  <head>Publication note</head> 
+		  <p> 
+			 <bibref> 
+				<persname role="editor"> Kirk, G. (ed.).</persname> 
+				<title>Moray House and Professional Education, 1835-1985</title>.
+				<imprint> 
+				<geogname normal="Edinburgh, Scotland">Edinburgh</geogname>: 
+				<publisher>Scottish Academic Press</publisher>, 
+				<date type="publication" normal="1985"
+				 certainty="certain">1985</date>.</imprint></bibref></p> 
+		</bibliography> 
+		<processinfo audience="internal"> 
+		  <processinfo encodinganalog="isadg(2)373" audience="internal"> 
+			 <head>Date(s) of Description</head> 
+		  <!--2.6.16.1: PERSNAME: complete NORMAL--><!--2.6.16.2: DATE: complete NORMAL-->
+			 <p> 
+				<persname source="ncarules" role="archivist" normal="REPLACE">Grant
+				  Buttars</persname><date type="descriptiondate" normal="20041118"
+				certainty="certain">18 November 2004</date></p> 
+		  </processinfo> 
+		</processinfo></descgrp> 
+	 <dsc> 
+	 </dsc> 
+  </archdesc>
+</ead>

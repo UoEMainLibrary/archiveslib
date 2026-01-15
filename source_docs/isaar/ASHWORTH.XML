@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1287 20020509 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1287</titleproper> 
+		  <subtitle>Ashworth | James | 1874-1936 | professor of zoology and later
+			 of natural history, University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+			 University Library Special Collections Division, 09 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020509">09 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1287</titleproper> 
+		<subtitle>Ashworth | James | 1874-1936 | professor of zoology and later
+		  of natural history, University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 09 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020509">09 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1287"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1287</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1287" normal="Ashworth, James">Ashworth | James
+		  | 1874-1936 | professor of zoology and later of natural history, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>James Ashworth (<date type="life-span"
+			 normal="1874/1936">1874-1936</date>) was Professor of Zoology and later of
+			 Natural History at the University of Edinburgh. He was educated at Carlton Road
+			 School, then at the University of London. Initially, he intended to study
+			 chemistry, but was converted to biology by a charismatic lecturer. In 
+			 <date type="appointmentdate" normal="1919">1919</date>, after many
+			 years as a lecturer in invertebrate zoology, Ashworth was appointed to the
+			 newly created chair of zoology at the University of Edinburgh, where he worked
+			 in tandem with James Cossar Ewart (<date type="life-span"
+			 normal="1851/1933">1851-1933</date>). Ashworth continued to concentrate on
+			 invertebrates, while his erstwhile superior Ewart concentrated on vertebrates.
+			 When Ewart left the chair of natural history, Ashworth was appointed in his
+			 place, and the zoology chair was left unoccupied until the 
+			 <date type="single" normal="1960/1969">1960s</date>. Ashworth was the
+			 first academic in Great Britain to give a course in medical zoology.</p> 
+		  <p>His scientific research centred largely, though not exclusively, on
+			 polychaete worms, in particular their giant cells and nerve fibres. One of his
+			 important discoveries came by chance. A student of the University was suffering
+			 from a polypus in his nose, found to be due to rhinosporidium. Ashworth, when
+			 studying the sample taken, discovered that rhinosporidium was not a protozoon,
+			 as he had believed, but a simple fungus. Other areas of study included
+			 mosquitoes (the prevalence of their various species in Scotland) and
+			 arenicolidae (with FW Gamble).</p> 
+		  <p>At the University of Edinburgh, however, he is not remembered for
+			 his scientific work as much as for the way he transformed his department. It
+			 was he who masterminded the removal of the department of zoology to its present
+			 site, in spacious new housing he had raised the funds to have built.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Worked with FW Gamble on arenicolidae. Colleague of James Cossar
+			 Ewart (<date type="life-span" normal="1851/1933">1851-1933</date>).</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>None</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1895">1895</date>: Awarded Batchelor of
+			 Science (BSc) degree, University of London</p> 
+		  <p><date type="single" normal="1899">1899</date>: Awarded Doctor of
+			 Science (DSc) degree, University of London</p> 
+		  <p><date type="appointmentdate" normal="1901">1901</date>: Appointed
+			 Lecturer in Invertebrate Zoology, University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1911">1911</date>: Elected
+			 Fellow of the Royal Society of Edinburgh (FRSE)</p> 
+		  <p><date type="single" normal="1916">1916</date>: Awarded Keith Medal
+			 of the Royal Society of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1917">1917</date>: Elected
+			 Fellow of the Royal Society (FRS)</p> 
+		  <p><date type="appointmentspan" normal="1918/1921">1918-1921</date>:
+			 Elected President of the Royal Physical Society</p> 
+		  <p><date type="chairdate" normal="1919">1919</date>: Appointed
+			 Professor of Zoology, University of Edinburgh</p> 
+		  <p><date type="chairdate" normal="1927">1927</date>: Appointed
+			 Professor of Natural History, University of Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><corpname normal="University of Edinburgh"
+			 role="editor">University of Edinburgh</corpname>, <title>Edinburgh University
+			 Journal, vol 8</title>, (<imprint><geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Oliver and Boyd</publisher>, 
+			 <date type="publication" normal="1937"
+			  certainty="certain">1937</date>)</imprint></bibref> </p> 
+		  <p><bibref><corpname normal="Royal Society of Edinburgh"
+			 role="editor">Royal Society of Edinburgh</corpname>, <title>Proceedings of the
+			 Royal Society of Edinburgh, vol LVI</title>, (<imprint><geogname source="lcsh"
+			 authfilenumber="517" normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Neill and Company</publisher>, 
+			 <date type="publication" normal="1937"
+			  certainty="certain">1937</date>)</imprint></bibref></p> 
+		  <p><bibref><corpname normal="Royal Society" role="editor">Royal
+			 Society</corpname>, <title>Obituary Notices of Fellows of the Royal Society,
+			 vol II</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Harrison and Sons</publisher>, 
+			 <date type="publication" normal="1938"
+			  certainty="certain">1938</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020509">09 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

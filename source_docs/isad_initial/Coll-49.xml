@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-49"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-49</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of Fred Urquhart </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-49</unitid>
+		
+		<physloc>MSS 2803-2839 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Fred Urquhart </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1930-1994">1930-1994 </unitdate> 
+		<origination encodinganalog="isad(g) 3.2.1./marc 700">Frederick Burrows
+		  Urquhart </origination> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>37 boxes (5
+		  m). </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>The writer Frederick Burrows Urquhart was born on 12 July 1912 in
+		  Edinburgh. Although he wrote a number of novels, Fred Urquhart's strength was
+		  the short story in which his characters did the talking. He had an ear for all
+		  forms of accent and dialect and took ungrammatical yet creative liberties with
+		  the language. Although he spent many years in southern England after the war,
+		  his creative impulses were rooted in Lowland Scotland: on the Firth of Forth
+		  and Clydeside; in coastal Wigtownshire where he was at school for a while; and
+		  on Tayside, where he also spent some of his childhood . His stories generally
+		  dealt with the lives of ordinary people, and the cruelty and violence of such
+		  lives was a constant theme. He was particularly sensitive to the violence dealt
+		  out to women, and his homosexuality probably enabled him to portray the female
+		  psyche with insight and tenderness. The ugliness of war (he was a pacifist) was
+		  an extension of these concerns. The son of a chauffeur, Urquhart was educated
+		  at Stranraer High School and Broughton Secondary School. On leaving school at
+		  the age of fifteen he worked for some years in a bookshop in Edinburgh. At the
+		  same time he began to write, and from the early 1930s onwards had stories
+		  published in periodicals as well as broadcast on the radio. He left the
+		  bookshop in 1935 to concentrate on writing. His first published novel was 
+		<title>Time Will Knit </title> (1938), the story of working-class
+		Edinburgh life. When war came in 1939 Urquhart, as a declared conscientious
+		objector, was sent to work on the land. It was at this point that his first
+		collection of short stories appeared, 
+		<title>I fell for a Sailor </title> (1940). In 1944 Urquhart was working
+		in England at Woburn Abbey, the estate of the Duke of Bedford, which made a
+		good base for contacting artistic and literary circles in London. He soon met
+		the Scottish painters Robert Colquhoun and Robert MacBryde who had moved to
+		London from Glasgow themselves only a year or two before, and he also got to
+		know George Orwell and Rhys Davies. In these early post-war years came his
+		second collection of stories, 
+		<title>The Clouds are Big with Mercy </title> (1946). From 1947 Urquhart
+		worked as a reader for a London literary agency and from 1951-54 was a
+		script-reader for Metro-Goldwyn-Mayer. Further volumes of short stories
+		appeared, among them 
+		<title>The Last GI Bride Wore Tartan </title> (1947) and 
+		<title>The Year of the Short Corn and Other Stories </title> (1949). Two
+		more novels appeared , 
+		<title>The Ferret was Abraham's Daughter </title> (1949) and 
+		<title>Jezebel's Dust </title>(1951). With a decline in interest for the
+		serious short story, Urquhart took on a number of editing tasks, and was also a
+		reader for Cassell &amp;amp; Co. Ltd., 1951-74, the London scout for Walt
+		Disney Productions, 1959-60, and a reader for J.M. Dent &amp;amp; Sons Ltd.,
+		1967-71. He kept on writing too, and there was a final novel, 
+		<title>Palace of Green Days </title> (1979), which drew upon childhood
+		memories of Perthshire, where his father was chauffeur to the Earl of
+		Breadalbane at Taymouth Castle. There appeared further collections of short
+		stories, notably 
+		<title>A Diver in China Seas </title> (1980), which was impressive for
+		its insight into its women characters. With his companion, the dancer Peter
+		Wyndham Allen, Urquhart had moved into a house in Ashdown Forest in East Sussex
+		in 1958, but when Wyndham Allen died in 1990 Urquhart moved back to Scotland
+		and settled in Musselburgh. He died in Edinburgh on 2 December 1995. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of Fred Urquhart contain drawings, diplomas, essays,
+		  stories, poems and early manuscripts; and, various notes, and typescripts.
+		  There are reports and correspondence from periods with Cassell, and J.M. Dent,
+		  and relating to work with other publishers and MGM and Walt Disney. The
+		  collection includes diaries and notebooks on H.E. Bates from the 1930s; and,
+		  address books and diaries covering several decades. There is correspondence
+		  with his parents between 1936-1965, and a great deal of letter and postcard
+		  communication up to 1994. Some material (for example correspondence with Herta
+		  Ryder) is restricted until 2005. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Urquhart</emph> <emph altrender="forename">Frederick
+		  Burrows</emph> <emph altrender="dates">1912-1995</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> <emph altrender="y">20th century</emph>
+		  </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Scottish literature</emph> <emph altrender="y">20th
+		  century</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Gays' writings</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H49 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

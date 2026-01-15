@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4398</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-01-28">28 January 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Stephen Hall</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>23 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 118/00 014/00 013</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 118/00 008/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 108/00 001/00 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 108/00 001/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 108/00 001/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1887 108/00 0006</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB237/Coll-97/CW107/68</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4398</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacLellan</part>
+                <part localType="given">Roderick</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Farmer, Receiver of wrecks, Isle of Barra</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1830" notAfter="1835" notBefore="1825">c1830</fromDate>
+                    <toDate standardDate="1887-03-13">13 March 1887</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Roderick MacLellan was born to Murdoch MacLellan and Marion née MacNeil. Sometime
+                    before the 1841 Census, Murdoch MacLellan had moved his family to Milton, near
+                    Kildonan, on South Uist. Roderick was the fifth of eight children, three
+                    brothers and four sisters, the ages of which in 1841 were Christina (20), Jessie
+                    (18), Mary (15), Donald (17), Roderick (12), Johana [Johannah] (8), Donald John
+                    (6) and William Euan (4). </p>
+                <p>By the time of the 1851 Census, Murdoch was running a large grazing farm of 3000
+                    acres, and was employing 23 labourers, of which only 8 are noted in the Census,
+                    plus several servants. His wife Marion is not recorded, and had presumably died;
+                    and the children, Jessie, Mary, and Donald are also not recorded. Another son,
+                    John Norman aged 9, was recorded giving a total number of six family members
+                    residing with Murdoch. The three younger sons were at school, ages 18, 14 and 9.
+                    The youngest servant was 14 and the oldest labourer was 27. Two visitors are
+                    recorded at the time, both at school, and possibly friends of one of the
+                    children. </p>
+                <p>By the time of the 1861 Census, Murdoch had moved his family to Bàgh Thiarabhagh
+                    Farm, which covered over 600 acres, in which he employed three labourers.
+                    Roderick, by this time was the sole remaining family member in the house. This
+                    farmhouse is recorded as having four windowed rooms. Sometime in 1869,
+                    Carmichael met Roderick who narrated a story entitled 'Princes Charlies Pipe'
+                    about a set of bagpipes which were believed to have been made for Prince Charles
+                    Edward Stuart [Bonnie Prince Charlie]. The pipes were in the possession of
+                    Roderick MacLellan when he recited the story.</p>
+                <p>By 1871, Roderick was now the head of the farm, but had been married, as a
+                    daughter, Mary Catherine, was living with him, aged 8. It is recorded that she
+                    was born in South Uist. He and his daughter ran the farm with the help of a farm
+                    labourer and two domestic servants. Recorded were also two boarders from Petty.
+                    By the Census of 1881, Roderick and his daughter were still running the farm,
+                    though it appears that the steading had been developed, as the numbers of rooms
+                    with windows had increased from four to eight. </p>
+                <p>Roderick died in March 1887 at Castlebay from unknown causes.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1830" localType="" notAfter="1835" notBefore="1825"
+                            >c1830</date>
+                        <placeEntry>Harris</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1869">1869</date><placeEntry>Bàgh Thiarabhagh,
+                            Isle of Barra, Inverness-shire</placeEntry><event>visited by Alexander
+                            Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1887-03-13">13 March
+                            1887</date><placeEntry>Castlebay,
+                        Barra</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

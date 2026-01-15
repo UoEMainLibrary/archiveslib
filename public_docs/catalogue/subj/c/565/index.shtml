@@ -1,0 +1,19 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Corals</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/c/">c</a><h1>Corals</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=565&term=Corals" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16-I-64-69&view=basic">Letter from AJ Alexander to Joseph Black </a> (1773) Papers of Joseph Black and family</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-2-2&view=basic">Account of the 'Liasic district of Skye' </a> (1853) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-5-2&view=basic">Drawings for Cuts </a> (1860-1899) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-9-1&view=basic">Notes for lectures on 'Geographical Evolution' </a> (1860-1899) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-12-11&view=basic">Correspondence: Albert Auguste De Lapparent to Charles Lapworth </a> (1873-1911) Papers and Correspondence of Sir Archibald Geikie</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

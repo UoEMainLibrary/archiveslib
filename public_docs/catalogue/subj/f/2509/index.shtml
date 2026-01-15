@@ -1,0 +1,25 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Finance</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/f/">f</a><h1>Finance</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2509&term=Finance" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-6&view=basic">Correspondence </a> (1965-1986) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-6-1&view=basic">Departmental Correspondence </a> (1965-1986) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-13&view=basic">Departmental (general) </a> (1966-1990) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-1-10-8&view=basic">University Business (General) </a> (1967-1992) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-6-2&view=basic">Expensive Equipment Correspondence </a> (1971-1973) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-28&view=basic">Students Representative Council </a> (1971-1975) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-25&view=basic">Financial Crisis </a> (1973-1979) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-6-4&view=basic">Equipment Correspondence </a> (1974-1982) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-11&view=basic">Select Committee on Science &amp; Technology </a> (1975-1979) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-12&view=basic">Society for Experimental Biology </a> (1983-1993) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C1-4&view=basic">Division of Biological Sciences Working and Advisory Group </a> (1993) Records of the University of Edinburgh</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-1036"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237 Coll-1036
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers and
+			 Correspondence of Marjory Kennedy-Fraser (1857-1930) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-1036
+		  </unitid> 
+		<physloc>Gen. 273-286; Gen. 519-520 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers and Correspondence of Marjory
+		  Kennedy-Fraser (1857-1930) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1879/1930">1879-1930 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>14 boxes, 1
+		  manuscript book, 2 envelopes (1 linear metre) </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Marjory Kennedy-Fraser, singer, pianist, folk-song collector and
+		  arranger, was born in 1857. She was the daughter of singer David Kennedy
+		  (1825-1886). Her series of works 
+		<title>The songs of the Hebrides </title> published variously between
+		1909 and 1922 remain a useful resource for both Gaelic and English speakers.
+		She collected songs chiefly in the Western Isles. Aware that the material
+		collected would, in the concert performance, lose something of the original
+		essence, she provided the songs with sensitive accompaniment. For service
+		rendered to the cause of music in Scotland, an honorary degree of Doctor of
+		Music was conferred on her in 1928. Marjory Kennedy-Fraser had also been
+		awarded the C.B.E. She died on 22 November 1930. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The content of the Papers at shelfmark Gen. 273-286 include a
+		  manuscript volume of Gaelic songs, manuscripts and proofs of 
+		<title>The songs of the Hebrides </title>, papers relating to 
+		<title>The seal woman </title>, proofs of 
+		<title>Life of song </title>, and newspaper cuttings. Correspondence at
+		shelfmark Gen. 519-520 includes letters from various members of the Kennedy
+		family in Italy to the family at home, 1879-1880, letters to Marjory
+		Kennedy-Fraser, and lectures and miscellaneous papers. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Kennedy-Fraser</emph> <emph
+		  altrender="forename">Marjory</emph> <emph altrender="dates">1857-1930</emph>
+		  </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Kennedy</emph> <emph altrender="forename">David</emph>
+		  <emph altrender="dates">1825-1886</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Folk music</emph> <emph altrender="z">Scotland</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Singers</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows references to other miscellaneous
+		  letters of Marjory Kennedy-Fraser, some songs, miscellaneous printed and
+		  manuscript musical items and musical fragments, and a paper on the esoteric
+		  tradition in Hebridean lore. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

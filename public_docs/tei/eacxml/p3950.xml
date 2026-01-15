@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control>
+        <recordId>GB-237-eac-p3950</recordId>
+        <maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency>
+        <languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration>
+        <conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-03-16">11 May 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2010-07-27">27 July 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>16 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 525/00 007/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 525/00 010/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 525/02 001/02 015</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 525/02 001/02 011</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 525/02 001/02 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Marriage certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1823 525/0020 0218</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1886 525/02 0008</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW120</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources>
+    </control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p3950</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacColl</part>
+                <part localType="given">Donald</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>[Domhnall a' Bhrocair; Am Brocair]; foxhunter, Mill of Fasnacloich, Glencreran,
+                    Appin</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1793" notAfter="1798" notBefore="1788">c1793</fromDate>
+                    <toDate standardDate="1886-06-09">9 June 1886</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Donald MacColl, foxhunter, was born in Glen Creran, Appin, the illegitimate son
+                    of Rachel Cameron and, reputedly, John MacColl, shepherd. This John was the son
+                    of Duncan MacColl, Dunnchadh Dhomhnaill mac Iain Duibh, who had fought at
+                    Culloden under James Stewart of Fasnacloich. An enemy bullet went through his
+                    thigh, while another carried off his scabbard from the hilt; he narrowly escaped
+                    with his life.</p>
+                <p>Donald MacColl married Anne or Agnes Rankin (c. 1796–1880) from Corrychurrachan
+                    in the Parish of Kilmallie, daughter of Donald Rankin, crofter, and Mary
+                    MacColl, on 29 June 1823. He told Carmichael that there were nine children from
+                    the marriage: seven daughters, three of whom had died in Glasgow, and two sons,
+                    one of whom ‘took early to sea &amp; is now on grund a chuain’, the other a
+                    ‘shep[herd] in Mull (An t Saobhai[dh])’ [CW120/68]. Census accounts, however,
+                    suggest only four girls and two boys; MacColl may possibly have been referring
+                    to the number of children brought up in his household, including granddaughters.
+                    In 1841 the family were living in Salachail towards the head of Glen Creran, but
+                    by 1851 they had moved down to Fasnacloich, where the couple were to stay until
+                    their deaths. By 1871 Donald had retired, while in the 1881 census he is
+                    recorded as ‘Pauper, was a Foxhunter’, living with his 48-year old daughter Mary
+                    and her daughter Mary Stevenson, aged 11.</p>
+                <p>A celebrated local character and one of the best sources for the oral tradition
+                    of his native district of Appin, ‘Am Brocair’ was interviewed by Alexander
+                    Carmichael during at least three long recording sessions in the autumn of 1883,
+                    on 29 August and the 27–28 September. Although it is not at all clear where
+                    these interviews begin and end, the lack of other names suggests that, with the
+                    exception of a single Fenian lay, all Appin tradition written into the first
+                    half of the notebook CW120 was taken down from Donald MacColl himself.</p>
+                <p>Even in Carmichael’s rushed notes, translated as they were jotted down, MacColl’s
+                    force of character comes through clearly: he had no hesitation in informing his
+                    interviewer that he knew he ‘was [from the] north from my Gaelic!’ [CW120/65]
+                    The repetition of certain rhymes, mainly connected with the local saint Curalan
+                    or Cyril, may be evidence of the ‘Senile Decay’ given as the cause of MacColl’s
+                    death some three years later, but is more likely to be due to Carmichael
+                    attempting to elicit further details of a subject which had obviously awakened
+                    his curiosity: maybe the saint would make a good subject for a newspaper column.
+                    The first interview between them appears to have ended with a walk up to the
+                    site of Cladh Churalain, the graveyard of St Cyril, on the slopes of Beinn
+                    Churalain, from where MacColl showed Carmichael landmarks in Benderloch opposite
+                    [CW120/97].</p>
+                <p>Donald MacColl had retired from his trade when Carmichael met him, and was full
+                    of anecdotes and experiences from a lifetime spent hunting foxes with his
+                    ‘doggies’: 53 years altogether, on average killing fifty of his quarry yearly,
+                    making a grand total of over 2,500 animals over his entire career [CW120/63].
+                    ‘He had innumerable interesting and instructive stories about foxes and other
+                    wild animals, among which he had lived most of his long life of nearly one
+                    hundred years’ [Carmina Gadelica vol. ii, 381n.5]. Like many of his kind, he was
+                    fascinated by the shrewd and devious ways of foxes: for example, if the female
+                    is killed, the male takes on responsibility for their cubs: ‘There is no other
+                    fear tai[ghe] in Britain better’ [CW120/69]. ‘Many a time the foxes took a turn
+                    out of me. But many a time I took a turn out of them in return’ [CW120/69].</p>
+                <p>MacColl gave Carmichael some variant details about the history of his own
+                    kindred, supposedly derived from a bastard son of ‘Moraire Donullach’ who fled
+                    Skye for the Island of Coll after having committed a murder [CW120/70]. As a
+                    reward for hospitality shown to the Duke of Argyll, the MacColl dùthchas of
+                    Glasdrum in Glen Creran had been given to them as gràinnseach or a granary along
+                    with Corrabheinn for mutton. The feu duty for the farm was paid to the Stewarts
+                    of Appin, with the còir or charter being ‘car[ried] on per[son] or kept in [a]
+                    cos dar[aich] [oak hollow] or under a stone. The MacColls [were] strong[er] than
+                    the S[t]ew[art]s of Ap[pin]’ [CW120/164]. Other subjects touched upon included
+                    the sixteenth-century hero Domhnall nan Òrd of Invernahyle, the quarrels between
+                    the Stewarts of Appin and the Campbells, the Forty-Five, the clearances, the
+                    last of the Stewarts of Appin, local wedding and funeral customs, and buried
+                    treasures in the neighbourhood.</p>
+                <p>The subject which clearly appealed to Carmichael the most, however, was material
+                    concerning the local saint Curulan or Cyril: MacColl retailed for him various
+                    legends of his life, together with details of his church, graveyard, and healing
+                    well. Most intriguing of all is a series of references to ‘naoimh deilbh’ or
+                    images of Curulan and his fellow saint Moluag, once kept in the church but burnt
+                    by three ‘scamps’, apparently in the late eighteenth century [CW120/75]. These
+                    scamps were in fact the sons of local gentry, and their actions are probably to
+                    be ascribed to adolescent yahooism rather than reformation iconoclasm. All three
+                    were said to have suffered agonising deaths as a result [CW120/83, CW120/88,
+                    CW120/122].</p>
+                <p>Donald MacColl told Carmichael that he had seen Sir Walter Scott (1771–1832)
+                    several times when the novelist was visiting Fasnacloich [CW120/63, CW120/67,
+                    CW120/86, CW120/153]. He had met and spoken to Donnchadh Bàn nan Òran, Duncan
+                    Bàn Macintyre (1724–1812), in Glasdrum while the poet was travelling around the
+                    Highlands with his wife Mary Macintyre (c1750–1824), better known as Màiri Bhàn
+                    Òg, collecting subscriptions for the third edition of his songs, published in
+                    1804 [CW120/176].</p>
+                <p>Although MacColl told Carmichael he had ‘no oran luai[dh] no oran bhuana’
+                    [CW120/172], he did sing him at least one song, a version of Hi hiù ro bhò chan
+                    eil mi slàn, an air better known today in the Canadian Maritimes
+                    [CW120/168].</p>
+                <p>Carmichael may have visited Donald MacColl on another occasion, as is suggested
+                    by an anecdote ascribed to him in <span localType="mods-titleinfo">Carmina
+                        Gadelica</span>, but not found in the field notebooks, concerning a
+                    discovery earlier in the century of ‘masses of wheatears’, apparently
+                    hibernating under a bank [CG ii, 251; also 345]. On the other hand, the
+                    ascription of a Sian Sionnaich or Charm against Foxes to Donald MacColl in <span
+                        localType="mods-titleinfo">Carmina</span> [CG ii, 128–9] appears to have
+                    been done as a gesture of piety towards the foxhunter’s memory. The practical
+                    MacColl would have little use for Carmichael’s rather elaborately pious
+                    incantation, which seems to have been derived in reality from an Òr an
+                    t-Sionnaich given him by Mary Stewart or Màiri Bhreac, an old dairymaid in
+                    Malacleit, North Uist, on 19 March 1877 [CW108/4]. </p>
+                <p>Donald was a widower at the time of his death in 1886 and the cause was recorded
+                    as senile decay, and his daughter Mary MacColl signed the certificate.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1793" notAfter="1798" notBefore="1788">c1793</date>
+                        <placeEntry>Glencrerran, Appin</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1883-06-29">29 June 1823</date>
+                        <event>marriage</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1883-08-29">29 August 1883</date>
+                        <placeEntry>Glen Creran, Appin</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1883-09-27">27 September 1883</date>
+                        <placeEntry>Glen Creran, Appin</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1883-09-28">28 September 1883</date>
+                        <placeEntry>Glen Creran, Appin</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1886-06-09">9 June 1886</date>
+                        <placeEntry>Glen Creran, Appin</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

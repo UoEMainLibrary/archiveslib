@@ -1,0 +1,18 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Quotations</title>
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<h2>Authority term: Quotations</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-1&view=basic">Notes and notebooks</a> (1895-1958)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-1-11&view=basic">Book of quotations</a> (1918-1928)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-1-6&view=basic">Commonplace Notes</a> (1920-1930)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-1-7&view=basic">Quotations from Jacques Chevalier and Lloyd Morgan </a> (1923-1933)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-1-3&view=basic">Commonplace Book 1</a> (1928)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-1-4&view=basic">Commonplace Book 2</a> (1934)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-1-5&view=basic">Commonplace Book 3</a> (1953-1963)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

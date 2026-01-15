@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0327 20020401 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0327</titleproper> 
+		  <subtitle>Herschel | Sir | John Frederick William | 1792-1871 |
+			 astronomer</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 01 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020401">01 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0327</titleproper> 
+		<subtitle>Herschel | Sir | John Frederick William | 1792-1871 |
+		  astronomer</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 01 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020401">01 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0327"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0327</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0327"
+		 normal="Herschel, Sir, John Frederick William">Herschel | Sir | John Frederick
+		  William | 1792-1871 | astronomer</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>John Frederick William Herschel (<date type="life-span"
+			 normal="1792/1871">1792-1871</date>) was a notable astronomer, as well as an
+			 accomplished chemist and contributor to the science of optics and photography.
+			 Born into a family of astronomers - his father was Friedrich Wilhelm (William)
+			 Herschel (<date normal="1738/1822" type="life-span">1738-1822</date>, who
+			 discovered Uranus, Herschel was educated in a number of public schools, at home
+			 by a Scottish mathematician and subsequently at St John's College, Cambridge,
+			 which he graduated from with a BA in 
+			 <date type="single" normal="1813">1813</date>. He was a founder
+			 member of the Astronomical Society (later the Royal Astronomical Society). At
+			 university, Herschel was close friends with Charles Babbage (<date
+			 normal="1791/1871" type="life-span">1791-1871</date>) and George Peacock (<date
+			 normal="1791/1858" type="life-span">1791-1858</date>).</p> 
+		  <p>Herschel was a methodical recorder of information. He created
+			 detailed records of the skies he studied and made objective comparisons of the
+			 brightness of stars. An example of this was the nova of the star Eta Carinae
+			 that he observed while in South Africa, his home for nearly five years. In his
+			 time at Cape Town, he made a large catalogue of the objects he observed, many
+			 of which he was the first to identify, thanks to his powerful telescope.</p> 
+		  <p> On his return to England, he was awarded a Baronetcy. After this
+			 period in Africa, he continued his work in astronomy and experimented with
+			 optics (his father had been a manufacturer of telescopes) and photography. His
+			 work in optics produced a detailed paper on the theory of spherical aberration
+			 in lenses, a subject he, as an astronomer, must have had extensive experience
+			 of. In the realm of photography, Herschel experimented (with only limited
+			 success) with colour reproduction. He was the first to produce a photograph on
+			 a glass plate, and coined the terms "positive" and "negative".</p> 
+		  <p>Herschel wrote many papers and articles, including those on
+			 meteorology, physical geography and the telescope from the eighth edition of
+			 the Encyclopaedia Britannica.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Son of astronomer Sir Friedrich Wilhelm (William) Herschel.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>On the Aberration of Compound Lenses and
+			 Object-Glasses </title>, (<imprint><date type="publication" normal="1821"
+			 certainty="certain">1821</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Outlines of Astronomy</title>, (<imprint><date
+			 type="publication" normal="1849"
+			 certainty="certain">1849</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Manual of Scientific Inquiry (ed.)</title>, ( 
+			 <imprint><date type="publication" normal="1849"
+			 certainty="certain">1849</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Familiar Lectures on Scientific Subjects</title>, ( 
+			 <imprint><date type="publication" normal="1867"
+			 certainty="certain">1867</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1813">1813</date>: Awarded Batchelor of
+			 Arts (BA), University of Cambridge</p> 
+		  <p><date type="single" normal="1816">1816</date>: Awarded Master of
+			 Arts (MA), Cambridge University</p> 
+		  <p><date type="single" normal="1831">1831</date>: Created Knight of the
+			 royal Hanoverian Guelphic order</p> 
+		  <p><date type="single" normal="1838">1838</date>: Awarded baronetcy</p>
+		  
+		  <p><date type="single" normal="1839">1839</date>: Awarded Doctor of Law
+			 (DCL), University of Oxford</p> 
+		  <p><date type="appointmentdate" normal="1842">1842</date>: Appointed
+			 Lord Rector, Marischal College, Aberdeen</p> 
+		  <p><date type="appointmentdate" normal="1845">1845</date>: Elected
+			 President, British Association for the Advancement of Science</p> 
+		  <p><date type="appointmentdate" normal="1850">1850</date>: Appointed
+			 Master of the Mint</p> 
+		  <p><date type="appointmentdate" normal="1855">1855</date>: Elected to
+			 the Institut Fran&#x00C3;&#x00A7;ais</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			 role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol XI</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1972"
+			  certainty="certain">1972</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 IX</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			  certainty="certain">1908</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020401">01 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,18 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Population studies</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/p/">p</a><h1>Population studies</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4879&term=Population studies" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-10-29&view=basic">File titled 'Limnea Stagnalis' </a> (1953-1972) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-10-58&view=basic">File titled 'Work and Leisure' </a> (1967-1977) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-10-26&view=basic">File titled 'Health' </a> (1970-1972) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-10-39&view=basic">File titled 'Negative Population Growth' </a> (1974) Papers of Conrad Hal Waddington</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

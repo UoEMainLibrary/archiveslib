@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0354 20020419 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0354</titleproper> 
+		  <subtitle>Harrison | John | 1693-1776 | horologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 19 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020419">19 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0354</titleproper> 
+		<subtitle>Harrison | John | 1693-1776 | horologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 19 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020419">19 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0354"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0354</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0354" normal="Harrison, John">Harrison | John |
+		  1693-1776 | horologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>John Harrison (<date type="life-span"
+			 normal="1693/1776">1693-1776</date>), winner of the Board of Longitude's prize,
+			 probably inherited his interest for horology from his father, a carpenter by
+			 trade, who occasionally repaired clocks. Harrison never had a good education,
+			 and it is said that he never learned to express himself well in writing.</p> 
+		  <p>His first clock was built in 
+			 <date type="single" normal="1713">1713</date>, and much of his early
+			 work was built in collaboration with his brother, James. Together, they
+			 revolutionised clock design by completely eliminating the need for lubrication.
+			 Until then, poor clock oil had been one of the largest causes of clock failure.
+			 John Harrison also invented the gridiron pendulum, made of alternate rods of
+			 steel and brass, whose relative dilations cancel each other out when the
+			 pendulum is heated. This meant that warm weather no longer made clocks run
+			 slow. Timepieces equipped with the gridiron pendulum were superior in accuracy
+			 to the best clocks of the day. Around the same time, he also introduced a
+			 second spring into clocks, to keep them running while they were being wound
+			 up.</p> 
+		  <p>Knowing of the Board of Longitude's series of prizes for finding
+			 methods of measuring longitude - including the top prize of
+			 &#x00C2;&#x00A3;20,000 for finding it accurate to within 30 miles, Harrison
+			 adapted his techniques to build a series of clocks which would remain accurate
+			 at sea, where waves would make traditional pendulum clocks erratic. The time
+			 shown on the clock could then be compared with the local time, which could be
+			 ascertained from astronomical observations, to find the position's longitude.
+			 His fourth clock, which finally won the prize, was a massive improvement on
+			 other clocks of the day. It was also considerably smaller than anything he had
+			 built before, looking more like a large pocket watch, 13cm in diameter and
+			 weighing 1.45kg. During a four month voyage to Jamaica in 
+			 <date type="inclusive" normal="1761/1762">1761-1762</date>, it lost
+			 only five seconds - which translates as 18 miles accuracy, well within the
+			 limit for the top Longitude prize. On a later journey, the inaccuracy was
+			 reduced further.</p> 
+		  <p>However, hostility from certain members of the Royal Society - who
+			 hoped to win the prize themselves - led to extra hurdles being placed in
+			 Harrison's path, including more, lengthier tests, demands of several more
+			 prototypes and the surrender of his creations and their designs to the
+			 government. Even after these obstructions were cleared, the Board remained
+			 reluctant, and it took the intervention of the King and Parliament for Harrison
+			 to get his prize. This only happened in 
+			 <date type="single" normal="1773">1773</date>, nearly twelve years
+			 after he had fulfilled the original conditions, and only a few years before his
+			 death.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Harrison's early work was carried out in collaboration with his
+			 younger brother, John Harrison</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>An Account of the Proceedings in Order to the
+			 Discovery of the Longitude</title> (<imprint><date type="publication"
+			 normal="1763">1763</date></imprint>)</bibref></p> 
+		  <p><bibref><title>A Narrative of the Proceedings Relative to the
+			 Discovery of Longitude at Sea</title> (<imprint><date
+			 type="publication" normal="1765">1765</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Principles of Mr. Harrison's Timekeeper, with
+			 Plates of the Same, Published by Order of the Commisionners of
+			 Longitude</title> (<imprint><date type="publication"
+			 normal="1767">1767</date></imprint>)</bibref></p> 
+		  <p><bibref><title>A Description Concerning Such Mechanism as will
+			 Afford a Nice or True Mensuration of Time, Together with some Accounts to the
+			 Discovery of the Scale of Music</title> (<imprint><date type="publication"
+			 normal="1775">1775</date></imprint>)</bibref></p> 
+		  <p>Interests and activities:</p> 
+		  <p>Harrison had an interest in music and sound. He carried out a number
+			 of experiments on this subject, and invented a new division of the musical
+			 scale.</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1749">1749</date>: Awarded Copley Medal
+			 of the Royal Society</p> 
+		  <p><date type="single" normal="1773">1773</date>: Awarded the Prize of
+			 the Board of Longitude</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref><corpname normal="Royal Observatory, Greenwich">Royal
+			 Observatory, Greenwich</corpname>, <title render="italic">John Harrison and the
+			 Longitude Problem</title>, (
+			 <extref
+			  href="http://www.rog.nmm.ac.uk/museum/harrison">http://www.rog.nmm.ac.uk/museum/harrison</extref>
+			 <imprint>, 
+			 <date type="publication" normal="1999"
+			  certainty="certain">1999</date>)</imprint></bibref></p> 
+		  <p> <bibref><corpname normal="University of St Andrews">University of
+			 St Andrews</corpname>, <title render="italic">English Attack on the Longitude
+			 Problem</title>, (
+			 <extref
+			  href="http://www-history.mcs.st-andrews.ac.uk/history/HistTopics/Longitude2.html">http://www-history.mcs.st-andrews.ac.uk/history/HistTopics/Longitude2.html</extref>
+			 <imprint>, 
+			 <date type="publication" normal="1997"
+			  certainty="uncertain">1997</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 IX</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			  certainty="certain">1908</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020419">19 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

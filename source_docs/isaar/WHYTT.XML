@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0256 20020328 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0256</titleproper> 
+		  <subtitle>Whytt | Robert | 1714-1766 | professor of theory of medicine,
+			 University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 28 March 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020328">28 March 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date.<date type="single" normal="20020328">28
+				March 2002</date></item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0256</titleproper> 
+		<subtitle>Whytt | Robert | 1714-1766 | professor of theory of medicine,
+		  University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 28 March 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020328">28 March 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0256"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0256</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0256" normal="Whytt, Robert">Whytt | Robert |
+		  1714-1766 | professor of theory of medicine, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Robert Whytt (<date type="life-span"
+			 normal="1714/1766">1714-1766</date>) was born in Edinburgh, the son of an
+			 advocate. His father died before his birth and his mother when he was just six
+			 years old. He studied in St Andrews, Edinburgh, Paris and Leyden and began to
+			 practice as a doctor in 
+			 <date type="single" normal="1738">1738</date>. </p> 
+		  <p>Whytt's important work concerned unconscious reflexes, in which he
+			 was an early believer, tubercular meningitis, and the treatment of urinary
+			 bladder stones. </p> 
+		  <p>With respect to bladder stones, the conclusion of his experiments -
+			 that limewater and soap was an effective remedy to the ailment - was ultimately
+			 false (though the treatment continued to be used until the late nineteenth
+			 century), but led indirectly to the discovery of carbon dioxide by Joseph Black
+			 in 
+			 <date type="single" normal="1754">1754</date>. </p> 
+		  <p>His studies of reflexology and tubercular meningitis were to have a
+			 greater impact on the science of medicine. Whytt was the first to ascribe a
+			 reflex - Whytt's reflex, a dilation of the pupil brought on by pressure on the
+			 optic thalamus - to a specific part of the body. He also demonstrated that the
+			 spinal cord, rather than the brain, could be the source of involuntary action.
+			 His description of "dropsy of the brain" (tubercular meningitis) was the first
+			 methodical and accurate definition of the disease, and it would have been
+			 impossible to define to a more accurate extent with the instruments available
+			 in at that time.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Robert Whytt was physician to King George III in Scotland from 
+			 <date type="appointmentdate" normal="1761">1761</date>.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable Publications:</p> 
+		  <p><bibref><title>Essay on the Vital and Other Involuntary Motions of
+			 Animals</title>, (<imprint><date type="publication" normal="1751"
+			 certainty="certain">1751</date>)</imprint></bibref></p> 
+		  <p><bibref><title>An Essay on the Virtue of Lime-Water in the Cure of
+			 the Stone</title>, (<imprint><date type="publication" normal="1752"
+			 certainty="certain">1752</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Physiological Essays</title>, (<imprint><date
+			 type="publication" normal="1755"
+			 certainty="certain">1755</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Review of the Controversy Concerning the Sensibility
+			 and Moving Power of the Parts of Men and Other Animals</title>, (<imprint><date
+			 type="publication" normal="1761"
+			 certainty="certain">1761</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Observations on the Nature, Causes and Cure of Those
+			 Disorders Which Have Been Commonly Called Nervous, Hypochondriac or
+			 Hysteric</title>, (<imprint><date type="publication" normal="1767"
+			 certainty="certain">1767</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Observations on Dropsy of the Brain</title>, ( 
+			 <imprint><date type="publication" normal="1768"
+			 certainty="certain">1768</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Works of Robert Whytt, MD</title>, ( 
+			 <imprint><date type="publication" normal="1768"
+			 certainty="certain">1768</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1730">1730</date>: Awarded Master of
+			 Arts (MA) at the University of St Andrews</p> 
+		  <p><date type="single" normal="1736">1736</date>: Awarded Doctor of
+			 Medicine (MD) at the University of Rheims</p> 
+		  <p><date type="appointmentdate" normal="1747">1747</date>: Appointed
+			 Professor of Medicine, University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1752">1752</date>: Elected
+			 Fellow of the Royal Society (FRS)</p> 
+		  <p><date type="appointmentdate" normal="1761">1761</date>: Appointed
+			 King's Physician in Scotland</p> 
+		  <p><date type="appointmentdate" normal="1763">1763</date>: Elected
+			 President of the Royal College of Physicians of Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			 role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol XIV</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1976"
+			  certainty="certain">1976</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 XXI</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1909"
+			  certainty="certain">1909</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Logan Turner, A" role="editor">Logan
+			 Turner, A</persname>, <title render="italic">History of the University of
+			 Edinburgh, 1883-1933</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Oliver and Boyd</publisher>, 
+			 <date type="publication" normal="1933"
+			  certainty="certain">1933</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020328">28 March
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

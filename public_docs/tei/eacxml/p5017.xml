@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p5017</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2012-05-17">17 May 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Kirsty M Stewart</agent>
+                <eventDescription>draft</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2012-11-16">16 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Kilmore and Kilbride</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 523/00 010/00 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1905 523/00 0050</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p5017</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacDougall</part>
+                <part localType="given">Dugald</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Farmer, Gallanachmore, Argyllshire </p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1840" notBefore="1835" notAfter="1845">c1840</fromDate>
+                    <toDate standardDate="1905-07-22">22 July 1905</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Dugald MacDougall was the son of Duncan McDougall, farmer, and Euphemia McDougal
+                    née McIntyre. According to the 1881 census he was the farmer of 400 acres at
+                    Gallanach meanach, adjacent to Gallanachmore and was living there with his
+                    brother Archibald (35), his presumably twin sisters Sarah (32) and Cathrine (32)
+                    and their general servant Christina MacInnes (50). All of the household are
+                    noted as being born in the parish of Kilbride, Argyllshire and all spoke Gaelic. </p>
+                <p>He died at Gallanachmore aged 66 years of thrombosis of the veins of the leg,
+                    marasmus, dropsy and heart failure, and his brother Archibald witnessed the
+                    certificate. </p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1840" notAfter="1845" notBefore="1835">c1840</date>
+                        <placeEntry>Kilbride, Argyllshire</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1905-07-22">22 July 1905</date>
+                        <placeEntry>Gallanachmore, Argyllshire</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

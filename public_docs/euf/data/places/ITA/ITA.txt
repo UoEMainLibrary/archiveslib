@@ -1,0 +1,22 @@
+<!-- THIS FILE MUST BE SAVED IN UTF-8 ENCODING (or some special characters will be lost) -->
+<!-- $Id: ITA.txt,v 1.2 2005/03/30 23:44:39 yalnifj Exp $ -->
+Abruzzo
+Basilicata
+Calabria
+Campania
+Emilia Romagna
+Friuli Venezia Giulia
+Lazio
+Liguria
+Lombardia
+Marche
+Molise
+Piemonte
+Puglia
+Sardegna
+Sicilia
+Toscana
+Trentino Alto Adige
+Umbria
+Valle d'Aosta
+Veneto

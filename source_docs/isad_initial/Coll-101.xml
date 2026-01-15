@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-101"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-101</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Western Medieval
+			 Manuscripts Collection </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237
+		  Coll-101</unitid> 
+		<physloc>MS 1-331 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Western Medieval Manuscripts
+		  Collection </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1401-1599">15th century-16th century </unitdate> 
+		<origination encodinganalog="isad(g) 3.2.1./marc 700">David Laing
+		  (1793-1878); William Drummond (1585-1649) </origination> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a">
+		  <extent>Miscellaneous boxes, circa 270 volumes and some in protective cases, 1
+		  tube, (19 linear metres). </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>The Clement Little Collection which formed the earliest nucleus of in
+		  1584, contained no manuscripts. The Drummond Collection presented in 1626, by
+		  William Drummond (1585-1649), included only one manuscript belonging to the
+		  medieval period. The first complete Edinburgh University Library catalogue made
+		  in 1636 mentioned the Sciennes Manuscript acquired circa 1593, and five others.
+		  During the seventeenth century, the Library frequently received gifts and
+		  legacies from University graduates, professors, officials and students, and
+		  also from Edinburgh merchants and citizens, and by 1697, the Library catalogue
+		  contained twenty-three medieval manuscripts. By 1767 there were thirty-one. The
+		  first attempt at a separate catalogue of manuscripts was a scroll list drawn up
+		  by David Laing (1793-1878), probably in 1825. This contained only thirty-six
+		  manuscripts. The bulk of the material in the modern collection of Western
+		  Medieval MSS was acquired after that date, probably through the Reid Bequest
+		  after 1846. The Library's Erfurt MSS and other German books contain descriptive
+		  notices from sale catalogues from this period. The work entitled 
+		<title>A descriptive catalogue of the Western medieval manuscripts in
+		  Edinburgh University Library </title>, by Catherine R. Borland (Edinburgh: T.
+		and A. Constable, 1916) contains a full list of donors, scribes, and owners of
+		manuscripts in the collection. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>There are about 330 medieval manuscripts, about half of them drawn
+		  from the Laing Collection. They are of diverse origin and subject matter, with
+		  some manuscripts representing the Benedictine and Carthusian monasteries at
+		  Erfurt, some material from Bury St. Edmunds, Reading and Syon and other British
+		  locations, and also from Aberdeen, Dunkeld, Elgin, Sciennes, and Inchcolm, in
+		  Scotland. Well represented are biblical, liturgical and theological texts,
+		  especially a good collection of late medieval illuminated books of hours.
+		  Within the Biblical manuscripts there are Bibles, parts of the Bible, Bible
+		  histories, Lives of our Lord and the Blessed Virgin Mary, and other saints. The
+		  Liturgical manuscripts include Antiphoner, Breviaries, Directories, Grails,
+		  Horae, Martyrology, Missals, Pontificals, Psalters etc. Theological texts
+		  include Apocryphal material, Commentaries, General, Moral, Mystical, Sermons,
+		  and Patristic material. There are Philosophy texts, Law, material on Medicine
+		  and History. The manuscripts include Classical and Medieval Literature. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) 
+		  <title>A descriptive catalogue of the Western medieval manuscripts in
+			 Edinburgh University Library </title>, Catherine R. Borland (Edinburgh: T. and
+		  A. Constable, 1916). (2) 
+		  <title>Medieval MSS in Edinburgh University Library </title>, Neil R.
+		  Ker, being pp.589-624 of 
+		  <title>Medieval manuscripts in British libraries </title>, Vol.2.
+		  (Oxford, 1977). </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Laing</emph> <emph altrender="forename">David</emph>
+		  <emph altrender="dates">1793-1878</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Drummond</emph> <emph altrender="forename">William</emph>
+		  <emph altrender="dates">1585-1649</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Classical literature</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Manuscripts, Medieval</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Literature, Medieval</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist H6 which is 
+		<title>A descriptive catalogue of the Western medieval manuscripts in
+		  Edinburgh University Library </title>, Catherine R. Borland (Edinburgh: T. and
+		A. Constable, 1916); Handlist H6.1 which is the 
+		<title>Celtic Psalter </title>, introduction by C.P. Finlayson
+		(Amsterdam: North-Holland Publishing Co., 1962); and, Handlist H7 which is 
+		<title>Medieval MSS in Edinburgh University Library </title>, Neil R.
+		Ker, being pp.589-624 of 
+		<title>Medieval manuscripts in British libraries </title>, Vol.2.
+		(Oxford, 1977). Another important finding aid is the alphabetical Index to
+		Manuscripts held at Edinburgh University Library, Special Collections and
+		Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		</p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

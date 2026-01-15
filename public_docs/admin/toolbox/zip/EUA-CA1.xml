@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ead>
+   <eadheader>
+      <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 EUA CA1">GB
+		237 EUA CA1</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>University of Edinburgh Photographic
+			 Collection</titleproper>
+         </titlestmt>
+      </filedesc>
+   </eadheader>
+   <archdesc level="fonds" id="GB-237-EUA-CA1">
+      <did>
+         <repository>Edinburgh University Library Special Collections</repository>
+         <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA CA1</unitid>
+         <unittitle encodinganalog="isadg(2)312">Edinburgh University Photographic Collection</unittitle>
+         <unitdate encodinganalog="isadg(2)313" label="Date" normal="1900/1997">1900-1997</unitdate>
+         <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+            <extent>1 metre</extent>
+         </physdesc>
+         <origination encodinganalog="isadg(2)321"> University of Edinburgh</origination>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="isadg(2)322"/>
+      <scopecontent encodinganalog="isadg(2)331">
+         <p>A collection of individual photographs, photograph albums and similar,
+		  commissioned, collected or otherwise acquired by the University of Edinburgh in
+		  the course of its business. To these have been added related photographs which
+		  have been accumulated by Edinburgh University Archives but which are not part
+		  of any other collection.</p>
+      </scopecontent>
+      <descgrp>
+         <acqinfo/>
+         <appraisal>
+            <head>
+      Appraisal</head>
+            <p>This material has been appraised.</p>
+         </appraisal>
+         <accruals>
+            <head>
+      Accruals</head>
+            <p>Accruals expected</p>
+         </accruals>
+         <userestrict>
+            <head>
+      Conditions Governing Reproduction</head>
+            <p>Any reproduction must be in accordance with the policies and
+		  procedures of Edinburgh University Library Special Collections.</p>
+         </userestrict>
+         <accessrestrict>
+            <head>
+      Conditions Governing Access</head>
+            <p>Generally unrestricted but more recent photographs of named
+		  individuals may be subject to the Data Protection Act (1998).</p>
+         </accessrestrict>
+         <altformavail/>
+         <originalsloc>
+            <head>
+      Existence/Location of Originals</head>
+            <p>This material is original.</p>
+         </originalsloc>
+         <otherfindaid/>
+         <relatedmaterial/>
+         <separatedmaterial/>
+         <odd/>
+         <bibliography/>
+         <prefercite/>
+         <processinfo/>
+      </descgrp>
+      <dsc>
+         <c id="GB-237-EUA-CA1-1" level="series">
+            <did>
+               <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA CA1/1</unitid>
+               <unittitle encodinganalog="isadg(2)312" label="Title">Drummond Young Photograph Album </unittitle>
+               <unitdate encodinganalog="isadg(2)313" label="Date" normal="1936">1936</unitdate>
+               <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+                  <extent>1
+				volume</extent>
+               </physdesc>
+				
+               <language langcode="eng">English</language>
+               <origination encodinganalog="isadg(2)321">W &amp; E Drummond Young | photographers |
+				Edinburgh</origination>
+            </did>
+            <scopecontent encodinganalog="isadg(2)331">
+               <p>A series of photographs of administrative and academic staff and
+				others, numbered as follows: 
+				<list>
+                     <item>1. Thomson, WD, Lord Provost of Edinburgh</item>
+                     <item>2. Blackburn, Lord </item>
+                     <item>3. Morgan, Alexander </item>
+                     <item>4. Walker, Sir, Norman </item>
+                     <item>5. Beare, Sir, Thomas Hudson</item>
+                     <item>6. Mackie, Thomas J </item>
+                     <item>7. Ogilvie, FW</item>
+                     <item>8. Smith, Norman Kemp </item>
+                     <item>9. Grierson, Herbert JC </item>
+                     <item>10. Richmond, Oliffe L </item>
+                     <item>11. Calder, William Moir </item>
+                     <item>12. Watson, William J </item>
+                     <item>13. Bruford, W </item>
+                     <item>14. Whittaker, Edmund T </item>
+                     <item>15. Darwin, Charles Galton </item>
+                     <item>16. Taylor, Alfred E </item>
+                     <item>17. Drever, J</item>
+                     <item>18. Williams, AF Basil</item>
+                     <item>19. Ogilvie, AG</item>
+                     <item>20. Thomson, Godfrey H</item>
+                     <item>21. Oliver, William</item>
+                     <item>22. Heatley, DP</item>
+                     <item>23. Sampson, RA</item>
+                     <item>24. Kendall, James P</item>
+                     <item>25. Jehu, Thomas J</item>
+                     <item>26. Shearer, Ernest</item>
+                     <item>27. Mackenzie, JE</item>
+                     <item>28. Paterson, WP</item>
+                     <item>29. Kennedy, Archibald RS</item>
+                     <item>30. Burleigh, John HS</item>
+                     <item>31. Wilson W</item>
+                     <item>32. Dykes, David O</item>
+                     <item>33. Wedderburn, EM</item>
+                     <item>34. Smith, Sir, W Wright</item>
+                     <item>35. Barger, George</item>
+                     <item>36. Johnstone, Robert W</item>
+                     <item>37. Fraser, John</item>
+                     <item>38. Lelean, PS</item>
+                     <item>39. Philip, Sir, Robert W</item>
+                     <item>40. Lyon, D Murray</item>
+                     <item>41. Macneil, Charles</item>
+                     <item>42. Matthew, Edwin</item>
+                     <item>43. Tovey, DF</item>
+                     <item>44. Daly, I De Burgh</item>
+                     <item>45. Harley, TF</item>
+                     <item>46. Coutts, William A</item>
+                     <item>47. Giles, AF</item>
+                     <item>48, Nicholson, Frank Carr</item>
+                     <item>48. Traquair, HM</item>
+                     <item>50. Maclean, Neil</item>
+                     <item>51. Wilson, Malcolm</item>
+                     <item>52. Horsburgh, EM</item>
+                     <item>53. Orr, John</item>
+                     <item>54. Garrett, William</item>
+                     <item>55. Miles, Alexander</item>
+                     <item>56. Henderson, DK</item>
+                     <item>57. Barkla, Charles G</item>
+                     <item>58. Mackintosh, James</item>
+                     <item>59. Bramwell, Edwin</item>
+                     <item>60. Smith, Sir, Sydney</item>
+                     <item>61. Wilkie, DPD</item>
+                     <item>62. Ashworth, James A</item>
+                     <item>63. Gilzean, Andrew A</item>
+                     <item>64. Adams, Thomas</item>
+                     <item>65. Corse, GA</item>
+                     <item>66. Childe, Vere Gordon</item>
+                     <item>67. Millar TJ</item>
+                     <item>68. Crewe, Francis AE</item>
+                     <item>69. Henderson, Robert Candlish</item>
+                     <item>70. Drennan, A Murray</item>
+                     <item>71. Annan, William</item>
+                     <item>72. Clark, AJ</item>
+                     <item>73. Clark, John B</item>
+                     <item>74. Briggs, Henry</item>
+                  </list>
+               </p>
+            </scopecontent>
+            <descgrp>
+               <processinfo/>
+            </descgrp>
+         </c>
+      </dsc>
+      <dsc>
+         <c id="GB-237-EUA-CA1-2" level="series">
+            <did>
+               <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA CA1/2</unitid>
+               <unittitle encodinganalog="isadg(2)312" label="Title">University of Edinburgh 1900 </unittitle>
+               <unitdate encodinganalog="isadg(2)313" label="Date" normal="1900">1900</unitdate>
+               <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+                  <extent>1
+				volume</extent>
+               </physdesc>
+				
+               <language langcode="eng">English</language>
+               <origination encodinganalog="isadg(2)321">John Patrick &amp; Son | photographers |
+				Edinburgh</origination>
+            </did>
+            <scopecontent encodinganalog="isadg(2)331">
+               <p>Album containing a series of photographs of University buildings
+				and other scenes around Edinburgh</p>
+            </scopecontent>
+            <descgrp>
+               <processinfo/>
+            </descgrp>
+         </c>
+      </dsc>
+      <dsc>
+         <c id="GB-237-EUA-CA1-3" level="series">
+            <did>
+               <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA CA1/3</unitid>
+               <unittitle encodinganalog="isadg(2)312" label="Title">Medical photographs and illustrations from the Wilkie
+				Building </unittitle>
+               <unitdate encodinganalog="isadg(2)313" label="Date" normal="1850/1964">mid
+				19th century-1964</unitdate>
+               <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+                  <extent>1
+				box</extent>
+               </physdesc>
+				
+               <language langcode="eng">English</language>, <language langcode="ger">German</language>
+               <origination encodinganalog="isadg(2)321">Schafer | Sir | Edward Albert Sharpey | 1850-1935 |
+				professor of physiology; University of Edinburgh | Department of Physiology
+				</origination>
+            </did>
+            <bioghist encodinganalog="isadg(2)322">
+               <p>The Wilkie building forms part of the Medical School complex in
+				Teviot Row, Edinburgh. The Surgical Research Department was opened there in
+				1938. </p>
+            </bioghist>
+            <scopecontent encodinganalog="isadg(2)331">
+               <p>Collection of images of 19th-20th century medical men. Some have
+				specific connections to the University of Edinburgh, others are contemporaries.
+				These individuals are: Carl Ludwig (1816-1895) [3 images, one with an
+				accompanying note by 'E.S.S.' (most likely Sir Edward Sharpey-Schafer)], John
+				Burdon Sanderson (1828-1906), Michael Foster (1836-1907), Hugo Kronecker
+				(1839-1914) [inscribed in German to 'Eduard Schafer' (most likely Sir Edward
+				Sharpey-Schafer) from Kronecker], Emile Roux (1853-1933), Albert Calmette
+				(1863-1933) and Charles Lovatt Evans (1884-1968).</p>
+               <p>There is also a group photograph of the opening of the Surgical
+				Research Department (1938), a group photograph 'Neurophysiology 1924-1964',
+				taken at Cambridge in 1964 (the names of the individuals in both group photos
+				are given), and a print of an engraving of John Hunter (1728-1793).</p>
+            </scopecontent>
+            <descgrp>
+               <acqinfo encodinganalog="isadg(2)324">
+                  <p>Found by staff during clearout of the Wilkie Building, Acc
+				  05/031.</p>
+               </acqinfo>
+               <processinfo/>
+            </descgrp>
+         </c>
+      </dsc>
+      <dsc>
+         <c id="GB-237-EUA-CA1-4" level="series">
+            <did>
+               <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA CA1/4</unitid>
+               <unittitle encodinganalog="isadg(2)312" label="Title">Portraits of the Deans of the Faculty of Social Sciences
+				(latterly also Provosts of the Faculty Group of Law &amp; Social
+				Sciences)</unittitle>
+               <unitdate encodinganalog="isadg(2)313" label="Date" normal="1963/1997">1963-1997</unitdate>
+               <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+                  <extent>1
+				box</extent>
+               </physdesc>
+				
+               <language langcode="eng">English</language>
+               <origination encodinganalog="isadg(2)321">University of Edinburgh | Faculty of Social
+				Sciences</origination>
+            </did>
+            <scopecontent encodinganalog="isadg(2)331">
+               <p>Photographs, formerly used to decorate the walls of the meeting
+				room at 55 George Square, of: 
+				<list>
+                     <item>Norman Hunt</item>
+                     <item>J Wreford Watson</item>
+                     <item>John P Ross</item>
+                     <item>AJ Youngson</item>
+                     <item>S Berrick Saul</item>
+                     <item>Michael W Flinn</item>
+                     <item>Ian G Stewart</item>
+                     <item>Norman R Elliot</item>
+                     <item>C Barrie Wilson</item>
+                     <item>Michael Anderson</item>
+                     <item>Malcolm Anderson</item>
+                     <item>D Neil MacCormick</item>
+                  </list>
+               </p>
+            </scopecontent>
+            <descgrp>
+               <processinfo/>
+            </descgrp>
+         </c>
+      </dsc>
+      <dsc>
+         <c id="GB-237-EUA-CA1-5" level="item">
+            <did>
+               <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA CA1/5</unitid>
+               <unittitle encodinganalog="isadg(2)312" label="Title">Portrait photograph of William Bayard MD</unittitle>
+               <unitdate encodinganalog="isadg(2)313" label="Date" normal="1963/1997">1963-1997</unitdate>
+               <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+                  <extent>1
+				photograph</extent>
+               </physdesc>
+				
+               <language langcode="eng">English</language>
+               <origination encodinganalog="isadg(2)321">Climo | St. John, New Brunswick, Canada</origination>
+            </did>
+            <bioghist encodinganalog="isadg(2)322">
+               <p>William Bayard was born in 1814 at Kentville, Nova Scotia, the son
+				of Dr Robert Bayard and Frances Catherine Robertson. He was educated at Fordham
+				(New York City) and received medical training in New York State follwing which
+				he graduated MD from the University of Edinburgh in 1837. He was awarded an
+				Honorary Doctor of Laws by the latter in 1907, the year he died. </p>
+               <p>He served, (1863-1903) as the chair of the board of commissioners
+				of the Saint John General Public Hospital and also as chairman of the board of
+				health for the city and county of Saint John (1855-1887) and of the Provincial
+				Board of Health (1887-1903). He was president of the New Brunswick Medical
+				Society (1867-1871, 1880-1881, 1890-1891 and 1899-1900), the Council of
+				Physicians and Surgeons of New Brunswick (1881-1885), the Maritime Medical
+				Association (1891), and the Canadian Medical Association (1894-1895), also on
+				three of the latter's committees. In 1891, as New Brunswick's delegate, he
+				attended the International Congress of Hygiene and Demography in London.</p>
+            </bioghist>
+            <scopecontent encodinganalog="isadg(2)331">
+               <p>Portrait photograph of Dr William Bayard, seated and reading a
+				book.</p>
+            </scopecontent>
+            <descgrp>
+               <processinfo/>
+            </descgrp>
+         </c>
+      </dsc>
+      <dsc>
+         <c id="GB-237-EUA-CA1-6" level="item">
+            <did>
+               <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA CA1/6</unitid>
+               <unittitle encodinganalog="isadg(2)312" label="Title">Photograph of University Warders and Servitors</unittitle>
+               <unitdate encodinganalog="isadg(2)313" label="Date" normal="1915/1925">c1920</unitdate>
+               <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+                  <extent>1
+				photograph</extent>
+               </physdesc>
+				
+               <language langcode="eng">English</language>
+               <origination encodinganalog="isadg(2)321">unknown</origination>
+            </did>
+            <bioghist encodinganalog="isadg(2)322">
+               <p>The Servitors came under the management of the Clerk of Works. The
+				
+			 <title>University Calendar</title> of 1920-1921 lists the Janitor and
+			 Mace-bearer (later known as 'Bedellus'), 4 warders, 3 caretakers and a "staff
+			 of servitors". </p>
+            </bioghist>
+            <scopecontent encodinganalog="isadg(2)331">
+               <p>Group photograph of University Warders and Servitors, taken at the
+				west end of the quad at Old College prior to the creation of the War Memorial
+				(unveiled 19 February 1923). A number of men are both in uniform and displaying
+				medals.</p>
+               <p>Front-row, furthest left is most likely James Given, warder at the
+				Department of Mathematics. Middle row, second from right might be W. G.
+				Fenoulhet, M.C. (later the Bedellus).</p>
+            </scopecontent>
+            <descgrp>
+               <acqinfo encodinganalog="isadg(2)324">
+                  <p>Digital copy made from original, December 2005, Acc 06/002.</p>
+               </acqinfo>
+               <originalsloc encodinganalog="isadg(2)351">
+                  <p>This photograph is a digital copy. The original is privately
+				  owned.</p>
+               </originalsloc>
+               <processinfo/>
+            </descgrp>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

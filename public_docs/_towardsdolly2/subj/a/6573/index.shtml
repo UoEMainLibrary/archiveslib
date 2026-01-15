@@ -1,0 +1,16 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Amphibia</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/a/">a</a><h1>Amphibia</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=6573&term=Amphibia" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-3-2&view=basic">Typescript titled 'Production of giant cells in amphibia by enzyme poisons' </a> (1948) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-3-8&view=basic">Typescript titled 'Effects of chloracetophenone and di-isopropyl fluoro-phosphates on amphibian eggs' </a> (1951) Papers of Dr. Alan Beatty</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

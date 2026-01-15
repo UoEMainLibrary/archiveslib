@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4380</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-11-09">9 November 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 113/00 009/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 113/00 007/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 113/00 008/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 113/00 008/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 113/00 008/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1901 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1901 113/00 008/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 113/0010 0112</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1906 113/00 0011</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1906 113/00 0037</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW103/15</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4380</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacDonald</part>
+                <part localType="given">Roderick</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>[Ruaraidh Domhnallach]; crofter, Heisker, North Uist</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1820" notBefore="1815" notAfter="1825"
+                        >c1820</fromDate><toDate standardDate="1906-06-13">13 June
+                    1906</toDate></dateRange>
+                <descriptiveNote>
+                    <p>Born c1820, died 13 June 1906</p>
+                </descriptiveNote></existDates>
+            <biogHist>
+                <p>Roderick MacDonald was born c1820. His father was Archibald MacDonald; unusually,
+                    his mother's name does not appear on the death record. He married Flora
+                    MacDonald née MacLellan, twelve years his senior, on 12 August 1851; together
+                    they had two daughters with whom they lived, with a son-in-law adding to the
+                    household from 1881.</p>
+                <p>MacDonald is mentioned briefly in one of Alexander Carmichael's notebooks, after
+                    they met on 23 March 1865. Despite their age difference, Roderick and his wife
+                    died within months of each other, Flora in February 1865, Roderick following in
+                    June of the same year.</p>
+                <chronList>
+                    <chronItem><date standardDate="1820" notBefore="1815" notAfter="1825"
+                            >c1820</date><placeEntry>North
+                        Uist</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1865-03-23">23 March
+                            1865</date><placeEntry>Heisker, North Uist</placeEntry><event>visited by
+                            Alexander Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1906-06-13">13 June 1906</date><placeEntry>North
+                            Uist</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

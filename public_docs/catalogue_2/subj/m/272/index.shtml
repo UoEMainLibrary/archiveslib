@@ -1,0 +1,13 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Meetings</title>
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<h2>Authority term: Meetings</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-23&view=basic">Miscellaneous</a> (1915-1938)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-2-3&view=basic">General Assembly</a> (1942-1947)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

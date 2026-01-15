@@ -1,0 +1,20 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Chicks</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/c/">c</a><h1>Chicks</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4557&term=Chicks" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="121">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-717&view=basic">Adipose tissue growth in the growth hormone receptor deficient dwarf chick </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-824&view=basic">Habituation to Human Beings via visual contact in docile and flighty strains of domestic chicks </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-821&view=basic">Open-field and tonic immobility responses in domestic chicks of two genetic lines differing in their propensity to feather peck </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-744&view=basic">Genetic nomenclature guide - chick </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-801&view=basic">Identification of transcripts potentially involved in gonadal development by the use of differential display </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="101.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

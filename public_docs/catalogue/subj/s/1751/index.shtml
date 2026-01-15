@@ -1,0 +1,21 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Scientific Apparatus and Instruments</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/s/">s</a><h1>Scientific Apparatus and Instruments</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=1751&term=Scientific Apparatus and Instruments" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C2-1&view=basic">Class Lists </a> (1755-1971) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16-I-8&view=basic">Letter from R Robison to Joseph Black </a> (1758-1768) Papers of Joseph Black and family</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-16-I-103-104&view=basic">Letter from Martin Wall to Joseph Black </a> (1780) Papers of Joseph Black and family</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C2-1-13&view=basic">Laboratory Apparatus </a> (1859-1860) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-13-1&view=basic">Correspondence of Sir Archibald Geikie: American geologists </a> (1878-1907) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-6-2&view=basic">Expensive Equipment Correspondence </a> (1971-1973) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-6-4&view=basic">Equipment Correspondence </a> (1974-1982) Records of the University of Edinburgh</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

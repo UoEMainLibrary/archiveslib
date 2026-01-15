@@ -1,0 +1,20 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Embryology</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/e/">e</a><h1>Embryology</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=287&term=Embryology" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-1-1&view=basic">Laboratory notebook relating mainly to chick embryological and grafting experiments </a> (1925-1951) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-1-2&view=basic">Laboratory notebook relating mainly to chick embryological experiments </a> (1925-1951) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-1-3&view=basic">Loose bundle of laboratory notes relating to experiments on axolotl and chick embroys and embryo extraction from rabbits </a> (1927-1940) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-1-2&view=basic">Bound typescript titled 'Effects of Chemical and Genetic Factors on Embryonic Development' by R.A Beatty, M.A, being the second part of a dissertation submitted in candidature for the Degree of Doctor of Philosophy at the University of Cambridge </a> (1949) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-10-35&view=basic">File titled 'MRC Fundamental Biology (Embryology)' </a> (1954) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-3-21&view=basic">Typescript titled 'Mutual effects between embryos during gestation' </a> (1955) Papers of Dr. Alan Beatty</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

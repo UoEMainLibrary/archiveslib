@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4466</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-01-11">8 March 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 529/00 0004/00 0003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Inishail</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 512/00 008/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Ickrachan</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 512/00 008/00 01</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Ardchattan and  Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 529/00 003/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Ardchattan and Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 529/00 001/00 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Ardchattan and Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 529/00 001/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Marriage certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1849 512/00 0030 0139</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Marriage certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1865 512/00 0001</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1900 529/00 0011</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW126f/1</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4466</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacNiven</part>
+                <part localType="given">Angus</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Tailor, Taynuilt, Argyllshire</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1821" notBefore="1816" notAfter="1826">c1821</fromDate>
+                    <toDate standardDate="1900-09-14">14 September 1900</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Angus MacNiven was first recorded in 1841 at 20 years old and living with his
+                    mother Ann MacNiven in Balindore, Muckairn. On 23 March 1849 he married Ann
+                    McIntyre of Glencruten, Kilbride and they had 7 children: Dugald, Mary, Christy,
+                    Donald, Margaret, Anne and Angus. In 1861 the census recorded an apprentice
+                    tailor, John Paterson, living with the family. In 1865 Angus married Mary
+                    McCallum and had 6 children: Dugald, James, John, Catherine, Archie and Jessie.
+                    Angus died in September 1900 and the cause of death recorded as cardiac failure
+                    resulting from infirmity of age.</p>
+                <p>Carmichael recorded a story entitled 'Burns' from MacNiven on 25 July 1892. </p>
+                <chronList>
+                    <chronItem><date standardDate="1892-07-25">25 July
+                            1892</date><placeEntry>Kirkton, Taynuilt,
+                            Argyllshire</placeEntry><event>visited by Alexander
+                        Carmichael</event></chronItem>
+                    <chronItem>
+                        <date standardDate="1900-09-14">14 September 1900</date>
+                        <placeEntry>Muckairn, Argullshire</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

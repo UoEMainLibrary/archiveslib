@@ -1,0 +1,19 @@
+
+
+-- 
+# Default Catalog for Template and other files
+#
+#
+# W3C DTDs and entity sets
+#
+--
+
+
+
+PUBLIC "-//W3C//DTD HTML 4.0//EN" "strict.dtd"
+PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "loose.dtd"
+PUBLIC "-//W3C//DTD HTML 4.0 Frameset//EN" "frameset.dtd"
+PUBLIC "-//W3C//ENTITIES Latin1//EN//HTML" "entities/HTMLlat1.ent"
+PUBLIC "-//W3C//ENTITIES Symbols//EN//HTML" "entities/HTMLsymbol.ent"
+PUBLIC "-//W3C//ENTITIES Special//EN//HTML" "entities/HTMLspecial.ent"
+

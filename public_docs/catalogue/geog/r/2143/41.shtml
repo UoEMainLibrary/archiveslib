@@ -1,0 +1,36 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Ross and Cromarty Scotland </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/geog/a/">Authority terms: geographic names</a> &gt; <a href="/catalogue/geog/r/">r</a><h1>Ross and Cromarty Scotland </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=geog&id=2143&term=Ross and Cromarty Scotland " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="41">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-337&view=basic">Note about William Ross's first poetic composition and accompanying quotation </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-124&view=basic">Note on the insect daolag-sgobai </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-338&view=basic">Superstition about killing swans and seals and accompanying stories </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-125&view=basic">Notes about the muasgan [razor fish] and other fishing bait </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-126&view=basic">Phrase which reads 'Nuair bha mise tor air Tomas gha mi gaol' </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-127&view=basic">Story about a drowned puppy </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-128&view=basic">Vocabulary note for types of fish </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-83&view=basic">Story about John Francis Campbell speaking to a girl in Gaelic in Poolewe </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW421&view=basic">Poem beginning 'A Thearlaich oig a mhic Righ seumas. ' [Young Charles son of King James [Prince Charles Edward Stuart]/I saw a great pursuit after you] </a> (1890-1899) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW108-145&view=basic">Story entitled 'Maighdean Mhara' about a mermaid in Lochbroom </a> (1891) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-183&view=basic">Vocabulary list including words for rheumatism </a> (1894) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-76&view=basic">Vocabulary note entitled 'Heigir or Eigir' </a> (1895) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1&view=basic">Papers of John Baillie </a> (1900-1964) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-14&view=basic">Song beginning 'S a cholunn sin sa chol[unn]' and accompanying note </a> (1903) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-15&view=basic">Vocabulary note for 'Bun-dearg' and 'Bun-dubh' and accompanying placename note for 'Beinn Chinndearg' </a> (1903) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-16&view=basic">Note about Dun mac Spiath </a> (1903) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-1&view=basic">Song beginning 'Is mairg a chual e s nach do rinn e' </a> (1903) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-2&view=basic">Vocabulary note for 'gartan luachar' and 'Carraig na biodaig' </a> (1903) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-3&view=basic">Fragment of a proverb beginning 'Bleadhan t sneachda bhuidhe' </a> (1903) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-4&view=basic">Song entitled 'Aoi Na Dean Cadal Idir' and accompanying note </a> (1903) The Carmichael Watson Collection</li>
+</ul>
+<a href="21.shtml">Previous</a>
+<a href="61.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

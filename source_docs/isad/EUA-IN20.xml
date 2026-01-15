@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 EUA IN20">GB
+		237 EUA IN20</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Records of Edinburgh University Students'
+			 Association</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="REPLACE" certainty="certain"><?xm-replace_text {insert completion date DD Month YYYY}?></date>
+		  
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated using XMetal, adapting methodology developed by
+		  the NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			 normal="International Council on Archives Committee on Descriptive Standards"
+			 source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			 role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-EUA-IN20"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA
+		  IN20</unitid> 
+		<unittitle encodinganalog="isadg(2)312">Records of Edinburgh University
+		  Students' Association</unittitle><unitdate normal="1884/"
+		encodinganalog="isadg(2)313"
+		type="inclusive">1884-</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre"><?xm-replace_text {2.2.5 extent: metres/boxes etc.}?>
+		  </extent></physdesc> 
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)" encodinganalog="isadg(2)321"> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 EUA C3256"
+			normal="University of Edinburgh, Edinburgh University Students&apos; Association">University
+			 of Edinburgh | Edinburgh University Students' Association</corpname>, 
+		  <corpname source="ncarules" authfilenumber="GB 0237 NAHSTE C2039"
+		  normal="University of Edinburgh, Students Representative Council">University of
+			 Edinburgh | Students Representative Council</corpname></origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>Edinburgh University Students' Association (EUSA) is comprised of the
+		  Students' Representative Council (SRC), founded in 1884 by Robert Fitzroy Bell,
+		  the Edinburgh University Union (EUU), which was founded by the SRC in 1889, and
+		  the Edinburgh University Chambers Street Union. A later merger, in 1989,
+		  brought the Kings' Buildings Union into the Association.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>Records of: 
+		  <list> 
+			 <item>Students Representative Council</item> 
+		  </list></p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<relatedmaterial encodinganalog="isadg(2)353"> 
+		  <head>Related Material</head> 
+		  <p>Student Clubs and societies are considered to be wholly autonomous
+			 organisations. As such, their records are dealt with as private gifts or
+			 deposits.</p> 
+		</relatedmaterial> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>Administrative history compiled using article 
+			 <bibref><title>Edinburgh University Students' Association</title>,
+				from Wikipedia, 
+				<extref>http://en.wikipedia.org/wiki/Edinburgh_University_Students'_Association</extref>,
+				accessed 28 November 2006</bibref></p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p><?xm-replace_text {Archivist's Note}?></p> 
+		</processinfo> 
+		<processinfo encodinganalog="isadg(2)373" audience="internal"> 
+		  <head>Date(s) of Description</head> 
+		  <p> 
+			 <persname source="ncarules" role="archivist"
+			  normal="Buttars, Grant">Grant Buttars</persname> 
+			 <date type="descriptiondate" normal="20061129" certainty="certain">29
+				November 2006</date></p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses and Organisations</head> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 EUA C3256"
+			normal="University of Edinburgh, Edinburgh University Students&apos; Association">University
+			 of Edinburgh | Edinburgh University Students' Association</corpname> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 NAHSTE C2039"
+		  normal="University of Edinburgh, Students Representative Council">University of
+			 Edinburgh | Students Representative Council</corpname> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc> 
+		<c id="GB-237-EUA-IN20-1" level="subfonds"> 
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				IN20/1</unitid> 
+			 <physloc label="Shelfmark" encodinganalog="shelfmark">Boxes EUA-A-473
+				- EUA-A-476</physloc><unittitle encodinganalog="isadg(2)312">Students'
+				Representative Council</unittitle><unitdate normal="1884/1956"
+			 encodinganalog="isadg(2)313">1884-1956</unitdate><repository label="Repository"
+			 encodinganalog="NAHSTE31">Edinburgh University Library, Special
+				Collections</repository> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">14 boxes</extent></physdesc> 
+			 <langmaterial><language
+				langcode="eng">English</language></langmaterial> 
+			 <origination label="Name of Creator(s)"
+			  encodinganalog="isadg(2)321">University of Edinburgh | Students Representative
+				Council</origination> 
+		  </did> 
+		  <bioghist encodinganalog="isadg(2)322"> 
+			 <head>Administrative/Biographical History</head> 
+			 <p>The Students' Representative Council (SRC) was founded in 1884 by
+				Robert Fitzroy Bell and gained statutory recogition in the Universities
+				(Scotland) Act, 1889. It has responsibility for representation on teaching and
+				learning, welfare, academic services, postgraduate affairs and external affairs
+				and also for running Freshers' Week.</p> 
+			 <p>In 1889 it established the University Union and it has also been
+				responsible for the publication of 
+			 <title>The Student</title> newspaper and (until recently) the 
+			 <title>Student Handbook</title>.</p> 
+		  </bioghist> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Records of: 
+				<list> 
+				  <item>SRC minutes (15 volumes) 1884-1956</item> 
+				  <item>Executive Committee minutes (11 volumes) 1884-1947</item> 
+				  <item>Reports of Standing Committees (1 volume) 1889-1899</item> 
+				  <item>Women’s Committee minutes (1 volume) 1889-1912</item> 
+				  <item>International Academic Committee minutes (1 volume)
+					 1898-1919</item> 
+				  <item>International Universities Committee minutes (1 volume)
+					 1895-1907</item> 
+				  <item>Amusements Committee minutes (1 volume) 1898-1905</item> 
+				  <item>Annual Reports (3 volumes) 1884-1913</item> 
+				  <item><title>The Student</title></item> 
+				  <item><title>Student Handbook</title></item> 
+				</list></p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE381"> 
+				<head>Subjects</head> 
+				<subject source="lcsh" authfilenumber="1879">Committees</subject> 
+				<subject source="lcsh" authfilenumber="2227">Students</subject> 
+				<subject source="lcsh" authfilenumber="3277">Student participation
+				  in administration</subject> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE382"> 
+				<head>People</head> 
+				<persname source="ncarules" authfilenumber="GB 0237 EUA P3255"
+				 normal="Bell, Robert Fitzroy">Bell | Robert Fitzroy | 1859-1908 |
+				  Advocate</persname> 
+			 </controlaccess> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 NAHSTE C2039"
+				 normal="University of Edinburgh, Students Representative Council">University of
+				  Edinburgh | Students Representative Council</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <accruals encodinganalog="isadg(2)333"> 
+				<head>Accruals</head> 
+				<p>Accruals expected.</p> 
+			 </accruals> 
+			 <accessrestrict encodinganalog="isadg(2)341"> 
+				<head>Conditions Governing Access</head> 
+				<p>Access to more recent volumes of minutes may be restricted under
+				  the Data Protection Act.</p> 
+			 </accessrestrict> 
+			 <processinfo encodinganalog="isadg(2)371"> 
+				<head>Archivist's Notes</head> 
+				<p><?xm-replace_text {Archivist's Note}?></p> 
+			 </processinfo> 
+			 <processinfo encodinganalog="isadg(2)373" audience="internal"> 
+				<head>Date(s) of Description</head> 
+				<p> 
+				  <persname source="ncarules" role="archivist"
+					normal="Buttars, Grant">Grant Buttars</persname> 
+				  <date type="descriptiondate" normal="20061129"
+					certainty="certain">29 November 2006</date></p> 
+			 </processinfo></descgrp> 
+		</c> 
+	 </dsc> 
+  </archdesc>
+</ead>

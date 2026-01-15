@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4390</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-11-16">30 November 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1844 058/0020 0239</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1851 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 058/00 002/00 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 058/02 002/02 013</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 058/02 002/02 011</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 058/02 002/02 017</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 058/02 003/02 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1901 census for Applecross</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1901 058/02 003/02 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1883 058/02 0004</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1922 058/02 0001</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4390</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacKenzie</part>
+                <part localType="given">William</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Stone mason, Annat, Ross and Cromarty</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1850">1850</fromDate><toDate
+                        standardDate="1922-01-02">2 January 1922</toDate></dateRange>
+                <descriptiveNote>
+                    <p>Born 1850, died 2 January 1922</p>
+                </descriptiveNote></existDates>
+            <biogHist>
+                <p>William MacKenzie was born in Plockton, Lochalsh in 1850. His father was John
+                    MacKenzie, crofter; his mother's actual name is unclear from the census records,
+                    as several different names are given over time, but William's death record gives
+                    it as Jessie MacKenzie née MacLennan. What is certain is that William moved with
+                    his family at a young age to Annat near Torridon, and later found work as a
+                    stone mason. By 1901 he was living with his wife Hannah and five children, still
+                    at Annat. In 1909, he was visited by Alexander Carmichael who recorded his story
+                    'Droch Shuil' about a charm for the evil eye. He died there in 1922.</p>
+                <chronList>
+                    <chronItem><date standardDate="1850">1850</date><placeEntry>Plockton,
+                            Lochalsh</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1909">1909</date><placeEntry>Annat, Ross and
+                            Cromarty</placeEntry><event>visited by Alexander
+                        Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1922-01-02">2 January
+                            1922</date><placeEntry>Annat, Ross and
+                            Cromarty</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

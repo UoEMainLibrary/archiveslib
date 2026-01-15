@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0143 20010417 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0143</titleproper> 
+		  <subtitle>Sedgwick | Adam | 1785-1873 | geologist and professor of
+			 geology, University of Cambridge</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 17 April 2001</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20010417">17 April 2001</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0143</titleproper> 
+		<subtitle>Sedgwick | Adam | 1785-1873 | geologist and professor of
+		  geology, University of Cambridge</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+		  University Library Special Collections Division, 17 April 2001</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20010417">17 April 2001</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0143"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0143</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0143" normal="Sedgwick, Adam">Sedgwick | Adam |
+		  1785-1873 | geologist and professor of geology, University of
+		  Cambridge</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Adam Sedgwick's lectures on Geology proved extremely popular despite
+			 being optional. This had a large impact on the shaping of English educated
+			 opinion on Geology. Sedgwick had a clear and vivid lecturing style.</p> 
+		  <p>Sedgwick expanded a geological collection, making it into one of the
+			 finest museums in the world. The present Sedgwick museum was erected as a
+			 memorial to him. Sedgwick was an excellent field geologist. He worked with
+			 Roderick Impey Murchison on the Eastern Alps and believed that Lyell's
+			 principles of uniformity should be tested by empirical observation and not
+			 assumed a priori. </p> 
+		  <p>His most important geological work led to the foundation of the
+			 Cambrian system. This arose out of a desire to penetrate the fossil record back
+			 to its farthest limits.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Father, Richard Sedgwick, vicar of the rural parish of Dent</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>none</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1808">1808</date>: Awarded Degree in
+			 Mathematics with distinction, Trinity College, University of Cambridge</p> 
+		  <p> 
+			 <date type="appointmentdate" normal="1810">1810</date>: Elected
+			 Fellow, Trinity College, University of Cambridge </p> 
+		  <p><date type="appointmentdate" normal="1817">1817</date>: Ordained
+			 </p> 
+		  <p><date type="chairdate" normal="1818">1818</date>: Elected
+			 Woodwardian Professor of Geology, University of Cambridge</p> 
+		  <p> 
+			 <date type="appointmentdate" normal="1818">1818</date>: Elected
+			 Fellow, Geological Society of London </p> 
+		  <p><date type="appointmentspan" normal="1829/1831">1829-1831</date>:
+			 Appointed President, Geological Society of London</p> 
+		  <p><date type="single" normal="1863">1863</date>: Awarded Wollaston
+			 Medal</p> 
+		  <p><date type="single" normal="1863">1863</date>: Awarded Copley
+			 Medal</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Dictionary of Scientific Biography Volume II</title>,
+			 (<imprint><geogname source="lcsh" authfilenumber="483"
+			 normal="New York (NY, United States)">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication"
+			 normal="1981">1981</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Thomson, Andrew" role="archivist">Andrew Thomson</persname>
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20010417">17 April
+				2001</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

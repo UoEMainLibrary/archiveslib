@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4521</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2012-03-14">14 March 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>8 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources><source><sourceEntry>1851 census for Harris</sourceEntry><descriptiveNote>
+                    <p><span>Census 1851 111/01 013/00 002</span><span>General Register Office for
+                            Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>1861 census for Harris</sourceEntry><descriptiveNote>
+                    <p><span>Census 1861 111/01 020/00 005</span><span>General Register Office for
+                            Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1871 census for Harris</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 111/01 020/00 007</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>1881 census for Harris</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid" xmlns:ns1="http://www.w3.org/1999/xlink">Census
+                            1881 111/01 010/00 007</span><span localType="ead-repository"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">General Register Office for
+                            Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Field notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW111/64</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4521</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Shaw</part>
+                <part localType="given">Donald</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Fisherman, Eilean Anabaich, Isle of Harris.</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1814" notBefore="1809" notAfter="1819"
+                        >c1814</fromDate><toDate standardDate="1885" notAfter="1890"
+                        notBefore="1880">c1885</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Donald Shaw, fisherman, was married to Christina and the censuses of 1871 and
+                    1881 record their children living with them: Malcolm, Roderick, Catherine,
+                    Phemmie, Angus and Ann K. </p>
+                <p>Carmichael collected a story from Donald Shaw about two lobsters. </p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1814" notBefore="1809" notAfter="1819">c1814</date>
+                        <placeEntry>Eilean Anabaich, Isle of Harris</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1874-03-10">10 March
+                            1874</date><placeEntry>Eilean Anabaich, Isle of
+                            Harris</placeEntry><event>visited by Alexander
+                        Carmichael</event></chronItem>
+                    <chronItem>
+                        <date standardDate="1885" notBefore="1880" notAfter="1890">c1885</date>
+                        <placeEntry> Isle of Harris</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

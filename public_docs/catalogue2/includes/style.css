@@ -1,0 +1,581 @@
+/* ---------------------------------------------------------------------------------------------------------------- *
+Type: Polopoly Output Template Style Sheet - Universal
+Version: 0.3j
+Author: Steven Ross
+Email: steven.ross@ed.ac.uk
+Last edit: 04-03-10
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* CONTENTS 
+1. Globals / Body
+2. Page Header
+3. Section Header
+4. Sub-section / Child Header
+5. Container
+6. Navigation
+	6.1 Global
+	6.2 Utility
+	6.3 Breadtrail
+	6.4 Primary
+	6.5 Secondary
+	6.6 Related Links
+		6.6.1 Article Related Links
+		6.6.2 Navigation Related Links
+7. Content Area
+	7.1 Layouts
+	7.2 Abbr & acronym
+	7.3 List Styles
+	7.4 Paragraph styles
+	7.5 Feature box 
+	7.6 Event box
+	7.7 Quote styles
+	7.8 Heading levels
+	7.9 Table styles
+	7.10 Image styles
+	7.11 Image captions
+	7.12 Contacts
+	7.13 Info lists and boxes
+	7.14 Info Item - standard 
+	7.15 Content Link styles
+10. Special Page Types
+	10.1 UofE Homepage
+	10.2 Splash page / Pathway Article / Frontpage Articles
+		10.2.1 Frontpage single
+		10.2.2 Frontpage double
+		10.2.3 Frontpage triple
+		10.2.4 User selectable colour styles
+11. Floats & Clearing
+12. Access
+13. Article Footer & Page Footer
+14. Print styles
+XX. Temporary/development
+*/
+
+/* 1. Globals / Body */
+/* ---------------------------------------------------------------------------------------------------------------- */
+* { margin: 0; padding: 0;}
+	
+body { margin: 0; padding: 0; text-align: center; color: #000000; background-image: url(/images/centralsitebg.gif); background-repeat: repeat-x;}
+
+/* YUI Font size reset 
+Copyright (c) 2007, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.net/yui/license.txt
+version: 2.3.1 */
+body {font:13px/1.22 arial,helvetica,clean,sans-serif; font-size:small;}
+table {font-size: inherit; }
+/* Bump up IE to get to 13px equivalent */
+pre,code,kbd,samp,tt {font-family:monospace; font-size:108%; line-height:99%;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 2. Header */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#header {background: #25476C; height: 70px; border-bottom: #CAD8E5 10px solid;} 
+#branding {float: left; width: 305px;}
+#branding a {color: #ffffff;}
+#branding span {display: block; text-indent: -5000px; margin-left: 70px; background: url(http://www.ed.ac.uk/images/uofe.gif) no-repeat; width: 222px; height: 70px;}
+#branding img {float: left; padding-right: 5px; border: none;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 3. sectionHeader */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#sectionHeader { clear: both; background: #EAEFF5 url(http://www.ed.ac.uk/images/sectionHeader-bg.jpg) left top no-repeat; height: 51px;} 
+.standalone-frontTriple #sectionHeader { background: url(http://www.ed.ac.uk/images/tripleHeader-bg.jpg) left top no-repeat;}
+#sectionHeader a {text-decoration: none; color: #000000;}
+#sectionHeader span {font-size: 100%;}
+#sectionHeader span:hover {color: #FF0000;text-decoration: underline;}
+#sectionHeader span.hideSection {display: block; text-indent: -5000px;}
+#sectionHeader img {margin: 0; border: none;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 4. sub section header */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#contentArea .childHeader { font-size: 138.5%; /* 18px */ color: #25476C; background: #EAEFF5 url(http://www.ed.ac.uk/images/childHeader-bg.jpg) left top repeat-x; padding: 1px 0 2px 3px; margin-right: -185px;}
+#contentArea .childHeader a {color: #25476C; text-decoration: none;}
+#contentArea .childHeader a:hover {text-decoration: underline; color: #FF0000;}
+.navOff-standard #contentArea .childHeader {margin-right: 0px;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 5. container */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#container { width: 780px; background: #FFFFFF;	margin: 0 auto; text-align: left;} 
+.standalone-standard #container, .navOff-standard #container, .standalone-frontSingle #container, .standalone-frontDouble #container, .standalone-special #container { background: url(/images/2colContainer.jpg) repeat-y;}
+.sub-standard #container, .sub-special #container { background: url(/images/3colContainer.jpg) repeat-y;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 6. Navigation */
+/* 6.1 Global Navigation */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#globalNav {background-color: #25476C; font-size: 85%; /* 11px*/ float: right; width: 465px; text-align: right;}
+#globalNav ul {list-style: none;}
+#globalNav li {display: inline; padding-left: 2px;}
+#globalNav li a {text-decoration: none; color: #FFFFFF; line-height: 2em; text-align: center;}
+#globalNav li.selected {border-top: #CAD8E5 2px solid;}
+#globalNav li a:hover {background-color: #006699; border-top: #CAD8E5 2px solid;}
+#globalNav li a:active {color: #FFFFFF;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 6.2 Utility Area - Search/Contact */
+/* ----------------------------------------------------------------------------------------------------------------*/
+#utility {margin-top: 24px!important; background-color: #CAD8E5; float: right; width: 465px; text-align: center;}
+#utility div {display: inline;}
+#utility a {color: #25476C; font-size: 100%; font-weight: bold; }
+#utility a:hover {color: #FF0000;}
+#utility form {display: inline;}
+#utility #keywords, #utility #searchOptions {font-size: 93%; /*12px*/ margin-top: 5px;}
+#utility #keywords {vertical-align: top; height: 1.25em;}
+#utility #keywords:focus, #utility #searchOptions:focus {background-color: #FFFFCC; }
+#utility .utilSearch {padding-right: 5px; display: none;}
+#utility .utilContact {margin-left: 15px;}
+/* ----------------------------------------------------------------------------------------------------------------*/
+
+/* 6.3 Bread Trail */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#breadTrail {background-color: #FFFFFF;}
+#breadTrail ul {list-style: none; padding: 5px 0 5px 185px; font-size: 93%; /*12px*/ display: list-item;}
+#breadTrail li {display: inline; padding: 0 10px 0 0; background:url(/images/breadtrail.gif) right no-repeat;}
+#breadTrail li.urHere {background: none; color: #000000;}
+#breadTrail a:link {color: #666;}
+#breadTrail a:visited {color: #666;}
+#breadTrail a:hover {color: #FF0000;}
+#breadTrail a:active {text-decoration: none; color: #999999;}
+#breadTrail li.breadThis {background: none;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 6.4 Primary Navigation */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#primaryNav { clear: both; width: 175px; float: left;}
+#primaryNav ul, #secondaryNav ul { margin-left: 0px; background-color: #FFFFFF;}
+#primaryNav li, #secondaryNav li { list-style: none; line-height: 1.5em; font-size: 108%; /* 14px */ border-bottom: #E3D9DD 1px solid; border-left: #EAEFF5 5px solid; border-right: #EAEFF5 1px solid; padding-left: 5px; color: #430019;}
+#primaryNav a, #secondaryNav a { display: block; /* makes the full box area an active link */}
+#primaryNav a:link, #secondaryNav a:link { text-decoration: none; color: #430019; display: block;}
+#primaryNav a:visited, #secondaryNav a:visited { text-decoration: none; color: #430019;}
+#primaryNav a:hover, #secondaryNav a:hover { text-decoration: none; color: #25476C;}
+#primaryNav a:active, #secondaryNav a:active { text-decoration: none; color: #4A0000;}
+#primaryNav li:hover, #secondaryNav li:hover { border-left: #0099FF 5px solid; background-color: #EAEFF5;}
+#primaryNav li:active, #secondaryNav li:active { border-left: #BF0149 5px solid; background-color: #FFE8E8;}
+#primaryNav .urHere, #secondaryNav .urHere { background-color: #F2F2F2; border-left: #36A7E9 5px solid;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 6.5 Secondary Navigation */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#secondaryNav {	clear: right; float: right;	width: 175px; margin-top: 30px;}
+#secondaryNav .navTitle { border-left: #25476C 5px solid; background: #EAEFF5; padding-left: 5px; line-height: 1.5em; font-size: 108%; /* 14px*/}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 6.6 Related Links */
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* 6.6.1 Article Related Links */
+#contentArea .relatedHeader { background-color: #F2F9FF; border: #EEEEEE 1px solid; margin-top: 1.5em; padding: 0.1em 0.2em; color: #666; font-weight: bold; font-size: 108%; /* 14px */}
+#contentArea .relatedLinks { margin: 0.25em 0 0 0; border: #EEEEEE 1px solid; }
+#contentArea .relatedLinks ul {padding: 0px; background-color: #F2F9FF; width: 100%;}
+#contentArea .relatedLinks a { display: block; /* makes the full box area an active link */ text-decoration: none;}
+#contentArea .relatedLinks li {list-style: none; margin: 0; padding: 0.25em; border-left: #E0EBFE 5px solid; border-bottom: #FFFFFF 1px solid; border-top: #FFFFFF 1px solid;}
+#contentArea .relatedLinks li:hover {background-color: #E0EBFE;}
+.navOff-standard #contentArea div.relatedHeader {margin: 1em 15px 0 10px; width: 550px; display: inline-block; }
+.navOff-standard #contentArea .relatedLinks {margin: 0.25em 15px 0 10px; width: 555px;}
+
+
+/* 6.6.2 Navigation Related Links */
+#primaryNav .relatedLinks, #secondaryNav .relatedLinks {margin: 0 5px;}
+#primaryNav .relatedLinks, #secondaryNav .relatedLinks a {color: #666; font-size: 93%;}
+#primaryNav .relatedHeader, #secondaryNav .relatedHeader {color: #000033; font-weight: bold; font-size: 108%; /* 14px */ padding: 0.25em 0 0.25em 10px; margin: 3em 5px 0 5px; background-color: #EAEFF5;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 7. Content Area Layouts */
+/* ---------------------------------------------------------------------------------------------------------------- */
+.standalone-standard #contentArea, .standalone-special #contentArea, .navOff-standard #contentArea, .standalone-frontSingle #contentArea, .standalone-frontDouble #contentArea { margin: 0 0 0 175px; padding: 5px 10px; } 
+.sub-standard #contentArea, .sub-special #contentArea { margin: 0 175px 0 175px; padding: 5px 10px;} 
+
+/* 7.1 Content Area Elements */
+
+/* 7.2 Abbr & acronym */
+#contentArea abbr, #contentArea acronym {cursor: help;}
+ 
+/* IE & FF style sync */ /* Come back to this */
+#contentArea abbr, #contentArea acronym { border-bottom: 1px dotted #000000;}
+#contentArea abbr.dtstart, #contentArea abbr.dtend { border-bottom: none; cursor: default;}
+#contentArea a abbr, #contentArea a acronym { border-bottom: none; cursor: default;}
+
+/* 7.3 List Styles */
+#contentArea ul {padding: 0 0 0 15px; list-style: square;} 
+#contentArea ol {padding: 0 0 0 20px; } 
+#contentArea ul li, #contentArea ol li {padding: 3px 0px 5px 3px; }
+#contentArea li.stripeOn {background-color: #F2F9FF;}
+#contentArea dl {padding: 0 0 0 5px; margin: 5px 0;}
+#contentArea dt {padding: 5px 0 0 5px; font-size: 123.1%; font-weight: bold;} 
+#contentArea dd {padding: 0 0 5px 10px;} 
+#contentArea ul a:hover {color: #FF0000;}
+
+/* 7.4 Paragraph styles */
+#contentArea p { font-size: 100%; /* 13px*/ padding-bottom: 0.5em; padding-top: 0.5em;}
+#contentArea p.standFirst { font-weight: bold; color: #25476C;}
+
+/* 7.5 Feature box */
+#contentArea .feature { border: #66BDEF 1px solid; font-weight: bold; color: #25476C; padding: 5px;  margin: 0.5em 0;}
+#contentArea .feature h4 { font-size: 153.9%; padding-bottom: 0.25em; padding-top: 0.25em;}
+#contentArea .feature ul { border: none;}
+#contentArea .feature a { color: #25476C;}
+#contentArea .feature a:hover { color: #f00;}
+#contentArea .feature img { float: left; padding-right: 5px;}
+#contentArea .feature p {padding-right: 5px;}
+
+/* 7.6 Event box */
+#contentArea .vevent { border: #66BDEF 1px solid; color: #25476C; background-color: #F5FBFE; padding: 3px; margin: 0.25em 0 0.5em 0;}
+#contentArea .vevent .summary { display: block; background-color: #66BDEF; color:#FFFFFF; font-size: 123.1%; /* 16px*/ font-weight: bold; padding: 3px; margin-bottom: 5px;}
+#contentArea .vevent a.url .summary {text-decoration: none;}
+#contentArea .vevent span.location { display: block; padding-top: 3px; font-style: italic;}
+#contentArea .vevent a.map, #contentArea .vevent a.linktype { padding-left: 15px; background-image: url(/images/external.gif); background-position: left;	background-repeat: no-repeat;}
+#contentArea .vevent a:hover {color: #f00;}
+#contentArea .vevent a:hover span.summary  {color: #f00; text-decoration: underline;}
+#contentArea div.vevent div { padding: 5px 0;}
+.vevent p, .vcard { padding-left: 1em; border-bottom: #F2F9FF thin solid;}
+
+/* 7.7 Quote styles */
+#contentArea .fullQuote {background-color: #F2F9FF; margin: 1em; padding: 0.5em; font-size: 108%; /* 14px*/ border-left: #25476C 10px solid; }
+#contentArea .pullQuote {background-color: #F2F9FF; width: 135px; margin-left: 0.5em; margin-top: 0.5em; padding: 0.5em; border-left: #25476C 10px solid; float: right;}
+#contentArea p.quoteAuthor {margin-top: -0.5em; font-weight: bold; color:#333333;}
+#contentArea p.quotePosition {margin-top: -1em; font-size: 85%; /* 11px*/ font-weight: bold; font-style: italic; color: #666666;}
+
+/* 7.8 Heading levels */
+/* TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA TBA  */
+#contentArea h1 {padding-top: 0.5em; padding-bottom: 0.2em; font-size: 167%; /* 22px */ color: #24476B; width: 100%; /* float: left; */}
+#contentArea h2 {padding-top: 0.5em; padding-bottom: 0.2em; font-size: 153.9%; /* 20px */ color: #0099FF;}
+#contentArea h3 {padding-top: 0.5em; font-size: 123.1%; /* 16px */ color: #24476B;}
+#contentArea h4 {padding-top: 0.5em; font-size: 108%; /* 14px */ color: #24476B;}
+#contentArea h5 {padding-top: 0.25em; font-size: 93%; /* 12px */ font-weight: bold;}
+#contentArea h6 {padding-top: 0.25em; font-size: 93%; /* 12px */ font-style: italic;}
+/* -------------- */
+
+/* 7.9 Table styles */
+#contentArea table { border-collapse: collapse; border: #CAD8E5 1px solid; margin-bottom: 1em; }
+#contentArea caption { font-size: 108%; /* 14px*/ margin: 1em 0 0.5em 0; font-weight: bold;}
+#contentArea th { font-size: 93%; /* 12px*/ padding: 5px; background-color: #CAD8E5; color: #000;}
+#contentArea td { font-size: 93%; /* 12px*/ padding: 0.3em;}
+#contentArea tr { vertical-align: top;}
+#contentArea tr.stripeOn { background-color: #ECF7FD;}
+
+/* 7.10 Image styles */
+.standalone-standard #contentArea img {float: left; margin: 0.5em 0.5em 0.5em 0;}
+.sub-standard #contentArea img {float: left; margin: 0.5em 0.5em 0.5em 0;}
+.standalone-standard #contentArea img.imageBig {float: none; display: block; margin: 0.5em auto;}
+.sub-standard #contentArea img.imageBig {float: none; display: block; margin: 0.5em auto;}
+#contentArea img.imageMedium {float: right; margin: 0.5em 0 0.5em 0.5em;}
+.navOff-standard #contentArea div.imageBig {float: none; display: block; margin: 0.5em auto;}
+.navOff-standard #contentArea div.imageBig img {display: block; margin: 0 auto; padding: 0;}
+.navOff-standard #contentArea img.imageBig {display: block; margin: 0.5em auto;}
+
+/* 7.11 Image captions */
+#contentArea .caption img {float: none; margin: 0px; padding: 0.5em 0 0 0;}
+#contentArea .caption {/* float: right;*/ margin: 0.5em 0 0.5em 0.5em;}
+#contentArea .caption p {margin-top: 0.5em; padding: 5px; background-color: #FBFBFB; border-left: #EAEFF5 10px solid;}
+#contentArea .caption.imageMedium {float: right; font-size: 85%; /* 11px */ width: 150px;}
+#contentArea .caption.imageBig p {font-size: 85%;  /* 11px */ padding: 5px; margin-bottom: 1em;}
+.standalone-standard #contentArea .caption.imageBig {float: none; margin: 0; padding: 0;}
+.sub-standard #contentArea .caption.imageBig {margin: 0 5px; padding: 0;}
+.navOff-standard #contentArea p.imageBig {display: block; width: 380px; margin: 0.5em auto;}
+
+/* 7.12 Contacts output */
+.vcard {background-color: #EBF6FD; padding: 5px; border: #0099FF 1px solid; margin: 0.5em 0; font-size: 108%; float: none;}
+.fn {display:block; font-weight: bold; font-size: 123.1%; color: #000;}
+.title, .org {display: block;}
+.title {font-style: italic;}
+span.type, div.email span {}
+.tel, div.email, div.adr, .url {}
+.adr {display: block; margin: 0.5em 0;}
+.url {margin-top: 0.5em;}
+.org {margin-bottom: 0.5em;}
+.vcard a:hover {color: #f00;}
+
+#contentArea #cse-search-box, #contentArea #staff-search {margin: 1em 0; background-color: #f2f2f2; padding: 10px; width: 380px; border: #ccc 1px solid;}
+#contentArea #cse-search-box input.googleSearchInput, #contentArea #staff-search input.staffSearchInput {width: 280px; margin-right: 15px;}
+#contentArea #staff-search .staffSearchLabel, #contentArea #cse-search-box .googleSearchLabel {font-size: 138.5%; /* 20px */ color: #0099FF;}
+
+/* 7.13 Info lists and boxes */
+
+/* 7.14 Info Item - standard */
+.navOff-standard div.infoItem, .standalone-standard div.infoItem, .sub-standard div.infoItem { background: #F9FAFC url(/images/infoBG.jpg) repeat-x; float: left;}
+.navOff-standard .infoItem img, .standalone-standard .infoItem img, .sub-standard .infoItem img { float: left; border: none; padding: 0 7px 5px 5px;}
+.navOff-standard .infoItem img { float: left; border: none; padding: 5px 7px 5px 5px;}
+.navOff-standard .infoItem p, .standalone-standard .infoItem p, .sub-standard .infoItem p { padding: 0 5px;}
+.navOff-standard #contentArea .infoItem h4, .standalone-standard #contentArea .infoItem h4, .sub-standard #contentArea .infoItem h4 { padding-left: 5px; font-size: 108%;}
+.navOff-standard .infoItem h4 a, .standalone-standard .infoItem h4 a, .sub-standard .infoItem h4 a { text-decoration: none; color: #24476B; }
+.navOff-standard .infoItem h4 a:hover, .standalone-standard .infoItem h4 a:hover, .sub-standard .infoItem h4 a:hover { color: #f00; }
+.navOff-standard .infoItem p a, .standalone-standard .infoItem p a, .sub-standard .infoItem p a { float: right; padding: 0 5px 5px 0;}
+.navOff-standard .infoItem p a:hover, .standalone-standard .infoItem p a:hover, .sub-standard .infoItem p a:hover { color: #f00;}
+.navOff-standard .infoItem {width: 47%; margin: 5px 0px 5px 10px;}
+.standalone-standard .infoItem, .sub-standard .infoItem { width: 95%; margin: 5px 10px 5px 0px;}
+
+
+/* 7.15 Content Link styles <- disabled at BM's request 19-02-08
+
+#contentArea a.external {	background-image: url(http://www.ed.ac.uk/global/gfx/external.gif);	background-position: right top;	background-repeat: no-repeat; padding-right: 13px !important;}
+#contentArea a.pdf{	background-image: url(http://www.ed.ac.uk/global/gfx/pdf.gif);	background-position: right top;	background-repeat: no-repeat;	padding-right: 20px !important;}
+#contentArea a.winMedia{	background-image: url(http://www.ed.ac.uk/global/gfx/wm.gif);	background-position: right top;	background-repeat: no-repeat;	padding-right: 20px !important;}
+#contentArea a.word, a.rtf{	background-image: url(http://www.ed.ac.uk/global/gfx/doc.gif);	background-position: right top;	background-repeat: no-repeat;	padding-right: 20px !important;}
+#contentArea a.email{	background-image: url(http://www.ed.ac.uk/global/gfx/email.gif);	background-position: right top;	background-repeat: no-repeat;	padding-right: 20px !important;}
+ ---------------------------------------------------------------------------------------------------------------- */
+
+/* 10 Page Types */
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* 10.1 UofE Homepage */
+/* article specific style sheet */
+
+/* 10.2 Frontpage common elements */
+.infoItem img {border: none; border-bottom: #156CAF 10px solid;}
+.infoItem h4 a:hover {text-decoration: underline; color: #f00;}
+.promoTwo, .promoThree {overflow: hidden; }
+.promoOne a, .promoTwo a, .promoThree a {color: #FFFFFF; font-weight: bold;}
+.promoOne a:hover, .promoTwo a:hover, .promoThree a:hover {color: #f00;}
+.promoOne p, .promoOne h4, .promoOne p, .promoOne h4, .promoTwo p, .promoTwo h4, .promoTwo p, .promoTwo h4, .promoThree p, .promoThree h4 {padding: 0.5em; color: #FFFFFF;}
+.promoOne h4 a, .promoTwo h4 a, .promoThree h4 a {color: #FFFFFF; font-size: 123.1%; /* 16px */ text-decoration: none;}
+.promoSmall {overflow: hidden; padding-top: 5px; /* margin-bottom: 10px; */}
+#contentArea .promoSmall h4 {padding-top: 3px;}
+.promoSmall h4 a {color: #000033; font-size: 100%; /*13px*/ text-decoration: none; padding: 0; margin: 0;}
+.promoSmall h4 a:hover {text-decoration: underline; color: #f00;}
+.promoSmall a {color: #000033;}
+.promoSmall .infoItem {background: #F9FAFC url(/images/infoSmall-bg-standard.jpg) repeat-x; float: left; padding-bottom: 300px; margin-bottom: -300px;}
+.promoSmall .infoItem img {border: none; padding-right: 0.5em; float: left;}
+.promoSmall .infoItem p a {float: right; font-weight: bold;}
+#contentArea .promoSmall .infoItem p {padding: 2px 5px 0 0; margin: 0 5px;}
+
+/* 10.2.1 Frontpage single */
+.standalone-frontSingle .promoOne .infoItem { background-color: #36A7E9; width: 580px; float: left;}
+.standalone-frontSingle .promoSmall .infoItem { width: 287px; margin-right: 5px;}
+
+/* 10.2.2 Frontpage double */
+.standalone-frontDouble .promoTwo .infoItem {background: #11588C url(/images/infoBig-bg-standard.jpg) repeat-x; width: 282px; float: left; margin-right: 5px; padding-bottom: 300px; margin-bottom: -300px;}
+.standalone-frontDouble .promoSmall .infoItem { width: 282px; margin-right: 5px;}
+.standalone-frontDouble #contentArea .promoTwo .infoItem h4 {color: #FFFFFF; font-size: 123.1%; /* 16px */}
+.standalone-frontDouble #contentArea .promoTwo .infoItem h4 a {font-size: 100%;}
+.standalone-frontDouble #contentArea .promoTwo ul.bulleted {padding: 0 5px 1em 5px;}
+.standalone-frontDouble #contentArea .promoTwo ul.bulleted li {color: #fff; list-style: inside square;}
+.standalone-frontDouble #contentArea .promoTwo ul.bulleted li a {color: #fff;}
+.standalone-frontDouble #contentArea .promoTwo ul.bulleted li a:hover {color: #ff0000;}
+.standalone-frontDouble #contentArea .promoTwo ul.inLine {color: #fff; padding: 0 5px 1em 5px;}
+.standalone-frontDouble #contentArea .promoTwo ul.inLine li, .standalone-frontDouble #contentArea .promoTwo ul.inLine li a {color: #fff;}
+.standalone-frontDouble #contentArea .promoTwo ul.inLine li a:hover {color: #ff0000;}
+.standalone-frontDouble #contentArea .promoSmall ul.bulleted {padding: 0 0.5em 1em 0.5em;}
+.standalone-frontDouble #contentArea .promoSmall ul.inLine {padding: 0 0.5em;}
+.standalone-frontDouble #contentArea .promoSmall h4 {padding: 0.5em 0.25em 0.25em 0; margin: 0 0 0 0.5em;}
+
+#contentArea ul.inLine {padding: 0 0 1em 5px;}
+#contentArea ul.inLine li {display: inline; color: #000; padding: 0 0.5em 0 0; line-height: 1.5em;}
+#contentArea ul.inLine li a {color: #000; font-weight: normal;}
+#contentArea ul.inLine li a:hover {color: #f00;}
+#contentArea ul.inline {padding: 0 0 1em 5px;}
+#contentArea ul.inline li {display: inline; color: #000; padding: 0 0.5em 0 0; line-height: 1.5em;}
+#contentArea ul.bulleted {padding: 0 0 1em 0.5em; margin: 0;}
+#contentArea ul.bulleted li {padding: 0; margin:0; list-style: inside square; line-height: 1.5em;}
+#contentArea ul.bulleted li a {color: #000;}
+#contentArea ul.bulleted li a:hover {color: #ff0000;}
+#contentArea .promoSmall ul.inLine, .standalone-frontTriple #contentArea .promoSmall ul.inLine {padding: 5px 5px 20px 5px;}
+#contentArea .promoSmall ul.inLine li, .standalone-frontTriple #contentArea .promoSmall ul.inLine li {display: inline; color: #000; padding-right: 0.25em;}
+
+/* Info Item - list 
+#contentArea .promoTwo ul.list {padding: 0 5px;}
+#contentArea .promoTwo ul.list li {color: #fff; list-style: inside square; line-height: 0.5em; }
+#contentArea .promoTwo ul.list li a {font-weight: normal;}
+#contentArea .promoSmall ul.list, .standalone-frontTriple #contentArea .promoSmall ul.list {padding: 5px; margin-left: 100px;}
+#contentArea .promoSmall ul.list li, .standalone-frontTriple #contentArea .promoSmall ul.list li {color: #000; list-style: inside square; line-height: 0.5em; }
+#contentArea .promoSmall ul.list li a, .standalone-frontTriple #contentArea .promoSmall ul.list li a {font-weight: normal;}*/
+
+/* 10.2.3 Frontpage triple */
+.standalone-frontTriple #breadTrail ul { padding: 5px 0 5px 0; /* Breadtrail has different location on this template */}
+.standalone-frontTriple .promoThree { overflow: hidden;}
+.standalone-frontTriple .promoThree .infoItem { background: #11588C url(/images/infoBig-bg-standard.jpg) repeat-x; width: 255px; float: left; margin-left: 3px; padding-bottom: 300px; margin-bottom: -300px;}
+.standalone-frontTriple .promoThree .infoItem { width: 255px; float: left; margin-left: 3px; padding-bottom: 300px; margin-bottom: -300px;}
+.standalone-frontTriple #contentArea .promoThree h4 {color: #fff; font-size: 108%}
+.standalone-frontTriple #contentArea .promoThree h4 a {font-size: 108%}
+.standalone-frontTriple .promoSmall .infoItem { width: 255px; margin-left: 3px;}
+.standalone-frontTriple .infoItem p a {padding-bottom: 5px;}
+
+.standalone-frontTriple #contentArea .promoThree ul.inLine {padding: 0 5px 20px 5px;}
+.standalone-frontTriple #contentArea .promoThree ul.inLine li {display: inline; color: #fff;}
+.standalone-frontTriple #contentArea .promoThree ul.inLine li a {color: #fff; font-weight: normal;}
+.standalone-frontTriple #contentArea .promoThree ul.inLine li a:hover {color: #ff0000;}
+.standalone-frontTriple #contentArea .promoThree ul.bulleted {padding: 0 5px;}
+.standalone-frontTriple #contentArea .promoThree ul.bulleted li {color: #fff; list-style: inside square;}
+.standalone-frontTriple #contentArea .promoThree ul.bulleted li a {color: #fff;}
+.standalone-frontTriple #contentArea .promoThree ul.bulleted li a:hover {color: #ff0000;}
+.standalone-frontTriple #contentArea .promoSmall ul.inLine {padding: 5px 5px 20px 5px;}
+.standalone-frontTriple #contentArea .promoSmall ul.inLine li {display: inline; color: #000;}
+.standalone-frontTriple #contentArea .promoSmall ul.bulleted li a:hover {color: #ff0000;}
+.standalone-frontTriple #contentArea .promoSmall h4 {padding: 0.5em 0.25em 0.25em 0; margin: 0 0 0 0.5em;}
+
+/* 10.2.4 User selectable colour styles */
+.promoThree .infoItem.hi {background-color: #24476B;}
+.promoThree .infoItem.hi img {border-bottom: #1B3550 10px solid;}
+.promoThree .infoItem.med {background: #506C89 url(/images/infoBig-bg-med.jpg) repeat-x;}
+.promoThree .infoItem.med img {border-bottom: #3C5167 10px solid;}
+.promoThree .infoItem.lo {background: #156CAF url(/images/infoBig-bg-lo.jpg) repeat-x;}
+.promoThree .infoItem.lo img {border-bottom: #105183 10px solid;}
+.promoSmall .hi a, .promoSmall .med a {color: #FFFFFF;}
+.promoSmall .hi a:hover, .promoSmall .med a:hover, .promoSmall .lo a:hover, .promoSmall a:hover{color: #f00;}
+.promoSmall .hi {background: #105183 url(/images/infoSmall-bg-hi.jpg) repeat-x; color: #FFFFFF;}
+.promoSmall .med {background: #506C89 url(/images/infoSmall-bg-med.jpg) repeat-x; color: #FFFFFF;}
+.promoSmall .lo {background: #EBF6FD url(/images/infoSmall-bg-lo.jpg) repeat-x;}
+.standalone-frontDouble #contentArea .promoSmall .med li a {color: #fff;}
+.standalone-frontDouble #contentArea .promoSmall .med li a:hover {color: #ff0000;}
+
+/* 10.2.5 Sub unit homepage */
+.standalone-homePage #breadTrail ul { padding: 5px 0 5px 0; /* Breadtrail has different location on this template */}
+.standalone-homePage .themesMain {width: 515px; background: #26486B; float: left; margin: 0 15px 0 0;}
+.standalone-homePage .themesMain img {float: left; padding-right: 15px; border: none; }
+.standalone-homePage #contentArea .themesMain h1 {margin: 0; padding: 10px 0 10px 0; width: 250px; float: left;}
+.standalone-homePage #contentArea .themesMain h1 a {text-decoration: none; color: #fff;}
+.standalone-homePage #contentArea .themesMain h1 a:hover {text-decoration: underline; color: #ff0000;}
+.standalone-homePage #contentArea .themesMain p {padding-left: 15px;}
+.standalone-homePage #contentArea .promoThree h4, .standalone-homePage #contentArea .themesMain h1, .standalone-homePage #contentArea .themesMain p, .standalone-homePage #contentArea .themesMain p a {color: #fff;}
+.standalone-homePage #contentArea .themesMain p a:hover {color: #ff0000;}
+.standalone-homePage #contentArea .themesMain ul.inLine li, .standalone-homePage #contentArea .themesMain ul.inLine li a, .standalone-homePage #contentArea .themesMain ul.bulleted li, .standalone-homePage #contentArea .themesMain ul.bulleted li a {color: #fff;}
+.standalone-homePage #contentArea .themesMain ul.inLine li a:hover, .standalone-homePage #contentArea .themesMain ul.bulleted li a:hover {color: #ff0000;}
+.standalone-homePage #contentArea .themesMain ul.bulleted {float: left; padding: 0px;}
+.standalone-homePage #contentArea .infoItem p a {padding-bottom: 5px;}
+.standalone-homePage #contentArea .topRow {overflow: hidden; height: 100%; margin-bottom: 10px;} 
+.standalone-homePage #contentArea .topRow .infoItem.promoOne {background: #26486B; width: 250px; float: left; padding-bottom: 300px; margin-bottom: -300px }
+.standalone-homePage #contentArea .topRow .infoItem.promoOne img {border: none; float: left; padding: 0 5px 0 0;}
+.standalone-homePage #contentArea .topRow .infoItem.promoOne ul.bulleted {padding: 5px 5px 0px 5px;}
+.standalone-homePage #contentArea .topRow .infoItem.promoOne ul.bulleted li {list-style: inside square; line-height: 1.5em; color: #fff;}
+.standalone-homePage #contentArea .topRow .infoItem.promoOne ul.bulleted li a {color: #fff; font-weight: normal;}
+.standalone-homePage #contentArea .topRow .infoItem.promoOne ul.bulleted li a:hover {color: #ff0000; text-decoration: underline;}
+.standalone-homePage #contentArea .topRow .infoItem.promoOne h4 {color: #fff; font-size: 116%;}
+.standalone-homePage #contentArea .topRow .infoItem.promoOne h4 a {color: #fff;}
+.standalone-homePage #contentArea .topRow .infoItem.promoOne a:hover {color: #f00;}
+.standalone-homePage #contentArea .topRow .infoItem.promoOne p {color: #fff; padding: 0 7px;}
+.standalone-homePage #contentArea .topRow .infoItem.promoOne p a {float: right; font-weight: bold; margin: 5px 5px 0 0;}
+.standalone-homePage #contentArea .subsiteSmall ul.inline {padding: 5px 5px 20px 5px;}
+.standalone-homePage #contentArea .subsiteSmall ul.inline li {display: inline; color: #000; }
+.standalone-homePage #contentArea .subsiteSmall ul.inline li a {font-weight: normal; }
+.standalone-homePage #contentArea .promoThree {overflow: hidden;  height: 100%; margin-bottom: 10px; /* background: url(subunit/bgFrontTripple.jpg) repeat-y; */} 
+.standalone-homePage #contentArea .promoThree .middle { margin: 0 15px;}
+.standalone-homePage #contentArea .promoThree .infoItem {background: #26486B; width: 250px; float: left; padding-bottom: 310px; margin-bottom: -300px;}
+.standalone-homePage #contentArea .promoThree .infoItem img {border-bottom: #162840 5px solid;}
+.standalone-homePage #contentArea .promoThree ul.inLine {padding: 0 7px;}
+.standalone-homePage #contentArea .promoThree ul.inLine li {display: inline; color: #fff; padding: 0 5px 0 0; line-height: 1.5em;}
+.standalone-homePage #contentArea .promoThree ul.inLine li a {color: #fff; font-weight: normal;}
+.standalone-homePage #contentArea .promoThree ul.inLine li a:hover {color: #ff0000;}
+.standalone-homePage #contentArea .promoThree ul.bulleted {padding: 0 5px;}
+.standalone-homePage #contentArea .promoThree ul.bulleted li {color: #fff; list-style: inside square; line-height: 1.5em; }
+.standalone-homePage #contentArea .promoThree ul.bulleted li a {color: #fff; font-weight: normal;}
+.standalone-homePage #contentArea .promoThree ul.bulleted li a:hover {text-decoration: underline; color: #ff0000;}
+.standalone-homePage #contentArea .subsiteSmall {overflow: hidden;  height: 100%; margin-bottom: 10px; /* background: url(subunit/bgPromoSmall.jpg) repeat-y; */ min-height: 110px;} 
+.standalone-homePage #contentArea .subsiteSmall .infoItem {float: left; background: #EDF2F6 /* url(subunit/bgLightTheme.jpg) repeat-x */; width: 250px; margin-right: 15px; padding-bottom: 300px; margin-bottom: -300px;}
+.standalone-homePage #contentArea .subsiteSmall .infoItem img {border: none; padding: 0 0.5em 0 0; float: left;}
+.standalone-homePage #contentArea .subsiteSmall .infoItem p {padding: 0 5px 0 5px;}
+.standalone-homePage #contentArea .subsiteSmall .infoItem p a {float: right; font-weight: bold; margin: 5px 5px 0 0;}
+.standalone-homePage #contentArea .subsiteSmall a {color: #000033;}
+.standalone-homePage #contentArea .subsiteSmall a:hover {text-decoration: underline; color: #ff0000;}
+.standalone-homePage #contentArea .subsiteSmall h4 {padding: 0.5em 0 0.5em 5px; font-size: 116%;}
+.standalone-homePage #contentArea .subsiteSmall h4 a {text-decoration: none; }
+.standalone-homePage #contentArea .subsiteSmall ul.bulleted {padding: 5px 5px 20px 5px;}
+.standalone-homePage #contentArea .subsiteSmall ul.bulleted li {color: #000; list-style: inside square; line-height: 1.3em;}
+.standalone-homePage #contentArea .subsiteSmall ul.bulleted li a {}
+.standalone-homePage #contentArea .subsiteSmall ul.bulleted li a:hover {}
+.standalone-homePage #contentArea .subsiteSmall ul.inLine {}
+.standalone-homePage #contentArea .subsiteSmall ul.inLine li {display: inline; color: #000; padding: 0 5px 0 0; line-height: 1.5em;}
+.standalone-homePage #contentArea .quickLinks {width: 248px; float: left; border: #ccc 1px solid; margin: 0; padding: 0; background: none; min-height: 130px;}
+.standalone-homePage #contentArea .quickLinks h2 {margin: 5px; padding: 0 0 0 3px; color: #162840; background: #ECF7FB; font-size: 116%; }
+.standalone-homePage #contentArea .quickLinks ul {padding: 0 0 0.5em 0;}
+.standalone-homePage #contentArea .quickLinks li {padding: 2px 0 2px 10px; list-style:square; list-style-position: inside; color: #666; font-size: 93%;}
+.standalone-homePage #contentArea .quickLinks a {color: #666;}
+.standalone-homePage #contentArea .clearFloat { clear:both; display: none;}
+
+/* Sub-unit homepage user selectable styles */
+.standalone-homePage #contentArea .topRow .promoOne.lo {background: #E4EBF2;}
+.standalone-homePage #contentArea .topRow .promoOne.lo h4, .standalone-homePage #contentArea .topRow .promoOne.lo h4 a, .standalone-homePage #contentArea .topRow .promoOne.lo ul.bulleted li a, .standalone-homePage #contentArea .topRow .promoOne.lo ul.bulleted li {color: #000;}
+.standalone-homePage #contentArea .topRow .promoOne.med {background: #38A5E8;}
+.standalone-homePage #contentArea .topRow .promoOne.hi {background: #105183;}
+.standalone-homePage #contentArea .topRow .promoOne.hi h4, .standalone-homePage #contentArea .topRow .promoOne.med h4, .standalone-homePage #contentArea .topRow .promoOne.hi h4 a, .standalone-homePage #contentArea .topRow .promoOne.med h4 a {color: #fff;}
+.standalone-homePage #contentArea .topRow .promoOne.hi ul.bulleted li a, .standalone-homePage #contentArea .topRow .promoOne.med ul.bulleted li a, .standalone-homePage #contentArea .topRow .promoOne.hi ul.bulleted li , .standalone-homePage #contentArea .topRow .promoOne.med ul.bulleted li {color: #fff;}
+
+.standalone-homePage #contentArea .infoItem.lo {background: #E4EBF2;}
+.standalone-homePage #contentArea .infoItem.lo p, .standalone-homePage #contentArea .infoItem.lo p a, .standalone-homePage #contentArea .infoItem.lo h4, .standalone-homePage #contentArea .infoItem.lo h4 a, .standalone-homePage #contentArea .infoItem.lo h1, .standalone-homePage #contentArea .infoItem.lo h1 a, .standalone-homePage #contentArea .promoThree .infoItem.lo a, .standalone-homePage #contentArea .promoThree .infoItem.lo li {color: #000;}
+.standalone-homePage #contentArea .infoItem.lo a:hover {color: #F00;}
+.standalone-homePage #contentArea .infoItem.lo img {border-bottom: #A6B3C0 5px solid;}
+.standalone-homePage #contentArea .infoItem.med {background: #38A5E8;}
+.standalone-homePage #contentArea .infoItem.med img {border-bottom: #106EB6 5px solid;}
+.standalone-homePage #contentArea .infoItem.hi {background: #105183;}
+.standalone-homePage #contentArea .infoItem.hi img {}
+
+.standalone-homePage #contentArea .subsiteSmall .infoItem.hi li,
+.standalone-homePage #contentArea .subsiteSmall .infoItem.med li,
+.standalone-homePage #contentArea .subsiteSmall .infoItem.lo li,
+.standalone-homePage #contentArea .subsiteSmall .infoItem.hi p,
+.standalone-homePage #contentArea .subsiteSmall .infoItem.med p,
+.standalone-homePage #contentArea .subsiteSmall .infoItem.hi a,
+.standalone-homePage #contentArea .subsiteSmall .infoItem.med a {color: #FFFFFF;}
+.standalone-homePage #contentArea .subsiteSmall .infoItem.med a:hover, .standalone-homePage #contentArea .subsiteSmall .infoItem.hi a:hover {color: #FF0000;}
+
+.standalone-homePage #contentArea .subsiteSmall .infoItem.lo {background: #f4f4f4;}
+
+.standalone-homePage #contentArea .subsiteSmall .infoItem img, .standalone-homePage #contentArea .topRow .themesMain img, .standalone-homePage #contentArea .topRow .promoOne img {border: none;}
+
+
+
+/* 11. Floats & clearing */
+/* ---------------------------------------------------------------------------------------------------------------- */
+.floatRight { float: right; margin-left: 8px;}
+.floatLeft { float: left; margin-right: 8px;}
+.clearFloat { clear:both; height:0; font-size: 1px; line-height: 0px;}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 12. Access */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#skipLink, #skipMenu { display: none;}
+
+/* 13. Footer */
+/* ---------------------------------------------------------------------------------------------------------------- */
+#contentArea p.articlePublished {clear: both; color: #666; font-size: 85%; /*11px*/ margin-top: 1.5em;}
+#footer { border-top: #25476C 10px solid; font-size: 1em; padding: 0 10px 0 20px; background: #F2F2F2 url(/images/footerbg.jpg) repeat-x;} 
+#footer a { color: #333;}
+#footer a:hover { color: #FF0000;}
+#footer div { width: 780px; margin: 0 auto; text-align: left; color: #000000; padding: 10px 0;}
+#footer div ul li {display: inline; padding: 0 20px 0 0; font-size: 85%; }
+#footer div ul {padding: 0 0 10px 0; text-align: left;}
+#footer div p {display: block; padding-bottom: 5px; font-size: 85%}
+
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+/* 14. Print styles */
+/* ---------------------------------------------------------------------------------------------------------------- */
+@media print {
+body {background: none;}
+#header {border-bottom: 0;} 
+#branding {width: 100%;}
+#branding img {display: none;}
+#branding a {color: #000000;}
+#branding span {text-indent: -70px; font-size: 200%; font-weight: bold; width: 100%;}
+#sectionHeader img {display: none;}
+#sectionHeader span.hideSection, #sectionHeader span {text-indent: 0px; font-size: 200%; color: #000000;}
+.childHeader a {font-size: 125%;}
+#container #contentArea {margin: 0; padding: 0;}
+#container #contentArea .infoItem * {float: none;}
+#footer, #globalNav, #utility, #breadTrail, #secondaryNav, #primaryNav {display: none;}
+}
+
+/* XX. Temp styles */
+/* ---------------------------------------------------------------------------------------------------------------- */
+.standalone- #contentArea { margin: 0 0 0 175px; padding: 5px 10px; } /* web proxy layout addition */
+
+/* <=IE6 styles */
+* html body {background-image: url(http://www.ed.ac.uk/polopoly_fs/1.2187!fileManager/bgbodyie.jpg) }
+* html body.standalone-frontTriple .infoItem, * html body.standalone-frontDouble .infoItem  {padding-bottom: 0px; margin-bottom: 0px;} 
+* html body.standalone-frontDouble .promoSmall, * html body.standalone-frontTriple .promoSmall  {padding: 5px 0 0 0;} 
+* html body.standalone-frontTriple .promoThree { background-color: #FF0000;}
+* html body div.caption p  {display:none;}
+/* temp search hacks */
+.a-infoseek #contentArea table { border: none;}
+.a-infoseek #contentArea h1 { float: none; }
+.a-infoseek #contentArea form {float: left;}
+.a-infoseek #contentArea div.results table { width: 585px; background-color: #f2f2f2; border: none; overflow: hidden; table-layout:fixed; }
+.a-infoseek #contentArea .navbar table { width: 570px; background-color: #f2f2f2; font-size: 110%;}
+.a-infoseek #contentArea div.results { width: 585px;}
+.a-infoseek #contentArea .pagebar img {display: none;}
+.a-infoseek #contentArea .pagebar  { background-color: #f2f2f2; margin-bottom: 20px;}
+.a-infoseek #contentArea .tip { display: none; }
+.a-infoseek #contentArea .score { display: none; }
+.a-infoseek #contentArea .tip { display: none; }
+.a-infoseek #contentArea div.query { display: none; }
+.a-infoseek #contentArea hr { display: none; }
+
+h1 + div {float: left;} /* Special html template outputs extra div - temp fix */
+

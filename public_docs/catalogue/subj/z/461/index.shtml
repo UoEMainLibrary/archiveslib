@@ -1,0 +1,32 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Zoology</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/z/">z</a><h1>Zoology</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=461&term=Zoology" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-205-2-1&view=basic">Papers in Natural History and Parish Management </a> (1663-1801) Papers of Dr. John Walker</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-205&view=basic">Papers of Dr. John Walker </a> (1731-1803) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-205-1&view=basic">Papers in Natural History </a> (1780-1789) Papers of Dr. John Walker</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-206-1&view=basic">Minutes </a> (1808) Records of the Wernerian Natural History Society</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1373-11&view=basic">Mineralogical Notes on Scotland </a> (1816) Notebooks of Robert Jameson</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1317&view=basic">24 drawings of of quadrupeds, birds, fishes, reptiles and insects by James Tait Black </a> (1840-1841) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1327&view=basic">Papers and other material relating to C. Wyville Thomson </a> (1841-1874) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-5-3&view=basic">Notes on Examinations for the Falconer Fellowship </a> (1860-1899) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-9-1&view=basic">Notes for lectures on 'Geographical Evolution' </a> (1860-1899) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-8-4&view=basic">Proof copy of article on 'The Geological Influences which have Affected the Course of British History' </a> (1881) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-7-2&view=basic">Lecture on the 'Volcanic History of Britain' </a> (1886) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5&view=basic">University of Edinburgh, King's Buildings Development: buildings plans </a> (1951-1978) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5-5-2&view=basic">University of Edinburgh, King's Buildings Development: proposed zoology extension </a> (1959) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5-5&view=basic">University of Edinburgh, King's Buildings Development: zoology building </a> (1959-1973) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5-5-4&view=basic">University of Edinburgh, King's Buildings Development: animal house extension </a> (1961) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5-5-1&view=basic">University of Edinburgh, King's Buildings Development: zoology extension </a> (1964-1965) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5-5-3&view=basic">University of Edinburgh, King's Buildings Development: zoology department mouse house </a> (1969) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C1&view=basic">Institute of Cell and Molecular Biology </a> (1990-1993) Records of the University of Edinburgh</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

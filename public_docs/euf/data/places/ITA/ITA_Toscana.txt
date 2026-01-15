@@ -1,0 +1,12 @@
+<!-- THIS FILE MUST BE SAVED IN UTF-8 ENCODING (or some special characters will be lost) -->
+<!-- @version $Id: ITA_Toscana.txt,v 1.2 2005/03/30 23:44:40 yalnifj Exp $ -->
+Arezzo
+Firenze
+Grosseto
+Livorno
+Lucca
+Massa-Carrara
+Pisa
+Pistoia
+Prato
+Siena

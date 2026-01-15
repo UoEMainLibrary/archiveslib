@@ -1,0 +1,4 @@
+AuthName "Catalogue Test Interface"
+AuthType Basic
+AuthUserFile /data/d4/archives/public_docs/catalogue/.htpasswd
+Require valid-user

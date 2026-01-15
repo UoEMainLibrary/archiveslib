@@ -1,0 +1,15 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Eòghan Buidhe na h-Uamh | Eignaig | Argyllshire | Scotland</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/pers/a/">Authority terms: personal names</a> &gt; <a href="/catalogue/pers/e/">e</a><h1>Eòghan Buidhe na h-Uamh | Eignaig | Argyllshire | Scotland</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=pers&id=4551&term=Eòghan Buidhe na h-Uamh | Eignaig | Argyllshire | Scotland" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-97-CW106-49&view=basic">Story about the sheep stealers Eowan buidhe na h uamh and his wife </a> (1870) The Carmichael Watson Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

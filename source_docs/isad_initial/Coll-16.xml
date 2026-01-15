@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-16"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-16</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of Joseph
+			 Black (1728-1799) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15), 
+			 <date normal="20050223">23 February 2005</date></item> 
+		</list> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections</corpname>
+		  </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-16</unitid> 
+		<physloc>Gen. 873-875</physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Joseph Black
+		  (1728-1799)</unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1754/1799">1754-1799</unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>5 boxes.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Joseph Black was born in Bordeaux, France, on 16 April 1728. His
+		  father, of Scottish descent and a native of Belfast, was involved in the wine
+		  business in France. Black was educated in Belfast and then studied medicine and
+		  natural sciences at Glasgow University where his chemistry instructor was
+		  William Cullen (1710-1790). In 1751 Black transferred his medical studies to
+		  Edinburgh. In 1756 he succeeded Cullen as Lecturer in Chemistry at Glasgow
+		  University and was also appointed Professor of Anatomy, later on exchanging to
+		  the Chair of Medicine. Black also practiced as a physician. Through his
+		  investigation of the heating of magnesium carbonate, he anticipated the
+		  findings of Antoine Laurent Lavoisier (1743-1794), and indeed of modern
+		  chemistry, by indicating the existence of the gas carbon dioxide as distinct
+		  from common air. An account of his studies was published in 
+		<title>Experiments upon magnesia alba, quicklime, and some other alcaline
+		  substances </title> (1756). Black's work at Glasgow led to the doctrine of
+		latent heat. He verified the hypothesis in 1761, thereafter teaching the
+		doctrine and doubtless influencing his friend James Watt (1736-1819) in the
+		construction of the condensing steam engine. Black also founded the theory of
+		specific heats. In 1766 until 1799, Black was Professor of Chemistry at
+		Edinburgh University. Joseph Black died in Edinburgh on 10 November 1799. His
+		lecture notes, supplemented by those of his pupils, were written and published
+		posthumously by John Robison as 
+		<title>Lectures on the elements of chemistry, delivered in the University
+		  of Edinburgh </title> (1803). </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Joseph Black Manuscript collection consists of volumes of
+		  correspondence between himself and a variety of persons (including James Watt,
+		  Prince Paul Dashkov, Johann Albrecht Euler), and on a variety of subjects:
+		  linen bleaching, use of lime water, assays of ores, civic water supply,
+		  mineralogical specimens, absorption of heat etc. There are family letters too,
+		  between Black and his father and his brothers Samuel, George and Thomas, again
+		  on a variety of subjects: legal and money matters, health matters, trade with
+		  America, French flax, naval telegraphy, French prisoners in Edinburgh Castle
+		  etc. There are also manuscript copies of Black's Chemistry Lectures. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Black</emph> <emph altrender="forename">Joseph</emph>
+		  <emph altrender="dates">1728-1799</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Euler</emph> <emph altrender="forename">Johann
+		  Albrecht</emph> <emph altrender="dates">1734-1800</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Cullen</emph> <emph altrender="forename">William</emph>
+		  <emph altrender="dates">1710-1790</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Lavoisier</emph> <emph altrender="forename">Antoine
+		  Laurent</emph> <emph altrender="dates">1743-1794</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Watt</emph> <emph altrender="forename">James</emph>
+		  <emph altrender="dates">1736-1819</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Robison</emph> <emph altrender="forename">John</emph>
+		  <emph altrender="dates">1739-1805</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Dashkov</emph> <emph altrender="forename">Pavel
+		  Mikhailovich</emph> <emph altrender="title">Prince</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Glasgow
+		  University</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Heat</emph> <emph altrender="x">Experiments</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Chemistry</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Medicine</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Physicians</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H16; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows at various shelfmarks references to
+		  notes of lectures taken down by others, an autobiographical note from Black's
+		  birth to his graduation, and printed tables. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

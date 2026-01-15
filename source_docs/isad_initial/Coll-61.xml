@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-61"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237 Coll-61
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Firth of Forth
+			 Defences in the 20th Century </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-61
+		  </unitid> 
+		<physloc>Gen. 978-982; PC 57 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Firth of Forth Defences in the 20th
+		  Century </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1879-1987">1879-1987 </unitdate> 
+		<origination encodinganalog="isad(g) 3.2.1./marc 700">Captain Bruce
+		  Alexander Stenhouse </origination> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>5 boxes; 1
+		  plan chest drawer. </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Bruce Alexander Stenhouse was born 15 September 1911 in Sheerness,
+		  Kent. He attended preparatory schools in Plymouth and Gibraltar, locations
+		  presumably determined by his father's service in the Royal Navy, and then
+		  between 1920 and 1930 he attended Edinburgh Academy. During the Second World
+		  War he served with the 257 Coast Battery, Royal Artillery, in East Lothian, but
+		  he also served in North Africa and Italy. In 1950 he became Registrar at
+		  Edinburgh Academy, retiring in 1976. Prior to his retiral he had been toying
+		  with the idea of compiling a history of the defence of the coast of Scotland
+		  from early times. He set about building up a mass of Public Record Office
+		  references from the Admiralty, the Committee for Imperial Defence, and the War
+		  Office, and he had sounded out various ex-Forth Coast Gunners and other likely
+		  sources for inputs towards the project. Stenhouse died in Edinburgh on 25 April
+		  1991. Stenhouse's research was presented to by his widow in 1996. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The collection includes Public Record Office references, 1879-1956;
+		  correspondence of B.A. Stenhouse and Major D. Rollo (Retired), H.Q. Royal
+		  Artillery, Woolwich, 1979-1987, relating to research on coastal defence, in
+		  addition to miscellaneous correspondence 1976-1990; material relating to
+		  batteries and forts, including Forth Artillery Defences 1880-1980; papers
+		  relating to the defence of islands; newspaper cuttings; material on attacks and
+		  disasters; aerial photographs, and camp and group photographs; and, photographs
+		  of ships, armoured trains, and forts and batteries. There is also a plan chest
+		  drawer of photographs, maps and plans, including group photographs of the Forth
+		  Heavy Brigade and OTC, 1933-1935, camp photographs at Kincraig, 1949, and maps
+		  and plans of installations and batteries at Carlingnose, North Queensferry, and
+		  Cromarty. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Stenhouse</emph> <emph altrender="forename">Bruce
+		  Alexander</emph> <emph altrender="dates">1911-1991</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Defenses</emph> </subject> 
+		<subject source="unesco" encodinganalog="marc 650"> <emph
+		  altrender="a">Defence</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Fortification</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Batteries (Ordnance)</emph> </subject> 
+		<subject source="aacr2" encodinganalog="marc 651"> <emph
+		  altrender="a">Firth of Forth (Scotland)</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H61 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

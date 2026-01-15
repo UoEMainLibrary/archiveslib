@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4254</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-06-29">29 June 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2010-10-12">12 October 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>14 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 118/03 004/03 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 118/03 004/03 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1901 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1901 118/03 004/03 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1916 118/03 0018</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Transcription notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW87/52</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW126g/6</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4254</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">McCormick</part>
+                <part localType="given">Donald</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter, Kilpheder, South Uist</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1842" notBefore="1837" notAfter="1847"
+                        >c1842</fromDate><toDate standardDate="1916-06-02">2 June
+                    1916</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Donald MacCormick was the son of Alexander MacCormick and Sarah née MacMillan. He
+                    is recorded in 1881 as living in the house of their brother John (born c. 1829)
+                    in Cille Pheadair, together with their sister Mary (born c. 1831), brother Angus
+                    (born c. 1844), and cousin Mary. Ten and twenty years later the household
+                    remained the same, although Mary had left. Donald and his younger brother Angus
+                    are recorded in the censuses as speaking English as well as Gaelic, a relatively
+                    unusual skill suggesting they may have spent time outwith the Gàidhealtachd.
+                    Staying with them as a visitor in 1901 is Flora Gillies, a former dairymaid born
+                    in Morar. Donald MacCormick died in June 1916 of senile decay and his brother
+                    Angus was witness to his death. MacCormick’s age was given as 80, apparently
+                    nearly twenty years older than he actually was.</p>
+                <p>Donald MacCormick is given as the source for a version of the peat-smooring
+                    prayer <span>Smàladh an Teine</span>, and for a version of the prayer before
+                    sleep, <span>Altachadh Leapa</span> (‘Tha mise cur m’ anama ’s mo chuirp…). If
+                    the later ascription of the following items to ‘Don[ald] Macdonald, crofter
+                    Grimnis, Benbecula’ is mistaken – the original ascriptions read ‘From the same,
+                    same time’ – he may have supplied considerably more: the genealogical prayer to
+                    St Bride <span>Sloinneadh Brìde</span>; another <span>Altachadh Leapa</span>
+                    (‘Laidhidh mise noc[hd]’); the churning charm <span>Rann Maistridh</span> (‘Thig
+                    a chuinneag thig’); the fairy song <span>A Mhòr a Mhòr, till ri d’
+                    mhacan</span>; a humorous song or poem <span>Tochra na Mnatha</span>; the
+                    milking song <span>Hi u oilegan i u o m aighean</span>; names of plants
+                    connected with charming; <span>Eolas a Bhun Deirg</span>, the red water charm; a
+                    charm against leprosy; various plant cures; and a fairy story concerning a girl
+                    trapped in a <span>brùgh</span> [CW87/54-65].</p>
+                <p>It should, however, be noted that the <span>Sloinneadh</span> or
+                        <span>Sloinntireachd Brìde</span> – and therefore all items which follow –
+                    is definitely ascribed to Donald MacDonald in [CW359 fos.36–7], and in its
+                    eventual publication in <span localType="mods-titleinfo">CG</span> i, 174–5 [cf.
+                    ibid., 375; John Gregorson Campbell (ed. Ronald Black), <span
+                        localType="mods-titleinfo">The Gaelic Otherworld</span> (Edinburgh, 2005),
+                    675]. The date given for the interview with MacCormick, 21 December 1885, and
+                    the fact that these items are written into a transcription notebook, suggest
+                    that the recorder was not Alexander Carmichael himself, but probably his
+                    assistant John Ewen MacRury (1853–1909). A heavily edited and polished version
+                    of Donald MacCormick’s <span>Altachadh Leapa</span> was published in <span
+                        localType="mods-titleinfo">Carmina Gadelica</span> as <span>Urnuigh
+                        Chadail</span> [<span localType="mods-titleinfo">CG</span> i, 72–3].</p>
+                <chronList>
+                    <chronItem><date standardDate="1842" notAfter="1847" notBefore="1837"
+                            >c1842</date><placeEntry>South
+                        Uist</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1885-12-21">21 December
+                            1885</date><placeEntry>Kilpheder, South Uist</placeEntry><event>visited
+                            by Alexander Carmichael or John Ewen MacRury</event></chronItem>
+                    <chronItem><date standardDate="1916-06-02">2 June
+                            1916</date><placeEntry>Kilpheder, South
+                            Uist</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

@@ -1,0 +1,29 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: England </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/geog/a/">Authority terms: geographic names</a> &gt; <a href="/catalogue/geog/e/">e</a><h1>England </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=geog&id=999&term=England " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-203&view=basic">Papers of Sir Charles Lyell </a> (1823-1875) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-11-8&view=basic">Correspondence to Sir Archibald Geikie: A Bachellery to Thomas Forster Brown </a> (1855) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-6-4&view=basic">Lectures on American geological history </a> (1874-1884) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-1&view=basic">Geological Survey notebooks </a> (1877-1900) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-8-4&view=basic">Proof copy of article on 'The Geological Influences which have Affected the Course of British History' </a> (1881) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-7-1&view=basic">Lecture on 'The Origin of the Scenery of the British Isles' </a> (1884) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-11-5-17&view=basic">Letter to Sir Archibald Geikie from Capt Clarence Edward Dutton </a> (1885) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-193&view=basic">Vocabulary notes for types of bait </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-108&view=basic">Note entitled 'Wolves' </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-20&view=basic">Quote about the 'Anglicized Scot' </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-3&view=basic">Papers relating to Raised Beaches </a> (1890-1909) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-46&view=basic">Note about dogs dying and accompanying story about a faithful dog </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-154&view=basic">Note about carbhanach or bream </a> (1894) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-3-12&view=basic">Letter from George William Lamplugh </a> (1903) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1040&view=basic">The Percy Johnson-Marshall Collection </a> (1931-1993) </li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

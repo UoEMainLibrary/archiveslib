@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0252-20020130//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0252</titleproper> 
+		  <subtitle>Lavoisier | Antoine Laurent | 1743-1794 | French
+			 chemist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 30 January 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020130">30 January 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0252</titleproper> 
+		<subtitle>Black | Joseph | 1728-1799 | professor of chemistry, University
+		  of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+		  University Library Special Collections Division, 30 January 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020130">30 January 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0252"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0252</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0252"
+		 normal="Lavoisier, Antoine Laurent">Lavoisier | Antoine Laurent | 1743-1794 |
+		  French chemist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Antoine-Laurent Lavoisier was born in 1743. He studied mathematics
+			 and astronomy with Nicolas de Lacaille (<date normal="1713/1762"
+			 type="life-span">1713-1762</date>), chemistry with Guillaume-Fran&#x00E7;ois
+			 Rouelle (<date normal="1703/1770" type="life-span">1703-1770</date>) and botany
+			 with Bernard de Jussieu (<date normal="1699/1777"
+			 type="life-span">1699-1777</date>) at the Coll&#x00E8;ge Mazarin. From 
+			 <date normal="1763/1767" type="inclusive">1763-1767</date> he studied
+			 geology under Jean Etienne Guettard (<date normal="1715/1786"
+			 type="life-span">1715-1786</date>). He was one of the best known French
+			 scientists and an important government official. His theories of combustion,
+			 and his development of a new system of chemical nomenclature and the first
+			 modern textbook of chemistry led to his being known as the father of modern
+			 chemistry. As a scientist, Lavoisier demonstrated the nature of combustion,
+			 disproving the phlogiston theory. He also proposed the name "oxygen" for the
+			 substance previously known as "dephilogisticated air," and laid the framework
+			 for understanding chemical reactions as combinations of elements to form new
+			 materials.</p> 
+		  <p>As a government official, Lavoisier was successful in creating
+			 agricultural reform, serving as a tax collection official, and overseeing the
+			 government's manufacture of gunpowder. In 
+			 <date normal="1787" type="single">1787</date> Irenee du Pont was
+			 apprenticed as a bookkeeper to Lavoisier, then Commissioner of Powders. Over
+			 the three years he was with Lavoisier at the Royal Arsenal, Irenee was exposed
+			 to the art of gunpowder making. Lavoisier, who was responsible for changing
+			 French gunpowder from the very worst to the very best in the world, then
+			 offered the young Irenee a job at the powder factory outside of Paris. In 1765
+			 he wrote and published a paper on how to improve the street lighting in Paris.
+			 For this and some works on agriculture, he was elected into the Royal Academy
+			 of Science in 1768. Also in this year, he joined the Farmer's General, a
+			 private company that collected taxes and tariffs for the government. In 1775,
+			 Lavoisier was appointed to the National Gunpowder Commission. He then moved to
+			 the Arsenal of Paris where he created a superb laboratory for his growing
+			 experimentation. In large part, he was able to afford his experiments and such
+			 a laboratory because of his inherited wealth. His new home quickly became a
+			 gathering place for scientists and freethinkers. Lavoisier was politically
+			 liberal and shared many of the ideas of the philosophers. He was deeply
+			 persuaded of the need for social reform in France. Because of this, he played
+			 an active part in the events preceeding the French Revolution. He served on a
+			 committee concerned with the social conditions of France and proposed tax
+			 reforms and new economic strategies. He also served on a committee that
+			 explored hospitals and prisons of Paris and then recommended remedies for their
+			 horrible state. During the revolution, he published a report on the state of
+			 France's finances. When the Estate's General reconvened in 1789, he became an
+			 alternate deputy and drew up a code of instructions for the other deputies to
+			 follow. Soon after the revolution began, Jean-Paul Marat and other radical
+			 journalists began to slander Lavoisier for being a member of the Farmer's
+			 General. On May 8th, 1794, all of the Farmer's General were arrested and thrown
+			 in prison. In a trial that lasted less than a day, they were all convicted and
+			 sentenced to execution.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p> </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Experiments Upon Magnesia Alba, Quicklime and Some
+			 Other Alcaline Subctances. Essays and Observations Physical and Literary,
+			 2</title>, ( <imprint><date type="publication" normal="1756"
+			 certainty="certain">1756</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date normal="1767" type="appointmentdate">1767</date>: Appointed
+			 Fellow, Royal College of Physicians</p> 
+		  <p><date type="appointmentdate" normal="1788">1788</date>: Appointed
+			 President, Royal College of Physicians</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles Coulston"
+			  role="editor">Gillispie, Charles Coulston</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol ii</title>, (<imprint>
+			 <geogname normal="United States" authfilenumber="511" source="lcsh">United
+			 States of America</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1972"
+			 certainty="certain">1972</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="McIntyre, Peter" role="author">Peter
+			 McIntyre</persname>, <title render="italic">The University Portraits: Joseph
+			 Black</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Edinburgh University Press</publisher>, 
+			 <date type="publication" normal="1957"
+			 certainty="certain">1957</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Williams, Trevor I" role="editor">Williams,
+			 Trevor I</persname>, <title render="italic">A Biographical Dictionary of
+			 Scientists</title>, (<imprint>
+			 <geogname normal="London (England)" authfilenumber="530"
+			 source="lcsh">London</geogname>, 
+			 <publisher>A and C Black</publisher>, 
+			 <date type="publication" normal="1969"
+			 certainty="certain">1969</date>)</imprint></bibref> </p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Grant, Sir Alexander" role="editor">Sir
+			 Alexander Grant</persname>, <title render="italic">The Story of the University
+			 of Edinburgh</title>, (<imprint>
+			 <geogname normal="London (England)" authfilenumber="530"
+			 source="lcsh">London</geogname>, 
+			 <publisher>Longhams, Green &amp; Co</publisher>, 
+			 <date type="publication" normal="1884"
+			 certainty="certain">1884</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020130">30 January
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

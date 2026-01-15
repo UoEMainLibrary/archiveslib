@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0219 20010417 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0219</titleproper> 
+		  <subtitle>Lyell | Sir | Charles | 1797-1875 | geologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Rachael Third, Edinburgh
+			 University Library Special Collections Division, 17 April 2001</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20010417">17 April 2001</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0219</titleproper> 
+		<subtitle>Lyell | Sir | Charles | 1797-1875 | geologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Rachael Third , Edinburgh
+		  University Library Special Collections Division, 17 April 2001</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20010417">17 April 2001</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0219"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0219</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0219" normal="Lyell, Sir, Charles">Lyell | Sir
+		  | Charles | 1797-1875 | geologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir Charles Lyell was a geologist whose work helped to found the
+			 modern notion of geology and geologic time whilst establishing geology as a
+			 seperate science. In his first book, <bibref><title>Principles of
+			 Geology</title>, <imprint>(<date type="publication" normal="1830"
+			 certainty="certain">1830</date>)</imprint></bibref> he propounded his theory of
+			 uniformitarianism, that the Earth's history can be explained by gradual change
+			 over time. He also proposed the idea that different periods of geologic time
+			 could be established by reference fossils, he divided geologic time into four
+			 periods; Pleistoscene, Older Pliocene, Miocene and Eocene. He also expounded
+			 notions on the rock cycle, how one type of rock was transformed into another,
+			 volcanic forces, deposition and erosion. </p> 
+		  <p>Lyell attended William Buckland's (<date normal="1784/1856"
+			 type="life-span">1784-1856</date>) lectures on Geology in<date type="single"
+			 normal="1818">1818</date>. He visited Paris in 
+			 <date type="single" normal="1823">1823 </date>where he spent 2
+			 months. The scientific influence of Paris was profound for Lyell. He first
+			 became aware of the depth and seriousness of French studies on natural history
+			 and geology.</p> 
+		  <p>In 
+			 <date type="single" normal="1822">1822</date> Lyell was called to the
+			 bar; and from 
+			 <date type="inclusive" normal="1825/1827">1825-1827</date> he was a
+			 practicing barrister. Whilst on circuit he had the opportunity to study the
+			 geology of the Southwest of England. In 
+			 <date type="single" normal="182805">May 1828</date> he travelled to
+			 Europe (some of the journey with Sir Roderick Impey Murchison 
+			 <date normal="1726/1797" type="life-span">1792-1871</date>) going
+			 through France and into Italy. In 
+			 <date type="single" normal="1830">1830</date> he made a geological
+			 journey to the Pyrenees. In the first edition of his <bibref><title>Principles
+			 of Geology</title>, <imprint>(<date type="publication" normal="1831"
+			 certainty="certain">1831</date>)</imprint></bibref> Lyell argued that the
+			 natural order of the past was uniform with that of the present; the same
+			 physical laws held true and the same kinds of processes occurred. The geologist
+			 should, therefore, attempt to explain geological phenomena by analogy with
+			 modern processes. The doctrine came to be known as uniformitarianism. Lyell
+			 continued to revise <bibref><title>Principles of Geology</title></bibref>
+			 throughout his lifetime and brought out 12 successive editions. He later
+			 published <bibref><title>Elements of Geology</title>, (<imprint><date
+			 type="publication" normal="1838"
+			 certainty="certain">1838</date>)</imprint></bibref> in one volume. This first
+			 modern textbook of geology assumed that geological phenomena could be explained
+			 completely in terms of natural and knowable causes. He developed a warm
+			 friendship with Charles Robert Darwin (<date type="life-span"
+			 normal="1809/1882">1809-1882</date>) in 
+			 <date type="single" normal="1836">1836</date>, shortly after Darwin's
+			 return from the 'Beagle' Voyage. Lyell's theoretical positions even when wrong,
+			 were always carefully reasoned; and he showed an extraordinary capacity even
+			 into old age to understand the meaning of new evidence and to change his
+			 mind.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Sir Charles Lyell was married to Mary Elizabeth Horner, daughter of
+			 educationalist and geologist Leonard Horner (<date type="lifespan"
+			 normal="1785/1864">1785-1864</date>) and his brother Henry was married to her
+			 sister Katherine Murray Horner.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Principles of Geology</title>, (<imprint><date
+			 type="publication" normal="1830"
+			 certainty="certain">1830</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Elements of Geology</title>, (<imprint><date
+			 type="publication" normal="1837"
+			 certainty="certain">1837</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Geological Evidences of the Antiquity of Man</title>,
+			 (<imprint><date type="publication" normal="1863"
+			 certainty="certain">1863</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1819">1819</date>: Elected
+			 Fellow, Geological and Linnean Societies of London</p> 
+		  <p> 
+			 <date type="appointmentdate" normal="1823">1823</date>: Appointed
+			 Secretary, Geological Society of London </p> 
+		  <p><date type="appointmentdate" normal="1826">1826</date>: Appointed
+			 Foreign Secretary, Geological Society of London</p> 
+		  <p><date type="chairspan" normal="1831/1833">1831-1833</date>:
+			 Appointed Professor of Geology, Kings College, London</p> 
+		  <p><date type="single" normal="1834">1834</date>: Awarded Royal Medal,
+			 Royal Society of London</p> 
+		  <p><date type="appointmentspan" normal="1834/1836">1834-1836</date>:
+			 Elected President, Geological Society of London</p> 
+		  <p><date type="single" normal="1848">1848</date>: Awarded
+			 Knighthood</p> 
+		  <p><date type="appointmentdate" normal="1850">1850</date>: Appointed
+			 President, Geological Society of London </p> 
+		  <p><date type="single" normal="1858">1858</date>: Awarded Copley
+			 Medal</p> 
+		  <p><date type="appointmentdate" normal="1864">1864</date>: Appointed
+			 President, British Association for the Advancement of Science</p> 
+		  <p><date type="single" normal="1864">1864</date>: Awarded Wollaston
+			 Medal of the Geological Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Williams, TI"
+			 role="editor">Williams, TI</persname>, <title>A Biographical Dictionary of
+			 Scientists</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Adam and Charles Black Ltd</publisher>, 
+			 <date type="publication" normal="1969"
+			  certainty="certain">1969</date>)</imprint></bibref> </p> 
+		  <p><bibref><persname source="ncarules" normal="Bailey, Edward"
+			 role="author">Bailey, Edward</persname>, <title>Charles Lyell</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Thomas Nelson &amp; Sons Ltd</publisher>, 
+			 <date type="publication" normal="1962"
+			  certainty="certain">1962</date>)</imprint></bibref></p> 
+		  <p><bibref><corpname normal="Angus Council">Angus Council</corpname>,
+			 <title>Local History, People of Angus, Sir Charles Lyell </title>, (<extref
+			 href="http://www.angus.gov.uk">http://www.angus.gov.uk</extref>, 
+			 <imprint><publisher>Angus Council</publisher>, 
+			 <date type="publication" normal="2001"
+			  certainty="certain">2001</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Third, Rachael">Rachael Third</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20010417">17 April
+				2001</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

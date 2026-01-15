@@ -1,0 +1,16 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Nazis</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/n/">n</a><h1>Nazis</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=2830&term=Nazis" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-17-6&view=basic">Official Delegation to the Nazi leaders </a> (1936) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-BAI-1-17-8&view=basic">1937, 38, 39 file </a> (1937-1939) Papers of Professor John Baillie, and Baillie Family Papers</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

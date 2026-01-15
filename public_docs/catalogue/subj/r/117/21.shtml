@@ -1,0 +1,21 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Religion</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/r/">r</a><h1>Religion</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=117&term=Religion" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-6-9&view=basic">Natural Science and the Spiritual Life </a> (1940-1960) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-2-4-2&view=basic">Leaflets, books and booklets </a> (1943-1948) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-6&view=basic">Broadcasts </a> (1949-1953) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-6-13&view=basic">This Day and Age (10): Pilgrims Progress </a> (1951) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-6-24&view=basic">YMCA, Paisley </a> (1952) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-6-18&view=basic">Science and Faith (5): A Survey of the Series </a> (1952) Papers of Professor John Baillie, and Baillie Family Papers</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

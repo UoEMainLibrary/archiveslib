@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1082">GB
+		237 Coll-1082</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers relating to the Literary Journal 'Two
+			 Rivers'</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20060214" certainty="certain">14 February
+			 2006</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage> 
+		<descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint> 
+			 <date type="publication" certainty="certain"
+			  normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname> 
+			 <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint> 
+			 <date type="publication" normal="1997"
+			  certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1082"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1082</unitid> 
+		<physloc label="Shelfmark" encodinganalog="shelfmark">E95.77</physloc> 
+		<unittitle encodinganalog="isadg(2)312">Papers relating to the Literary
+		  Journal 'Two Rivers'</unittitle> 
+		<unitdate normal="1969/1970"
+		 encodinganalog="isadg(2)313">1969-1970</unitdate> 
+		<repository label="Repository" encodinganalog="NAHSTE31">Edinburgh
+		  University Library, Special Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">3 folders </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Green, Martin; Durcan, Paul</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p> 
+		<title>Two Rivers</title> was an ambitious quarterly literary journal
+		edited by Martin Green and Paul Durcan. The journal aimed to 'contribute to a
+		climate more sympathetic to the writer, not only to publishing the work of
+		young and previously unknown authors, but by giving space to already
+		established poets'. There were only two issues: Winter 1969; Spring 1970.
+		Contributors included Hugh MacDiarmid (Christopher Grieve).</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The collections is composed of: autograph manuscripts; typed
+		  manuscripts; signed autograph letters and signed typed letters; and autograph
+		  post cards. There are also contents lists and corrected galley proofs. The
+		  collection includes letters of congratulation on the publication of the
+		  journal, and letters from Christopher Grieve (Hugh MacDiarmid).</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required-->
+	 <descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Accession No: E95.77</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository fo
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared for this collection.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using material
+			 contained in the collection.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Scottish
+			 literature</emph><emph altrender="y">20th century</emph></subject> 
+		  <subject><emph altrender="a">English literature</emph><emph
+			 altrender="y">20th century</emph></subject>
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph altrender="surname">Durcan</emph><emph
+			 altrender="forename">Paul</emph><emph altrender="dates">b. 1944 </emph><emph
+			 altrender="epithet">Literary critic</emph><emph
+			 altrender="other"></emph></persname> 
+		  <persname><emph altrender="surname">Green</emph><emph
+			 altrender="forename">Martin</emph><emph altrender="dates">fl.
+			 1969-1970</emph><emph altrender="epithet">Literary critic</emph></persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses &amp; Organisations</head>		  <!-- NCA Rules -->
+		  <corpname rules="ncarules"><emph altrender="a">Two Rivers (Literary
+			 Journal)</emph></corpname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-33">GB 237
+		Coll-33</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers of David
+			 Gregory (1661-1708) </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-33">
+    <did>
+      <unittitle>Papers of David
+			 Gregory (1661-1708) </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-33</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Dc.1.61; Dk.1.2 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers of David Gregory (1661-1708)
+		  </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1507-1706">1507-1706 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>1 volume; 3
+		  box files. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>David Gregory, the astronomer and mathematician, was born at
+		  Kinnairdie in Banffshire, north east Scotland on 24 June 1661 (though some
+		  references suggest 6 March 1659). From Marischal College, Aberdeen, he entered
+		  Edinburgh University, graduating M.A. on 28 November 1683. A month prior to his
+		  graduation he was elected to the Chair of Mathematics, at one time occupied by
+		  his uncle, the mathematician James Gregory (1638-1675). In 1684, David Gregory
+		  published in Edinburgh his 
+		Exercitatio geometrica de dimensione figurarum  in which,
+		with the assistance of his uncle's work, he extended the method of quadratures
+		by infinite series. As a professor, Gregory was the first to lecture publically
+		on the Newtonian philosophy. His lecture notes show that they covered a broad
+		range of subjects including geodesy, optics, dynamics, and various branches of
+		mathematics. In 1691 he went to London where he was introduced to Newton and
+		recommended to John Flamsteed (1646-1719), the first astronomer royal. With the
+		combined influence of Newton and Flamsteed, Gregory was awarded the Savilian
+		Chair of Astronomy at Oxford in 1691. In 1692 he took the degrees of M.A. and
+		M.D. at Oxford, and he became a master commoner of Balliol College. Also in
+		1692, he was elected a fellow of the Royal Society. In 1699 he was appointed as
+		mathematical tutor to William, Duke of Gloucester. The substance of his work
+		delivered in Edinburgh, and published there in 1684, was contained in his 
+		Catoptricae et dioptricae sphaericae elementa  (1695) and
+		was adapted to undergraduates. In this work, Gregory gave the first hint of the
+		achromatic telescope when he referred to the possibility of counteracting
+		colour aberration in lenses by combining in them media of different densities.
+		The work was reprinted in Edinburgh in 1713 and translated into English (from
+		Latin) in 1715. His principle work however was 
+		Astronomiae physicae et geometricae elementa  (1702). This
+		was the first text-book on gravitational principles and it remodelled astronomy
+		in conformity with physical theory. His next work, in Greek and Latin, was 
+		Euclides  (1703) which was an edition of all the writings
+		attributed to Euclid. In 1704, Gregory was nominated to the committee charged
+		by Prince George with the inspection and printing of the Greenwich
+		observations, and in 1705 he was chosen as honorary fellow of the Royal College
+		of Physicians of Edinburgh. Gregory died on 10 October 1708 at the Greyhound
+		Inn at Maidenhead, Berkshire, while on his return to London from Bath after
+		taking the cure there for consumption. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The content of the Papers of David Gregory have been indexed within
+		  the handlist H33. The majority of the papers deal with mathematical questions,
+		  and there are many about astronomy and optics. There is also a provisional
+		  index of subjects from acid, agriculture, and archaeology, to the Darien
+		  Scheme, law, tide tables, and university. There is a provisional index too of
+		  personal names from Queen Anne, Bernoulli, Tycho Brahe, and Cassini, to Euclid,
+		  Edmond Halley, James VI, Mercator, Sir Isaac Newton, Ptolemy, Pythagorus, and
+		  Torricelli. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H33; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows, at various shelfmarks, references to
+		  many additional notes by David Gregory at Dc. 1.62., inscription and
+		  annotations by him in a Greek manuscript at Dc. 4.85., and treatises,
+		  lectiones, notes and letters at various shelfmarks. </p>
+      </relatedmaterial>
+      <separatedmaterial encodinganalog="isadg(2)353(a)">
+        <head>Separated Material</head>
+        <p>A list of books, theses, letters and family records which would assist
+		  in the study of the Papers of David Gregory has also been drawn up and is held
+		  within the handlist H33. While some of the books and theses are held within
+		  Edinburgh University Library, others may be found at the National Library of
+		  Scotland; Aberdeen University Library; Edinburgh Public Library (Reference
+		  Library); the Scottish Records Office; the Lyon Office; the British Library;
+		  and, John Rylands Library, University of Manchester. </p>
+      </separatedmaterial>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

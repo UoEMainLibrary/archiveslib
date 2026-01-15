@@ -1,0 +1,16 @@
+<!--#include virtual="/ght/includes/top_header.php" -->
+<title>Godfrey Thomson Project: Heredity</title>
+
+<!--#include virtual="/ght/includes/cat_header.php" -->
+<!--#include virtual="/ght/includes/lower_header.php" -->
+
+
+<a href="/ght/catalogues">Catalogue</a> &gt; <a href="/ght/subj/a/">Authority terms: subjects</a> &gt; <a href="/ght/subj/h/">h</a><h1>Heredity</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/ght/cs/viewauth.php?type=subj&id=310&term=Heredity" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1310&view=basic">Papers of Godfrey H. Thomson </a> (1890-1978) </li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-EUA-IN1-ACU-G1&view=basic">Records of the Godfrey Thomson Unit for Educational Research </a> (1896-1979) Records of the University of Edinburgh</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/ght/includes/footer.php" -->

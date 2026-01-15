@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0261 20020422 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0261</titleproper> 
+		  <subtitle>Sorby | Henry Clifton | 1826-1908 | geologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 22 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020422">22 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0261</titleproper> 
+		<subtitle>Sorby | Henry Clifton | 1826-1908 | geologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 22 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020422">22 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0261"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0261</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0261" normal="Sorby, Henry Clifton">Sorby |
+		  Henry Clifton | 1826-1908 | geologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Henry Clifton Sorby (<date type="life-span"
+			 normal="1826/1908">1826-1908</date>), a geologist and metallurgist, was
+			 introduced to science at the age of fifteen, when he won a book entitled
+			 <bibref>'<title>Readings in Science</title>' (<imprint><date type="publication"
+			 normal="1833">1833</date></imprint>)</bibref> for the best maths score in his
+			 class. His choice of field of study was probably influenced by his background
+			 as the son of a cutler, from a family of cutlers, in Sheffield, Britain's steel
+			 capital. While he did study at school and under a private tutor, Sorby never
+			 attended university, saying that he wanted an education "not [in order] to pass
+			 an examination but to qualify myself for a career of original investigation."
+			 This spirit of "original investigation" lived on, and he never worked for an
+			 institution, and he financed his work himself. He is said to have been one of
+			 the last important independent amateur scientists.</p> 
+		  <p>Sorby's principal legacy to the science of geology is microscopical
+			 petrography, the study of rock samples through a polarising microscope. He was
+			 ridiculed at the time for "studying mountains with a microscope", but he always
+			 defended himself, and insisted that details were important, regardless of size.
+			 He also turned his microscope onto iron and steel, and found that steel in
+			 particular, had a structure that resembled a rock - he found crystalline
+			 elements and a far less uniform structure than had been assumed until then.</p>
+		  
+		  <p>Sorby emerged with an enhanced reputation from the debate over slaty
+			 cleavage. Slaty cleavage occurs when slate cracks in a different direction to
+			 the strata that make it up. He proved this phenomenon occurs when slate is
+			 deformed by non-uniform pressure that reorients the mica particles contained
+			 within the rock. He followed a slightly different route when investigating
+			 sandstone. He carried out practical experiments on the deposition of sand from
+			 water in various conditions, and was thus able to explain, in commendable
+			 detail, the manner in which various sandstone deposits had been created.</p> 
+		  <p>Sorby also used spectrum analysis of minerals and biological matter.
+			 He believed he had found a new element in the mineral jargon with this method -
+			 which he tentatively named 'jargonium' - only to find that the spectrum lines
+			 were caused by uranium. With his spectrum method, he identified carotene during
+			 his studies of pigmentation in plants and animals.</p> 
+		  <p>In 
+			 <date type="single" normal="1878">1878</date>, Sorby acquired a
+			 yacht, the 'Glimpse', which he equipped as a full floating laboratory, in which
+			 he spent the summer months of the next 25 years touring Britain in. He left the
+			 bulk of his library and money to the newly created University of Sheffield,
+			 which he had been a strong supporter of.</p> 
+		  <p>He wrote approximately 240 scientific papers in his lifetime.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>None</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1850">1850</date>: Elected
+			 Fellow, Geological Society</p> 
+		  <p><date type="appointmentdate" normal="1857">1857</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="single" normal="1869">1869</date>: Awarded Wollaston
+			 Medal of the Geological Society</p> 
+		  <p><date type="single" normal="1872">1872</date>: Awarded Gold Medal of
+			 the Dutch Society of Sciences</p> 
+		  <p><date type="single" normal="1874">1874</date>: Awarded Gold Medal of
+			 the Royal Society</p> 
+		  <p><date type="appointmentspan" normal="1878/1880">1878-1880</date>:
+			 Elected President, Geological Society</p> 
+		  <p><date type="single" normal="1879">1879</date>: Awarded Honorary
+			 Doctor of Laws (LLD), University of Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1882">1882</date>: Appointed
+			 President, Firth College, Sheffield</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref> <title>Concise Dictionary of National Biography</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="532"
+			 normal="London (England)">London (England)</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			  certainty="certain">1992</date>)</imprint></bibref> </p> 
+		  <p><bibref><corpname source="ncarules"
+			 normal="Sorby Natural History Society" role="author">The Sorby Natural History
+			 Society, Sheffield</corpname>, <title>Henry Clifton Sorby: Sheffield's Greatest
+			 Scientist</title>, (<extref
+			 href="http://www.shu.ac.uk/city/community/sorby/hcsorby.shtml">http://www.shu.ac.uk/city/community/sorby/hcsorby.shtml</extref>, 
+			 <imprint><publisher>Sheffield Hallam University</publisher>, 
+			 <date type="publication" normal="20010302" certainty="certain">02
+				March 2001</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Encyclopaedia Britannica, vol 20</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London (England)</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1976"
+			 certainty="certain">1976</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			 role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol XII</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1975"
+			  certainty="certain">1975</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020422">22 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

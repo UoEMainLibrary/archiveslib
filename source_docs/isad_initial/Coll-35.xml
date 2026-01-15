@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-35"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-35</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">John Macmurray
+			 Papers </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-35</unitid>
+		
+		<physloc>Gen. 2162 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">John Macmurray Papers </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1922-1972">1922-1972 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>4 boxes.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>John Macmurray retired as Professor of Moral Philosophy, University of
+		  Edinburgh in 1958. Macmurray was born in Maxwellton, Kirkcudbrightshire,
+		  south-west Scotland on 16 February 1891. He was educated at the Grammar School
+		  and at Robert Gordon's College in Aberdeen, and then at Glasgow University from
+		  which he graduated in 1913. He then went to Balliol College, Oxford, as Snell
+		  Exhibitioner and Newlands Scholar, although the First World War interrupted
+		  this. His military service lasted between 1914-19, and he served as a Private
+		  in the Royal Army Medical Corps from 1914, and as a Lieutenant in the Cameron
+		  Highlanders from 1916. He was awarded the Military Cross. From 1919 he held
+		  academic posts at the University of Oxford and at the University of Manchester,
+		  and in 1921 became Professor of Philosophy in the University of the
+		  Witwatersrand, Johannesburg, South Africa. Between 1922-28 he was back at
+		  Balliol College, Oxford, and between 1928-44 was Grote Professor of the
+		  Philosophy of Mind and Logic at the University of London. In 1944 until 1958 he
+		  was Professor of Moral Philosophy at the University of Edinburgh, and also
+		  Gifford Lecturer, Glasgow University, 1953-54. Macmurray's publication record
+		  spanned some thirty years, from 
+		<title>Freedom in the modern world </title> (1932) to 
+		<title>Search for reality in religion </title> (1965). Professor John
+		Macmurray died 21 June 1976. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of John Macmurray contain manuscripts and typescripts of
+		  works; transcripts and offprints; lectures and lecture notes, sermons and
+		  addresses; exercise books, note books, and loose pages; material in binders and
+		  folders. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <altformavail encodinganalog="isad(g) 3.5.2."> 
+		<p>There is a master negative microfilm at Mic.Dup. 668-670. </p> 
+	 </altformavail> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Macmurray</emph> <emph altrender="forename">John</emph>
+		  <emph altrender="dates">1891-1976</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Ethics</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Philosophy</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H35; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows references to a letter of Macmurray, as
+		  well as an ink sketch, and a photograph of Macmurray. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

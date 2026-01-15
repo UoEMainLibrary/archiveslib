@@ -1,0 +1,17 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Sermons</title>
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<h2>Authority term: Sermons</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-5-1&view=basic">Sermons (1)</a> (1910-1945)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-5&view=basic">Sermons</a> (1910-1960)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-5-2&view=basic">Sermons (2)</a> (1910-1960)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-5-3&view=basic">Sermons notebooks</a> (1910-1960)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-8-7&view=basic">Memorial service</a> (1914)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-8-1-11&view=basic">Lund Sermon - Donald Macpherson Baillie</a> (1952)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-54">GB 237 Coll-54
+		</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Robert Nye Manuscripts </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-54">
+    <did>
+      <unittitle>Robert Nye Manuscripts </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-54 </unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MSS 2881-2916; MSS 3122-3123 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Robert
+		  Nye Manuscripts </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1969-1996">1969-1996 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>37 boxes (5
+		  m). </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The writer Robert Nye was born 15 March 1939 in London. He attended
+		  Southend High School, a traditional grammar school, and began writing when he
+		  was thirteen. Between leaving school in 1955 and starting to write full-time in
+		  1961, he held a variety of jobs including newspaper reporter, milkman, labourer
+		  in a market-garden, and ward orderly in a sanatorium. These jobs supported him
+		  in his poetry writing. In 1961, Nye moved to North Wales to absorb himself in
+		  full-time writing. Later on he settled in Edinburgh where he lived until 1977,
+		  then he moved to Ireland. In 1961, he published his first collection of poems, 
+		Juvenilia 1 , and a second volume 
+		Juvenilia 2  was published in 1963. Around this time he
+		became successful as a reviewer, becoming poetry editor for 
+		The Scotsman  in 1967 and poetry critic for the 
+		Times  in 1971. In addition to criticism and poetry,
+		writing for children provided an outlet, 
+		Taliesin  (1966) and 
+		March has horse's ears  (1966) being his first books for
+		children. These were based on a re-telling of Welsh tales. Other works for
+		children, poetry, and short stories followed. Nye has written novels too, 
+		Doubtfire  (1967), then 
+		Falstaff  (1976), 
+		Merlin  (1978) and 
+		Faust  (1980). </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The collection includes working notes, drafts, typescripts of 
+		Merlin ; notebooks, corrected typescripts and source
+		material for 
+		Faust ; typescripts, page proofs, source material for 
+		The voyage of the Destiny ; notes, manuscripts and
+		typescripts for 
+		The memoirs of Lord Byron ; miscellaneous criticism, talks
+		and essays; typescripts, proofs and reviews of 
+		Mrs Shakespeare ; proofs, notebook and working manuscripts
+		for poems; and, various other folders, diaries, notebooks, scripts, typescripts
+		and manuscripts. There are also financial papers; correspondence; colour
+		transparencies, and publishers catalogues. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H54 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

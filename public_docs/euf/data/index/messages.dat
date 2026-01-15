@@ -1,0 +1,12 @@
+a:1:{i:0;a:8:{s:2:"to";s:15:"deputyarchivist";s:4:"from";s:40:"phpgedview-noreply@archives.lib.ed.ac.uk";s:7:"subject";s:27:"PhpGedView - Review changes";s:4:"body";s:532:"Online changes have been made to a genealogical database.  These changes need to be reviewed and accepted before they will appear to all users.  Please use the URL below to enter that PhpGedView site and login to review the changes.
+
+--------------------------------------
+
+This message was sent while viewing the following URL: 
+http://www.archives.lib.ed.ac.uk/euf/data/index.php?command=gedcom
+
+=--------------------------------------=
+IP ADDRESS: 129.215.248.22
+DNS LOOKUP: lib-pc-1973.lib.ed.ac.uk
+LANGUAGE: english
+";s:6:"method";s:10:"messaging2";s:3:"url";s:24:"index.php?command=gedcom";s:7:"no_from";b:1;s:7:"created";s:20:"Oct 15 2010 18:52:37";}}

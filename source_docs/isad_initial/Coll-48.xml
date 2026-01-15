@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-48"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-48</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Alexander Gillon Macalpine. Malawi missionary papers and
+			 linguistic studies </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-48</unitid>
+		
+		<physloc>MSS 3086-3090 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Alexander Gillon Macalpine. Malawi
+		  missionary papers and linguistic studies </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1893-1964">1893-1964 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>5 boxes (1
+		  m). </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Alexander Gillon Macalpine was born 11 June 1869 in Linlithgow. He was
+		  educated in Linlithgow and at George Watson's College in Edinburgh, then went
+		  to Edinburgh University and Glasgow Free Church College. He was ordained in
+		  1893. With the exception of 1914-21 when he was Minister of Monquhitter and New
+		  Byth, Aberdeenshire, he was a missionary in Nyasaland (Malawi), mainly at
+		  Bandawe, Chintechi, and later on Livingstonia. In his earliest years in the
+		  country Macalpine did some administrative and postal work. He became the first
+		  Clerk of the Synod of the Church of Central Africa Presbyterian. He prepared a
+		  dictionary of the Chitonga language, and translated and revised the New
+		  Testament in Chitonga. Two manuscript copies of the dictionary are said to be
+		  in the libraries of Glasgow and Witwatersrand Universities. Macalpine died in
+		  Glasgow, 8 September 1957. The material constituting the Macalpine Malawi
+		  missionary papers and linguistic studies, was presented by the Rev. Alexander
+		  Gillon Macalpine, jr., in 1964 and 1993, and by Dr. H. B. Auld in 1993. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The papers consist of biographical notes on African and missionary
+		  colleagues dating from 1893; diaries from 1897 onwards; wayside and journey
+		  notes and jottings; extracts from newspapers; notes on folklore; letters; film
+		  strip showing pictures of missionary work; notebooks; and, correspondence with
+		  church ministers in Scotland. There are printed items, including the catechism
+		  and hymns in the Chitonga language; psalms in Tonga; dictionaries; the grammar
+		  of the Bemba language; notes on Tumbuka syntax; notes for a Tonga grammar, and
+		  notes of Chitonga grammar; Tonga-English vocabulary; and, items on the building
+		  of Nyasaland and on the Church in the region. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Macalpine</emph> <emph altrender="forename">Alexander
+		  Gillon</emph> <emph altrender="dates">1869-1957</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Malawi</emph> <emph altrender="x">Languages</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Missionaries</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Linguistics</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Linguists</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H48 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-33"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-33</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of David
+			 Gregory (1661-1708) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-33</unitid>
+		
+		<physloc>Dc.1.61; Dk.1.2 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of David Gregory (1661-1708)
+		  </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1507-1706">1507-1706 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>1 volume; 3
+		  box files. </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>David Gregory, the astronomer and mathematician, was born at
+		  Kinnairdie in Banffshire, north east Scotland on 24 June 1661 (though some
+		  references suggest 6 March 1659). From Marischal College, Aberdeen, he entered
+		  Edinburgh University, graduating M.A. on 28 November 1683. A month prior to his
+		  graduation he was elected to the Chair of Mathematics, at one time occupied by
+		  his uncle, the mathematician James Gregory (1638-1675). In 1684, David Gregory
+		  published in Edinburgh his 
+		<title>Exercitatio geometrica de dimensione figurarum </title> in which,
+		with the assistance of his uncle's work, he extended the method of quadratures
+		by infinite series. As a professor, Gregory was the first to lecture publically
+		on the Newtonian philosophy. His lecture notes show that they covered a broad
+		range of subjects including geodesy, optics, dynamics, and various branches of
+		mathematics. In 1691 he went to London where he was introduced to Newton and
+		recommended to John Flamsteed (1646-1719), the first astronomer royal. With the
+		combined influence of Newton and Flamsteed, Gregory was awarded the Savilian
+		Chair of Astronomy at Oxford in 1691. In 1692 he took the degrees of M.A. and
+		M.D. at Oxford, and he became a master commoner of Balliol College. Also in
+		1692, he was elected a fellow of the Royal Society. In 1699 he was appointed as
+		mathematical tutor to William, Duke of Gloucester. The substance of his work
+		delivered in Edinburgh, and published there in 1684, was contained in his 
+		<title>Catoptricae et dioptricae sphaericae elementa </title> (1695) and
+		was adapted to undergraduates. In this work, Gregory gave the first hint of the
+		achromatic telescope when he referred to the possibility of counteracting
+		colour aberration in lenses by combining in them media of different densities.
+		The work was reprinted in Edinburgh in 1713 and translated into English (from
+		Latin) in 1715. His principle work however was 
+		<title>Astronomiae physicae et geometricae elementa </title> (1702). This
+		was the first text-book on gravitational principles and it remodelled astronomy
+		in conformity with physical theory. His next work, in Greek and Latin, was 
+		<title>Euclides </title> (1703) which was an edition of all the writings
+		attributed to Euclid. In 1704, Gregory was nominated to the committee charged
+		by Prince George with the inspection and printing of the Greenwich
+		observations, and in 1705 he was chosen as honorary fellow of the Royal College
+		of Physicians of Edinburgh. Gregory died on 10 October 1708 at the Greyhound
+		Inn at Maidenhead, Berkshire, while on his return to London from Bath after
+		taking the cure there for consumption. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The content of the Papers of David Gregory have been indexed within
+		  the handlist H33. The majority of the papers deal with mathematical questions,
+		  and there are many about astronomy and optics. There is also a provisional
+		  index of subjects from acid, agriculture, and archaeology, to the Darien
+		  Scheme, law, tide tables, and university. There is a provisional index too of
+		  personal names from Queen Anne, Bernoulli, Tycho Brahe, and Cassini, to Euclid,
+		  Edmond Halley, James VI, Mercator, Sir Isaac Newton, Ptolemy, Pythagorus, and
+		  Torricelli. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Gregory</emph> <emph altrender="forename">David</emph>
+		  <emph altrender="dates">1661-1708</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Gregory</emph> <emph altrender="forename">James</emph>
+		  <emph altrender="dates">1638-1675</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Newton</emph> <emph altrender="forename">Isaac</emph>
+		  <emph altrender="title">Sir</emph> <emph altrender="dates">1642-1727</emph>
+		  </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Flamsteed</emph> <emph altrender="forename">John</emph>
+		  <emph altrender="dates">1646-1719</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Euclid</emph> <emph altrender="forename">of
+		  Alexandria</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Royal College of
+		  Physicians of Edinburgh</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Astronomers</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Astronomy</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Optics</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Large astronomical telescopes</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Telescopes</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Mathematicians</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Mathematics</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H33; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p> 
+	 </otherfindaid> 
+	 <separatedmaterial encodinganalog="isad(g) 3.5.4./marc 544"> 
+		<p>A list of books, theses, letters and family records which would assist
+		  in the study of the Papers of David Gregory has also been drawn up and is held
+		  within the handlist H33. While some of the books and theses are held within
+		  Edinburgh University Library, others may be found at the National Library of
+		  Scotland; Aberdeen University Library; Edinburgh Public Library (Reference
+		  Library); the Scottish Records Office; the Lyon Office; the British Library;
+		  and, John Rylands Library, University of Manchester. </p> 
+	 </separatedmaterial> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows, at various shelfmarks, references to
+		  many additional notes by David Gregory at Dc. 1.62., inscription and
+		  annotations by him in a Greek manuscript at Dc. 4.85., and treatises,
+		  lectiones, notes and letters at various shelfmarks. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

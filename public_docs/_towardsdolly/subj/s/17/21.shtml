@@ -1,0 +1,20 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Specimens</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/s/">s</a><h1>Specimens</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=17&term=Specimens" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-34-6&view=basic">Letter to James Cossar Ewart from James Ritchie </a> (1928) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-35-5&view=basic">Letter to James Cossar Ewart from [N.] Bassett </a> (1929) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-36-5&view=basic">Letter to James Cossar Ewart from William Thomas Calman </a> (1930) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-1-3&view=basic">Papers relating to analysis of mammalian sperm for F-bodies </a> (1973-1977) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-1-6&view=basic">Papers relating to the extraction of a testis sample from mummified remains at the British Museum </a> (1977-1978) Papers of Dr. Alan Beatty</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

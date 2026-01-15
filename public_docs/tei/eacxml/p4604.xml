@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4604</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2012-05-17">17 May 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Lynne Bulmer</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>29 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 113/00 015/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1859 113/00 0013</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 113/00 001/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 113/00 001/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for North Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 113/00 016/00 014</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1883 113/00 0013</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1884 113/00 0008</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Death certificate - Register of Corrected Entries</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1884 113/00 0008 (RCE)</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW112/7</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>'The Clan Donald' , vol. III</sourceEntry>
+                <descriptiveNote>
+                    <p>
+                        <span localType="mods-name" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >MacDonald and MacDonald</span><span localType="mods-place"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">Inverness</span><span
+                            localType="mods-date" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >1904</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4604</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacDonald</part>
+                <part localType="given">Donald</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Son of Lieutenant John MacDonald, Kallin, Grimsay, North Uist</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1830" notAfter="1835" notBefore="1825">c1830</fromDate>
+                    <toDate standardDate="1884-02-20">20 February 1884</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Donald MacDonald was born in Kilphedir to parents Lieutenant John MacDonald, son
+                    of Major James MacDonald, and his wife Catherine née MacLean and had at least
+                    four siblings. By 1851, the family are found in Trumisgary. In 1859, still in
+                    Trumisgary, his father John died and by the 1861 census, Donald is listed as the
+                    head of the family, living with his mother and three siblings plus a number of
+                    servants in Kallin; his occupation is given as Farmer and Steamboats Agent. </p>
+                <p> In the 1871 census, his mother Catherine is listed as head of the family and
+                    living off her widow's army pension, Donald now being described as 'formerly
+                    farmer'. In the 1881 census, Donald, his mother and a servant are to be found
+                    living back in Trumisgary at the Post Office building, Donald working as an
+                    Insurance Agent and his mother described as an Annuitant. Only a few years later
+                    in 1883, Donald's mother died 'of chronic rheumatism' in Lochmaddy, North Uist. </p>
+                <p>Donald himself died in Lochmaddy the following year in 1884, his profession given
+                    as 'commercial traveller'' and the minister of North Uist witnessed the
+                    certificate.</p>
+                <p>In April 1866, Donald MacDonald loaned a copy of a manuscript about the
+                    MacDonalds of Sleat and North Uist to Carmichael.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1830" notBefore="1825" notAfter="1835">c1830</date>
+                        <placeEntry>Kilphedir, North Uist</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1866-04-09">9 April 1866</date>
+                        <placeEntry>Howbeg, South Uist</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1884-02-20">20 February 1884</date>
+                        <placeEntry>Lochmaddy, North Uist</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

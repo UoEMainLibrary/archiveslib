@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-65"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-65</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of Arthur
+			 Melville Clark (1895-1990) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-65</unitid> 
+		<physloc>Gen. 926-977 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Arthur Melville Clark
+		  (1895-1990) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1920-1990">circa 1920- </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>52 boxes
+		  (10 linear metres). </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Arthur Melville Clark was born in Edinburgh on 20 August 1895. He was
+		  educated in the city at Stewart's College (now Stewart's Daniel &amp;amp;
+		  Melville College) and then at Edinburgh University where he obtained a first
+		  class honours degree, M.A., in 1919. In 1920 he became a Lecturer in English
+		  Language and Literature in Reading, and in 1921 he was a Tutor in English
+		  Language to Oxford University Home Students Society. From 1924 to 1928 he was
+		  an Assistant in English Literature at Edinburgh University, then Lecturer
+		  1928-46, and also a Director of Studies from 1931 to 1947. Between 1946 and
+		  1960 he was Reader in English Literature. Clark also edited the 
+		<title>Edinburgh University Calendar </title>, 1933-45. His publication
+		record spans six decades and includes 
+		<title>The realistic revolt in modern poetry </title> (1922), 
+		<title>A bibliography of Thomas Heywood </title> (1924), 
+		<title>Thomas Heywood, playwright and miscellanist </title> (1931), 
+		<title>Autobiography, its genesis and phases </title> (1935), 
+		<title>Spoken English </title> (1946), 
+		<title>Studies in literary modes </title> (1946), 
+		<title>Two pageants by Thomas Heywood </title> (1953), 
+		<title>Sonnets from the French, and other verses </title> (1966), 
+		<title>Sir Walter Scott: the formative years </title> (1969), and 
+		<title>Murder under trust, or the topical Macbeth </title> (1982). In
+		addition to being a scholar of Oriel College, Oxford, and earning D.Phil.,
+		1929, Clark was awarded the Edinburgh University, D.Litt., 1947, and for war
+		service he was made Knight of Polonia Restitute. He was also a Knight of the
+		Military and Hospitaller Order of St. Lazarus of Jerusalem. He died in
+		Edinburgh on 21 March 1990. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of Arthur Melville Clark contain lecture notes; lectures
+		  and articles on Sir Walter Scott; material on Shakespeare; Edinburgh University
+		  examinations material; some work on rhyme; material on heraldry and genealogy,
+		  and on the Order of St. Lazarus; correspondence, personal material and some
+		  photographs; speeches; reviews; and, books and a notebook containing poems with
+		  some inserted letters. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Clark</emph> <emph altrender="forename">Arthur
+		  Melville</emph> <emph altrender="dates">1895-1990</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Scott</emph> <emph altrender="forename">Walter</emph>
+		  <emph altrender="title">Sir</emph> <emph altrender="dates">1771-1832</emph>
+		  </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Shakespeare</emph> <emph
+		  altrender="forename">William</emph> <emph altrender="dates">1564-1616</emph>
+		  </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Order of Saint
+		  Lazarus of Jerusalem</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Literature</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Rhyme</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H65 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

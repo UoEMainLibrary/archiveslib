@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1996 20020506 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1996</titleproper> 
+		  <subtitle>Punnett | Reginald Crundall | 1875-1967 | geneticist and
+			 professor of biology, University of Cambridge</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 06 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020506">06 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1996</titleproper> 
+		<subtitle>Punnett | Reginald Crundall | 1875-1967 | geneticist and
+		  professor of biology, University of Cambridge</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 06 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020506">06 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1996"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1996</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1996"
+		 normal="Punnett, Reginald Crundall">Punnett | Reginald Crundall | 1875-1967 |
+		  geneticist and professor of biology, University of Cambridge</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Reginald Crundall Punnett (<date type="life-span"
+			 normal="1875/1967">1875-1967</date>) was introduced to biology during a bout of
+			 childhood appendicitis, when he read a series of books on the subject that his
+			 father had bought because of their elegant binding. He went on to study at
+			 Gonville and Caius College, Cambridge, from which he graduated in 
+			 <date type="single" normal="1898">1898</date> with a first class
+			 degree in Natural Sciences, specialising in zoology.</p> 
+		  <p>Punnett was a believer in the theories put forward by obscure monk
+			 Johann Gregor Mendel (<date normal="1822/1884"
+			 type="life-span">1822-1884</date>), the founder of modern genetics, and wrote
+			 the first textbook on the subject. Between 
+			 <date type="inclusive" normal="1904/1910">1904-1910</date>, Punnett
+			 worked with William Bateson (<date type="life-span"
+			 normal="1861/1926">1861-1926</date>) to confirm Mendel's theories
+			 experimentally. Their experiments were mainly on poultry and sweet green peas.
+			 They did this successfully, and proved Mendel's explanations of sex
+			 determination, sex linkage, complimentary factors, factor integration and
+			 autosomal linkage. </p> 
+		  <p>During the First World War, Punnett put his knowledge of the
+			 genetics of poultry to a practical use, and developed a technique of separating
+			 male and female chicks using sex-linked plumage colours. In this way, the less
+			 useful male chicks could be separated from the more useful female chicks and
+			 destroyed. This improved the efficiency of the poultry industry. Punnett, in
+			 fact, created the first autosexing breed of poultry, the Cambar chicken.</p> 
+		  <p>He was a founding member of the Genetical Society and created the
+			 <bibref><title>Journal of Genetics</title></bibref> in association with
+			 Bateson. Punnett was also the inventor of the "Punnett Square", which depicts
+			 the number and variety of genetic combinations.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Reginald Crundall Punnett worked closely with William Bateson (<date
+			 type="life-span" normal="1861/1926">1861-1926</date>) in his work in genetics
+			 and collaborated with him on the <bibref><title>Journal of
+			 Genetics</title></bibref>, which they founded together.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Mendelism</title>, (<imprint><date type="publication"
+			 normal="1905" certainty="certain">1905</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Mimicry in Butterflies</title>, (<imprint><date
+			 type="publication" normal="1915"
+			 certainty="certain">1915</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Heredity in Poultry</title>, (<imprint><date
+			 type="publication" normal="1923"
+			 certainty="certain">1923</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1898">1898</date>: Awarded first class
+			 degree, Gonville and Caius College, Cambridge</p> 
+		  <p><date type="single" normal="1898">1898</date>: Awarded Walsingham
+			 Medal, University of Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1909">1909</date>: Appointed
+			 Superintendent of the Museum of Geology</p> 
+		  <p><date type="chairspan" normal="1910/1912">1910-1912</date>:
+			 Appointed Professor of Biology, University of Cambridge</p> 
+		  <p><date type="appointmentspan" normal="1911/1926">1911-1926</date>:
+			 Appointed Joint Editor, Journal of Genetics</p> 
+		  <p><date type="chairspan" normal="1912/1940">1912-1940</date>:
+			 Appointed Arthur Balfour Professor of Genetics, University of Cambridge</p> 
+		  <p><date type="single" normal="1912">1912</date>: Elected Fellow of the
+			 Royal Society (FRS)</p> 
+		  <p><date type="appointmentspan" normal="1926/1946">1926-1946</date>:
+			 Appointed Editor, Journal of Genetics</p> 
+		  <p><date type="appointmentdate" normal="1930">1930</date>: Elected
+			 President of the Genetical Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><corpname
+			 normal="Dolan DNA Learning Center, Cold Spring Harbor Laboratory">Dolan DNA
+			 Learning Center, Cold Spring Harbor Laboratory</corpname>, <title>Reginald
+			 Crundall Punnett (1875-1967)</title>, (<extref
+			 href="http://vector.cshl.org/dnaftb/concept_5/con5bio.html">
+			 http://vector.cshl.org/dnaftb/concept_5/con5bio.html</extref>)</bibref> </p> 
+		  <p></p> 
+		  <p><bibref><persname source="ncarules" normal="Yost, Robinson M"
+			 role="author">Yost, Robinson M</persname>, <title>Reginald Crundall Punnett
+			 (1875-1967)</title>, (<extref
+			 href="http://www.kirkwood.cc.ia.us/faculty/ryost/punnett.htm">http://www.kirkwood.cc.ia.us/faculty/ryost/punnett.htm</extref>)</bibref></p>
+		  
+		  <p><bibref><corpname normal="Encyclopaedia Britannica"
+			 role="editor">Encyclopaedia Britannica</corpname>, <title>Punnett, Reginald
+			 Crundall</title>, (<extref
+			 href="http://www.britannica.com/eb/article?eu=63490">http://www.britannica.com/eb/article?eu=63490</extref>,
+			 <imprint><publisher>Britannica.com and Encyclopaedia Britannica,
+				Inc.</publisher>, 
+			 <date type="publication" normal="2000"
+			  certainty="certain">2000</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol XI</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1975"
+			 certainty="certain">1975</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020506">06 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

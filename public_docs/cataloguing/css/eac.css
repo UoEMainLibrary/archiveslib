@@ -1,0 +1,180 @@
+
+/* Use Arial for default font */
+eac-cpf {
+  font-family: "Arial";
+  font-size: 10pt;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+control {
+  display: block;
+  margin-top: 5pt;
+  color: black;
+  background-color:#FFFFCC; 
+}
+cpfDescription {
+  display: block;
+  margin-top: 5pt;
+  color: black;
+}
+
+description {
+  display: block;
+  margin-top: 5pt;
+  color: black;
+  background-color:#cc99cc; 
+}
+
+existDates {
+  display: block;
+  margin-left: 10pt;
+  color: black; 
+}
+
+placesDates {
+  display: block;
+  margin-left: 10pt;
+  color: black;
+}
+
+biogHist {
+  display: block;
+  margin-left: 5pt;
+  color: black;
+  background-color:#66ff99;
+}
+
+identity {
+  display: block;
+  margin-top: 5pt;
+  color: black;
+  background-color:#ffcc99; 
+}
+
+recordId {
+	display: block;
+  background-color:#660099; 
+}
+
+maintenanceAgency {
+display: block;
+}
+
+agencyCode {
+display: block;
+}
+
+agencyName {
+display: block;
+}
+
+descriptiveNote {
+display: block;
+margin-left:5px;
+}
+
+p {
+display: block;
+margin-left:10px;
+line-height:1.5;
+}
+
+languageDeclaration {
+display: block;
+}
+
+conventionDeclaration {
+display: block;
+}
+
+localTypeDeclaration {
+display: block;
+}
+
+localControlEntry {
+display: block;
+}
+
+maintenanceHistory {
+display: block;
+}
+
+maintenanceEvent {
+display: block;
+}
+
+sources {
+display: block;
+}
+
+biogHist {
+display: block;
+}
+
+chronList {
+display: block;
+}
+
+chronItem {
+display: block;
+}
+
+relations {
+display: block;
+background-color: #cc9966;
+}
+
+cpfRelation {
+background-color: #9999cc;
+}
+
+alternativeSet {
+display: block;
+}
+
+span {
+font-style: italic;
+}
+
+maintenanceAgency {
+  background-color:#cccccc; 
+}
+
+languageDeclaration {
+  background-color:#cccccc; 
+}
+
+agentType {
+  background-color:#cccccc; 
+}
+
+conventionDeclaration {
+  background-color:#cccccc; 
+}
+
+
+maintenanceStatus {
+  background-color:#ffff33; 
+}
+
+publicationStatus {
+  background-color:#ffff33; 
+}
+
+entityType {
+  background-color:#ffff33; 
+}
+
+eventType {
+  background-color:#ffff33; 
+}
+
+eventDateTime, date, fromDate, toDate {
+  background-color:#ccffff; 
+}
+
+recordId, agent, eventDescription {
+	color: #ffffff;
+  background-color:#cc0033; 
+}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-91"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-91</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of the
+			 Rev. Earle Monteith MacPhail (1861-1937) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-91</unitid>
+		
+		<physloc>Gen. 2044-2073; MSS 2592-2593 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of the Rev. Earle Monteith
+		  MacPhail (1861-1937) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1869-1930">circa 1869-1930 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>2 boxes; 31
+		  separate notebooks; 1 box of notebooks. </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Earle Monteith MacPhail was born in Aberdeen in 1861. He was educated
+		  at Edinburgh Academy and then at Edinburgh University where he was awarded the
+		  degree of M.A. in 1883. He then studied Divinity at Edinburgh, at New College.
+		  While at Edinburgh he was one of the founders of the Edinburgh University
+		  Students' Representative Council, 1883-1884, and was President of the Council
+		  in 1885. MacPhail also studied abroad at Jena, Tuebingen, and Berlin
+		  Universities, after which he was ordained as a missionary of the United Free
+		  Church of Scotland in 1890. That year too, he became Professor of History and
+		  Economics at Madras Christian College. He became Principal of the College in
+		  1921. Earlier, in 1899, he became a Fellow of Madras University, and in 1909
+		  and again in 1919 he was the Representative of the University on the
+		  Legislative Council of the Governor of Fort St. George. In 1921 and 1922 he was
+		  a Member of the Legislative Council. In 1921 too, MacPhail was a Member of the
+		  Central Education Advisory Board for India. Between 1923 and 1925 he was
+		  Vice-Chancellor of the University of Madras, as well as being a Member of the
+		  Indian Council of State in 1924. Between 1925 and 1927, he was the
+		  Representative of the European Constituency of Madras in the Legislative
+		  Assembly of India. In 1919, MacPhail was awarded the CBE, and in 1924 he was
+		  made Companion of the Order of the Indian Empire. MacPhail died in Edinburgh on
+		  19 January 1937. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The papers of Earle Monteith MacPhail at shelfmark Gen. 2044-2073
+		  consist of notebooks of notes from lectures at Edinburgh University and in
+		  India, 1878-1890. At MSS 2592-2593 there are personal papers including
+		  correspondence, a school notebook of handwriting dated 1875, and a school fees
+		  receipt dated 1869; photographs; notes of Natural Philosophy classes, 1879;
+		  and, essays, 1879. There is material marking celebrations of Edinburgh
+		  University Tercentenary; material of the Dialectic Society and the Diagnostic
+		  Society; the Students' Representative Council; the University Union; and, the
+		  New College Examination Board. There are also papers relating to Madras
+		  Christian College. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) 
+		  <title>University of Edinburgh Journal </title>, Vol.8. 1936-1937,
+		  p.288 (Edinburgh: Oliver and Boyd). (2) 
+		  <title>Who was who </title>, Vol.3. 1929-1940 (London: Adam and Charles
+		  Black, 1941). </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">MacPhail</emph> <emph altrender="forename">Earle
+		  Monteith</emph> <emph altrender="dates">1861-1937</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Madras Christian
+		  College</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">University of
+		  Madras</emph> </corpname> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

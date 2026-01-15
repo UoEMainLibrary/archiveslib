@@ -1,0 +1,733 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 EUA GD20">GB
+		237 EUA GD20</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Records of Edinburgh University Settlement</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-EUA-GD20"> 
+	 <did> 
+		<head>Fonds Summary</head> 
+		<repository audience="external" label="Repository"
+		 encodinganalog="NAHSTE31"> Edinburgh University Library, Special
+		  Collections</repository> 
+		<unitid label="Reference Code" encodinganalog="isadg(2)311"
+		 countrycode="GB" repositorycode="237">GB 237 EUA GD20 (formerly Da 72)</unitid>
+		
+		<physloc label="Shelfmark" encodinganalog="tempea1">EUA-A-139 -
+		  EUA-A-145</physloc> 
+		<unittitle label="Title" encodinganalog="isadg(2)312"
+		 audience="external">Records of Edinburgh University Settlement</unittitle> 
+		<unitdate label="Date(s)" encodinganalog="isadg(2)313" type="inclusive"
+		 certainty="certain" normal="1905/1998" audience="external">1905-1998</unitdate>
+		
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external"><extent>0.7 metres</extent> 
+		  <genreform>7 boxes</genreform> </physdesc> 
+		<origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+		 audience="external"> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+			normal="Edinburgh University Settlement" role="creator">Edinburgh University
+			 Settlement | charitable organisation</corpname></origination> 
+		<langmaterial audience="external" label="Language/scripts of material"
+		 encodinganalog="isadg(2)343"><language
+		  langcode="eng">English</language></langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322" audience="external"> 
+		<head>Administrative History</head> 
+		<p>Edinburgh University Settlement, a charitable organisation to promote
+		  community development and the alleviation of poverty, was founded in 1905 by
+		  members of the University of Edinburgh and representatives of the city of
+		  Edinburgh, 'linking town and gown'.</p> 
+	 </bioghist> 
+	 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p> 
+		  <list> 
+			 <item>Meetings of Council / Annual General Meetings: minutes,
+				1925-1939</item> 
+			 <item>Edinburgh University Settlement Association: minutes, 1905-1938
+				</item> 
+			 <item>Edinburgh University Settlement Association: letter books,
+				1905-1933</item> 
+			 <item>Finance Committee: minutes, 1929-1944 </item> 
+			 <item>Thrift Shop Sub-committee, 1936-1938 </item> 
+			 <item>Newspaper Cuttings, 1942-1956</item> 
+			 <item>Executive Committee: minutes, 1925-1955 </item> 
+			 <item>Annual Reports, 1905-1998 (incomplete) </item> 
+			 <item> 
+				<title>Settlement News</title> (newsletter), Nos. 1-7, 1982 -
+				</item> 
+			 <item>Assorted reports, leaflets etc., 1980s.</item> 
+		  </list></p> 
+	 </scopecontent> 
+	 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses and Organisations</head> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+			normal="Edinburgh University Settlement">Edinburgh University Settlement |
+			 charitable organisation</corpname> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp> 
+		<head>Administrative Information</head> 
+		<accruals encodinganalog="isadg(2)333" audience="external"> 
+		  <head>Accruals</head> 
+		  <p>Accruals likely.</p> 
+		</accruals> 
+		<arrangement encodinganalog="isadg(2)334" audience="external"> 
+		  <head>System of Arrangement</head> 
+		  <p> Arranged into series.</p> 
+		</arrangement> 
+		<accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+		  <head>Conditions Governing Access</head> 
+		  <p> Personal data relating to living individuals may be restricted
+			 under the Data Protection Act 1998.</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="isadg(2)342" audience="external"> 
+		  <head>Conditions Governing Reproduction</head> 
+		  <p> Applications for permission to quote should be sent to the Director
+			 of Collections. Reproduction subject to usual conditions: educational use and
+			 condition of documents.</p> 
+		</userestrict> 
+		<processinfo audience="internal"> 
+		  <processinfo encodinganalog="isadg(2)373" audience="internal"> 
+			 <head>Date(s) of Description</head> 
+			 <p> 
+				<persname source="ncarules" role="archivist" normal="REPLACE">Grant
+				  Buttars</persname> 
+				<date type="descriptiondate" normal="20051028"
+				 certainty="certain">28 October 2005</date></p> 
+		  </processinfo> 
+		</processinfo> 
+	 </descgrp> 
+	 <dsc> 
+		<c level="series" id="GB-237-EUA-GD20-1"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/1</unitid> 
+			 <physloc encodinganalog="tempea1">Box EUA-A-139</physloc> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Meetings of Council / Annual General Meetings</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			  type="inclusive" certainty="certain" normal="1925/1959"
+			  audience="external">1925-1959</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.03 metre</extent> 
+				<genreform>1 bound volume</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Minute book for Meetings of Council and Annual General Meetings of
+				Edinburgh University Settlement Association, 1925-1939.</p> 
+			 <p>Enclosures relate to an Extraordinary General Meeting, 1958, and
+				draft minutes to a Meeting of Council and Annual General Meeting, 1959.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+				<head>Conditions Governing Access</head> 
+				<p> Access to this item is restricted under the Data Protection Act
+				  1998.</p> 
+			 </accessrestrict> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+		<c level="series" id="GB-237-EUA-GD20-2"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/2</unitid> 
+			 <physloc encodinganalog="tempea1">Box EUA-A-139</physloc> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Association minute books</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			  type="inclusive" certainty="certain" normal="1905/1939"
+			  audience="external">1905-1919</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.1 metre</extent> 
+				<genreform>2 bound volumes</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p> 2 minute books for Edinburgh University Settlement Association,
+				dated 1905-1919 and 1905-1910. The first volume begins with the constitution of
+				the association and contains minutes of the association. The second contains
+				minutes of sub-committees and transcripts of other relevant documents.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <acqinfo encodinganalog="isadg(2)324" audience="external"> 
+				<head>Immediate Source of Acquisition or Transfer</head> 
+				<p> Received from the Scottish Records Office, 15 December 1994,
+				  accession E.94.67.</p> 
+			 </acqinfo> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+		<c level="series" id="GB-237-EUA-GD20-3"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/3</unitid> 
+			 <physloc encodinganalog="tempea1">Box EUA-A-140 - EUA-A-141</physloc>
+			 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Association letter books</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			  type="inclusive" certainty="certain" normal="1905/1933"
+			  audience="external">1905-1933</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.2 metre</extent> 
+				<genreform>3 bound volumes</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>3 letter books (outgoing correspondence) for Edinburgh University
+				Settlement Association, dated 1905-1907, 1907-1918 and 1918-1938.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+				<head>Conditions Governing Access</head> 
+				<p> Due to the Data Protection Act 1998, a Data Protection form
+				  must be signed in order to access letter book no. 3.</p> 
+			 </accessrestrict> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+		<c level="series" id="GB-237-EUA-GD20-4"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/4</unitid> 
+			 <physloc encodinganalog="tempea1">EUA-A-141</physloc> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Finance Committee minutes</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			  type="inclusive" certainty="certain" normal="1929/1944"
+			  audience="external">1929-1944</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.02 metre</extent> 
+				<genreform>1 bound volume</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>1 volume of minutes of the Finance Committee. Some loose minutes
+				are also enclosed.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+				<head>Conditions Governing Access</head> 
+				<p> Due to the Data Protection Act 1998, a Data Protection form
+				  must be signed in order to access this item.</p> 
+			 </accessrestrict> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+		<c level="series" id="GB-237-EUA-GD20-5"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/5</unitid> 
+			 <physloc encodinganalog="tempea1">EUA-A-141</physloc> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Thrift Shop Committee minutes</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			  type="inclusive" certainty="certain" normal="1936/1948"
+			  audience="external">1936-1948</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.02 metre</extent> 
+				<genreform>1 bound volume</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>1 volume of minutes of the Thrift Shop Committee. Some loose
+				minutes are also enclosed. Committee members and their telephone numbers are
+				listed on the inside front cover.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+				<head>Conditions Governing Access</head> 
+				<p> Access to this item is restricted under the Data Protection Act
+				  1998.</p> 
+			 </accessrestrict> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+		<c level="series" id="GB-237-EUA-GD20-6"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/6</unitid> 
+			 <physloc encodinganalog="tempea1">EUA-A-142</physloc> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Newspaper Cuttings</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			  type="inclusive" certainty="certain" normal="1942/1954"
+			  audience="external">1942-1956</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.02 metre</extent> 
+				<genreform>1 bound volume</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Scrapbook almost entirely of cuttings from 
+			 <title>The Scotsman</title> and 
+			 <title>The Evening News</title>.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+		<c level="series" id="GB-237-EUA-GD20-7"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/7</unitid> 
+			 <physloc encodinganalog="tempea1">Box EUA-A-142 - EUA-A-143</physloc>
+			 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Executive Committee minutes</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			  type="inclusive" certainty="certain" normal="1925/1955"
+			  audience="external">1925-1955</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.2 metre</extent> 
+				<genreform>2 bound volumes</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p> 2 minute books for Edinburgh University Settlement Executive
+				Committee, dated 1925-1935 and 1936-1955.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+				<head>Conditions Governing Access</head> 
+				<p> Access to the second volume is restricted under the Data
+				  Protection Act 1998. A Data Protection form must be signed in order to access
+				  the first volume.</p> 
+			 </accessrestrict> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+		<c level="series" id="GB-237-EUA-GD20-8"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/8</unitid> 
+			 <physloc encodinganalog="tempea1">Box EUA-A-144</physloc> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Annual reports</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			  type="inclusive" certainty="certain" normal="1905/1998"
+			  audience="external">1905-1998</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.05 metre</extent> 
+				<genreform>3 folders</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Largely complete run of annual reports, with a few years
+				missing.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+				<head>Conditions Governing Access</head> 
+				<p> Access to reports less than 75 years old is restricted under
+				  the Data Protection Act 1998.</p> 
+			 </accessrestrict> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+		<c level="series" id="GB-237-EUA-GD20-9"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/9</unitid> 
+			 <physloc encodinganalog="tempea1">Box EUA-A-144</physloc> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external"> 
+				<title>Settlement News</title>, 1-7</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313"
+			  type="inclusive" certainty="certain" normal="1982/"
+			  audience="external">1982-</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.01 metre</extent> 
+				<genreform>1 folder</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Seven consecutive issues of the newsletter 
+			 <title>Settlement News</title>, beginning in 1982 but with subsequent
+			 issues undated.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+		<c level="series" id="GB-237-EUA-GD20-10"> 
+		  <did> 
+			 <head>Series Summary</head> 
+			 <repository audience="external" label="Repository"
+			  encodinganalog="NAHSTE31"> 
+				<corpname authfilenumber="GB 237 NAHSTE C0126"
+				 normal="Edinburgh University Library Special Collections Division"
+				 source="ncarules">Edinburgh University Library, Special
+				  Collections</corpname></repository> 
+			 <unitid label="Reference Code" encodinganalog="isadg(2)311"
+			  countrycode="GB" repositorycode="237">GB 237 EUA GD20/10</unitid> 
+			 <physloc encodinganalog="tempea1">Box EUA-A-144</physloc> 
+			 <unittitle label="Title" encodinganalog="isadg(2)312"
+			  audience="external">Assorted reports, leaflets etc.</unittitle> 
+			 <unitdate label="Date(s)" encodinganalog="isadg(2)313" type="bulk"
+			  certainty="certain" normal="1980/1989" audience="external">1980s</unitdate> 
+			 <physdesc label="Extent and Medium of the Unit of Description"
+			  encodinganalog="isadg(2)315" audience="external">
+				<extent type="linear" unit="metre">0.02 metre</extent> 
+				<genreform>1 folder</genreform></physdesc> 
+			 <origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+			  audience="external"> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement" role="creator">Edinburgh University
+				  Settlement | charitable organisation</corpname></origination> 
+			 <langmaterial audience="external"
+			  label="Language/scripts of material" encodinganalog="isadg(2)343">
+				<language langcode="eng">English</language></langmaterial> 
+		  </did> 
+		  <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+			 <head>Scope and Content</head> 
+			 <p>Various reports, leaflets and similar material, predominantly form
+				the 1980s.</p> 
+		  </scopecontent> 
+		  <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+			 <head>Index</head> 
+			 <controlaccess encodinganalog="NAHSTE383"> 
+				<head>Businesses and Organisations</head> 
+				<corpname source="ncarules" authfilenumber="GB 0237 EUA C2844"
+				 normal="Edinburgh University Settlement">Edinburgh University Settlement |
+				  charitable organisation</corpname> 
+			 </controlaccess> 
+		  </controlaccess><descgrp> 
+			 <head>Administrative Information</head> 
+			 <accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+				<head>Conditions Governing Access</head> 
+				<p> Some items may be restricted under the Data Protection Act
+				  1998.</p> 
+			 </accessrestrict> 
+			 <processinfo> 
+				<processinfo audience="internal" encodinganalog="isadg(2)373"> 
+				  <head>Date(s) of Description</head> 
+				  <p> 
+					 <persname source="ncarules" role="archivist"
+					  normal="Buttars, Grant">Grant Buttars</persname> 
+					 <date type="single" normal="20051109" certainty="certain">09
+						November 2005</date></p> 
+				</processinfo> 
+			 </processinfo> 
+		  </descgrp> 
+		</c> 
+	 </dsc> 
+  </archdesc>
+</ead>

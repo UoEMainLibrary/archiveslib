@@ -1,0 +1,129 @@
+<!-- DTDExtensions file for the extra behaviour information
+     for XMetaL. Copyright 1998-2000 SoftQuad Software Inc. -->
+
+<!ELEMENT DTDExtensions (OnLoad| ChangeLists| Paragraphs| Templates| 
+                         FollowedByList| OnInsertElementList| ElementPropertiesList|
+                         ListElements| Images |OCXReplacements)*>
+<!ATTLIST DTDExtensions
+          Version  CDATA  #FIXED "1.0">
+<!-- For XM 1.0 specificity matters, then the order in the file. -->
+<!-- Parent does not include ancestor -->
+
+<!-- Entity sets for Description fields -->
+<!ENTITY % isolat1      PUBLIC
+"ISO 8879-1986//ENTITIES Added Latin 1//EN"
+"entities/ISOlat1.pen"  >
+
+<!ENTITY % isonum       PUBLIC
+"ISO 8879-1986//ENTITIES Numeric and Special Graphic//EN"
+"entities/ISOnum.pen"   >
+
+<!-- ChangeLists -->
+<!ELEMENT ChangeLists        (ChangeList)*>
+<!ELEMENT ChangeList         (Selectors, ChangeListElements)>
+<!ELEMENT Selectors          (Selector+)>
+<!ELEMENT Selector           (Name, Parent?)>
+<!ELEMENT Name               (#PCDATA)>
+<!ELEMENT Parent             (#PCDATA)>
+<!ELEMENT ParentList         (Parent)*>
+<!ELEMENT ChangeListElements (ChangeListElement)*>
+<!ELEMENT ChangeListElement  (#PCDATA)>
+
+<!-- Paragraphs -->
+<!ELEMENT Paragraphs  (Paragraph)*>
+<!ELEMENT Paragraph   (Name, Parent?)>
+
+<!-- Templates -->
+<!ELEMENT Templates   (Template)*>
+<!ELEMENT Template    (Name, Parent?, MiniTemplate)>
+<!ELEMENT MiniTemplate (#PCDATA)>
+<!-- MiniTemplate contains a CDATA section -->
+<!ELEMENT InsertElemScript               (#PCDATA)>
+<!-- InsertElemScript contains a CDATA section -->
+
+<!-- OnInsertElement -->
+<!-- Triggered by inserting the element, but not by FollowedBy etc.-->
+<!ELEMENT OnInsertElementList  (OnInsertElement)*>
+<!ELEMENT OnInsertElement      (Name, Parent?, Lang?, InsertElemScript)>
+<!ELEMENT Lang                 (#PCDATA)>
+
+<!-- FollowedByList -->
+<!ELEMENT FollowedByList  (FollowedByListItem)*>
+<!ELEMENT FollowedByListItem  (Name, (Parent|ParentList)?, FollowedBy)>
+<!ELEMENT FollowedBy       (#PCDATA)>
+<!-- FollowedBy should be the name of one element, which will trigger the Template
+defined for that element, but not the OnInsertElement -->
+
+<!-- OnLoad -->
+<!ELEMENT OnLoad         (Lang?, OnLoadScript)>
+<!ELEMENT OnLoadScript   (#PCDATA) >
+<!-- scripts have to have CDATA Sections to delimit them -->
+
+<!-- ElementPropertiesList -->
+<!ELEMENT ElementPropertiesList   (GlobalPrettyPrintOptions?, ElementProperties*)>
+<!ELEMENT GlobalPrettyPrintOptions      (NoPrettyPrinting?, IndentAmount, MaxLineLength)>
+<!ELEMENT NoPrettyPrinting              EMPTY>
+<!ELEMENT MaxLineLength  (#PCDATA)>
+<!ELEMENT IndentAmount  (#PCDATA)>
+<!-- default values are IndentAmount=2 and MaxLineLength=80 -->
+<!-- if NoPrettyPrinting doesn't exist, pretty-printing is on -->
+<!ELEMENT ElementProperties  (Name,
+                              (ShortDescription | LongDescription |
+                              TagColor | PreserveSpace | HideInNormalView |
+                              PrettyPrintOptions)*)>
+<!ELEMENT ShortDescription  (#PCDATA)>
+<!ELEMENT LongDescription  (#PCDATA)>
+<!ELEMENT TagColor  (#PCDATA)>
+<!ELEMENT PreserveSpace    EMPTY>
+<!ELEMENT HideInNormalView    EMPTY>
+<!-- default value for preserve space is false. -->
+<!-- default value for hide in normal view (WYSIWYG) is false -->
+<!ELEMENT PrettyPrintOptions
+                   (BlankLineBeforeStartTag |
+                    BlankLineAfterStartTag  |
+                    NewLineBeforeStartTag   |
+                    NewLineAfterStartTag    |
+                    BlankLineBeforeEndTag   |
+                    BlankLineAfterEndTag    |
+                    NewLineBeforeEndTag     |
+                    NewLineAfterEndTag      |
+                    IndentContent)* >
+<!ELEMENT BlankLineBeforeStartTag EMPTY>
+<!ELEMENT BlankLineAfterStartTag  EMPTY>
+<!ELEMENT NewLineBeforeStartTag   EMPTY>
+<!ELEMENT NewLineAfterStartTag    EMPTY>
+<!ELEMENT BlankLineBeforeEndTag   EMPTY>
+<!ELEMENT BlankLineAfterEndTag    EMPTY>
+<!ELEMENT NewLineBeforeEndTag     EMPTY>
+<!ELEMENT NewLineAfterEndTag      EMPTY>
+<!ELEMENT IndentContent           EMPTY>
+<!-- default setting for all of these is false -->
+
+<!-- Lists -->
+<!ELEMENT ListElements   (BulletedList|NumberedList|DefinitionList)*>
+<!ELEMENT BulletedList   (Name, ListHeader?, ListItem)>
+<!ELEMENT NumberedList   (Name, ListHeader?, ListItem)>
+<!ELEMENT DefinitionList (Name, DefinitionTerm, DefinitionDefinition)>
+<!ELEMENT ListHeader     (#PCDATA)>
+<!ELEMENT ListItem       (#PCDATA)>
+<!ELEMENT DefinitionTerm (#PCDATA)>
+<!ELEMENT DefinitionDefinition (#PCDATA)>
+
+<!-- Images -->
+<!ELEMENT Images  (Image)*>
+<!ELEMENT Image   (Name, Source-Attribute,
+                   Height-Attribute?, Width-Attribute?,
+                   AltText-Attribute?)>
+<!ELEMENT Source-Attribute  (#PCDATA)>
+<!ELEMENT Height-Attribute  (#PCDATA)>
+<!ELEMENT Width-Attribute   (#PCDATA)>
+<!ELEMENT AltText-Attribute (#PCDATA)>
+
+<!-- Inline ActiveX controls -->
+<!ELEMENT OCXReplacements (OCXReplacement)*>
+<!ELEMENT OCXReplacement  (SelectorName, MacroPrefix, (ProgID|ClassID), UseBmpPrinting?)>
+<!ELEMENT ClassID         (#PCDATA)>
+<!ELEMENT ProgID          (#PCDATA)>
+<!ELEMENT SelectorName    (#PCDATA)>
+<!ELEMENT MacroPrefix     (#PCDATA)>
+<!ELEMENT UseBmpPrinting  EMPTY>

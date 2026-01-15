@@ -1,0 +1,19 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Animal embryology</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/a/">a</a><h1>Animal embryology</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4289&term=Animal embryology" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="141">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-733&view=basic">Development of ovine nuclear transfer embryos reconstructed during and after isolation of an established cell line from embryonic disc cells </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-781&view=basic">Manipulation of ovarian follicle population to improve superovulatory response in cattle </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-801&view=basic">Identification of transcripts potentially involved in gonadal development by the use of differential display </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-735&view=basic">Cloning and in vivo expression of the pig MyoD gene </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="121.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

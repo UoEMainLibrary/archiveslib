@@ -1,0 +1,35 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Diseases</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/d/">d</a><h1>Diseases</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=188&term=Diseases" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1307&view=basic">Manuscript recording the lectures of George Fordyce on inflammatory diseases </a> (1806-1807) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-2-2&view=basic">Account of the 'Liasic district of Skye' </a> (1853) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-11-4-2&view=basic">Letter to Robert Boog-Watson from Sir Archibald Geikie </a> (1862) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW114-48&view=basic">Notes on Miulay </a> (1867) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW107-48&view=basic">Song entitled 'Mararan do Thirmaid </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW106-56&view=basic">Story about Mac an Leigh Mòr's daughter dying of plague </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW106-51&view=basic">Story about An Gorm Mòr's daughter </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-105&view=basic">Story about a woman's trip to a wise woman for a snaile </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW90-141&view=basic">Cure for cattle </a> (1872) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW111-30&view=basic">Story about the plague which struck Na Hearadh/Isle of Harris </a> (1873) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-6-18&view=basic">5 Lectures on geology </a> (1874-1884) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW106-129&view=basic">List of songs and stories including a cure and rhyme </a> (1875) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-11-1-12&view=basic">Letter to Sir Andrew Crombie Ramsay from Sir John William Dawson </a> (1875) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW87-15&view=basic">Charm entitled 'Eola[s] Na Bui' </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW87-12&view=basic">Charm entitled 'Eolas Na Bui Buidhe[ach]' </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-30&view=basic">Remedy using dog fat entitled 'Lòni - Cure' </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-50&view=basic">Story about the effect of typhus and debt on the Campbell and Macintire families on Lismore </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW87-19&view=basic">Charm entitled 'Galar Fual' and accompanying note </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW87&view=basic">Transcription notebook of Alexander Carmichael </a> (1883-1885) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW87-62&view=basic">Poem under the title 'Leprosy' </a> (1885) The Carmichael Watson Collection</li>
+</ul>
+<a href="21.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

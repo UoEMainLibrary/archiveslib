@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-21"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-21</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>The Dashkov Medals </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-21</unitid>
+		
+		<physloc>Medals No. 119 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">The Dashkov Medals </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260" normal="1777">before
+		  1777 </unitdate> 
+		<origination encodinganalog="isad(g) 3.2.1./marc 700">Princess Ekaterina
+		  Romanovna Vorontsova Dashkova </origination> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>136 medals.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>In 1777 Princess Ekaterina Romanovna Vorontsova Dashkova arrived in
+		  Scotland with her son Paul (Pavel Mikhailovich Dashkov). Her son immediately
+		  began studies at Edinburgh University, and in 1779 the Princess, still resident
+		  in Edinburgh, gave a collection of Russian commemorative medals to mark the
+		  occasion of the graduation of Paul as a Master of Arts. The medals, over 150 in
+		  number and all made of copper, were entrusted first to Professor John Robison,
+		  Professor of Natural Philosophy in the University and a Fellow of the Royal
+		  Society of Edinburgh, who was instructed to make a catalogue of them. In the
+		  early 1770s, Robison had very briefly held the Chair of Mathematics in the
+		  Imperial Naval Cadet Corps at Kronstadt, where he had been given the rank of
+		  Colonel. The medals were only handed back to the University after Robison's
+		  death in 1805. If a catalogue was ever made by Robison it did not survive, and
+		  a proper catalogue of the collection still has to be compiled. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>Some of the medals show rulers of Russia, military figures, statesmen,
+		  events of the reign of Peter the Great. Others mark events such as coronations,
+		  accessions, marriages and deaths of Russian rulers. Imperial institutions are
+		  commemorated, as are cities and buildings of the Russian empire. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Dashkova</emph> <emph altrender="forename">Ekaterina
+		  Romanovna Vorontsova</emph> <emph altrender="epithet">kniaginia</emph>
+		  <emph altrender="dates">1743-1810</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Dashkov</emph> <emph altrender="forename">Pavel
+		  Mikhailovich</emph> <emph altrender="epithet">Prince</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Robison</emph> <emph altrender="forename">John</emph>
+		  <emph altrender="dates">1739-1805</emph> </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Medals</emph> <emph altrender="z">Soviet Union</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H21 </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-38">GB 237
+		Coll-38</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Colin Campbell
+			 Collection </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-38">
+    <did>
+      <unittitle>Colin Campbell
+			 Collection </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-38</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MSS 3096-3102</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Colin Campbell Collection </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1553-1836">1553-1836 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>7 boxes (1
+		  m). </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">Colin Campbell of
+		  Achnaba </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Colin Campbell, the son of Patrick (Dubh Beg) Campbell of
+		  Innerzeldies, ancestor of the Barcaldine family, was born in 1644. He was
+		  educated at St. Salvator's College, St. Andrews, graduating on 27 July 1661.
+		  Thereafter he may have studied at one of the English universities either as a
+		  companion or tutor to his relative, Robert of Glenorchy (Sir Robert Campbell of
+		  Glenorchy) an ancestor of the marquises of Breadalbane. In 1666 or 1667 he was
+		  admitted as minister of the Parish Church of Ardchattan and Muckairn in Lorne.
+		  On 12 January 1676 he was suspended from the ministry on a charge of
+		  pre-nuptial intercourse but was restored 25 June 1676. In addition to carrying
+		  out his professional duties, Campbell had a deep interest in mathematics and
+		  astronomy and was a correspondent of Sir Isaac Newton. Indeed, the 
+		Dictionary of National Biography  (1908) tells us that in
+		a letter to James Gregory, Professor of Mathematics at Edinburgh and formerly
+		of St. Andrews, Newton had said of Campbell, 'he would make children of us
+		all'. From his father, Campbell inherited the farm of Drimvuick in the parish,
+		but exchanged these for the farm of Achnaba. Campbell died 13 March 1726. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Colin Campbell Collection contains Gaelic verse, mainly songs;
+		  sermon notes and scripture expositions, the earliest being 1703; manuscript
+		  treatises; Colin Campbell correspondence, the earliest being 1664;
+		  miscellaneous manuscripts including domestic accounts, medical papers, minutes
+		  etc; notebooks, accounts, letters and scraps of Patrick Campbell of Achnaba;
+		  letters from mathematicians to Colin Campbell, and mathematical papers; a body
+		  of accounts, the earliest being 1553; a body of notebooks; and, bound volumes.
+		  </p>
+    </scopecontent>
+    <descgrp>
+      <custodhist encodinganalog="isadg(2)323">
+        <head>Archival History</head>
+        <p>The Colin Campbell Collection has been preserved and added to by his
+		  descendants right down to the modern time. In 1773, his great-granddaughter
+		  Elizabeth was married to Angus Gregorson of Ardtornish and their granddaughter,
+		  also Elizabeth, was in possession of the Collection until she passed it to her
+		  nephew Angus M. Gregorson, circa 1910. Material held on deposit.</p>
+      </custodhist>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H38; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows references to other Colin Campbell mss
+		  at La.II.695/1-5. </p>
+      </relatedmaterial>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

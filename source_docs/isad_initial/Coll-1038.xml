@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-1038"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-1038</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Professor Norman Kemp Smith (1872-1958) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds" id="GB-237-Coll-1038"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237
+		  Coll-1038</unitid> 
+		<physloc>Gen. 1416-1422 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Professor Norman Kemp Smith
+		  (1872-1958) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260" normal="1908-1957"
+		 certainty="uncertain">circa 1908-1957 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>7 boxes (1
+		  linear metre) </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Norman Kemp Smith was born in Dundee in 1872. He was educated at
+		  Dundee High School and at Harris Academy, Dundee. He studied at the University
+		  of St. Andrews and afterward at Jena, Zurich, Berlin, and Paris. He was a
+		  Lecturer in Philosophy at Glasgow University from 1897 to 1906 when he went to
+		  Princeton, New Jersey, as Professor of Psychology and then, from 1914, as
+		  Professor of Philosophy. Between 1916 and 1918, during the First World War, he
+		  served with the Department of Information in London. From 1919, Kemp held the
+		  Chair of Logic and Metaphysics at the University of Edinburgh and occupied the
+		  post until his retirement in 1945. He had also taken his share of University
+		  administration in varied officies such as Assessor on the University Court and
+		  as Dean of the Faculty of Arts. His major published works included output on
+		  three 17th and 18th century philosophers, Descartes, Hume, and Kant, 
+		<title>Commentary on Kant's critique of pure reason </title> (1918), a
+		translation of Kant's 
+		<title>Critique of pure reason </title> (1929), 
+		<title>The philosophy of David Hume </title> (1941), and 
+		<title>New studies in the philosophy of Descartes </title> (1951).
+		Professor Norman Kemp Smith died in Edinburgh on 3 September 1958. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of Professor Norman Kemp Smith include letters, notebooks,
+		  and papers. Included among his correspondents are Woodrow Wilson and Max Born.
+		  There are notebooks of philosophical lectures, offprints of articles, notes,
+		  drafts, pocket diaries, testimonials, personalia, and photographs. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) 
+		  <title>The university portraits </title>, compiled by D. Talbot Rice
+		  (Edinburgh: University Press, 1957). (2) 
+		  <title>University of Edinburgh Journal </title>, Vol.19. 1958-1960,
+		  pp.208-209 (Edinburgh: Oliver and Boyd). </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Smith</emph> <emph altrender="forename">Norman Kemp</emph>
+		  <emph altrender="dates">1872-1958</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Wilson</emph> <emph altrender="forename">Thomas
+		  Woodrow</emph> <emph altrender="dates">1856-1924</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Wilson</emph> <emph altrender="forename">Woodrow</emph>
+		  <emph altrender="dates">1856-1924</emph> </persname> 
+		<persname source="ncarules"> <emph altrender="surname">Born</emph>
+		  <emph altrender="forename">Max</emph> <emph altrender="dates">1882-1970</emph>
+		  <emph altrender="epithet">German Physicist, Nobel Laureate</emph> </persname>
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Glasgow
+		  University</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Philosophy</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows a reference to lectures of Professor
+		  Norman Kemp Smith taken down by another, at Gen. 2024. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

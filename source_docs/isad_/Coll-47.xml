@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-47">GB 237
+		Coll-47</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Collection of
+			 Early 19th century Broadsides (1830-1835) </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-47">
+    <did>
+      <unittitle>Collection of
+			 Early 19th century Broadsides (1830-1835) </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-47</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 1953 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Collection of Early 19th century
+		  Broadsides (1830-1835) </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1830-1835">circa 1830-1835 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>1 volume.
+		  </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The Collection of Early 19th century Broadsides have been pasted into
+		  a foolscap minute-book of the West Port Yearly Society. The broadsides are
+		  printed, and form a scrapbook of ballads which are not to be found in other
+		  collections. All of the broadsides were printed between 1831 and 1835, mostly
+		  in Edinburgh, but seven were printed in Reading, England, during the same
+		  period. It is unclear why these were included in a clearly Scottish - if not
+		  Edinburgh - collection, but it should be noted that some of the seven were
+		  unrecorded by the Local Studies Librarian of Reading Public Library until a set
+		  of photocopies were sent there. It is also possible that some of the longsheets
+		  from which the ballads in the middle section of the volume were cut, were
+		  English in origin. It is not clear who assembled the Collection, but the
+		  methods employed by the anonymous collector seem dubious. Most of the
+		  broadsides have been cropped close to the text thus destroying decorative
+		  woodcuts, printers' imprints and, in some cases, original footnotes. In
+		  addition, almost all of the manuscript minutes of the West Port yearly Society
+		  have been obliterated. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>Many of the works in the Collection of Broadsides lampoon different
+		  political figures associated with the Reform Bills, the Burgh Reform Bill, and
+		  other pieces of reform legislation of the day. Some are of topical but
+		  non-political interest, and many are printings of traditional and literary
+		  ballads and songs. </p>
+    </scopecontent>
+    <descgrp>
+      <acqinfo encodinganalog="isadg(2)324">
+        <head>Immediate source of acquisition</head>
+        <p>The Collection of Broadsides was presented to by Dr. Francis Collinson
+		  in 1974. </p>
+      </acqinfo>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <altformavail encodinganalog="isadg(2)352">
+        <head>Existence/Location of Copies</head>
+        <p>A selection of the ballads in the Collection of Broadsides has been
+		  published by the Friends of as No. 4 in their series of Drummond Books under
+		  the title 
+		Sons of Scotia, raise your voice : early 19th-century Scottish
+		  broadsides from a collection in Edinburgh University Library  (1991).
+		The work is available in Edinburgh University Library, Main Library, George
+		Square, at shelfmark .3988(41) Son. </p>
+      </altformavail>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H47; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

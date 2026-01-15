@@ -1,0 +1,18 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Sheep</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/s/">s</a><h1>Sheep</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=1067&term=Sheep" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="441">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-685&view=basic">Modelling responses to selection for resistance to gastrointestinal parasites in sheep </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-684&view=basic">Responses in adipocyte dimensions to divergent selection for predicted carcass lean content in sheep </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-677&view=basic">Effects of bovine follicular fluid (bFF) fractions, which delay oestrus in sheep and cattle, on proliferation and steroid production by cultured granulosa cells </a> (1995) Roslin Offprints Collection</li>
+</ul>
+<a href="421.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

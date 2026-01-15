@@ -1,0 +1,22 @@
+<!--#include virtual="/ght/includes/top_header.php" -->
+<title>Godfrey Thomson Project: Education research</title>
+
+<!--#include virtual="/ght/includes/cat_header.php" -->
+<!--#include virtual="/ght/includes/lower_header.php" -->
+
+
+<a href="/ght/catalogues">Catalogue</a> &gt; <a href="/ght/subj/a/">Authority terms: subjects</a> &gt; <a href="/ght/subj/e/">e</a><h1>Education research</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/ght/cs/viewauth.php?type=subj&id=3285&term=Education research" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1310&view=basic">Papers of Godfrey H. Thomson </a> (1890-1978) </li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-EUA-IN1-ACU-G1&view=basic">Records of the Godfrey Thomson Unit for Educational Research </a> (1896-1979) Records of the University of Edinburgh</li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1310-3-1-2-8&view=basic">Research in Education </a> (1929) Papers of Godfrey H. Thomson</li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1064&view=basic">Papers of Professor Walter Ledermann </a> (1937-1954) </li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1446&view=basic">Material collected by Elsie G. Taylor </a> (1947-2007) </li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1448&view=basic">Collection of recordings (78rpm) of a lecture given by Sir Godfrey Thomson in 1950 </a> (1950) </li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1310-3-1-2-34&view=basic">Alfred Gilchrist Lecture: The Progress and Present Aspects of Educational Science </a> (1952) Papers of Godfrey H. Thomson</li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1310-3-1-2-35&view=basic">Research Committees and Research Workers </a> (1953) Papers of Godfrey H. Thomson</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/ght/includes/footer.php" -->

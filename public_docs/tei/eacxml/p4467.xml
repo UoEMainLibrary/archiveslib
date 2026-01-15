@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4467</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-01-11">11 January 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>11 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Birth 1804 504/0010 0047</span>
+                        <span localType="ead-repository">Old Parish Register and General Register
+                            Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Marriage certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1848 529/00 0020 0084</span>
+                        <span localType="ead-repository">Old Parish Register and General Register
+                            Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Marriage certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1848 504/00 0020 0157</span>
+                        <span localType="ead-repository">Old Parish Register and General Register
+                            Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 529/00 002/00 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 529/00 002/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 529/00 002/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Muckairn</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 529/00 002/00 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1895 529/00 0008</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW126f/2</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4467</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacNiven</part>
+                <part localType="given">Duncan</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Schoolmaster, crofter, Airds, Taynuilt, Argyll</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1804-03-18">18 March
+                        1804</fromDate><toDate standardDate="1895-03-06">6 March
+                    1895</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Duncan MacNiven was the son of Peter MacNiven, crofter, and Lily MacNiven née
+                    MacDougal. In 1848 he married Elizabeth Campbell and in 1861 census they had
+                    four children living with them: Lilias (11), Alexander (6), John (4) and
+                    Elizabeth (1).</p>
+                <p> he died in 1895, just ten days short of his ninety-first birthday.</p>
+                <chronList>
+                    <chronItem><date standardDate="1804-03-18">18 March
+                            1804</date><placeEntry>Ardchattan, Muckairn, Argyll and
+                            Bute</placeEntry><event>birth</event></chronItem>
+                    <chronItem>
+                        <date standardDate="1848-10-16">16 October 1848</date>
+                        <placeEntry>Muckairn, Argyll and Bute</placeEntry>
+                        <event>marriage</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1895-03-06">6 March 1895</date><placeEntry>Airds,
+                            Muckairn, Argyll and Bute</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

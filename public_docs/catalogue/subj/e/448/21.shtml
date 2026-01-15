@@ -1,0 +1,23 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Examinations</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/e/">e</a><h1>Examinations</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=448&term=Examinations" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L795&view=basic">Letter to Sir Donald Francis Tovey from Sir Percy Carter Buck </a> (1925) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L40&view=basic">Letter to Geoffrey Cotsell from Sir Donald Francis Tovey </a> (1931) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2020&view=basic">Letter to Dr Mary Gardner Grierson from Sir Granville Bantock </a> (1933) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L696&view=basic">Letter to Sir Hugh Allen from Sir Donald Francis Tovey </a> (1933) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L698&view=basic">Letter to Sir Donald Francis Tovey from Sir Hugh Percy Allen </a> (1934) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-Coll-411-1-L2&view=basic">Letter to Sir Thomas Henry Wait Armstrong from Sir Donald Francis Tovey </a> (1939) Papers of Sir Donald Francis Tovey</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-SATO&view=basic">Service Arts and Technical Organization (SATO) </a> (1943-1946) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-ABT-C&view=basic">Association of Building Technicians: education of architects </a> (1952) The Percy Johnson-Marshall Collection</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

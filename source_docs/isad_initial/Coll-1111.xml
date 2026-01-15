@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1111">GB
+		237 Coll-1111</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>New Map of Scotland for Ladies Needlework,
+			 1797</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20070207" certainty="certain">7 February
+			 2007</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1111"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1111</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2007.10</physloc><unittitle
+		encodinganalog="isadg(2)312">New Map of Scotland for Ladies Needlework,
+		  1797</unittitle><unitdate normal="1797/1797"
+		encodinganalog="isadg(2)313">1797</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 roll </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Laurie and Whittle</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>Robert Laurie (1755-1836) and James Whittle (1757-1818) were London
+		  map, chart and printsellers active from 1794 to 1812 trading variously as
+		  Laurie and Whittle or Whittle and Laurie. Laurie began his career as a fine
+		  mezzotint engraver and exhibited at the Society of Artists from 1770-76. With
+		  Whittle, they took over Robert Sayer's business and Laurie stopped engraving.
+		  The firm published many atlases and maps and products used for jigsaws.
+		  Robert's son, Richard Holmes Laurie, succeeded him upon his retirement in 1812,
+		  and after Whittle's death in 1818 carried on the business alone until at least
+		  1840. The firm still exists as Imray, Laurie, Norie and Wilson Ltd. and they
+		  have long specialized in marine charts. </p> 
+		<p>This map of Scotland was made by Laurie and Whittle, 53 Fleet Street,
+		  1797.</p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The map is entitled 
+		<title>A New Map of Scotland for Ladies Needlework</title>. The title is
+		at the top of the map and the text is encircled by greenery and tartan and
+		supported by a Highlander. It is noted as published in London by Laurie and
+		Whittle, No.53 Fleet Street, 1797. The map is colour tinted and is presented in
+		an oval setting. The rolled sheet is approximately 45cm x 50 cm.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Accession no: E2007.10</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance of visit.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None required for this collecton.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographic/administrative history was compiled using: (1)
+			 [online] 
+			 <extref
+			 href="http://www.georgeglazer.com/prints/genre/lauriefellow.html">George Glazer
+				Gallery</extref> [Accessed 7 February 2007].</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D. Eddie, Edinburgh University Library, Special
+			 Collections</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Maps</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses &amp; Organisations</head>		  <!-- NCA Rules -->
+		  <corpname rules="ncarules"><emph altrender="a">Laurie and Whittle,
+			 Fleet Street, London</emph></corpname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE384"> 
+		  <head>Places</head>		  
+		  <!-- LCSH -->
+		  <geogname source="lcsh"><emph altrender="a">Scotland</emph></geogname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

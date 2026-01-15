@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-10">GB 237 Coll-10
+		</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Symbolae Scoticae
+			 </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-10">
+    <did>
+      <unittitle>Symbolae Scoticae
+			 </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-10 </unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Dh.6.63-70</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Symbolae Scoticae
+		  </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1850">circa
+		  1850 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>8 volumes.
+		  </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">Unknown
+		  </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Unknown </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The volumes contain mainly engravings, largely from books and journals
+		  of the 18th and 19th centuries, illustrating Scottish topography. One volume
+		  contains illustrations and other material relating to Edinburgh, and the other
+		  volumes describe Midlothian, East Lothian and West Lothian; Peebles, Selkirk,
+		  Roxburgh, Berwick, and material about Sir Walter Scott; Perth, Forfar, and
+		  Dundee; Arran, Bute, Ayr, Wigton, Kirkcudbright, Dumfries, and material on
+		  Robert Burns; Stirling, Lanark, Glasgow, Renfrew, and Dunbarton; Aberdeen,
+		  Angus, Elgin, Banff, Inverness, and Argyll; and, Ross, Sutherland, Caithness,
+		  Orkney, Shetland, and the Hebrides. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

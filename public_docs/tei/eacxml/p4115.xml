@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4115</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-08-26">26 August 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Stephen Hall</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>15 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Births 1882 525/0020 0015</span>
+                        <span localType="ead-repository">Old Parish Register and General Register
+                            Office for Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 525/00 002/00 015</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 525/01 002/01 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 525/01 002/01 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 525/01 002/01 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 525/01 002/01 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1864 525/01/0001</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1896 525/01 0007</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW120</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Napier Commission: Evidence taken by Her Majesty's Commissioners of
+                    Inquiry into the conditions of The Crofters and Cottars in the Highlands and
+                    Islands of Scotland (5 vols)</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="mods-titleinfo">Crown</span>
+                        <span localType="mods-name" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >Edinburgh</span><span localType="mods-publisher"
+                            xmlns:ns1="http://www.w3.org/1999/xlink">1883</span><span
+                            localType="mods-place" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >Digitised by Lochaber College
+                            http://www.whc.uhi.ac.uk/napier-commission</span><span
+                            localType="mods-date" xmlns:ns1="http://www.w3.org/1999/xlink">Lochaber
+                            College, Mallaig</span><span localType="mods-date">2007</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4115</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Campbell</part>
+                <part localType="given">Christina</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter, Lismore, Argyllshire</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1822-10-25">25 October 1822</fromDate>
+                    <toDate standardDate="1896-04-13">13 April 1896</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Christina or Chirsty Macintyre was born the daughter of John Macintyre [Iain
+                    Donn], tenant farmer, and Ann or Agne Macintyre née MacGrigor. In her youth she
+                    seems to have worked as a servant in the Lowlands – later on in life she is
+                    recorded as having both Gaelic and English – but by 1851 she had returned to the
+                    thirty-acre family holding in order to assist her widowed mother and her brother
+                    Dugald.</p>
+                <p>On 21 January 1864 she married Duncan Campbell, lime burner, Achnacroish, son of
+                    James Campbell, farmer, and Isabella Campbell née Black. Within a few months,
+                    however, tragedy struck. This episode, and its aftermath, she recounted to
+                    Alexander Carmichael in some detail nearly twenty years after the event
+                    [CW120/50]: a most unusual example of a family catastrophe recorded directly
+                    into his field notebooks.</p>
+                <p>On 7 August Chirsty’s brother Dugald Macintyre fell ill with typhus fever. Eight
+                    days later he was dead. On 5 September her husband Duncan Campbell succumbed to
+                    the same illness. ‘Each went out on a Tuesday – 3 weeks between. I dragged both
+                    their bodies out &amp; put them in the coffin on the field. &amp; I weak
+                    watching them &amp; fighting with them for they came strong &amp; feverish.’
+                    [CW120/50]. Two nephews and a cousin also suffered, but survived. ‘I then lay in
+                    fear &amp; lay unconscious for 3 weeks &amp; till beg[inning] of spring was
+                    weak’ [CW120/50]. During all this time she was expecting a child.</p>
+                <p>The Macintyre family was already in arrears after her brother Dugald had lost the
+                    money he had made from the sale of a horse while returning from market, three
+                    years previously. According to Chirsty, all their cattle and crops were seized
+                    and disposed of while she herself was lying ill. All three tenants of Tirfuir
+                    were thereupon evicted and removed to Balnagowan, where Chirsty, now a cottar,
+                    brought up her son Duncan. The Tirfuir holdings were converted into a grazing
+                    park for sheep.</p>
+                <p>Alexander Carmichael visited Chirsty Campbell in late August 1883, sometime
+                    between Sunday 18 and Thursday 29. He had already visited Lismore in the middle
+                    of the month, recording in his field notebook on Wednesday 15. The date is
+                    significant: on Monday 13 August the Napier Commission had held a session on the
+                    island, and we can be virtually certain that Carmichael was present.</p>
+                <p>Carmichael would have heard about the evictions of Tirfuir from three speakers,
+                    Firstly, Dugald Carmichael, labourer, Balamaillachean, telling of how ‘[t]he
+                    reason given for clearing these townships was that there was fever in the place,
+                    and one family got their death in consequence of the fever, and then the other
+                    two were turned away’ [Napier Commission, iii, 2331]. Secondly, he would have
+                    heard the account of Dugald Buchanan, quarryman, Balnagowan, himself one of
+                    those evicted, who had given Chirsty shelter in a byre [ibid., 2333–5]. Finally,
+                    he would also have heard the local land agent, John Fraser Sim of Oban,
+                    defending the actions of his predecessor Mr Gregorson from Dugald Buchanan’s
+                    charges [ibid., 2354, 2356]. Alexander Carmichael’s recording from Chirsty
+                    Campbell the poignant personal account of her eviction, together with the
+                    financial losses she incurred, is clearly intended to be a contribution to the
+                    commission’s evidence, though it does not appear in its final report.</p>
+                <p>Given references to Tirfuir on fos.10v and 18, it is probable that Carmichael
+                    recorded a substantial amount of Lismore tradition from Chirsty Campbell both
+                    before and after her personal narrative, beginning with an unascribed item about
+                    the Rev. Archibald Campbell of Lismore (c. 1692–1752), telling how ministers of
+                    the island up until the early nineteenth century had Eilean Dubh and part of
+                    Tirfuir in their glebe [CW120/34]. Subsequent items include historical tales and
+                    anecdotes, family history, local idioms, and information about island
+                    antiquities.</p>
+                <p>Christina Campbell died in 1896, of a weak heart and bronchitis and her son
+                    Duncan, now employed as a gardener, is recorded as the witness on her death
+                    certificate.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1822-10-25">25 October 1822</date>
+                        <placeEntry>Appin</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1883-08">August 1883</date><placeEntry>Lismore,
+                            Argyllshire</placeEntry><event>visited by Alexander
+                        Carmichael</event></chronItem>
+                    <chronItem>
+                        <date standardDate="1896-04-13">13 April 1896</date>
+                        <placeEntry>Balnagourn, Lismore</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

@@ -1,0 +1,19 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Guest books</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/g/">g</a><h1>Guest books</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=5153&term=Guest books" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-8-2&view=basic">Visitors Book, with index of names </a> (1895-1898) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACU-A1-3-3&view=basic">Institute Visitors' Book </a> (1924-1947) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-3-3&view=basic">Poultry Research Centre Visitors Book </a> (1947-1964) Papers of Alan W. Greenwood</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACU-A1-3-5&view=basic">Institute Library Visitors' Book </a> (1961-1972) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-3-4&view=basic">Visitors Book listing visitors entertained at the British Empire Cancer Campaign Environment Unit, Easter Bush Estate </a> (1963-1968) Papers of Alan W. Greenwood</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

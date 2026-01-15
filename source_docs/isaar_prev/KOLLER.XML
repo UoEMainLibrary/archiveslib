@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1351 20020211//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1351</titleproper> 
+		  <subtitle>Koller | Pio C | 1904-1979 | Hungarian geneticist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+			 University Library Special Collections Division, 24 June 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020624">24 June 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1351</titleproper> 
+		<subtitle>Koller | Pio C | 1904-1979 | Hungarian geneticist</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+		  University Library Special Collections Division, 24 June 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020624">24 June 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1351"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1351</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1351" normal="Koller, Pio C">Koller | Pio C |
+		  1904-1979 | Hungarian geneticist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Pius Charles Koller, who was one of the founders of cytogentics, was
+			 born in Budapest where he first studied at the university for the priesthood
+			 and took his doctoral degree in science in 
+			 <date normal="1926" type="single">1926</date>. He then went to
+			 Cambridge to work with Professor Reginald Crundall Punnett 
+			 <date normal="1875/1967" type="life-span">1875-1967</date> at the
+			 Institute of Genetics. There he met the American geneticist, Landsfield and
+			 collaborated with him on studies of Drosophila. At Cambridge he researched the
+			 chemistry of genetics with Professor Szent-György (<date normal="1893/1986"
+			 type="life-span">1893-1986</date>), and later he also worked with Conrad Hal
+			 Waddington (<date normal="1905/1975" type="life-span">1905-1975</date>).</p> 
+		  <p>He first came to Edinburgh in 
+			 <date normal="1929" type="single">1929</date> when Professor Francis
+			 Crew (<date normal="1886/1973" type="life-span">1886-1973</date>), Buchanan
+			 Professor of Animal Genetics invited Professor Landsfield to Edinburgh, and he
+			 brought Pio Koller with him. At the invitation of Crew, and with an extension
+			 of his Hungarian study grant Koller, who had been taught the technique of
+			 genetical study on Drosophila by Landsfield, was able to remain at the
+			 Institute of Animal Breeding at Edinburgh for a few months. Koller obtained his
+			 Ph.D at Cambridge before returning to genetical work in Hungary. He came back
+			 to Edinburgh in 
+			 <date normal="1932" type="single">1932</date> by which time he had
+			 learnt from Cyril Dean Darlington (<date normal="1903/1981"
+			 type="life-span">1903-1981</date>), who was working on chromosomes at the John
+			 Innes Institute, the cytological technique - the beginnings of the new field of
+			 cytogenetics. Koller pursued the interpretation of the relationship between the
+			 behaviour of the chromosome and the behaviour of the genetic material in rats,
+			 mice and duck hybrids. His work focused on the little studied field of the
+			 crossing of parental chromosomes to offspring, on how variation results from
+			 chromosome behaviour, and the transferral of genes from the y to the x
+			 chromosomes thus separating the sex-linked genes. This work took him into
+			 animal breeding and the physiology of poultry and other birds. It was an
+			 exciting period in the development of genetics at the Institute and Pio later
+			 described Edinburgh as the centre for genetics in UK and Europe at this time.
+			 </p> 
+		  <p>During World War II Koller was unable to remain in Hungary and he
+			 along with other young scientists who were refugees of the European
+			 totalitarian regimes were encouraged by Crew to come to Edinburgh. In addition
+			 to obtaining research grants for them that enabled their pioneering work to
+			 continue, Crew also purchased a hostel in Newington for them all to live in.
+			 Koller remained in Edinburgh throughout the war except for one year in 
+			 <date normal="1936" type="single">1936</date> when he was a
+			 Rockefeller Fellow, but he returned from California early to assist Crew with
+			 the international Genetics Congress of 
+			 <date normal="1939" type="single">1939</date>. In 
+			 <date normal="1944" type="single">1944</date> Koller moved to London
+			 as Research Cytologist at the Royal Cancer Hospital, and from 
+			 <date normal="1946" type="single">1946</date> he was at the Chester
+			 Beatty Research Institute in London. He had come to cancer work from the
+			 experiments that he, Charlotte Auerbach (<date normal="1899/1994"
+			 type="life-span">1899-1994</date>), Muller and others had carried out in
+			 Edinburgh. As part of the war effort they were charged with discovering the
+			 effects of mustard gas attacks and Koller noticed that the pathological effect
+			 of the gas was, as in radiation sickness, on the cell's nucleus. He hoped that
+			 mustard gas might be used to treat cancer cells in the same way that radiation
+			 did. This work and the studies he carried out on radiation induced sterility
+			 and the inheritance of damaged genetic material by the offspring of people
+			 contaminated by radiation were his most important achievements. Koller was
+			 Professor of Cytogenetics at the Institute of Cancer Research after he left
+			 Edinburgh in 
+			 <date normal="1944" type="single">1944</date> until his retirement in
+			 
+			 <date normal="1969" type="single">1969</date>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p> In addition to those colleagues mentioned above, Pio Koller also
+			 collaborated with J.N. Pickard (<date normal="1928" type="single">1928</date>)
+			 on rabbits, with Miller on sheep, with Bertold Wiesner on pregnancy testing,
+			 with Guido Pontecorvo and with Alan Greenwood who succeeded Francis Crew as
+			 Director of the Institute of Animal Breeding at the University of Edinburgh.
+			 Koller also worked with Holding in London, and number of younger geneticists in
+			 Stockholm, including Thelma Townsen and William Briden.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: Koller published numerous research papers in
+			 the Journal of Genetics and the British Journal of Cancer.</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date normal="1933" type="single">1933</date>: Awarded D.Sc,
+			 University of Edinburgh</p> 
+		  <p><date normal="1936/1937" type="appointmentdate">1936-1937</date>:
+			 Appointed Rockefeller Fellow, Pasadena, California</p> 
+		  <p><date type="single" normal="1970">1970</date>: Visiting Professor,
+			 Harvard Medical School</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>University of Edinburgh Journal, 'Obituary', vol.
+			 29</title>, ( <imprint><geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh">Edinburgh</geogname>, 
+			 <publisher>University of Edinburgh</publisher>, 
+			 <date type="publication"
+			 normal="1980">1980</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Who's Who 1978</title>, ( <imprint><geogname
+			 source="lcsh" authfilenumber="499" normal="Great Britain">Great
+			 Britain</geogname>, 
+			 <publisher>A and C Black Ltd</publisher>, 
+			 <date type="publication"
+			  normal="1978">1978</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="researcher" normal="Stewart, Margaret">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020624">24 June
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

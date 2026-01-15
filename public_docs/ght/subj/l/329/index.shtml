@@ -1,0 +1,16 @@
+<!--#include virtual="/ght/includes/top_header.php" -->
+<title>Godfrey Thomson Project: Lectures and Lecturing</title>
+
+<!--#include virtual="/ght/includes/cat_header.php" -->
+<!--#include virtual="/ght/includes/lower_header.php" -->
+
+
+<a href="/ght/catalogues">Catalogue</a> &gt; <a href="/ght/subj/a/">Authority terms: subjects</a> &gt; <a href="/ght/subj/l/">l</a><h1>Lectures and Lecturing</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/ght/cs/viewauth.php?type=subj&id=329&term=Lectures and Lecturing" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1445&view=basic">Material collected by Marian Cooke </a> (1918-1955) </li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1448&view=basic">Collection of recordings (78rpm) of a lecture given by Sir Godfrey Thomson in 1950 </a> (1950) </li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/ght/includes/footer.php" -->

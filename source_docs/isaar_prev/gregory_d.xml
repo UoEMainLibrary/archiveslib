@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0335" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0262 20020207 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0262</titleproper> 
+		  <subtitle>Gregory | David | 1659 -1708 | professor of mathematics at
+			 Edinburgh, and Savilian Professor of Astronomy in Oxford</subtitle> 
+		  <author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+			 University Library Special Collections Division, 15 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020215">15 February 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0262</titleproper> 
+		<subtitle>Gregory | David | 1659 -1708 | professor of mathematics at
+		  Edinburgh, and Savilian Professor of Astronomy in Oxford</subtitle> 
+		<author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+		  University Library Special Collections Division, 15 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020215">15 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0262"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="####">GB 0237 NAHSTE P0262</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0262" normal="Gregory, David">Gregory | David |
+		  1659-1708 | professor of mathematics, University of Edinburgh, and Savilian
+		  Professor of Astronomy, University of Oxford</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>David Gregory, nephew of the famous St Andrews mathematician James
+			 Gregorie (<date type="life-span" normal="1638/1675">1638-1675</date>), was born
+			 in Upper Kirkgate, Aberdeen, on 
+			 <date type="birth" normal="16590603">03 June, 1659</date>. He was
+			 educated for a while at nearby Marischal College, was endowed financially by
+			 the murder of his older brother, and was set loose to pursue his private
+			 interests in maths, physics, and astronomy. Without graduating from Marischal,
+			 he unhorsed the mathematics chairman at Edinburgh University in a broadsheet
+			 debate in 
+			 <date type="single" normal="1683">1683</date> and took his job. He
+			 was given a hasty MA from Edinburgh for decorum's sake, and he taught
+			 mathematics for seven years, and also optics, mechanics, hydrostatics, and even
+			 anatomy. Town-gown quarrels arose in 
+			 <date type="single" normal="1689">1689</date>, turned gradually
+			 libellous, and eventually attracted the Hanoverian committee of visitation then
+			 scouring Scottish universities for Cartesians and other treasoners. Not holding
+			 any truly radical views on anything, Gregory nevertheless saw fit by 
+			 <date type="single" normal="1691">1691</date> to take a fresh
+			 appointment comfortably far away, in Oxford. This was the Savilian chair of
+			 astronomy, in which he spent the rest of his professional life. With his new
+			 post he was given another MA and a desultory MD, along with a non-fellow 'MA
+			 commoner' appointment in Balliol College and membership in the Royal Society.
+			 He took a quick trip to Flanders in 1693, then settled into productive teaching
+			 and publishing until<date type="single" normal="1707">1707</date>, the year in
+			 which the Act of Union between Scotland and England drew him to work on
+			 government fiscal matters instead of science. He was chiefly responsible for
+			 rationalizing the Scottish Mint, even as his mentor Sir Isaac Newton was doing
+			 for the London Mint. His health failed him during his official travelling, and
+			 he died in a Maidenhead inn on 
+			 <date type="death" normal="17081010">10 October, 1708</date>. </p> 
+		  <p>In his lectures and his principal textbook, Professor Gregory was
+			 the first to cast astronomy completely in the alloy of Newtonian gravitational
+			 principles. He also gave undergraduates an enduringly useful guide to optics,
+			 whose special contribution was to propose an achromatic telescope. More
+			 generally he extended his uncle's work on quadrature by infinite series, and
+			 shed light on vexing issues in mathematics and theoretical astronomy, including
+			 the catenary curve, eclipses, the 'parallax problem', and the Cassinian orbital
+			 model for comets. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Three important professional relationships at home were with Sir
+			 Isaac Newton (<date type="life-span" normal="1642/1727">1642-1727</date>),
+			 Edmond Halley (<date type="life-span" normal="1656/1742">1656 - 1742</date>),
+			 and John Flamsteed (<date type="life-span"
+			 normal="1646/1719">1646-1719</date>). On the continent, Gregory maintained
+			 close correspondence with Jan Hudde (<date type="life-span"
+			 normal="1628/1704">1628 - 1704</date>) and Christiaan Huygens (<date
+			 type="life-span" normal="1629/1695">1629 - 1695</date>). </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p><bibref><title>Exercitatio geometrica de dimensione
+			 figurarum</title>, ( <imprint><date type="publication" normal="1684"
+			 certainty="certain">1684</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Catoptricae et dioptricae sphaericae
+			 elementa</title>, (<imprint><date type="publication" normal="1695"
+			 certainty="certain">1695</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Astronomiae physicae et geometricae elementa</title>,
+			 (<imprint><date type="publication" normal="1702"
+			 certainty="certain">1702</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1683">1683</date>: Appointed
+			 Professor of Mathematics, University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1691">1691</date>: Appointed
+			 Savilian Professor of Astronomy, University of Oxford</p> 
+		  <p><date type="appointmentdate" normal="1692">1692</date>: Elected
+			 Member, Royal Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Eagles, Christina M"
+			 role="author">Eagles, Christina M</persname>, <title>The Mathematical Work of
+			 David Gregory, 1659-1708</title>, (<imprint>Edinburgh University Ph.D. thesis, 
+			 <date type="publication" normal="1977"
+			  certainty="certain">1977</date>)</imprint></bibref> </p> 
+		  <p><bibref><persname source="ncarules" normal="Hiscock. WG"
+			 role="author">Hiscock, WG</persname>, <title>David Gregory, Isaac Newton and
+			 their Circle. Extracts from David Gregory's Memoranda 1677-1708</title>, ( 
+			 <imprint><publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1937"
+			 certainty="certain">1937</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Fisher, Duncan" role="researcher">Duncan Fisher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020215">15 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

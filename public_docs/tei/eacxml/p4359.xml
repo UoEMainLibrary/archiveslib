@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4359</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2012-03-21">21 March 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2013-01-25">25 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Lynne Bulmer</agent>
+                <eventDescription>draft revised</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Duirinish</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 110/00 010/00 015</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Dundee</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 282/01 012/01 027</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Dundee</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 282/04 021/40 033</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Dundee</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 282/04 013/04 019</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Dundee</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 282/04 020/04 020</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1871 282/04 0079</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 096/A0 0001</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW110/1</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4359</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family"> MacLeod Thorburn</part>
+                <part localType="given">William</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Missionary, grocer, spirit dealer; Dundee. </p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1844-04-01">1 April 1844</fromDate>
+                    <toDate standardDate="1918-01-22">22 January 1918</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>William MacLeod Thorburn was born in Duirinish, Inverness-shire, the son of John
+                    Thorburn, crofter, and Catherine Thorburn née MacLean. By the time of the 1861
+                    census, he had settled in Dundee and was working as an apprentice grocer; in
+                    1871 he is described as a 'grocer and wine merchant - master' and on 21 March of
+                    the same year he married Agnes Whitelaw Walton. By the time of the 1891 census
+                    they had six children: William (19), Agnes (11), John (9), Lauchlin (5),
+                    Willimina (3) and Walton (10 months). In later life, William Thorburn became a
+                    Free Church missionary and is recorded as being at the Free Church Manse in
+                    Carnoch, Contin in the 1911 census, although at this time no other family
+                    members are mentioned.</p>
+                <p>He died in 1918 in the Free Church Manse in Dores, Inverness-shire of a
+                    perforating gastric ulcer and peritonitis; his son Lauchlin was the
+                    informant.</p>
+                <p>Carmichael collected a poem from William entitled 'Am fac thu each seachad an
+                    seo?' for the safeguarding of animals. </p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1844-04-01">1 April 1844</date>
+                        <placeEntry>Duirinish, Inverness-shire</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1901-04-09">9 April 1901</date>
+                        <placeEntry>Wellgate, Dundee</placeEntry>
+                        <event>mentioned by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1918-01-22">22 January 1918</date>
+                        <placeEntry>Dores, Inverness-shire</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

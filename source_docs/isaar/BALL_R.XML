@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0336 20020510 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper> GB 0237 NAHSTE P0336</titleproper> 
+		  <subtitle>Ball | Robert | 1802-1857 | naturalist, president of the
+			 Geological Society of Ireland</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 10 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020510">10 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper> GB 0237 NAHSTE P0336</titleproper> 
+		<subtitle>Ball | Robert | 1802-1857 | naturalist, president of the
+		  Geological Society of Ireland</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 10 May 2002</author> 
+		<publisher>Edinburgh University Library Department of Special
+		  Collections</publisher> 
+		<date type="single" normal="20020510">10 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0336"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237"> GB 0237 NAHSTE P0336</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0336" normal="Ball, Robert">Ball | Robert |
+		  1802-1857 | naturalist, president of the Geological Society of
+		  Ireland</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Robert Ball (<date type="life-span"
+			 normal="1802/1857">1802-1857</date>), the Irish naturalist, was educated at
+			 Ballitore, County Kildare, by a certain Mr White, who is said to have supported
+			 the child's early inquisitiveness and interest in natural history. Aged 22,
+			 Ball showed his belief in public service, by accepting appointment as a
+			 magistrate.</p> 
+		  <p>The years 
+			 <date type="inclusive" normal="1827/1852">1827-1852</date> were spent
+			 as a civil servant in the under-secretary's office in Dublin. He was repeatedly
+			 refused promotion because he was considered to be too good at his job to be
+			 moved. He continued scientific work in his free time and went on scientific
+			 expeditions during his holidays. Eventually, he was pushed into retirement
+			 because his superiors disapproved of their employee carrying out scientific
+			 work.</p> 
+		  <p>Ball held a number of positions in Irish learned societies, and he
+			 was also director of the museum at Trinity College, Dublin, to which he gave
+			 his considerable collection of zoological specimens. The College awarded him an
+			 honorary doctorate in gratitude for this.</p> 
+		  <p>Ball wrote no books, but he published a number of papers, on the
+			 subject of fossil bears found in Ireland, the remains of oxen found in bogs,
+			 and other topics in the field of zoology.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Robert Ball was the father of astronomer and mathematician, Sir
+			 Robert Sawell Ball (<date type="life-span"
+			 normal="1840/1913">1840-1913</date>).</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>None</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1824">1824</date>: Appointed
+			 Magistrate</p> 
+		  <p><date type="appointmentspan" normal="1827/1852">1827-1852</date>:
+			 Appointed Civil Servant, office of the Under-Secretary</p> 
+		  <p><date type="appointmentdate" normal="1844">1844</date>: Appointed
+			 Director, Trinity College Dublin Museum</p> 
+		  <p><date type="single" normal="1850">1850</date>: Awarded honorary
+			 Doctor of Laws (LLD) Degree, Trinity College Dublin</p> 
+		  <p><date type="appointmentdate" normal="1851">1851</date>: Appointed
+			 Secretary, Queen's University of Ireland</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 I</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			 certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020510">10 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

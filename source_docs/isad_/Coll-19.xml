@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-19">GB 237
+		Coll-19</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>John Maitland
+			 Thomson Collection of Photographic Glass Negatives of Scottish
+			 Charters</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-19">
+    <did>
+      <unittitle>John Maitland
+			 Thomson Collection of Photographic Glass Negatives of Scottish
+			 Charters</unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-19</unitid>
+      <unittitle encodinganalog="isadg(2)312" label="Title">John Maitland Thomson
+		  Collection of Photographic Glass Negatives of Scottish Charters </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1900">c1900</unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>circa 90
+		  glass negatives (in 4 card file drawers). </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Between 1895 and 1906, John Maitland Thomson was Curator of the
+		  Historical Department at HM General Register House, the Scottish Records
+		  Office, in Edinburgh (this title later becoming Curator of Historical Records,
+		  and then Deputy Keeper of the Records). In 1903 he received an honorary LLD -
+		  Doctor of Laws - from Edinburgh University. Thomson was actively publishing and
+		  editing between 1904 and 1922. He was involved as an editor in the
+		  multi-volumed 
+		Registrum magni sigilli regum Scotorum  (1904) - 
+		Register of the Great Seal  - succeeding Sir James Balfour
+		Paul. He published the 
+		Charters, bulls and other documents relating to the Abbey of
+		  Inchaffray, chiefly from the originals in the charter chest of the Earl of
+		  Kinnoull  (1908), as well as 
+		The bishops of Scotland: being notes on the lives of all bishops,
+		  under each of the sees, prior to the Reformation  (1912). He was also
+		responsible for 
+		The public records of Scotland  (1922). John Maitland
+		Thomson died in 1923 when out walking in the Pentland Hills, near Edinburgh.
+		</p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The John Maitland Thomson Collection includes circa 90 full plates of
+		  Scottish Charters granted to towns, regiments, and individuals between the 12th
+		  century and the 18th century. There are also unnumbered Coldstream charters and
+		  various Inchaffray Kinnoull Dupplin charters and seals with signatures of Lord
+		  Oliphant. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H19 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

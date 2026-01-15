@@ -1,0 +1,31 @@
+13.02.2015 10:04:00 - 129.215.248.238 - Login Failed ->admin<-
+13.02.2015 10:09:13 - 129.215.248.238 - Login Failed ->master<-
+13.02.2015 10:09:40 - 129.215.248.238 - Login Failed ->gbuttars<-
+13.02.2015 10:09:46 - 129.215.248.238 - Login Failed ->gbuttars<-
+13.02.2015 10:09:50 - 129.215.248.238 - Login Failed ->gbuttars<-
+13.02.2015 10:12:31 - 129.215.248.238 - Login Failed ->gbuttars<-
+13.02.2015 10:12:37 - 129.215.248.238 - Login Failed ->gbuttars<-
+13.02.2015 10:16:14 - 129.215.248.238 - Login Failed ->deputyarchivist<-
+13.02.2015 10:16:21 - 129.215.248.238 - Login Failed ->deputyarchivist<-
+13.02.2015 11:21:41 - 129.215.248.238 - Login Failed ->deputyarchivist<-
+13.02.2015 11:22:00 - 129.215.248.238 - Login Failed ->deputyarchivist<-
+13.02.2015 11:27:13 - 129.215.248.238 - Login Successful ->deputyarchivist<-
+13.02.2015 11:40:22 - 129.215.248.238 - Replacing gedcom record I12 ->deputyarchivist<-
+13.02.2015 11:41:54 - 129.215.248.238 - Replacing gedcom record I12 ->deputyarchivist<-
+13.02.2015 11:42:12 - 129.215.248.238 - Accepted change I12_euf1.ged replace into database ->deputyarchivist<-
+13.02.2015 11:45:54 - 129.215.248.238 - Appending new INDI record I58 ->deputyarchivist<-
+13.02.2015 11:45:54 - 129.215.248.238 - Replacing gedcom record F6 ->deputyarchivist<-
+13.02.2015 11:45:54 - 129.215.248.238 - Replacing gedcom record I58 ->deputyarchivist<-
+13.02.2015 11:50:43 - 129.215.248.238 - Replacing gedcom record I14 ->deputyarchivist<-
+13.02.2015 11:51:10 - 129.215.248.238 - Accepted change I58_euf1.ged replace into database ->deputyarchivist<-
+13.02.2015 11:51:11 - 129.215.248.238 - Accepted change F6_euf1.ged replace into database ->deputyarchivist<-
+13.02.2015 11:51:11 - 129.215.248.238 - Accepted change I14_euf1.ged replace into database ->deputyarchivist<-
+13.02.2015 12:07:04 - 129.215.248.238 - Site configuration config.php updated by >deputyarchivist<
+13.02.2015 12:10:43 - 129.215.248.238 - Replacing gedcom record I14 ->deputyarchivist<-
+13.02.2015 12:39:13 - 129.215.248.238 - Replacing gedcom record I14 ->deputyarchivist<-
+13.02.2015 13:51:01 - 129.215.248.238 - Replacing gedcom record I14 ->deputyarchivist<-
+13.02.2015 13:51:57 - 129.215.248.238 - Logout - deputyarchivist
+13.02.2015 13:53:47 - 129.215.248.238 - Login Successful ->deputyarchivist<-
+13.02.2015 13:53:58 - 129.215.248.238 - Accepted change I14_euf1.ged replace into database ->deputyarchivist<-
+13.02.2015 13:56:29 - 129.215.248.238 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+19.02.2015 12:09:40 - 129.215.248.238 - Logout - deputyarchivist

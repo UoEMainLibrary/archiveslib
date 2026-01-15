@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4269</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-05-27">27 May 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Stephen Hall</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>updated</eventType>
+                <eventDateTime standardDateTime="2012-11-16">16 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Lynne Bulmer</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">SCA Births MP 0050 00001 00001 00001 00309-021
+                            (Craigston, Barra, St Brendan's)</span>
+                        <span localType="ead-repository">Scottish Catholic Archives</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 108/00 002/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 108/00 001/00 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 108/00 002/00 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source><sourceEntry>Transcription notebook of Alexander Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW7/6 folio 11–13v</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4269</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacNeil</part>
+                <part localType="given">Margaret</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter, Barra</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1810" notBefore="1805" notAfter="1815">c1810</fromDate>
+                </dateRange>
+                <descriptiveNote>
+                    <p>date of death unknown.</p>
+                </descriptiveNote>
+            </existDates>
+            <biogHist>
+                <p>Margaret or Peggy MacNeil was born c1810, most probably in Barra where she
+                    appears to have remained throughout her life; there is no record of the names of
+                    her parents. By the time of the 1851 census Margaret is listed as being married
+                    to John MacNeil, a cottar and fisherman, both recorded as being aged 40 and
+                    living in Bruairnis with their five children: Michael (13), Elizabeth (9),
+                    Donald (7), Dougald (5), and Mary (1). In 1861 census they are listed as
+                    occupying one of the farms at Bayheriva [Bàgh Thiarabhagh] and John is working
+                    as a fisherman; their daughter Mary is not recorded in this census. In the 1871
+                    Census Peggy is living alone with her daughter, named Catherine, in Bruairnis
+                    where they are classed as paupers. Margaret's death is not recorded.</p>
+                <p>Alexander Carmichael visited Margaret on 30 September 1870 and collected the song
+                    'Cha Teid Mor A Bharraidh Bhronach' from her.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1810" notBefore="1805" notAfter="1815">c1810</date>
+                        <placeEntry>Bruairnis, Barra</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1870-09-30">30 September
+                            1870</date><placeEntry>Bruairnis, Isle of Barra,
+                            Inverness-shire</placeEntry><event>visited by Alexander
+                            Carmichael</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+        <relations>
+            <cpfRelation cpfRelationType="family"><relationEntry>John MacNeil</relationEntry><descriptiveNote>
+                    <p>Husband, cottar</p>
+                </descriptiveNote></cpfRelation>
+        </relations>
+    </cpfDescription>
+</eac-cpf>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4367</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-07-08">08 July 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Stephen Hall</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>23 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 108/00 003/00 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 108/00 003/00 009</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1901 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1901 108/00 003/00 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1906 108/00 0002</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB237/Coll-97/CW110/21</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4367</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacNeil</part>
+                <part localType="given">Catherine</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Pauper, Brèibhig, Barra</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1856" notBefore="1851" notAfter="1861"
+                        >c1856</fromDate><toDate standardDate="1901-01-05">5 January
+                    1901</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Catherine MacNeil was born to Roderick MacNeil and Mary née MacLeod. Little is
+                    known of her early life, but by the 1881 Census she was living with just her
+                    mother in Brèibhig. Her mother was crofting two acres of land and they stayed
+                    together in a croft with two rooms with windows. By 1891 her mother had died and
+                    Catherine, living on her own, was a pauper. Her status had not changed by the
+                    next Census, though her ability to understand both Gaelic and English was noted. </p>
+                <p>In 1906 Catherine died of bronchial catarrah after an illness of two and half
+                    years. Her brother John MacNeil signed the death certificate.</p>
+                <p>Carmichael met her in June 1901 and she told him the prayer beginning 'A
+                    Sp[ioraid] naomh is mo neart'.</p>
+                <chronList>
+                    <chronItem><date standardDate="1856" notBefore="1851" notAfter="1861"
+                            >c1856</date><placeEntry>Barra</placeEntry><event>birth</event></chronItem>
+                    <chronItem>
+                        <date standardDate="1901-06-13">13 June 1901</date>
+                        <placeEntry>Brèibhig, Barra, Inverness-shire</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem><date standardDate="1906-01-05">5 January
+                            1906</date><placeEntry>Brèibhig,
+                        Barra</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

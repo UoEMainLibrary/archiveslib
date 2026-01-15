@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1">GB
+		237 Coll-1 </eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>The Laing Collection </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-1">
+    <did>
+      <unittitle>The Laing Collection </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-1 </unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Coll-1 </physloc>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">La.I - La.V</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">The Laing Collection </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="800-1899">9th century -
+		  19th century </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>circa 300 boxes, circa
+		  740 volumes (maximum 72 linear metres). </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">David Laing (1793-1878)
+		  </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>David Laing, eminent historian, antiquary and bibliographer, was the
+		  second son of the Edinburgh bookseller William Laing (1764-1832) and was born
+		  on 20 April 1793. He was educated at the Canongate grammar school and later on
+		  attended Greek classes at Edinburgh University. At the age of fourteen he
+		  became apprenticed to his father who, at the time, was the only bookseller in
+		  Edinburgh dealing in foreign literature. Laing was able, occasionally, to
+		  travel abroad in search of rare or curious books. In 1821, he became a partner
+		  in his father's business and throughout his life he was an avid collector of
+		  manuscripts and rescued many from destruction. The first published work of his
+		  own was 
+		Auctarium Bibliothecae Edinburgenae sive Catalogus Librorum quos
+		  Gulielmus Drummondus ab Hawthornden D.D.Q. Anno 1627  (1815). Among
+		other works, Laing also reprinted Thomas Craig's 
+		Epithalamium on the marriage of Darnley and Mary Stuart 
+		(1821). When Sir Walter Scott founded the Bannatyne Club in 1823 for the
+		printing of material and tracts relating to Scottish history and literature,
+		Laing - a friend of Scott's - became Secretary of the Club and chief organiser
+		until its dissolution in the 1860s. Laing was also associated with the
+		Abbotsford Club, the Spalding Club, and the Wodrow Society, each of which had
+		been set up for the publication of manuscripts and for the revival of old
+		texts. When the keepership of the Advocates' Library fell vacant in 1818, Laing
+		was a candidate but was not elected. He became Keeper of the Library to the
+		Society of Writers to Her Majesty's Signet, a post which he occupied from 1837
+		until his death. On his appointment to the post, he gave up his business as a
+		bookseller and disposed of the stock in a public sale. Laing died at
+		Portobello, in Edinburgh, on 18 October 1878. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>After the death of David Laing, his private library was sold in an
+		  auction occupying thirty-one days. His collection of charters and other papers
+		  is of national importance and the most distinguished of its kind in any
+		  Scottish university. It is an essential source for the 18th century, and a much
+		  used one for all periods of Scottish history from the earliest times. The Laing
+		  Collection falls into five sections, designated as La.I., La.II., La.III.,
+		  La.IV., and La.V. </p>
+    </scopecontent>
+    <descgrp>
+      <acqinfo encodinganalog="isadg(2)324">
+        <head>Immediate source of acquisition</head>
+        <p>The Laing collection, the largest single manuscript collection in
+		  Edinburgh University Library, was bequeathed in 1878. </p>
+      </acqinfo>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlists, H1; H2; H3; H4; H5; H.5.1; H5.2; H5.3; H5.4.2. Another
+		  important finding aid is the alphabetical Index to Manuscripts held at
+		  Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. As a result of a project
+		  supported by the Scottish Higher Education Funding Council (SHEFC), section IV
+		  of the Laing Collection has been conserved and catalogued. </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

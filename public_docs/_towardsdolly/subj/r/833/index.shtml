@@ -1,0 +1,21 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Rats</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/r/">r</a><h1>Rats</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=833&term=Rats" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-7-16&view=basic">Letter to James Cossar Ewart from Carl Hagenbeck </a> (1901) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-174&view=basic">The relationship between the occurrence of mortality and the development of active immunity in the young rat </a> (1964) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-262&view=basic">Purification of a Diketo Acid Hydrolase from rat liver and its use for the enzymic determination of 3,5-Dioxohexanoate (Triacetate) </a> (1968) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-272&view=basic">Effect of passive immunisation against Brucella abortus on active production of Brucella abortus agglutinins in young rats </a> (1968) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-725&view=basic">Lipoprotein lipase activity and triglyceride (TG) uptake in perfused adipose tissue </a> (1972) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-470&view=basic">Quantitative physiological studies of genetic variation in the ovarian activity of the rat </a> (1974) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-189&view=basic">The role of endogenous opioids in stress- induced inhibition of oxytocin secretion and disruption of parturition in rats and pigs </a> (1993) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

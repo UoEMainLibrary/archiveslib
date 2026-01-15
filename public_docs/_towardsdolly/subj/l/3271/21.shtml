@@ -1,0 +1,26 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Library Catalogues</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/l/">l</a><h1>Library Catalogues</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=3271&term=Library Catalogues" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.8&view=basic">Author catalogue, vol 1 </a> (1800-1826) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.13&view=basic">Author catalogue, vol 2, A-Z </a> (1800-1826) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.9&view=basic">Author catalogue, vol 2 </a> (1800-1826) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.26&view=basic">Press Catalogue </a> (1801) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.21&view=basic">Press catalogue </a> (1801) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-1&view=basic">Author Catalogue </a> (1822-1920) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.28&view=basic">Catalogue of books in the Reid Music Library </a> (1845-1871) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.23&view=basic">Press Catalogue </a> ( ) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.22&view=basic">Press Catalogue </a> ( ) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.24&view=basic">Press catalogue </a> ( ) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ADS-LIB-1-Da.1.25&view=basic">Press Catalogue </a> ( ) Records of the University of Edinburgh</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

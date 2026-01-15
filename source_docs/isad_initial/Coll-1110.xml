@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1110">GB
+		237 Coll-1110</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Collection of Glass Lantern Slides used as Teaching Aids,
+			 Moray House School of Education, Edinburgh</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20070206" certainty="certain">06 February
+			 2007</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1110"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1110</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2007.08</physloc><unittitle
+		encodinganalog="isadg(2)312">Collection of Glass Lantern Slides used as
+		  Teaching Aids, Moray House School of Education, Edinburgh</unittitle><unitdate
+		normal="1890/1910" encodinganalog="isadg(2)313">1890-1910</unitdate><repository
+		label="Repository" encodinganalog="NAHSTE31">Edinburgh University Library,
+		  Special Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 box of c.250 slides </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Moray House School of Education</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>In the 17th century, glass slides were already being projected using a
+		  'magic lantern' - or early form of the projector. However, in 1850, in
+		  Philadelphia, USA, the transparent positive image of a photograph in the form
+		  of a glass slide was invented by William and Frederick Langenheim - two
+		  Daguerreotypists. Their 'hyalotype' (from Greek 'hyalo' for glass) or black and
+		  white photographic glass slide could be projected onto a wall or screen using a
+		  'magic lantern' lit by oil lamps.</p> 
+		<p> By 1870, limelight - a dazzling white light produced by directing a
+		  very hot flame onto the surface of a pellet of lime - offered a better,
+		  although more dangerous, form of illumination. The earliest and simplest form
+		  of limelight was the oxy-calcium lamp. The flame of a spirit lamp was placed
+		  near the pellet of lime and a jet of oxygen was used to raise the temperature
+		  of the flame and force it against the surface of the lime to produce its
+		  brilliant white light. An even brighter limelight could be produced using an
+		  oxygen and hydrogen jet. In the 1890s, the invention of the carbon arc lamp,
+		  followed by electric light, provided a safe method for displaying the lantern
+		  slide image.</p> 
+		<p>By 1873, Bruno Meyer, a German art historian at the Polytechnic
+		  Institute in Karlsruhe, was using projected lantern slides in art history
+		  lectures, and actually started to manufacture what he called 'glasphotogramme'
+		  which he sold at two marks a piece. When the new electric 'magic lantern'
+		  projectors were introduced in 1892, the technology was enthusiastically adopted
+		  by Hermann Grimm, a professor of art history at the University of Berlin. In an
+		  article published in 1897, he reported how lantern slides permitted the
+		  projection of works full-size, or allowed small works or fragments to be
+		  enlarged to colossal scale. Grimm's successor at Berlin was Heinrich Wölfflin
+		  who also embraced the new technology</p> 
+		<p>In 1916, a process for producing colour lantern slides had been
+		  invented by the German company Agfa, but because of the war it did not become
+		  available outside Germany until the 1920s. Use of lantern slides lasted until
+		  the 1950s when their popularity began to decline with the introduction of
+		  smaller transparencies and then, finally, in 1936, the discovery of the
+		  Kodachrome three-color process made the 35mm format slides less expensive to
+		  produce than lantern slides. Beginning in 1938, the transparencies were
+		  presented in the now familiar card mounts.</p> 
+		<p>Although the production of lantern slides ended in the 1950s, many
+		  academic slide collections still house and use glass slides. In some cases, the
+		  views that they represent are either drastically changed or no longer exist and
+		  thus they are invaluable images of the world during the nineteenth and early
+		  twentieth centuries.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The glass slides (black and white) are approx. 82mm x 82mm in size,
+		  some made by Newton and Co., Fleet Street, London, and some by Lizars,
+		  Edinburgh, and are on various subjects and themes including: slides that can be
+		  used for French language instruction; Magna Carta; English sovereigns/rulers;
+		  classical Rome; classical Greece; archaeological sites such as Stonehenge;
+		  Middle Eastern locations; abbeys; Tudor period; Elizabethans; and the
+		  Reformation.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Acquired from Moray House School of Education (Multimedia/AV) March
+			 2006. Accession no: E2007.08.</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance of visit.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared for this collection.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using the
+			 following material: (1) [online] 
+			 <extref
+			 href="http://memory.loc.gov/ammem/award97/mhsdhtml/lanternhistory.html">Lantern
+				Slides: History and Manufacture</extref> [Accessed 6 February 2007]. (2)
+			 [online] 
+			 <extref
+			 href="http://witcombe.sbc.edu/arth-technology/arth-technology5.html">Art
+				History and Technology</extref> [Accessed 6 February 2007]. </p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Lantern
+			 slides</emph></subject> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

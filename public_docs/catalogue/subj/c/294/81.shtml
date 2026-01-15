@@ -1,0 +1,36 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Cattle</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/c/">c</a><h1>Cattle</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=294&term=Cattle" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="81">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-10&view=basic">Charm entitled 'Eolas an Tairbhein' and accompanying note </a> (1890) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-35&view=basic">Verse beginning 'Tha bhean is bo' </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-6&view=basic">Story about 'cli[ar]-sheanachain' </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-57&view=basic">Story and customs about Leac na gruagaich </a> (1894) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-144&view=basic">Vocabulary list for types of placenta </a> (1894) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-96&view=basic">Fragment of a poem or sayings entitled 'Bailgfhionn' [white-bellied calf] </a> (1895) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-88&view=basic">Vocabulary note entitled 'Sea weed' </a> (1895) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-69&view=basic">Customs relating to cattle herding </a> (1895) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-73&view=basic">Story about a cow taken by the fairies </a> (1895) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW1-86&view=basic">Story entitled 'Crodh Marra' [sea-cattle] </a> (1895) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-7&view=basic">Proverb beginning 'Is minig gan amhladh foghar e' </a> (1903) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW178-9&view=basic">Verse or saying beginning 'Fad a leugan chan na laogh' and accompanying note </a> (1903) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-119&view=basic">Story fragments entitled '[Man] Shith' and vocabulary note </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-150&view=basic">Charm entitled 'An Tairbhe' </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-151&view=basic">Charm entitled 'Tarbhan' </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-92&view=basic">Note about 'balgan-bèiste' </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-127&view=basic">Charm entitled 'Ora na Beiste' </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-82&view=basic">Story entitled 'An Tarbhan' about a bull being healed </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-60&view=basic">Vocabulary for 'athla' [heifer] </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-71&view=basic">Story entitled 'Craicneach Hidebound cow ['cow' scored out]' and accompanying song </a> (1909) The Carmichael Watson Collection</li>
+</ul>
+<a href="61.shtml">Previous</a>
+<a href="101.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

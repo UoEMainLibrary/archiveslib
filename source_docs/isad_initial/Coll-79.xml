@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-79"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237 Coll-79
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Professor George Saintsbury (1845-1933) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-79 </unitid>
+		
+		<physloc>Gen. 1888-1889 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Professor George Saintsbury
+		  (1845-1933) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1886-1930">circa 1886-1930 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>3 boxes.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>The literary critic and historian George Edward Bateman Saintsbury was
+		  born in Southampton on 23 October 1845. He was educated at King's College
+		  School, London, and at Merton College, Oxford. Saintsbury was a schoolmaster at
+		  Manchester Grammar School and at Elizabeth College, Guernsey, before becoming
+		  headmaster of Elgin Educational Institute in 1874. From 1876 until 1895 he was
+		  a journalist in London, during which time, 1883-1894, he was the Assistant
+		  Editor of the 
+		<title>Saturday Review </title>. In 1895 he became Professor of Rhetoric
+		and English Literature at Edinburgh University. He held the Chair until 1915.
+		His published works include 
+		<title>Short history of French literature </title> (1882), 
+		<title>Essays in English literature </title> (1890), 
+		<title>Short history of English literature </title> (1898), the three
+		volume 
+		<title>History of English prosody from the twelfth century to the present
+		  day </title> (1906-1910), the two volume 
+		<title>History of the French novel </title> (1917-1919), and 
+		<title>A last scrap book </title> (1924). Professor George Saintsbury
+		died in Bath on 28 January 1933. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of Professor George Saintsbury include articles,
+		  introductions, addresses, lectures, obituaries, reviews, letters and postcards,
+		  and notes. The collection consists of holographs, typescripts, galley proofs,
+		  page proofs, and corrections. There is an autograph manuscript of 
+		<title>A last scrap book </title>, and others of miscellaneous articles.
+		</p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) 
+		  <title>Who's who 1930 </title> (London: A. and C. Black, 1930). (2) 
+		  <title>The dictionary of national biography. The concise dictionary
+			 </title>, Part 2. 1901-1970 (Oxford: OUP, 1982). (3) 
+		  <title>University of Edinburgh Journal </title>, Vol.5. 1932-1933,
+		  p.269 (Edinburgh : Oliver and Boyd). </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Saintsbury</emph> <emph altrender="forename">George Edward
+		  Bateman</emph> <emph altrender="dates">1845-1933</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> </subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">French literature</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows, at other shelfmarks, references to
+		  autograph corrections to particular works by Saintsbury, holographs, letters,
+		  and registers of students. There is a chronological record of works by
+		  Saintsbury, and his birth certificate, at Gen. 784/8. </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

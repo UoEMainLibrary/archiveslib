@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1867 20020226 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1867</titleproper> 
+		  <subtitle>Lovell | Sir | Alfred Charles Bernard | b1913 | radio
+			 astronomer, pioneer of radar and radio telescopes</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 26 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020226">26 February 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1867</titleproper> 
+		<subtitle>Lovell | Sir | Alfred Charles Bernard | b1913 | radio
+		  astronomer, pioneer of radar and radio telescopes</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+		  University Library Special Collections Division, 26 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020226">26 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1867"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1867</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1867"
+		 normal="Lovell, Sir,  Alfred Charles Bernard">Lovell | Sir | Alfred Charles
+		  Bernard | b1913 | radio astronomer, pioneer of radar and radio
+		  telescopes</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Bernard Lovell studied physics at the University of Bristol under
+			 the physicist Arthur Mannering Tyndall (<date normal="1881/1961"
+			 type="life-span">1881-1961</date>). After graduating in 
+			 <date normal="1934" type="single">1934</date>, Lovell went on to do
+			 research for two years. In the autumn of 
+			 <date normal="1936" type="single">1936</date> Lovell moved to
+			 Manchester where he was appointed assistant lecturer in physics for one year.
+			 The following year he became a member of the cosmic-ray research team, working
+			 in this capacity until the outbreak of World War II in 
+			 <date normal="1939" type="single">1939</date>, when he published his
+			 first book, Science and Civilization. During the War Lovell worked for the Air
+			 Ministry conducting valuable research in the use of radar for detection and
+			 navigation purposes, for which he was awarded the Order of the British Empire
+			 (OBE) in 
+			 <date normal="1946" type="single">1946</date>.</p> 
+		  <p>After World War II, with the assistance of James Stanley Hey, he was
+			 able to obtain an ex-army mobile radar unit for use in his research on cosmic
+			 rays. After discovering that electric trams within the city of Manchester were
+			 causing interference he moved the equipment to Jodrell Bank, an open field
+			 outside Manchester, in order to study transient radar echoes. Soon afterwards
+			 the University of Manchester agreed to provide him with a permanent
+			 establishment at the site, and also to sponsor the construction of his first
+			 radio telescope. In recognition of his work Lovell was appointed by the
+			 University to the posts of senior lecturer in 
+			 <date normal="1947" type="appointmentdate">1947</date>, reader in 
+			 <date normal="1949" type="appointmentdate">1949</date> and then
+			 finally professor of radio astronomy in 
+			 <date normal="1951" type="appointmentdate">1951</date>, a position he
+			 held until 
+			 <date normal="1980" type="single">1980</date>. Due to the mass appeal
+			 and plaudits that Jodrell Bank and its director garnered, the BBC invited
+			 Lovell to give a series of radio talks in 
+			 <date normal="1958" type="single">1958</date> known as the Reith
+			 Lectures, these were published a year later under the title of the
+			 <bibref><title>Individual and the Universe</title></bibref>. Bernard Lovell has
+			 received a number of honorary memberships from a range of organisations and has
+			 been awarded many honorary degrees from various academic institutions. He was
+			 knighted in 
+			 <date normal="1961" type="single">1961</date> for his pioneering work
+			 in radio astronomy.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>no information available</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p><bibref><title>Science and Civilisation</title>, (<imprint><date
+			 type="publication" normal="1939"
+			 certainty="certain">1939</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Word Power Resources and Social Development</title>,
+			 (<imprint><date type="publication" normal="1945"
+			 certainty="certain">1945</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Radio Astronomy</title>, (<imprint><date
+			 type="publication" normal="1952"
+			 certainty="certain">1952</date>)</imprint></bibref></p> 
+		  <p><bibref><title> Meteor Astronomy</title>, (<imprint><date
+			 type="publication" normal="1954"
+			 certainty="certain">1954</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>The Story of Jodrell Bank</title>, (<imprint><date
+			 type="publication" normal="1968"
+			 certainty="certain">1968</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>Out of the Zenith</title>, (<imprint><date
+			 type="publication" normal="1973"
+			 certainty="certain">1973</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Emerging Cosmology</title>, ( <imprint><date
+			 type="publication" normal="1980"
+			 certainty="certain">1980</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>The Jodrell Bank Telscopes</title>, (<imprint><date
+			 type="publication" normal="1985"
+			 certainty="certain">1985</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>Voice of the Universe: Building the Jodrell Bank
+			 Telescope</title>, (<imprint><date type="publication" normal="1987"
+			 certainty="certain">1987</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>Astronomer by Chance</title>, ( <imprint><date
+			 type="publication" normal="1990"
+			 certainty="certain">1990</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1946">1946</date>: Appointed
+			 Officer, Order of the British Empire</p> 
+		  <p><date type="appointmentdate" normal="1955">1955</date>: Elected
+			 Fellow, Royal Society</p> 
+		  <p><date type="single" normal="1960">1960</date>: Awarded Royal
+			 Medal</p> 
+		  <p><date type="single" normal="1961">1961</date>: Awarded
+			 Knighthood</p> 
+		  <p><date type="appointmentdate" normal="1964">1964</date>: Appointed
+			 Officer, Order of the British Empire</p> 
+		  <p><date type="appointmentdate" normal="1964">1964</date>: Elected
+			 Honorary Fellow, Society of Engineers</p> 
+		  <p><date type="appointmentspan" normal="1969/1971">1969-1971</date>:
+			 Appointed President, Royal Astronomical Society</p> 
+		  <p><date type="appointmentdate" normal="1970">1970</date>: Appointed
+			 Vice President, International Astronomical Union</p> 
+		  <p><date type="appointmentdate" normal="1974">1974</date>: Elected
+			 Member, American Philosophical Society</p> 
+		  <p><date type="appointmentspan" normal="1975/1976">1975-1976</date>:
+			 Appointed President, British Association</p> 
+		  <p><date type="single" normal="1981">1981</date>: Awarded Gold Medal,
+			 Royal Astronomical Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Who's Who 1976</title>, ( <imprint><geogname
+			 source="lcsh" authfilenumber="499" normal="Great Britain">Great
+			 Britain</geogname>, 
+			 <publisher>A and C Black Ltd</publisher>, 
+			 <date type="publication"
+			 normal="1976">1976</date>)</imprint></bibref></p> 
+		  <p> <bibref>, <title render="italic">Britannica.com and Encyclopedia
+			 Britannica, Inc: Lovell, Sir (Alfred Charles) Bernard</title>, (
+			 <extref
+			 href="http://www.britannica.com/eb/article?eu=50309">http://www.britannica.com/eb/article?eu=50309</extref>
+			 <imprint>, 
+			 <date type="publication" normal="1999/2000"
+			 certainty="certain">1999-2000</date>)</imprint></bibref></p> 
+		  <p> <bibref>, <title render="italic">Columbia Encyclopedia</title>, (
+			 <extref
+			 href="http://www.bartleby.com/65/lo/LovellSir.html">http://www.bartleby.com/65/lo/LovellSir.html</extref>
+			 <imprint>, 
+			 <date type="publication" normal="2000"
+			 certainty="uncertain">2000</date>)</imprint></bibref></p> 
+		  <p> <bibref>, <title render="italic">Eric W Weisstein</title>, (
+			 <extref
+			 href="www.treasure-troves.com/bios/Lovell.html">www.treasure-troves.com/bios/Lovell.html</extref>
+			 <imprint>, 
+			 <date type="publication" normal="1996/2000"
+			 certainty="uncertain">1996-2000</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Thomson, Andrew" role="archivist">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020226">26 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

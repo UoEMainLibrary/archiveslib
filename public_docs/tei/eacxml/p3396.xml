@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p3396</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2012-04-25">25 April 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+                <eventDescription>draft in progress</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2012-04-25">10 September 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Kirsty M Stewart</agent>
+                <eventDescription>draft in progress</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>16 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source>
+                <sourceEntry>Marriage certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1851 551/002 0020 0121 </span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry xmlns:ns1="http://www.w3.org/1999/xlink">1861 census for
+                    Barra</sourceEntry>
+                <descriptiveNote xmlns:ns1="http://www.w3.org/1999/xlink">
+                    <p><span localType="ead-unitid">Census 1861 108/00 005/00 012</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW109/22</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Tomas Reibheir</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW470</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p3396</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacKenzie</part>
+                <part localType="given">John</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Sailor, Isle of Coll</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1821" notBefore="1816" notAfter="1826">c1821</fromDate>
+                </dateRange>
+                <descriptiveNote>
+                    <p>Date of death is unknown.</p>
+                </descriptiveNote>
+            </existDates>
+            <biogHist>
+                <p>John MacKenzie, sailor, was born in Fort WIlliam and in 1851 married Annabella
+                    MacFadyen while they were both living at Arinagour on the Isle of Coll. In the
+                    1861 census, they are living on the island of Vatersay and have 4 children: John
+                    (9), Flory (7), Alan (5) and Malcolm (6 months). By 1881 they are living in
+                    Campbeltown with John, Alan, Malcolm and Bessie (16). </p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1821" notBefore="1816" notAfter="1826">c1821</date>
+                        <placeEntry>Fort William</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1861-02-08">8 February 1861</date>
+                        <placeEntry>Carbost, Isle of Skye</placeEntry>
+                        <event>visited by Alexander Carmichael</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

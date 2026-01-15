@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1290 20020425 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1290</titleproper> 
+		  <subtitle>Arber | Agnes | 1879-1960 | nee Robertson | researcher into
+			 plant anatomy, Newnham College Cambridge</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 25 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020425">25 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1290</titleproper> 
+		<subtitle>Arber | Agnes | 1879-1960 | nee Robertson | researcher in plant
+		  anatomy, Newnham College Cambridge</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 25 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020425">25 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1290"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1290</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1290" normal="Arber, Agnes">Arber | Agnes |
+		  1879-1960 | nee Robertson | researcher in plant anatomy, Newnham College
+		  Cambridge</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Agnes Arber (<date type="life-span"
+			 normal="1879/1960">1879-1960</date>) (n&#x00E9;e Robertson) was a botanist who
+			 sought to blur the distinctions between science and philosophy. She attended
+			 University College, London, from which she graduated with a first class degree
+			 in 
+			 <date type="single" normal="1899">1899</date>. In 
+			 <date type="inclusive" normal="1901/1902">1901-1902</date>, she
+			 achieved a first in both parts of the natural sciences tripos at the University
+			 of Cambridge. Until 
+			 <date type="single" normal="1909">1909</date>, she investigated
+			 comparative plant anatomy at UCL. In 
+			 <date normal="1909" type="single">1909</date>, she married Edward
+			 Alexander Newell Arber (<date type="life-span"
+			 normal="1870/1918">1870-1918</date>), university demonstrator in palaeobotany
+			 at the University of Cambridge. After their marriage, Agnes Arber began to work
+			 alone. During her studies, she was heavily influenced by her friend and teacher
+			 Ethel Sargant (<date normal="1863/1918" type="life-span">1863-1918</date>).</p>
+		  
+		  <p>Her main area of study in the early part of her career was the
+			 structure and morphology of monocotyledonous plants. She was interested in the
+			 history and philosophy of her science, and her first and most famous book,
+			 <bibref><title>Herbals, Their Origin and Evolution</title></bibref> deals with
+			 the history of botany. She wrote 84 scientific papers and a number of other
+			 books, split between scientific - in the earlier part of her career - and more
+			 philosophical works - in the later part. She also wrote about Johann Wolfgang
+			 von Goethe's (<date type="life-span" normal="1749/1832">1749-1832</date>)
+			 botanical work.</p> 
+		  <p>Her health deteriorated during the Second World War, and after 
+			 <date type="single" normal="1942">1942</date>, she ceased to
+			 experiment and publish original scientific material. This period coincides with
+			 her change of focus from scientific or historical study to philosophy and -
+			 later - the mysticism of her final book, <bibref><title>The Manifold and the
+			 One</title></bibref>.</p> 
+		  <p>Agnes Arber was the first woman botanist fellow of the Royal
+			 Society.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Her husband, EAN Arber (<date type="life-span"
+			 normal="1870/1918">1870-1918</date>) was a palaeobotanist.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable Publications:</p> 
+		  <p><bibref><title>Herbals, Their Origin and Evolution</title> ( 
+			 <imprint><date type="publication"
+			 normal="1912">1912</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Water Plants: A Study of Aquati Angiosperms</title> (
+			 <imprint><date type="publication"
+			 normal="1920">1920</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Monocotyledons: A Morphological Study</title> ( 
+			 <imprint><date type="publication" normal="1925"
+			 certainty="certain">1925</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Graminae: A Study of Cereal, Bamboo and
+			 Grass</title> ( <imprint><date type="publication"
+			 normal="1934">1934</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Tha Natural Philosophy of Plant Form</title> ( 
+			 <imprint><date type="publication"
+			 normal="1950">1950</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Mind and the Eye, a Study of the Biologist's
+			 Standpoint</title> ( <imprint> 
+			 <date type="publication"
+			  normal="1954">1954</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Manifold and the One</title> ( <imprint> 
+			 <date type="publication"
+			  normal="1957">1957</date></imprint>)</bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1899">1899</date>: Awarded Batchelor of
+			 Science (BSc (hons)), University College, London</p> 
+		  <p><date type="inclusive" normal="1901/1902">1901-1902</date>: Awarded
+			 first class part i and ii, natural sciences tripos, Newnham College,
+			 Cambridge</p> 
+		  <p><date type="appointmentspan" normal="1903/1908">1903-1908</date>:
+			 Appointed Quain Student in Biology</p> 
+		  <p><date type="appointmentdate" normal="1908">1908</date>: Appointed
+			 lecturer, University College, London</p> 
+		  <p><date type="appointmentdate" normal="1946">1946</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="single" normal="1948">1948</date>: Awarded Linnean
+			 Medal, Linnean Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>, <title>Arber, Agnes (1879 - 1960) British botanist
+			 </title>, (<extref
+			 href="http://www.xrefer.com/entry/172110">http://www.xrefer.com/entry/172110</extref>,
+			 <imprint><publisher>The Penguin Biographical Dictionary of Women, &#x00A9;
+				Market House Books Ltd </publisher>)</imprint></bibref><date type="publication"
+			 normal="1968" certainty="certain">1968</date></p> 
+		  <p><bibref><persname source="ncarules" normal="Hauke, Richard L"
+			 role="author">Hauke, Richard L</persname>, <title>Agnes Arber: Morphology to
+			 Metaphysics and Mysticism</title>, (<extref
+			 href="http://hometown.aol.com/cefield/hauke/arber.html">http://hometown.aol.com/cefield/hauke/arber.html</extref>
+			 <imprint> 
+			 <date type="publication" certainty="certain"
+			  normal="1996">1996</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol I</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970"
+			 certainty="certain">1970</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Williams, ET" role="editor">Williams,
+			 ET</persname> and <persname normal="Palmer, Helen M" role="editor">Palmer,
+			 Helen M </persname>, <title render="italic">Dictionary of National Biography
+			 1951-1960</title>, ( <imprint>
+			 <geogname source="lcsh" authfilenumber="532"
+			 normal="Oxford (England)">Oxford</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1971"
+			 certainty="certain">1971</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020425">25 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

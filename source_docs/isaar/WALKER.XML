@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0351 20020124 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0351</titleproper> 
+		  <subtitle>Walker | John | 1731-1803 | professor of natural history,
+			 University of Edinburgh and clergyman</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 24 January 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020124">24 January 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0351</titleproper> 
+		<subtitle>Walker | John | 1731-1803 | professor of natural history,
+		  University of Edinburgh and clergyman</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+		  University Library Special Collections Division, 24 January 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020124">24 January 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0351"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0351</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0351" normal="Walker, John">Walker | John |
+		  1731-1803 | professor of natural history, University of Edinburgh and
+		  clergyman</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>John Walker became interested in botany at an early age, but this
+			 was not his only scientific interest: "I began to collect minerals in the year
+			 1746" he later wrote. He entered the University of Edinburgh to prepare for the
+			 ministry in the Established (Presbyterian) Church of Scotland. At university he
+			 was attracted by the chemistry courses given by Professor William Cullen. With
+			 Cullen and other friends at university he made many collecting trips. It was
+			 also whilst at university that the young Walker became interested in the museum
+			 display of natural history, a collection which was already greatly revered. In 
+			 <date normal="1779" type="appointmentdate">1779</date> he was to
+			 become the keeper of the Museum.</p> 
+		  <p>In 
+			 <date normal="1758" type="single">1758</date> Walker wrote his first
+			 scientific paper, an account of a medicine well. It was also at about this time
+			 that Walker made the acquaintance of Henry Home, Lord Kames, who greatly
+			 influenced his early career as a natural historian. From 
+			 <date normal="1758/1762" type="inclusive">1758-1762</date> he was
+			 minister at Glencorse in Midlothian, and from 
+			 <date normal="1762/1783" type="inclusive">1762-1783</date> minister
+			 at Moffat. During this period he undertook extensive tours in the Scottish
+			 Highlands. Walker's manuscripts cover a wide range of his interests and
+			 activities. Of particular note to students of botany are the volumes in which
+			 Walker annually noted interesting records, many from Edinburgh and its
+			 environs, supplied by Mr Yalden.</p> 
+		  <p>In 
+			 <date normal="1764" type="single">1764</date> Walker was appointed by
+			 Lord Kames to make a survey of the Hebrides and the Highlands. The Hebrides
+			 were poor and undeveloped and Walker was selected by Lord Kames to highlight
+			 the problems in an attempt to improve the situation, being at the same time
+			 commissioned to make a report to the Society for the Propagation of Christian
+			 Knowledge. In order to complete the survey Walker travelled three thousand
+			 miles in seven months, and the resulting report was eventually printed by his
+			 friend Charles Stewart under the title an <bibref><title>Economical History of
+			 the Hebrides</title></bibref> in 
+			 <date normal="1808" type="publication">1808</date>.</p> 
+		  <p>Walker was appointed regius professor of natural history at the
+			 University of Edinburgh in 
+			 <date normal="1779" type="chairdate">1779</date> while also
+			 continuing his pastoral duties at Moffat. This ultimately proved impractical
+			 and four years on he was transferred to the parish of Colinton. The subjects
+			 that he covered in his lectures included: botany, geology, hydrography,
+			 meteorology, mineralogy and zoology. His lectures on agriculture as part of his
+			 natural history course were the first in an English-speaking university. It has
+			 been said that Walker represents the link betweeen a mediaeval and a new modern
+			 geology. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>The Rev. Dr. John Walker conducted correspondence with many
+			 luminaries of the 
+			 <date normal="1700/1799" certainty="uncertain" type="inclusive">18th
+				century</date>, including: Carl Linnaeus, James Hutton, John Hope, John
+			 Playfair, Sir James Hall, Joseph Black and Benjamin Franklin. As professor,
+			 Walker taught many students who later became important figures in their own
+			 right; these included: Robert Jameson, Robert Brown and James Edward Smith.
+			 </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>An Economical History of the Hebrides, 2
+			 vols</title>, (<imprint><date type="publication" normal="1808"
+			 certainty="certain">1808</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Essays on Natural History and Rural Economy</title>,
+			 ( <imprint><date type="publication" normal="1812"
+			 certainty="certain">1812</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1765">1765</date>: Awarded Honorary
+			 Doctor of Medicine (MD), University of Glasgow</p> 
+		  <p><date type="single" normal="1765">1765</date>: Awarded Honorary
+			 Doctor of Divinity (DD), University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1782">1782</date>: Elected
+			 Member, Natural History Society of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1783">1783</date>: Elected
+			 Member, Linnaen Society</p> 
+		  <p><date type="appointmentdate" normal="1783">1783</date>: Appointed
+			 First Secretary, Royal Society of Edinburgh, Physical Section</p> 
+		  <p>Elected Member, Select Society</p> 
+		  <p>Elected Member, Edinburgh Agricultural Society</p> 
+		  <p>Elected Member, Highland Society of Scotland</p> 
+		  <p>Elected Member, Glasgow Literary Society</p> 
+		  <p>Elected Member, Bath and West of England Agricultural Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Devlin-Thorp, Sheila"
+			 role="author">Devlin-Thorp, Sheila</persname>, <title
+			 render="italic">Scotland's Cultural Heritage</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			  normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>University of Edinburgh</publisher>, 
+			 <date type="publication" normal="1981"
+			  certainty="certain">1981</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Taylor, George" role="author">Taylor,
+			 George</persname>, <title render="italic">John Walker: a Notable Scottish
+			 Naturalist</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			  normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>reprinted from Trans. Bot. Soc. Edinb.,
+				vol.38</publisher>, 
+			 <date type="publication" normal="1959"
+			  certainty="certain">1959</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Williams, Trevor I" role="editor">Williams,
+			 Trevor I</persname> and
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor"> Lee,
+			 Sidney</persname> (eds), <title render="italic">Dictionary of National
+			 Biography, vol x</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			  certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Withers, Charles WJ" role="editor">Withers,
+			 Charles WJ</persname>, <title render="italic">The Rev. Dr. John Walker and the
+			 Practice of Natural History in the Late Eighteenth-Century Scoltland</title>, (
+			 <imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Archives of Natural History, Vol 18</publisher>, 
+			 <date type="publication" normal="1991"
+			  certainty="certain">1991</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020124">24 January
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

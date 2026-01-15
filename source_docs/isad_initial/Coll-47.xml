@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-47"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237
+		Coll-47</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Collection of
+			 Early 19th century Broadsides (1830-1835) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-47</unitid> 
+		<physloc>Gen. 1953 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Collection of Early 19th century
+		  Broadsides (1830-1835) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1830-1835">circa 1830-1835 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>1 volume.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>The Collection of Early 19th century Broadsides have been pasted into
+		  a foolscap minute-book of the West Port Yearly Society. The broadsides are
+		  printed, and form a scrapbook of ballads which are not to be found in other
+		  collections. All of the broadsides were printed between 1831 and 1835, mostly
+		  in Edinburgh, but seven were printed in Reading, England, during the same
+		  period. It is unclear why these were included in a clearly Scottish - if not
+		  Edinburgh - collection, but it should be noted that some of the seven were
+		  unrecorded by the Local Studies Librarian of Reading Public Library until a set
+		  of photocopies were sent there. It is also possible that some of the longsheets
+		  from which the ballads in the middle section of the volume were cut, were
+		  English in origin. It is not clear who assembled the Collection, but the
+		  methods employed by the anonymous collector seem dubious. Most of the
+		  broadsides have been cropped close to the text thus destroying decorative
+		  woodcuts, printers' imprints and, in some cases, original footnotes. In
+		  addition, almost all of the manuscript minutes of the West Port yearly Society
+		  have been obliterated. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>Many of the works in the Collection of Broadsides lampoon different
+		  political figures associated with the Reform Bills, the Burgh Reform Bill, and
+		  other pieces of reform legislation of the day. Some are of topical but
+		  non-political interest, and many are printings of traditional and literary
+		  ballads and songs. </p> 
+	 </scopecontent> 
+	 <acqinfo encodinganalog="isad(g) 3.2.5./marc 541"> 
+		<p>The Collection of Broadsides was presented to by Dr. Francis Collinson
+		  in 1974. </p> 
+	 </acqinfo> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <altformavail encodinganalog="isad(g) 3.5.2."> 
+		<p>A selection of the ballads in the Collection of Broadsides has been
+		  published by the Friends of as No. 4 in their series of Drummond Books under
+		  the title 
+		<title>Sons of Scotia, raise your voice : early 19th-century Scottish
+		  broadsides from a collection in Edinburgh University Library </title> (1991).
+		The work is available in Edinburgh University Library, Main Library, George
+		Square, at shelfmark .3988(41) Son. </p> 
+	 </altformavail> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Collinson</emph> <emph altrender="forename">Francis
+		  M.</emph> <emph altrender="epithet">(Francis Montgomery)</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">West Port Yearly
+		  Society</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Ballads, English</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Ballads, Scots</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Broadsides</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H47; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

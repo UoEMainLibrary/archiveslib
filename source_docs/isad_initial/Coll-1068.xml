@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1068">GB
+		237 Coll-1068</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Papers of Professor Alexander C. Aitken
+			 (1895-1967)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20051006" certainty="certain">06 October
+			 2005</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1068"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1068</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2005.24</physloc><unittitle
+		encodinganalog="isadg(2)312">Papers of Professor Alexander C. Aitken
+		  (1895-1967) </unittitle><unitdate normal="1894/1970"
+		encodinganalog="isadg(2)313">1894-1980</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">3 boxes </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Aitken, Alexander C.</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>The mathematician, statistician, writer, composer and musician,
+		  Alexander Craig Aitken, was born in Dunedin, New Zealand on 1 April 1895. He
+		  was of Scottish descent. He attended Otago Boys' High School from 1908 to 1912.
+		  On winning a university scholarship in 1912 he went on to study at the
+		  University of Otago in 1913, enrolling in Mathematics, French and Latin.
+		  Studies were cut short by the 1914-1918 War however and he enlisted in 1915
+		  serving with the Otago Infantry. Aitken saw action in Gallipoli and Egypt, and
+		  he was wounded during the Battle of the Somme. After his hospitalisation, he
+		  returned to New Zealand in 1917.</p> 
+		<p>On the completion of his studies in 1920, Aitken became a
+		  school-teacher at Otago Boys' High School and the same year he married Winifred
+		  Betts the first lecturer in Botany at the University of Otago where he also did
+		  some tutoring. Then, encouraged by a professor of mathematics at the
+		  University, he gained a postgraduate scholarship which brought him to Edinburgh
+		  University in 1923. His thesis on statistics gained him the degree of D.Sc. in
+		  1925 when he also joined the University staff as a lecturer in Statistics and
+		  Mathematical Economics. In 1937 he was promoted to Reader, and in 1946 was
+		  appointed to the Chair of Mathematics.</p> 
+		<p> Aitken's publications include: jointly with H. W. Turnbull, 
+		<title>The theory of canonical matrices</title> (1932); with D. E.
+		Rutherford, a series of Mathematical Texts; wartime experiences in 
+		<title>Gallipoli to the Somme: Recollections of a New Zealand
+		  infantryman</title> (1963); and, posthumously 
+		<title>To catch the spirit. The memoir of A.C. Aitken with a biographical
+		  introduction by P.C. Fenton</title> (1995). He made many important
+		contributions to the many fields of his subject, particularly in the theory of
+		Matrix Algebra and its application to various branches of mathematics. In his
+		time, Professor Aitken was one of the fastest mathematical calculators in the
+		world.</p> 
+		<p>While at school, Aitken had learned to play the violin, and later on
+		  in life he played both the violin and viola and composed pieces for performance
+		  by university groups.</p> 
+		<p>Professor Alexander C. Aitken died in Edinburgh on 3 November
+		  1967.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The collection is composed of: autobiographical, biographical, memoir,
+		  and obituary material relating to Professor A. C. Aitken; war souvenirs and
+		  maps; correspondence relating to Aitken's publication<title>From Gallipoli to
+		  the Somme</title>; review material relating to 
+		<title>From Gallipoli to the Somme</title>; circa 20 photographs, both
+		portrait and group; 3 commonplace (scrap-)books containing cuttings and
+		newspaper articles on a variety of subjects - some relating to New Zealand;
+		circa 60 musical scores, and letters and printed matter that had been contained
+		within the musical material; photographs of an area near Nelson, New Zealand;
+		material relating to Aitken from Professor N. Kemmer; papers and correspondence
+		relating to his work at Edinburgh University; letters and copies of letters
+		from Aitken to Dr. Robert Schlapp, 1933-1970; letters to Robin Schlapp
+		transcribed from diaries, 1923-1958; and letters to and from family and
+		friends.</p> 
+		<p>There is a folder of material with legal documents and personal
+		  material: relating to Aitken's estate; commission by the curators of Edinburgh
+		  University in favour of Professor Aitken; birth certificate of his wife, 11 May
+		  1894; letters of testimonial, 1923; letter from Royal Society of Literature;
+		  and, material relating to illness in 1926.</p> 
+		<p>The collection also contains some off-prints and publications by
+		  Aitken: 
+		<title>The case against decimalisation</title> (1962), and 
+		<title>The art of mental calculations; with demonstrations</title>
+		(1954); Hunter, Ian M. L.<title>An exceptional memory</title> (1977); and,
+		Hunter, Ian M. L.<title>An exceptional talent for calculative thinking</title>
+		(1962).</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared.</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using the
+			 following material: (1) Obituary. 
+		  <title>University of Edinburgh journal </title>. p.255. Vol.23.
+		  1967-1968. (2) Aitken, A. C. 
+		  <title>To catch the spirit. The memoir of A.C. Aitken with a
+			 biographical introduction by P.C. Fenton</title>. University of Otago Press,
+		  1995.</p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Mathematics</emph></subject>
+		  
+		  <subject><emph altrender="a">Mathematicians</emph></subject>
+		  <subject><emph altrender="a">Music</emph></subject> 
+		  <subject><emph altrender="a">World War, 1914-1918</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph altrender="surname">
+			 Aitken</emph><emph altrender="title">Professor</emph><emph
+			 altrender="forename">Alexander C.</emph><emph
+			 altrender="dates">(1895-1967)</emph><emph altrender="epithet">Professor of
+			 Mathematics</emph><emph altrender="other"></emph></persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses &amp; Organisations</head>		  <!-- NCA Rules -->
+		  <corpname rules="ncarules"><emph altrender="a">University of
+			 Edinburgh</emph><emph altrender="x"></emph><emph altrender="y"></emph><emph
+			 altrender="z"></emph></corpname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE384"> 
+		  <head>Places</head>		  
+		  <!-- LCSH -->
+		  <geogname source="lcsh"><emph altrender="a">New Zealand</emph><emph
+			 altrender="x"></emph><emph altrender="y"></emph><emph
+			 altrender="z"></emph></geogname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

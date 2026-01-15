@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0250 20020131 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0250</titleproper> 
+		  <subtitle>Alston | Charles | 1683-1760 | scientific writer</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 31 January 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20010131">31 January 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0250</titleproper> 
+		<subtitle>Alston | Charles | 1683-1760 | scientific writer</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+		  University Library Special Collections Division, 31 January 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020131">31 January 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0219"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0250</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0250" normal="Alston, Charles">Alston | Charles
+		  | 1683-1760 | scientific writer</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Charles Alston 
+			 <date normal="1683/1760" type="life-span">1683-1760</date> was
+			 brought up by the Duchess of Hamilton whose wish it was that he should study
+			 law; however, Alston preferred botany and medicine. In 1715 he went to Leyden
+			 to study under the Dutch physician Hermann Boerhaave (<date normal="1668/1738"
+			 type="life-span">1668-1738</date>). It was also while at Leyden that Alston
+			 made the acquaintance of Dr Alexander Monro (<date normal="1697/1767"
+			 type="life-span">1697-1767</date>). When both men returned to Edinburgh they
+			 brought new impetus into the teaching of medicine. Alston was appointed
+			 lecturer in botany and materia medica in the Faculty of Medicine, and also
+			 secured in 
+			 <date normal="1716" type="single">1716</date>, through the influence
+			 of the Duke of Hamilton, the office of King's Botanist and Keeper of the Garden
+			 at Holyrood which he enriched with plants that he had brought over from
+			 Holland. Both of these posts he held until his death in 
+			 <date normal="1760" type="death">1760</date>. </p> 
+		  <p>Upon the resignation of George Preston in 
+			 <date normal="1738" type="single">1738</date>, Alston was appointed
+			 the fourth College Professor of Botany and materia medica, in the Faculty of
+			 Medicine. He gave a course of lectures on botany every Summer and one on
+			 Materia Medica every Winter. In 
+			 <date normal="1740" type="publication">1740</date> he published for
+			 the use of students, a list of the officinalium plants in the Physic Garden,
+			 and in 
+			 <date normal="1753" type="publication ">1753</date> an Introduction
+			 to botany, entitled, Tyrocinium Botanicum Edinburgense. The new era in Botany
+			 that had been heralded, was epitomised by the publication of Systema Naturae by
+			 Carl Linnaeus, which established the existence of sex in plant-life.
+			 Unfortunately, like many of his contemporaries, Charles Alston resisted the new
+			 system, and indeed it was in his introduction to Botany that he attacked the
+			 Linnaean system of classification. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Charles Alston frequently corresponded with Dr John Fothergill
+			 (1712-1780).</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Index of the Plants in the Edinburgh Garden</title>,
+			 (<imprint><date type="publication" normal="1740"
+			 certainty="certain">1740</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Tyrocinium Botanicum Edinburgense</title>, ( 
+			 <imprint><date type="publication" normal="1753"
+			 certainty="certain">1753</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>none</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Grant, Sir,  Alexander"
+			 role="editor">Grant, Sir Alexander</persname>, <title> The Story of the
+			 University of Edinburgh During its First Three Hundred Years, Vol II</title>, (
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Longmans, Green and Co</publisher>, 
+			 <date type="publication" normal="1884"
+			 certainty="certain">1884</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Concise Dictionary of National Biography</title>,
+			 ( <imprint><geogname source="lcsh" authfilenumber="532"
+			 normal="Oxford (England)">Oxford</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			 certainty="certain">1992</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Birse, Ronald M" role="author">Birse,
+			 Ronald M</persname>, <title render="italic">Science at the University of
+			 Edinburgh 1583-1993</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>University of Edinburgh</publisher>, 
+			 <date type="publication" normal="1994"
+			 certainty="certain">1994</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020131">31 January
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

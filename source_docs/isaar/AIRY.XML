@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0320 20020423 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0320</titleproper> 
+		  <subtitle>Airy | Sir | George Biddell | 1801-1892 | astronomer
+			 royal</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 23 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020423">23 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 P0320</titleproper> 
+		<subtitle>Airy | Sir | George Biddell | 1801-1892 | astronomer royal
+		  </subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 23 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020423">23 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0320"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0320</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0320" normal="Airy, Sir, George Biddell">Airy |
+		  Sir | George Biddell | 1801-1892 | astronomer royal </authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>George Biddell Airy (<date type="life-span"
+			 normal="1801/1892">1801-1892</date>), an astronomer royal, was influenced in
+			 childhood by his educated uncle Arthur Biddell, whose library probably
+			 introduced Airy to the sciences. With support from his uncle - and his own hard
+			 work (he was a sizar - a student who works as a servant in order to qualify for
+			 reduced fees), he was able to attend Trinity College, Cambridge, from which he
+			 graduated with the top first class degree.</p> 
+		  <p>Airy had a long-running feud with Charles Babbage (<date
+			 type="life-span" normal="1791/1871">1791-1871</date>) during his career, over a
+			 chair which Airy won at Babbage's expense. Their bickering led to a number of
+			 controversies - not always linked to science, in which the two opposed each
+			 other. While Airy usually won these disputes, it is far from clear that he was
+			 usually right.</p> 
+		  <p>Airy was an authoritarian astronomer royal, and though he was
+			 clearly talented, some have suggested his principal gift was making others work
+			 - "Airy was not a great scientist, but he made great science possible." During
+			 his tenure, no young astronomers were trained at the observatory, because he
+			 could not tolerate opinions diverging from his own. His personal contributions
+			 to the science were relatively minor - mostly accurate data and corrections of
+			 the work of previous scientists - most famously Jean-Baptiste Delambre's (<date
+			 type="life-span" normal="1749/1822">1749-1822</date>) work on the relative
+			 motion of Venus and the Earth.</p> 
+		  <p>As astronomer royal, he built the Airy Transit Circle, which defines
+			 the exact position of the Greenwich meridian.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Airy had a long-running feud with Charles Babbage (<date
+			 type="life-span" normal="1791/1871">1791-1871</date>) .</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Mathematical Tracts on Physical Astronomy, the Figure
+			 of the Earth, Precession and Nutation</title> (<imprint><date
+			 type="publication" normal="1826">1826</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Gravitation: an Elementary Explanation of the
+			 Principal Perturburances in the Solar System</title> (<imprint><date
+			 type="publication" normal="1834">1834</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Six Lectures on Astronomy</title> (<imprint><date
+			 type="publication" normal="1849">1849</date></imprint>)</bibref></p> 
+		  <p><bibref><title>A Treatise on Trigonometry</title> (<imprint> 
+			 <date type="publication"
+			  normal="1855">1855</date></imprint>)</bibref></p> 
+		  <p><bibref><title>On the Algebraical and Numerical Theory of Errors of
+			 Observation and the Combination of Observations</title> (<imprint><date
+			 type="publication" normal="1861">1861</date></imprint>)</bibref></p> 
+		  <p><bibref><title>An Elementary Treatise on Partial Differential
+			 Equations</title> (<imprint><date type="publication"
+			 normal="1866">1866</date></imprint>)</bibref></p> 
+		  <p><bibref><title>On Sound and Atmospheric Vibrations, With the
+			 Mathematical Elements of Music</title> (<imprint><date type="publication"
+			 normal="1868">1868</date></imprint>)</bibref></p> 
+		  <p><bibref><title>A Treatise on Magnetism</title> (<imprint><date
+			 type="publication" normal="1870">1870</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Undulatory Theory of Optics</title> (<imprint><date
+			 type="publication" normal="1877">1877</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Numerical Lunar Theory</title> (<imprint><date
+			 type="publication" normal="1886">1886</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Autobiography of Sir George Airy</title> (<imprint> 
+			 <date type="publication"
+			  normal="1896">1896</date></imprint>)</bibref></p> 
+		  <p>Interests and activities:</p> 
+		  <p>Airy suffered from astigmatism. He invented the cylindrical lens to
+			 correct this eye defect.</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1823">1823</date>: Awarded Smith
+			 Prize</p> 
+		  <p><date type="appointmentdate" normal="1824">1824</date>: Elected
+			 Fellow, Trinity College, Cambridge </p> 
+		  <p><date type="chairdate" normal="1826">1826</date>: Appointed Lucasian
+			 Professor of Mathematics, University of Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1826">1826</date>: Appointed to
+			 the Board of Longitude</p> 
+		  <p><date type="chairdate" normal="1828">1828</date>: Appointed Plumian
+			 Professor of Astronomy, University of Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1828">1828</date>: Appointed
+			 Director of the Cambridge Observatory</p> 
+		  <p><date type="single" normal="1831">1831</date>: Awarded Copley Medal
+			 of the Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1835">1835</date>: Appointed
+			 Astronomer Royal</p> 
+		  <p><date type="appointmentdate" normal="1835">1835</date>: Elected
+			 Fellow of the Royal Society of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1836">1836</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="single" normal="1844">1844</date>: Awarded Doctor of
+			 Laws (DCL) Degree, University of Oxford</p> 
+		  <p><date type="single" normal="1845">1845</date>: Awarded Royal Medal
+			 of the Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1845">1845</date>: Elected
+			 President, Royal Astronomical Society</p> 
+		  <p><date type="appointmentdate" normal="1851">1851</date>: Elected
+			 President of the British Association for the Advancement of Science</p> 
+		  <p><date type="single" normal="1862">1862</date>: Awarded Doctor of
+			 Laws (LLD) Degree, University of Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1871">1871</date>: Elected
+			 President, Royal Society</p> 
+		  <p><date type="single" normal="1872">1872</date>: Awarded Knight
+			 Commander of the Order of the Bath (KCB)</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of scientific biography, vol I</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970"
+			 certainty="certain">1970</date>)</imprint></bibref></p> 
+		  <p><bibref><corpname source="ncarules"
+			 normal="University of St Andrews" role="author">University of St
+			 Andrews</corpname>, <title>George Biddell Airy</title>, (<extref
+			 href="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Airy.html">http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Airy.html</extref>
+			 <imprint><publisher>University of St Andrews</publisher>, 
+			 <date type="publication" certainty="certain" normal="200105">May
+				2001</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020424">24 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

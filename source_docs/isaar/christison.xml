@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1338 20020514 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1338</titleproper> 
+		  <subtitle>Christison | Sir | Robert | 1797-1882 | toxicologist and
+			 physician</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 24 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020524">24 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1388</titleproper> 
+		<subtitle>Christison | Sir | Robert | 1797-1882 | toxicologist and
+		  physician</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 24 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020524">24 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1338"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1388</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1388"
+		 normal="Christison, Sir, Robert">Christison | Sir | Robert | 1797-1882 |
+		  toxicologist and physician</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir Robert Christison (<date type="life-span"
+			 normal="1797/1882">1797-1882</date>) was the son of a professor of humanity
+			 (Latin). He was educated at the University of Edinburgh, where he studied
+			 medicine. After a spell in London and Paris, he was appointed Professor of
+			 Medical Jurisprudence (forensic medicine) at Edinburgh in 
+			 <date type="chairdate" normal="1822">1822</date>. In his role as an
+			 expert on toxicology and physiology, he was a key witness in many criminal
+			 trials in Scotland and England, notably that of serial killer William Burke
+			 (<date type="life-span" normal="1792/1829">1792-1829</date>), where he used as
+			 evidence the distinctive differences between injuries inflicted before and
+			 after death, which had not been previously commented upon in trials. This
+			 observation is said to have been crucial in securing Burke's conviction.</p> 
+		  <p>While professor of medical jurisprudence, he conducted research in
+			 toxicology with his colleague Dr Coindet. He wrote a treatise on poisons, part
+			 of which he had researched by risking his own life ingesting toxic substances.
+			 He studied, in particular, the effects of oxalic acid, but also lead, arsenic,
+			 opium and hemlock.</p> 
+		  <p>In 
+			 <date type="single" normal="1832">1832</date>, Christison resigned
+			 his chair to become Professor of Materia Medica and therapeutics at Edinburgh
+			 University. It was in this post that he spent the bulk of his exceptionally
+			 long (55 years) professorial career. In this job, he wrote several books,
+			 including one on kidney conditions. During his tenure he also acted as
+			 physician in ordinary to the Queen in Scotland, was president, for a time, of
+			 the British Medical Association, the Royal Society of Edinburgh and the Royal
+			 College of Physicians in Edinburgh. He was also active within the University of
+			 Edinburgh, and he was well known for his ferocious opposition to the admission
+			 of women to the medical faculty.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Granular Degeneration of the Kidneys</title>, ( 
+			 <imprint><date type="publication" normal="REPLACE YYYY"
+			 certainty="certain">1839</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Commentary on the Pharmacopeias of Great
+			 Britain</title>, (<imprint><date type="publication" normal="REPLACE YYYY"
+			 certainty="certain">1842</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Treatise on Poisons</title>, (<imprint><date
+			 type="publication" normal="REPLACE YYYY"
+			 certainty="certain">1829</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1819">1819</date>: Awarded Doctor of
+			 Medicine (MD) degree, University of Edinburgh</p> 
+		  <p><date type="chairspan" normal="1822/1832">1822-1832</date>:
+			 Appointed Professor of Medical Jurisprudence</p> 
+		  <p><date type="appointmentdate" normal="1827">1827</date>: Appointed
+			 Physician to the Infirmary, Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1829">1829</date>: Appointed
+			 Medical Adviser to the Crown in Scotland</p> 
+		  <p><date type="chairspan" normal="1832/1877">1832-1877</date>:
+			 Appointed Professor of Materia Medica and Therapeutics</p> 
+		  <p><date type="appointmentdate" normal="1839">1839</date>: Elected
+			 President of the Royal College of Physicians in Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1848">1848</date>: Appointed
+			 Physician in Ordinary to the Queen in Scotland</p> 
+		  <p><date type="appointmentdate" normal="1848">1848</date>: Elected
+			 President of the Royal College of Physicians in Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1868/1873">1868-1873</date>:
+			 Elected President of the Royal Society of Edinburgh</p> 
+		  <p><date type="single" normal="1871">1871</date>: Created Baronet</p> 
+		  <p><date type="single" normal="1872">1872</date>: Awarded Honorary
+			 Doctor of Laws (LL.D) degree, University of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1875">1875</date>: Elected
+			 President of the British Medical Association (BMA)</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 IV</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			 certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p><bibref> <title>Edinburgh University Worthies</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Edinburgh University Library</publisher>, 
+			 <date type="publication" normal="1999"
+			 certainty="certain">1999</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on Archives
+			 </corpname> <title>Rules for the Construction of Personal, Place and Corporate
+			 Names (NCA Rules) </title> <imprint> 
+			 <date type="publication" normal="1997">1997
+				</date></imprint></bibref> and <bibref>
+			 <corpname normal="International Council on Archives">International Council on
+			 Archives: Ad Hoc Committee on Descriptive Standards </corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF </title> <imprint> 
+			 <date type="publication" normal="1995">1995
+				</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020524">24 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

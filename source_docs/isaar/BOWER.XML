@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Department of Special Collections :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0452 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0452</titleproper> 
+		  <subtitle>Bower | Frederick Orpen | 1855-1948 | regius professor of
+			 botany, University of Glasgow</subtitle> 
+		  <author>Compiled for the NAHSTE project by Grant Buttars, Edinburgh
+			 University Library Special Collections Division, 28 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020528">28 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0452</titleproper> 
+		<subtitle>Bower | Frederick Orpen | 1855-1948 | regius professor of
+		  botany, University of Glasgow</subtitle> 
+		<author>Compiled for the NAHSTE project by Grant Buttars, Edinburgh
+		  University Library Special Collections Division, 28 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections Division
+		  </publisher> 
+		<date type="single" normal="20020528">28 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0452"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0452</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0452" normal="Bower, Frederick Orpen">Bower |
+		  Frederick Orpen | 1855-1948 | regius professor of botany, University of
+		  Glasgow</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Frederick Orpen Bower (<date type="lifespan"
+			 normal="1855/1948">1845-1948</date>) was born at Ripon, Yorkshire. His early
+			 education was at Repton which, despite a limited scientific syllabus, saw Bower
+			 being encouraged in natural history by his headmaster. In 
+			 <date type="single" normal="1874">1874</date> he entered Trinity
+			 College Cambridge and was taught elementary biology by Mathew Foster, the only
+			 scientific education of any substance available to him there. His introduction
+			 to the then just published English version of Julius von Sachs' <bibref><title>
+			 Text-book of botany, morphological and physiological</title>, (<imprint><date
+			 type="publication" normal="1875" certainty="certain">1875</date>) </imprint>
+			 </bibref> was soon followed by his beginning work with the Sachs taught Sydney
+			 Howard Vines, who had experience of the new types of scientific teaching being
+			 developed by Thomas Henry Huxley at the time in South Kensington. </p> 
+		  <p>Two years later Bower went to W&#x00FC;rzburg to study under Sachs.
+			 At this time pioneering work at the German universities in the direction of
+			 morphology was attracting students form across the globe. In 
+			 <date type="single" normal="1879">1879</date> he studied under Anton
+			 de Bary at Strasbourg. On his return to Britain, Bower began work at University
+			 College London, assisting Daniel Oliver and later lecturing under Thomas Henry
+			 Huxley himself. He also worked at Kew with Dukinfield Henry Scott and began to
+			 have a significant impression amongst his colleagues and contemporaries. In 
+			 <date type="appointmentdate" normal="1885">1885</date>, at he age of
+			 only 29, he became regius professor of botany at the University of Glasgow,
+			 where he remained until his retirement in 
+			 <date type="single" normal="1925">1925</date> and his return to
+			 Ripon.</p> 
+		  <p>Bower was particularly associated with research and publications on
+			 ferns, contributing greatly to the understanding or their origins and
+			 evolution. His 3 volume <bibref><title>The Ferns</title>, (<imprint><date
+			 type="publication" normal="1923-1928" certainty="certain">1923-1928</date>)
+			 </imprint></bibref> was highly acclaimed in terms of its contribution to
+			 classification. In line with the devloping areas of palaeobotany and
+			 morphology, his <bibref><title>The Origin of a Land Flora</title>, ( 
+			 <imprint><date type="publication" normal="1908"
+			 certainty="certain">1908</date>) </imprint></bibref> saw him develop
+			 Celakovsky's 'antithetic' theory as a working hypothesis while research into
+			 morphology itself developed further. Bower's 40 years at Glasgow saw the school
+			 there gain a world-wide reputation for morphological botany.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Bower's uncle was Francis Orpen Morris (<date
+			 type="lifespan" normal="1810/1893">1810-1893</date>), clergyman and
+			 naturalist.</p> 
+		  <p>While at the Royal College of Science, London, Bower was closely
+			 associated with Thomas Henry Huxley (<date type="lifespan"
+			 normal="1825/1895">1825-1895</date>).</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Noteable publications:</p> 
+		  <p><bibref><title>Practical Botany for Beginners</title>, ( 
+			 <imprint><date type="publication" normal="1894"
+			 certainty="certain">1894</date>) </imprint></bibref> </p> 
+		  <p><bibref><title>The Origin of a Land Flora</title>, (<imprint><date
+			 type="publication" normal="1908" certainty="certain">1908</date>)
+			 </imprint></bibref> </p> 
+		  <p><bibref><title>The Botany of the Living Plant</title>, ( 
+			 <imprint><date type="publication" normal="1919"
+			 certainty="certain">1919</date>) </imprint></bibref> </p> 
+		  <p><bibref><title>The Ferns </title>, (<imprint><date
+			 type="publication" normal="1923-1928" certainty="certain">1923-1928</date>)
+			 </imprint></bibref></p> 
+		  <p><bibref><title>Sixty Years in Botany in Britain (1875-1935)</title>,
+			 (<imprint><date type="publication" normal="1938"
+			 certainty="certain">1938</date>) </imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1875"
+			 certainty="uncertain">c1875</date>: Sc.D (first class), Trinity College
+			 Cambridge</p> 
+		  <p><date type="single" normal="1891">1891</date>: Fellow of the Royal
+			 Society of London</p> 
+		  <p><date type="single" normal="1909">1909</date>: Linnean Medal</p> 
+		  <p><date type="single" normal="1910">1910</date>: Royal Medal</p> 
+		  <p><date type="single" normal="1917">1917</date>: Appointed Hooker
+			 Lecturer</p> 
+		  <p><date type="single" normal="1929">1929</date>: Appointed Huxley
+			 Memorial Lecturer</p> 
+		  <p><date type="single" normal="1925">1925</date>: LLD, University of
+			 Glasgow</p> 
+		  <p><date type="single" normal="1938">1938</date>: Darwin Medal</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules"
+			 normal="Gillespie, Charles Coulston" role="author">Gillespie, Charles
+			 Coulston</persname> (ed.), <title>Dictionary of Scientific Biography</title>, (
+			 <imprint>New York, 
+			 <publisher>Charles Scibner's Sons</publisher>, 
+			 <date type="publication" normal="REPLACE YYYY"
+			 certainty="certain">1970</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on Archives
+			 </corpname> <title>Rules for the Construction of Personal, Place and Corporate
+			 Names (NCA Rules) </title> <imprint> 
+			 <date type="publication" normal="1997">1997
+				</date></imprint></bibref> and <bibref>
+			 <corpname normal="International Council on Archives">International Council on
+			 Archives: Ad Hoc Committee on Descriptive Standards </corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF </title> <imprint> 
+			 <date type="publication" normal="1995">1995
+				</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Buttars, Grant">Grant Buttars</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020528">28 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

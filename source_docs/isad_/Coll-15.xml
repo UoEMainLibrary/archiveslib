@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-15">GB 237
+		Coll-15</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers and
+			 Correspondence of Charles Sarolea (1870-1953)</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-15">
+    <did>
+      <unittitle>Papers and
+			 Correspondence of Charles Sarolea (1870-1953)</unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-15</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen.187-267</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers and Correspondence of Charles
+		  Sarolea (1870-1953) </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1897/1952">1897-1952</unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>81 boxes
+		  (11 linear metres).</extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Charles Sarolea was born in Tongres in the Belgian province of
+		  Limbourg on 25 October 1870. He was educated at the University of Liege. In
+		  1894 he was appointed to the newly-founded Lectureship in French at Edinburgh
+		  University and in 1918 he became the University's first Professor of French. He
+		  held the Chair of French and Romance Philology until his resignation in1931.
+		  University teaching had only been part of his career, for Sarolea was also a
+		  linguist, claiming a knowledge of at least eighteen languages, and also a
+		  bookman and author. His book collection of some 200,000 works was said to be
+		  the largest private library in Europe. His own authorship covered political,
+		  philosophical and literary subjects and included 
+		The Anglo-German problem  (1912), 
+		Europe's debt to Russia  (1916), 
+		Europe and the League of Nations  (1919), and 
+		Daylight on Spain  (1938). Sarolea became a naturalised
+		citizen of the UK in November 1912, but for over 50 years he represented
+		Belgium as its Consul, latterly Consul-General, in Edinburgh. French
+		scholarship probably owes an important debt to Sarolea. He held honorary
+		degrees from the Universities of Brussels, Montreal, and Cleveland, and
+		received the Belgian award, Chevalier of the Belgian Order of Leopold. He died
+		in Edinburgh on 11 March 1953. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Sarolea collection has been preserved in 234 numbered files in 81
+		  boxes. The collection covers the years 1897-1952 and relate to all of the
+		  Professor's various activities and interests. For convenience, it can be
+		  divided into four main divisions. Firstly, there are the Everyman papers
+		  relating to the weekly literary journal 
+		Everyman, his life, work and books  with which Sarolea had
+		an interest from 1914,. Within the Everyman division there are editorial papers
+		dated from 1912 and 1916, and business archives between 1912 and 1917. The
+		editorial papers consist of correspondence between Sarolea and contributors to 
+		Everyman  and manuscripts of articles offered for
+		publication, while the business archives comprise the correspondence of
+		publisher J.M. Dent, financial and legal papers, matters relating to
+		advertising and printing, many letters of appreciation and criticism, and a
+		number of competition essays. Secondly, there are papers relating to Edinburgh
+		University. These consist of correspondence with the Principal on six public
+		lectures delivered by Sarolea in 1917; correspondence and papers on general
+		University administrative matters between 1919 and 1930; correspondence and
+		papers relating to the work of the French Department between 1911 and 1936;
+		and, correspondence relating to Sarolea's retirement and pension, 1923-52.
+		Thirdly, there are writings by Sarolea. Spanning the years 1911 and 1950, these
+		are papers, mostly typescript with some autograph corrections, comprising
+		drafts of books or parts of books, articles for journals and newspapers,
+		university lectures, addresses at meetings, contributions to public debates,
+		and radio talks. Fourthly, there are miscellaneous papers and correspondence.
+		This division is itself subdivided into four main groups. There is general
+		correspondence from 1897 to 1952 and including family papers; correspondence
+		with publishers, 1909-43; correspondence with individual persons or
+		organisations, 1919-46; correspondence and papers relating to foreign countries
+		and including Sarolea's relations with the Belgian royal family, and Belgian
+		consular correspondence. This latter group also includes correspondence
+		relating to the then Czechoslovakia, between the years 1919 and 1942 and there
+		are letters from Eduard Benes and Jan Masaryk </p>
+    </scopecontent>
+    <descgrp>
+      <acqinfo encodinganalog="isadg(2)324">
+        <head>Immediate source of acquisition</head>
+        <p>The papers and correspondence of Professor Charles Sarolea were
+		  purchased for in 1954. </p>
+      </acqinfo>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H15; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows Sarolea lectures on French literature
+		  taken down by a W.S. Mitchell, at Gen. 784/2. </p>
+      </relatedmaterial>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

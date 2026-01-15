@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-49">GB 237
+		Coll-49</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers of Fred Urquhart </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-49">
+    <did>
+      <unittitle>Papers of Fred Urquhart </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-49</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MSS 2803-2839 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers of Fred Urquhart </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1930-1994">1930-1994 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>37 boxes (5
+		  m). </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">Frederick Burrows
+		  Urquhart </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The writer Frederick Burrows Urquhart was born on 12 July 1912 in
+		  Edinburgh. Although he wrote a number of novels, Fred Urquhart's strength was
+		  the short story in which his characters did the talking. He had an ear for all
+		  forms of accent and dialect and took ungrammatical yet creative liberties with
+		  the language. Although he spent many years in southern England after the war,
+		  his creative impulses were rooted in Lowland Scotland: on the Firth of Forth
+		  and Clydeside; in coastal Wigtownshire where he was at school for a while; and
+		  on Tayside, where he also spent some of his childhood . His stories generally
+		  dealt with the lives of ordinary people, and the cruelty and violence of such
+		  lives was a constant theme. He was particularly sensitive to the violence dealt
+		  out to women, and his homosexuality probably enabled him to portray the female
+		  psyche with insight and tenderness. The ugliness of war (he was a pacifist) was
+		  an extension of these concerns. The son of a chauffeur, Urquhart was educated
+		  at Stranraer High School and Broughton Secondary School. On leaving school at
+		  the age of fifteen he worked for some years in a bookshop in Edinburgh. At the
+		  same time he began to write, and from the early 1930s onwards had stories
+		  published in periodicals as well as broadcast on the radio. He left the
+		  bookshop in 1935 to concentrate on writing. His first published novel was 
+		Time Will Knit  (1938), the story of working-class
+		Edinburgh life. When war came in 1939 Urquhart, as a declared conscientious
+		objector, was sent to work on the land. It was at this point that his first
+		collection of short stories appeared, 
+		I fell for a Sailor  (1940). In 1944 Urquhart was working
+		in England at Woburn Abbey, the estate of the Duke of Bedford, which made a
+		good base for contacting artistic and literary circles in London. He soon met
+		the Scottish painters Robert Colquhoun and Robert MacBryde who had moved to
+		London from Glasgow themselves only a year or two before, and he also got to
+		know George Orwell and Rhys Davies. In these early post-war years came his
+		second collection of stories, 
+		The Clouds are Big with Mercy  (1946). From 1947 Urquhart
+		worked as a reader for a London literary agency and from 1951-54 was a
+		script-reader for Metro-Goldwyn-Mayer. Further volumes of short stories
+		appeared, among them 
+		The Last GI Bride Wore Tartan  (1947) and 
+		The Year of the Short Corn and Other Stories  (1949). Two
+		more novels appeared , 
+		The Ferret was Abraham's Daughter  (1949) and 
+		Jezebel's Dust (1951). With a decline in interest for the
+		serious short story, Urquhart took on a number of editing tasks, and was also a
+		reader for Cassell &amp;amp; Co. Ltd., 1951-74, the London scout for Walt
+		Disney Productions, 1959-60, and a reader for J.M. Dent &amp;amp; Sons Ltd.,
+		1967-71. He kept on writing too, and there was a final novel, 
+		Palace of Green Days  (1979), which drew upon childhood
+		memories of Perthshire, where his father was chauffeur to the Earl of
+		Breadalbane at Taymouth Castle. There appeared further collections of short
+		stories, notably 
+		A Diver in China Seas  (1980), which was impressive for
+		its insight into its women characters. With his companion, the dancer Peter
+		Wyndham Allen, Urquhart had moved into a house in Ashdown Forest in East Sussex
+		in 1958, but when Wyndham Allen died in 1990 Urquhart moved back to Scotland
+		and settled in Musselburgh. He died in Edinburgh on 2 December 1995. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Papers of Fred Urquhart contain drawings, diplomas, essays,
+		  stories, poems and early manuscripts; and, various notes, and typescripts.
+		  There are reports and correspondence from periods with Cassell, and J.M. Dent,
+		  and relating to work with other publishers and MGM and Walt Disney. The
+		  collection includes diaries and notebooks on H.E. Bates from the 1930s; and,
+		  address books and diaries covering several decades. There is correspondence
+		  with his parents between 1936-1965, and a great deal of letter and postcard
+		  communication up to 1994. Some material (for example correspondence with Herta
+		  Ryder) is restricted until 2005. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H49 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

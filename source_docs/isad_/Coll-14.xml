@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-14 ">GB 237
+		Coll-14</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers of James
+			 Cossar Ewart</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-14">
+    <did>
+      <unittitle>Papers of James
+			 Cossar Ewart</unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-14</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 132-139; Medals No. 123</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers of James Cossar
+		  Ewart</unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1866/1935">1866-1935</unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>8 boxes (1
+		  linear metre); 17 medal boxes. </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">James Cossar Ewart</origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>James Cossar Ewart was born in Penicuik, Midlothian, 26 November 1851.
+		  He was educated in Penicuik and entered the University of Edinburgh as a
+		  medical student in 1871, graduating as a Bachelor of Medicine and Master of
+		  Surgery in 1874. Until 1878 he was Curator of the Zoological Museum at
+		  University College, London. While in London he published a number of papers on
+		  the structure of the retina and lens, the sexual organs of the lamprey, and the
+		  placentation of the Shanghai River deer. His research on Bacillus anthracis was
+		  presented as a thesis for the degree of Doctor of Medicine at Edinburgh. After
+		  a brief return to Edinburgh as Lecturer in Anatomy in the Extra-Mural School,
+		  at the end of 1878 he was appointed to the Chair of Natural History in the
+		  University of Aberdeen. While in Aberdeen Ewart became interested in marine
+		  biological investigation and established an experimental station on the coast
+		  in the area. There he worked in his spare time on fishery problems, and, with
+		  George John Romanes, on the locomotor system of echinoderms. In 1882, Ewart
+		  became Regius Professor of Natural History at the University of Edinburgh and
+		  held this position for forty-five years, retiring in 1927. Also in 1882, Ewart
+		  joined the Fishery Board of Scotland as scientific adviser, publishing several
+		  papers on the fertilisation of herring ova and the natural history of the
+		  herring, cod, and other fish. He also carried out some work on the electric
+		  organ in the skate. Ewart had also given some attention to the development of
+		  the horse, particularly to the bones of the limbs. Around 1894, he had started
+		  investigations into experimental breeding, and much of this work was done
+		  before the rediscovery of Mendel's laws of heredity. Rather than the classical
+		  experiment using an Arab mare and quagga, and then an Arab stallion with the
+		  progeny, Ewart's experiments used Burchell's zebra. The results of his work
+		  were published in 
+		The Penycuik experiments  (1899). As a result of Ewart's
+		knowledge and experience, the Board of Agriculture for Scotland formed a
+		special committee on animal breeding in 1913. After the First World War, this
+		scheme was enlarged and a new Department of Genetics was formed at the
+		University of Edinburgh. Meanwhile, Ewart had turned his attention to the
+		origin and history of feathers in birds and their relation to scales in
+		reptiles. The rearing of penguins at the then fairly new Edinburgh Zoo provided
+		him with the relevant material. James Cossar Ewart died in Penicuik on New
+		Year's Eve 1933 after a short illness. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The James Cossar Ewart Collection consists of diplomas, medals and
+		  badges, letters and papers. The collection of medals and badges,1866-1931,
+		  includes those presented at school in Penicuik and while at Edinburgh
+		  University. There are also items won for prize animals (St. Kilda ewe, Libyan
+		  stallion, Celtic mare and foal, Arab Highland pony etc.) at various shows. The
+		  certificates, diplomas and letters of appointment span the years 1870 to 1927.
+		  There are biographical papers covering 1875-1934. Photographs include those of
+		  Professor Ewart himself and staff, and of zebra hybrids. Spanning the years
+		  1870 to 1935, there are miscellaneous papers in connection with lectures,
+		  lecture course, press-cutting books, personal notebooks, and letters. </p>
+    </scopecontent>
+    <descgrp>
+      <acqinfo encodinganalog="isadg(2)324">
+        <head>Immediate source of acquisition</head>
+        <p>The James Cossar Ewart Collection was deposited in on 22 April 1954.
+		  It was arranged and listed in the Department of Zoology after receipt from
+		  Messrs. McAndrew, Wright &amp;amp; Murray, W.S., Edinburgh, 17 November 1953.
+		  </p>
+      </acqinfo>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H14; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows at various shelfmarks references to
+		  notes of Ewart's lectures taken down by others, and letters of Ewart. </p>
+      </relatedmaterial>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

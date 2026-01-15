@@ -1,0 +1,629 @@
+<\?xml version="1.0" encoding="utf-8"\?>
+<madsCollection>
+<mads>
+<authority>
+<topic authority=""></topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3"></recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3"></recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">--</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity  by .</note>
+</mads>
+<mads>
+<authority>
+<topic authority="204">Poetry</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Sarah Higgins.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="316">Genealogy</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Andrew Thomson.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="329">Lectures and Lecturing</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Andrew Thomson.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="467">Agriculture</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Rachael Third.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="474">Examination Papers</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">NAHSTE</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Rachael Third.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="1075">Letters</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Andrew Thomson.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="1656">Names, Geographical</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Rachael Third.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="2428">Postal Service</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Rachael Third.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="2494">Folklore</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Duncan Fisher.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="2636">Anthropology</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Andrew Thomson.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="2637">Societies and Clubs</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity NAHSTE by Andrew Thomson.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="2806">Essays</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity Baillie by Grant Buttars.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="2928">Clippings (Books, newspapers, etc.)</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity PJM by Sarah Higgins.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3305">Scottish Gaelic language</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity EUA by Grant Buttars.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3308">Linguistics</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity EUA by Grant Buttars.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3309">Notebooks</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3312">Lexicography</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3313">Folk songs</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority=""></topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3"></recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3"></recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">--</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity  by .</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3315">Culdees</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3316">Irish language</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3319">Scottish Gaelic poetry</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3320">Celtic studies</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3322">Culloden, Battle of, Scotland, 1746</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3325">Archaeology</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3327">Fieldwork</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3333">Learned institutions and societies</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3335">Publications</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3337">Jacobites</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3338">Bonnie Prince Charlie | 1720-1788</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-11-20</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Kirsty Stewart.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3339">Macdonald, Flora</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3340">Color drawing</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3346">Correspondence</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3347">Literature |x Competitions</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3348">Waulking songs</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3352">Clans (Scotland)</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-10-29</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3353">Local geography</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3355">Grammar</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3356">Corporation reports</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3358">Catechisms</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3359">Obituaries</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3362">Mythology, Celtic</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3363">Cuchulain</topic>
+</authority>
+<variant>
+<topic>Cu Chulainn</topic>
+<topic> Cuchulainn</topic>
+</variant>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-11-18</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Kirsty Stewart.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3364">Fenians</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">other</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3367">Travel writing</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3368">Etymology</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3370">Fishers</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3374">Antiquities</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3377">Ossian</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3380">Calligraphy</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+<mads>
+<authority>
+<topic authority="3381">Charms</topic>
+</authority>
+<recordInfo>
+<recordContentSource xmlns="http://www.loc.gov/mods/v3">lcsh</recordContentSource>
+<recordCreationDate xmlns="http://www.loc.gov/mods/v3">before 2009-08-17</recordCreationDate>
+<recordChangeDate xmlns="http://www.loc.gov/mods/v3">2009-08-19</recordChangeDate>
+</recordInfo>
+<note type="recordCreator">Created for project/activity CW by Lesley Doig.</note>
+<note type="recordEditor">Last edited by Grant Buttars.</note>
+</mads>
+</madsCollection>

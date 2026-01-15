@@ -1,0 +1,42 @@
+body, td, div { font-family: arial; font-size: 13px; }
+td.head_banner { font-size: 15px; }
+table.top_menu { font-size: 12px; }
+td.footer { font-size: 12px; }
+td.side_menu { background-color: #ccccff; text-align: center; height: 18px; }
+td.form_label { font-weight: bold; }
+h1.main_head { font-size: 18px; }
+h2.main_head { font-size: 17px; text-decoration: underline; }
+h3.main_head { font-size: 15px; }
+th { font-size: 13px; text-align: left; }
+a.sidelinks { font-size: 12px; font-weight: bold; color: #000033; }
+a.sidelinks:hover { font-size: 13px; font-weight: bold; color: #000033; }
+a.sidelinks:visited { font-size: 12px; font-weight: bold; color: #663300; }
+a.sidelinks:visited:hover { font-size: 13px; font-weight: bold; color: #663300; }
+
+ div.c3 {margin-left: 8em}
+ div.c2 {margin-left: 6em}
+ div.c1 {margin-left: 4em}
+ div.c0 {margin-left: 2em}
+
+h1 {
+	FONT-SIZE: 18px;
+	}
+	
+h1.isad {
+	FONT-SIZE: 16px; text-decoration: underline;
+	}
+	
+h2 {
+	FONT-SIZE: 16px;
+	}
+h2.index {
+	FONT-SIZE: 12px;
+	}
+
+	h3 {
+	FONT-SIZE: 15px;
+	}
+.field {
+	font-weight: bold;
+	font-size: 11px; 
+	}

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p3995</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-06-15">15 June 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2010-10-12">12 October 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>16 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 118/00 011/00 011</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 118/00 004/00 011</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 118/02 004/02 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 118/02 004/02 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 118/02 004/02 006</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 118/02 004/02 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1894 118/02 0011</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW1/13</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW106</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW108</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW112/29</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW112/30</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW112/35</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p3995</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacInnes</part>
+                <part localType="given">John</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>[Iain mac Phadruig]; Crofter, Stilligarry, South Uist</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1805" notAfter="1810" notBefore="1800"
+                        >c1805</fromDate><toDate standardDate="1894-03-20">20 March
+                    1894</toDate></dateRange></existDates>
+            <biogHist>
+                <p>John MacInnes, Iain mac Phàdraig, was the son of Peter MacInnes, crofter, and
+                    Marion née MacLeod. Born c. 1805, by 1841 MacInnes was living in
+                    Staoidhligearraidh, South Uist, married to Marion (c. 1803– ). They had at least
+                    four children: Ann (b. 1835), Donald (b. 1836), Catherine or Kitty (b. 1839),
+                    and John (b. 1843). In 1871 the two youngest children were still living in the
+                    household, as well as an eighteen-year old farm servant Euphemia MacEachen, and
+                    two young grandchildren, Angus and Donald Campbell.</p>
+                <p>Alexander Carmichael visited John MacInnes ‘in his own house’ at
+                    Staoidhlegearraidh on 29 January 1875. Earlier on that day he had recorded a
+                    waulking song <span>’S e siud an leannan ainmeil</span> from his daughter Ann,
+                    now married to Angus Campbell [CW MS 106 fos.4v-3v]. She evidently suggested to
+                    Carmichael that he visit her father, in whose household two of her children were
+                    then being brought up. An intensive and lengthy recording session ensued.</p>
+                <p>MacInnes began with a narrative about MacMhuirich Mór (‘the first who came to
+                    Staolig[earry] of the race’) and a fairy changeling [CW106/121], following on
+                    with a supernatural tale [CW106/122]; the local legend of MacMhuirich and the
+                    Mhuileartaich [CW106/123]; information concerning Dùn Raghnaill and Raghnall mac
+                    Ailein of Clan Ranald [CW106/124]; another supernatural tale, concerning seals
+                    [CW106/125]; the superhumanly aged Cailleach Ghlinn Dorcha [CW106/126]; and the
+                    extended Fenian tale <span>Ceudach nan Collachain Òir</span> [CW106/127]. This
+                    last he had heard from Donald MacPhee, Domhnall mac Aonghais ’ic Phroinsiais at
+                    Càrnan, Ìochdar, who had died some five or six years previously. The evidently
+                    inexhaustible MacInnes went on to narrate the story of MacMhuirich’s prayer
+                    [CW106/128], as well as giving a brief overview of the mythical origin of the
+                    family in Ireland, their discovery of the Red Book, and the land they possessed
+                    in South Uist CW106/128]. Finally, Carmichael recorded a fascinating extended
+                    list of titles of stories, ballads, and songs: what appears to be an inventory
+                    of John MacInnes’ complete repertoire [CW106/129].</p>
+                <p>Carmichael visited John MacInnes again on 30 March 1877, when he recorded a
+                    couple of protective charms for cattle: <span>Rann Àirigh</span> and <span>Rann
+                        Spréidh</span>, as well as <span>Laoidh na h-Ighne</span>, ‘Fhuair mo
+                    leannan am chadal’ [CW108/37, CW108/38, CW108/39, CW108/82, CW108/83]. This last
+                    had already been recorded from Duncan MacDonald, Donnchadh an Tàilleir,
+                    Snaoiseabhal, on 28 March 1871 [CW119/19].</p>
+                <p>According to the 1881 census, the now widowed John was being supported by his now
+                    married son John and his wife Catherine, who had just had a baby Marion, as well
+                    as his unmarried daughter Catherine. Another two grandchildren, Marion and
+                    Donald J Campbell, also shared what must have been a rather cramped household.
+                    In 1891 almost the same people lived there, although Marion Campbell had left,
+                    while Marion MacInnes now had a younger sister, six year old Mary.</p>
+                <p>On 16 September 1890 John MacInnes was visited again at his home in
+                    Staoidhlegearraidh, this time apparently by John Ewen MacRury [1853–1909] who
+                    was collecting material on behalf of Carmichael. Given that Carmichael was then
+                    planning a collection of charms and blessings which would eventually blossom
+                    into the first two volumes of <span localType="mods-titleinfo">Carmina
+                        Gadelica</span>, it is interesting that three of the items MacRury recorded
+                    were identical to those written down by Carmichael from MacInnes in 1877:
+                        <span>Laoidh na h-Ighne</span>, <span>Beannachadh Spréidhe</span> (i.e.
+                        <span>Rann Àirigh</span>), and a brief allusion to the <span>Òrtha na
+                        Buachailleachd</span> which Carmichael had recorded that same year from Mary
+                    Stewart, Malacleit, Màiri Bhreac [CW108/10]. Also taken down were a version of
+                    the <span>Altachadh Leapa</span>, a story about the haunted Gleann Liadail,
+                    reminiscences about Prince Charles in South Uist, and what might be a charm
+                    against evil eye [CW1/11-18]. Both <span>Laoidh na h-Ighne</span>, <span>Rann
+                        Àirigh</span>, and <span>Rann Spréidh</span> appear as ascribed to MacInnes
+                    in the draft contents to the work which would become <span
+                        localType="mods-titleinfo">Carmina Gadelica</span> [CW124 f.2]. The title of
+                    the religious hymn <span>Duan an Domhnaich</span> is also under his name [CW124
+                    fo.8].</p>
+                <p>First recorded by Carmichael a decade after he first arrived in the Outer Isles,
+                    John MacInnes was something of a late, and serendipitous, discovery for the
+                    folklorist. He had apparently eluded Hector Maclean and John Francis Campbell
+                    during their expeditions to Uist while compiling <span>Popular Tales of the West
+                        Highlands</span>; his name is tellingly absent from the field notes compiled
+                    by Campbell during his trip to the islands in 1871. Evidently a highly gifted
+                        <span>seanchaidh</span> with a wide-ranging repertoire, the example of John
+                    MacInnes suggests to us that there must have been a number of other equally
+                    capable ‘tradition bearers’ in the islands who, for whatever reason, never
+                    caught the attention of collectors. One wonders if the grandchildren who lived
+                    with John MacInnes absorbed at least some of their grandfather’s store.</p>
+                <p>In <span localType="mods-titleinfo">Carmina Gadelica</span> Alexander Carmichael
+                    ascribes three items to ‘John Macinnes, Crofter, Staoligearry’. One
+                        [<span>CG</span> i, 82–3] is an ornate <span>Beannachadh Leapa</span> which
+                    exhibits occasional points of similarity with the <span>Altachadh Leapa</span>
+                    written down by MacRury. The two other items are a heavily polished version of
+                    MacInnes’ <span>Rann Àirigh</span> [<span>CG</span> ii, 130–1], and an extended
+                    riff by Carmichael and his assistants on <span>Féith Mhoire</span>, using as its
+                    starting-off point the ‘casa curra’ phrase appearing in Màiri Bhreac’s
+                        <span>Òrtha na Buachailleachd</span> and alluded to by MacInnes in his
+                    recording session with John Ewen MacRury in 1890 [<span>CG</span> ii, 132–5]. In
+                    a footnote to the list of reciters, Carmichael pays his own tribute: ‘Several
+                    volumes of old lore, mostly heroic tales, died with this nice, intelligent man’
+                        [<span>CG</span> ii, 375]. John MacInnes died of ‘senile decay’ in March
+                    1894. His grandson Angus Campbell was present.</p>
+                <chronList>
+                    <chronItem><date notAfter="1810" notBefore="1800" standardDate="1805"
+                            >c1805</date><placeEntry>South
+                        Uist</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1875-01-29">29 January
+                            1875</date><placeEntry>Stilligarry, South
+                            Uist</placeEntry><event>visited by Alexander
+                        Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1877-03-30">30 March
+                            1877</date><placeEntry>Stilligarry, South
+                            Uist</placeEntry><event>visited by Alexander
+                        Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1890-09-16">16 September
+                            1890</date><placeEntry>Stilligarry, South
+                            Uist</placeEntry><event>visited by John Ewen MacRury</event></chronItem>
+                    <chronItem><date standardDate="1894-03-20">20 March
+                            1894</date><placeEntry>Stilligarry, South
+                            Uist</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

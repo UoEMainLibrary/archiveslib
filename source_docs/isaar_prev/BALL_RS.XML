@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Department of Special Collections :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0937 20020503 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0937</titleproper> 
+		  <subtitle>Ball | Sir | Robert Stawell | 1840-1913 | astronomer and
+			 mathematician</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+			 University Library Department of Special Collections, 03 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Department of Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020503">03 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Department of Special
+		  Collections, 2001, with assistance from Pete Johnston, Lesley Richmond and
+		  Moira Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0937</titleproper> 
+		<subtitle>Ball | Sir | Robert Stawell | 1840-1913 | astronomer and
+		  mathematician</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Department of Special Collections, 03 May 2002</author> 
+		<publisher>Edinburgh University Library Department of Special
+		  Collections</publisher> 
+		<date type="single" normal="20020503">03 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0937"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0937</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0937" normal="Ball, Sir, Robert Stawell">Ball |
+		  Sir | Robert Stawell | 1840-1913 | astronomer and mathematician</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Robert Stawell Ball (<date type="life-span"
+			 normal="1840/1913">1840-1913</date>) was an astronomer, mathematician, and
+			 writer of popular science books. His father was Robert Ball, a naturalist. Born
+			 in Ireland, he attended Tarvin Hall school before going to study at Trinity
+			 College, Dublin. In 
+			 <date type="appointmentdate" normal="1865">1865</date>, Laurence
+			 Parsons, Lord Rosse (<date type="life-span"
+			 normal="1840/1908">1840-1908</date>) asked Ball to be his children's tutor. He
+			 agreed on condition of being able to use Rosse's reflector, at the time, the
+			 largest in the world. During this time, he made many observations of nebulae.
+			 He also corrected mathematically one of the telescope's inaccuracies.</p> 
+		  <p>In 
+			 <date type="appointmentdate" normal="1867">1867</date>, he was
+			 appointed to a post in the Royal College of Science, Dublin, a role that
+			 coincided with that of Royal Astronomer of Ireland. He went on to become
+			 professor of astronomy at the University of Cambridge, where he replaced the
+			 eminent astronomer John Couch Adams (<date type="life-span"
+			 normal="1819/1892">1819-1892</date>), discoverer of Neptune.</p> 
+		  <p>Ball wrote a series of successful books of popular astronomy, making
+			 him famous for his astronomical work, his real talent lay in mathematics.
+			 Ball's skill in astronomy was curtailed by his lack of proper training, his
+			 first experience of practical astronomy having been Rosse's reflector, when he
+			 was already 25.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Lord Rosse's reflector gave Ball his first experience of practical
+			 astronomy. Son of Robert Ball, naturalist and president of the Geological
+			 Society of Ireland.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Experimental Mechanics</title>, (<imprint><date
+			 type="publication" normal="1871"
+			 certainty="certain">1871</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Theory of Screws: A Study in the Dynamics of a
+			 Rigid Body</title>, (<imprint><date type="publication" normal="1876"
+			 certainty="certain">1876</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Story of the Heavens</title>, (<imprint><date
+			 type="publication" normal="1886"
+			 certainty="certain">1886</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Story of the Sun</title>, (<imprint><date
+			 type="publication" normal="1893"
+			 certainty="certain">1893</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Treatise on the Theory of Screws</title>, ( 
+			 <imprint><date type="publication" normal="1900"
+			 certainty="certain">1900</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Treatise on Spherical Astronomy</title>, ( 
+			 <imprint><date type="publication" normal="1908"
+			 certainty="certain">1908</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="chairdate" normal="1867">1867</date>: Appointed
+			 Professor of Applied Mathematics and Mechanics, Royal College of Science,
+			 Dublin</p> 
+		  <p><date type="appointmentdate" normal="1873">1873</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="chairspan" normal="1874/1892">1874-1892</date>:
+			 Appointed Andrews Professor of Astronomy, University of Dublin</p> 
+		  <p><date type="appointmentspan" normal="1877/1880">1877-1880</date>:
+			 Appointed Secretary, Royal Irish Academy</p> 
+		  <p><date type="appointmentspan" normal="1885/1892">1885-1892</date>:
+			 Elected Vice-President, Royal Irish Academy</p> 
+		  <p><date type="single" normal="1886">1886</date>: Awarded
+			 Knighthood</p> 
+		  <p><date type="appointmentdate" normal="1890">1890</date>: Elected
+			 President, Royal Zoological Society</p> 
+		  <p><date type="chairspan" normal="1893/1913">1893-1913</date>:
+			 Appointed Lowndean Professor of Astronomy, Universoty of Cambridge</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><corpname normal="Royal Society" role="editor">Royal
+			 Society</corpname>, <title>Proceedings of the Royal Society of London, Series
+			 A, vol. 91</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Harrison and Sons</publisher>, 
+			 <date type="publication" normal="1915"
+			  certainty="certain">1915</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Dictionary of National Biography 1912-1921 </title>,
+			 (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>University Press, Humphrey Milford</publisher>, 
+			 <date type="publication" normal="1927"
+			  certainty="certain">1927</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Department of Special Collections, 
+			 <date type="single" normal="20020503">03 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

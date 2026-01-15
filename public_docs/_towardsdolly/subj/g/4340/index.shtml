@@ -1,0 +1,18 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Grants and funding</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/g/">g</a><h1>Grants and funding</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4340&term=Grants and funding" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-2&view=basic">Papers relating to grants from the Ford Foundation </a> (1960-1983) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-5-24&view=basic">Typescript titled 'Final Report on Grant in aid of Research on Fertilisation and Early Embryonic Development, carried out by R.A.N Napier, 1st July 1957- 31 March 1961 - compiled by R.A Beatty, 25th August 1961' </a> (1961) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-7-2&view=basic">Papers relating to Centre for Reproductive Biology grants and funding </a> (1970-1983) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-1-4&view=basic">Papers chiefly relating to patents for the control of sex ratio in mammalian offspring </a> (1974-1977) Papers of Dr. Alan Beatty</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

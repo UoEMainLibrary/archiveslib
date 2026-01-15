@@ -1,0 +1,41 @@
+BODY, TD, TR {
+	FONT-SIZE: 13px; FONT-FAMILY: verdana, arial, helvetica, times;
+}
+BODY {
+	BACKGROUND-COLOR: #ffffff; MARGIN: 0;
+}
+h1 {
+	FONT-SIZE: 18px;
+	}
+	
+h2 {
+	FONT-SIZE: 16px;
+	}
+h2.index {
+	FONT-SIZE: 12px;
+	}
+
+	h3 {
+	FONT-SIZE: 15px;
+	}
+	
+.mainhead {
+	background-color: #000033;
+	color: #ffffff;
+	font-size: 26px;
+	}
+	
+	.toplinks {
+	font-size: 11px;
+	}
+.footer {
+	text-align: right;
+	font-size: 10px;
+	}
+
+.field {
+	font-weight: bold;
+	font-size: 11px; 
+	}	
+
+

@@ -1,0 +1,478 @@
+2010.10.14 19:02:27 - 129.215.248.22 - Site configuration config.php updated by ><
+2010.10.14 19:03:04 - 129.215.248.22 - Site configuration config.php updated by ><
+2010.10.14 19:03:33 - 129.215.248.22 - Site configuration config.php updated by ><
+2010.10.14 19:05:28 - 129.215.248.22 - Anonymous user added user -> deputyarchivist <-
+2010.10.14 19:06:14 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.14 19:17:14 - 129.215.248.22 - Appending new INDI record I2 ->deputyarchivist<-
+2010.10.14 19:19:41 - 129.215.248.22 - Appending new INDI record I3 ->deputyarchivist<-
+2010.10.14 19:19:57 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.14 19:20:21 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.14 19:22:59 - 129.215.248.22 - Replacing gedcom record I2 ->deputyarchivist<-
+2010.10.14 19:23:37 - 129.215.248.22 - Appending new INDI record I4 ->deputyarchivist<-
+2010.10.14 19:23:37 - 129.215.248.22 - Appending new FAM record F1 ->deputyarchivist<-
+2010.10.14 19:23:37 - 129.215.248.22 - Replacing gedcom record I4 ->deputyarchivist<-
+2010.10.14 19:23:37 - 129.215.248.22 - Replacing gedcom record I2 ->deputyarchivist<-
+2010.10.14 19:24:15 - 129.215.248.22 - Appending new INDI record I5 ->deputyarchivist<-
+2010.10.14 19:24:15 - 129.215.248.22 - Replacing gedcom record F1 ->deputyarchivist<-
+2010.10.14 19:24:15 - 129.215.248.22 - Replacing gedcom record I5 ->deputyarchivist<-
+2010.10.14 19:25:12 - 129.215.248.22 - Accepted change I2_euf1.ged replace into database ->deputyarchivist<-
+2010.10.14 19:25:12 - 129.215.248.22 - Accepted change I3_euf1.ged append into database ->deputyarchivist<-
+2010.10.14 19:25:12 - 129.215.248.22 - Accepted change I4_euf1.ged replace into database ->deputyarchivist<-
+2010.10.14 19:25:12 - 129.215.248.22 - Accepted change F1_euf1.ged replace into database ->deputyarchivist<-
+2010.10.14 19:25:12 - 129.215.248.22 - Accepted change I5_euf1.ged replace into database ->deputyarchivist<-
+2010.10.14 19:25:29 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.14 19:31:53 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.14 19:33:31 - 129.215.248.22 - Replacing gedcom record I4 ->deputyarchivist<-
+2010.10.14 19:33:56 - 129.215.248.22 - Accepted change I4_euf1.ged replace into database ->deputyarchivist<-
+2010.10.14 19:34:01 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.14 19:44:01 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.14 19:45:58 - 129.215.248.22 - Replacing gedcom record I3 ->deputyarchivist<-
+2010.10.14 19:45:58 - 129.215.248.22 - ERROR 4: Could not find gedcom record with xref:f1 Line 137->deputyarchivist<-
+2010.10.14 21:34:41 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.14 21:34:56 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.14 21:36:41 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.14 21:36:53 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.14 22:13:22 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.14 22:15:47 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.14 22:16:15 - 129.215.248.22 - Accepted change I3_euf1.ged replace into database ->deputyarchivist<-
+2010.10.14 22:18:30 - 129.215.248.22 - deputyarchivist changed user -> deputyarchivist <-
+2010.10.14 22:20:34 - 129.215.248.22 - Site configuration config.php updated by >deputyarchivist<
+2010.10.14 22:22:58 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.14 22:23:21 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.14 22:24:02 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 05:57:43 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 05:58:09 - 129.215.248.22 - Logout - 
+2010.10.15 05:58:21 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 06:20:08 - 129.215.248.22 - Replacing gedcom record I2 ->deputyarchivist<-
+2010.10.15 06:21:07 - 129.215.248.22 - Appending new INDI record I6 ->deputyarchivist<-
+2010.10.15 06:21:59 - 129.215.248.22 - Accepted change I2_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 06:21:59 - 129.215.248.22 - Accepted change I6_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 06:23:28 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 06:23:43 - 129.215.248.22 - Accepted change I6_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 06:38:40 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 06:38:40 - 129.215.248.22 - Logout - 
+2010.10.15 06:39:30 - 129.215.248.22 - Logout - 
+2010.10.15 06:40:13 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 06:40:48 - 129.215.248.22 - Deleting gedcom record I1 ->deputyarchivist<-
+2010.10.15 06:43:43 - 129.215.248.22 - Quick update attempted for I4 by >deputyarchivist<
+2010.10.15 06:43:43 - 129.215.248.22 - Quick update for I4 by >deputyarchivist<
+2010.10.15 06:43:43 - 129.215.248.22 - Replacing gedcom record I4 ->deputyarchivist<-
+2010.10.15 09:20:57 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 10:06:33 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 10:06:47 - 129.215.248.22 - Accepted change I1_euf1.ged delete into database ->deputyarchivist<-
+2010.10.15 10:06:47 - 129.215.248.22 - Accepted change I4_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 10:10:39 - 129.215.248.22 - Quick update attempted for I6 by >deputyarchivist<
+2010.10.15 10:10:39 - 129.215.248.22 - Quick update for I6 by >deputyarchivist<
+2010.10.15 10:10:39 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 10:11:14 - 129.215.248.22 - Quick update attempted for I6 by >deputyarchivist<
+2010.10.15 10:11:14 - 129.215.248.22 - Quick update for I6 by >deputyarchivist<
+2010.10.15 10:11:14 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:34:30 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:36:17 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:37:10 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:37:27 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:40:46 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:41:56 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:42:32 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:43:29 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:44:19 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 12:44:32 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 12:45:08 - 129.215.248.22 - Accepted change I6_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 12:50:04 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:50:33 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:50:59 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:52:11 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.15 12:52:36 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 12:52:50 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 12:53:02 - 129.215.248.22 - Accepted change I6_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 12:53:51 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 12:54:08 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 12:54:58 - 129.215.248.22 - Quick update attempted for I6 by >deputyarchivist<
+2010.10.15 12:54:58 - 129.215.248.22 - Appending new INDI record I7 ->deputyarchivist<-
+2010.10.15 12:54:58 - 129.215.248.22 - Appending new FAM record F2 ->deputyarchivist<-
+2010.10.15 12:54:58 - 129.215.248.22 - Replacing gedcom record I7 ->deputyarchivist<-
+2010.10.15 12:54:58 - 129.215.248.22 - Quick update for I6 by >deputyarchivist<
+2010.10.15 12:54:58 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 12:55:34 - 129.215.248.22 - Replacing gedcom record I7 ->deputyarchivist<-
+2010.10.15 12:56:11 - 129.215.248.22 - Replacing gedcom record I7 ->deputyarchivist<-
+2010.10.15 12:56:40 - 129.215.248.22 - Replacing gedcom record I7 ->deputyarchivist<-
+2010.10.15 12:57:11 - 129.215.248.22 - Accepted change I7_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 12:57:11 - 129.215.248.22 - Accepted change F2_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 12:57:11 - 129.215.248.22 - Accepted change I6_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:29:10 - 129.215.248.22 - Appending new INDI record I8 ->deputyarchivist<-
+2010.10.15 13:29:44 - 129.215.248.22 - Accepted change I8_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 13:31:20 - 129.215.248.22 - Quick update attempted for I8 by >deputyarchivist<
+2010.10.15 13:31:20 - 129.215.248.22 - Quick update for I8 by >deputyarchivist<
+2010.10.15 13:31:20 - 129.215.248.22 - Replacing gedcom record I8 ->deputyarchivist<-
+2010.10.15 13:31:30 - 129.215.248.22 - Accepted change I8_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:31:51 - 129.215.248.22 - Quick update attempted for I8 by >deputyarchivist<
+2010.10.15 13:31:51 - 129.215.248.22 - Quick update for I8 by >deputyarchivist<
+2010.10.15 13:31:51 - 129.215.248.22 - Replacing gedcom record I8 ->deputyarchivist<-
+2010.10.15 13:32:06 - 129.215.248.22 - Accepted change I8_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:32:44 - 129.215.248.22 - Replacing gedcom record I8 ->deputyarchivist<-
+2010.10.15 13:32:52 - 129.215.248.22 - Accepted change I8_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:33:35 - 129.215.248.22 - Appending new INDI record I9 ->deputyarchivist<-
+2010.10.15 13:33:35 - 129.215.248.22 - Appending new FAM record F3 ->deputyarchivist<-
+2010.10.15 13:33:35 - 129.215.248.22 - Replacing gedcom record I9 ->deputyarchivist<-
+2010.10.15 13:33:35 - 129.215.248.22 - Replacing gedcom record I8 ->deputyarchivist<-
+2010.10.15 13:33:46 - 129.215.248.22 - Accepted change I9_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:33:46 - 129.215.248.22 - Accepted change F3_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 13:33:46 - 129.215.248.22 - Accepted change I8_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:36:26 - 129.215.248.22 - Replacing gedcom record I9 ->deputyarchivist<-
+2010.10.15 13:36:46 - 129.215.248.22 - Replacing gedcom record I9 ->deputyarchivist<-
+2010.10.15 13:38:13 - 129.215.248.22 - Appending new INDI record I10 ->deputyarchivist<-
+2010.10.15 13:38:13 - 129.215.248.22 - Replacing gedcom record F3 ->deputyarchivist<-
+2010.10.15 13:38:29 - 129.215.248.22 - Accepted change I9_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:38:29 - 129.215.248.22 - Accepted change I10_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 13:38:29 - 129.215.248.22 - Accepted change F3_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:40:40 - 129.215.248.22 - Replacing gedcom record I10 ->deputyarchivist<-
+2010.10.15 13:40:48 - 129.215.248.22 - Accepted change I10_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:44:32 - 129.215.248.22 - Replacing gedcom record I9 ->deputyarchivist<-
+2010.10.15 13:44:41 - 129.215.248.22 - Accepted change I9_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:46:35 - 129.215.248.22 - Appending new INDI record I11 ->deputyarchivist<-
+2010.10.15 13:46:35 - 129.215.248.22 - Appending new FAM record F4 ->deputyarchivist<-
+2010.10.15 13:46:35 - 129.215.248.22 - Replacing gedcom record I11 ->deputyarchivist<-
+2010.10.15 13:46:35 - 129.215.248.22 - Replacing gedcom record I9 ->deputyarchivist<-
+2010.10.15 13:47:03 - 129.215.248.22 - Replacing gedcom record I11 ->deputyarchivist<-
+2010.10.15 13:47:10 - 129.215.248.22 - Accepted change I11_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:47:10 - 129.215.248.22 - Accepted change F4_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 13:47:10 - 129.215.248.22 - Accepted change I9_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:47:36 - 129.215.248.22 - Replacing gedcom record I9 ->deputyarchivist<-
+2010.10.15 13:47:44 - 129.215.248.22 - Accepted change I9_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 13:51:24 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.15 13:52:12 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.15 13:52:44 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 13:53:29 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 13:59:08 - 129.215.248.22 - deputyarchivist changed user -> deputyarchivist <-
+2010.10.15 14:08:58 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 14:09:30 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 14:10:20 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 14:10:50 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 14:11:13 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.15 14:11:35 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 14:11:51 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 14:12:21 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.15 14:12:49 - 129.215.248.22 - Gedcom configuration ${INDEX_DIRECTORY}euf1.ged_conf.php updated by >deputyarchivist<
+2010.10.15 15:31:17 - 129.215.248.22 - Replacing gedcom record I2 ->deputyarchivist<-
+2010.10.15 15:31:44 - 129.215.248.22 - Accepted change I2_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 15:35:08 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 15:38:18 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 15:40:03 - 129.215.248.22 - Appending new INDI record I12 ->deputyarchivist<-
+2010.10.15 15:40:20 - 129.215.248.22 - Accepted change I12_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 15:41:37 - 129.215.248.22 - Appending new INDI record I13 ->deputyarchivist<-
+2010.10.15 15:41:37 - 129.215.248.22 - Appending new FAM record F5 ->deputyarchivist<-
+2010.10.15 15:41:37 - 129.215.248.22 - Replacing gedcom record I13 ->deputyarchivist<-
+2010.10.15 15:41:37 - 129.215.248.22 - Replacing gedcom record I12 ->deputyarchivist<-
+2010.10.15 15:42:05 - 129.215.248.22 - Accepted change I13_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 15:42:05 - 129.215.248.22 - Accepted change F5_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 15:42:05 - 129.215.248.22 - Accepted change I12_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 15:43:15 - 129.215.248.22 - Appending new INDI record I14 ->deputyarchivist<-
+2010.10.15 15:43:15 - 129.215.248.22 - Replacing gedcom record F5 ->deputyarchivist<-
+2010.10.15 15:46:59 - 129.215.248.22 - Appending new INDI record I15 ->deputyarchivist<-
+2010.10.15 15:46:59 - 129.215.248.22 - Replacing gedcom record F5 ->deputyarchivist<-
+2010.10.15 15:47:09 - 129.215.248.22 - Accepted change I14_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 15:47:09 - 129.215.248.22 - Accepted change F5_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 15:47:09 - 129.215.248.22 - Accepted change I15_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 15:48:25 - 129.215.248.22 - Appending new INDI record I16 ->deputyarchivist<-
+2010.10.15 15:48:25 - 129.215.248.22 - Appending new FAM record F6 ->deputyarchivist<-
+2010.10.15 15:48:25 - 129.215.248.22 - Replacing gedcom record I16 ->deputyarchivist<-
+2010.10.15 15:48:25 - 129.215.248.22 - Replacing gedcom record I12 ->deputyarchivist<-
+2010.10.15 15:48:34 - 129.215.248.22 - Accepted change I16_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 15:48:34 - 129.215.248.22 - Accepted change F6_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 15:48:34 - 129.215.248.22 - Accepted change I12_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 15:49:54 - 129.215.248.22 - Replacing gedcom record I16 ->deputyarchivist<-
+2010.10.15 15:50:35 - 129.215.248.22 - Appending new INDI record I17 ->deputyarchivist<-
+2010.10.15 15:50:35 - 129.215.248.22 - Appending new FAM record F7 ->deputyarchivist<-
+2010.10.15 15:50:35 - 129.215.248.22 - Replacing gedcom record I17 ->deputyarchivist<-
+2010.10.15 15:50:35 - 129.215.248.22 - Replacing gedcom record I16 ->deputyarchivist<-
+2010.10.15 15:50:42 - 129.215.248.22 - Accepted change I16_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 15:50:42 - 129.215.248.22 - Accepted change I17_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 15:50:42 - 129.215.248.22 - Accepted change F7_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 15:52:24 - 129.215.248.22 - Replacing gedcom record F5 ->deputyarchivist<-
+2010.10.15 15:52:24 - 129.215.248.22 - Deleting gedcom record I15 ->deputyarchivist<-
+2010.10.15 15:52:31 - 129.215.248.22 - Accepted change F5_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 15:52:31 - 129.215.248.22 - Accepted change I15_euf1.ged delete into database ->deputyarchivist<-
+2010.10.15 19:40:39 - 129.215.248.22 - Replacing gedcom record I14 ->deputyarchivist<-
+2010.10.15 19:40:58 - 129.215.248.22 - Replacing gedcom record I14 ->deputyarchivist<-
+2010.10.15 19:41:25 - 129.215.248.22 - Appending new INDI record I18 ->deputyarchivist<-
+2010.10.15 19:41:25 - 129.215.248.22 - Appending new FAM record F8 ->deputyarchivist<-
+2010.10.15 19:41:25 - 129.215.248.22 - Replacing gedcom record I18 ->deputyarchivist<-
+2010.10.15 19:41:25 - 129.215.248.22 - Replacing gedcom record I14 ->deputyarchivist<-
+2010.10.15 19:42:25 - 129.215.248.22 - Appending new INDI record I19 ->deputyarchivist<-
+2010.10.15 19:42:25 - 129.215.248.22 - Replacing gedcom record F8 ->deputyarchivist<-
+2010.10.15 19:43:45 - 129.215.248.22 - Accepted change I14_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 19:43:45 - 129.215.248.22 - Accepted change I18_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 19:43:45 - 129.215.248.22 - Accepted change F8_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 19:43:45 - 129.215.248.22 - Accepted change I19_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 19:47:28 - 129.215.248.22 - Replacing gedcom record I18 ->deputyarchivist<-
+2010.10.15 19:47:37 - 129.215.248.22 - Accepted change I18_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 19:47:42 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.15 19:49:28 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.15 19:52:23 - 129.215.248.22 - Appending new INDI record I20 ->deputyarchivist<-
+2010.10.15 19:52:46 - 129.215.248.22 - Accepted change I20_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 19:54:40 - 129.215.248.22 - Appending new INDI record I21 ->deputyarchivist<-
+2010.10.15 19:54:40 - 129.215.248.22 - Appending new FAM record F9 ->deputyarchivist<-
+2010.10.15 19:54:40 - 129.215.248.22 - Replacing gedcom record I21 ->deputyarchivist<-
+2010.10.15 19:54:40 - 129.215.248.22 - Replacing gedcom record I20 ->deputyarchivist<-
+2010.10.15 19:55:30 - 129.215.248.22 - Appending new INDI record I22 ->deputyarchivist<-
+2010.10.15 19:55:30 - 129.215.248.22 - Replacing gedcom record F9 ->deputyarchivist<-
+2010.10.15 19:55:30 - 129.215.248.22 - Replacing gedcom record I22 ->deputyarchivist<-
+2010.10.15 19:56:02 - 129.215.248.22 - Replacing gedcom record I22 ->deputyarchivist<-
+2010.10.15 21:07:58 - 129.215.248.22 - Appending new INDI record I23 ->deputyarchivist<-
+2010.10.15 21:07:58 - 129.215.248.22 - Replacing gedcom record F9 ->deputyarchivist<-
+2010.10.15 21:08:43 - 129.215.248.22 - Accepted change I21_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 21:08:43 - 129.215.248.22 - Accepted change F9_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 21:08:43 - 129.215.248.22 - Accepted change I20_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 21:08:43 - 129.215.248.22 - Accepted change I22_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 21:08:43 - 129.215.248.22 - Accepted change I23_euf1.ged append into database ->deputyarchivist<-
+2010.10.15 21:10:20 - 129.215.248.22 - Replacing gedcom record I20 ->deputyarchivist<-
+2010.10.15 21:10:35 - 129.215.248.22 - Replacing gedcom record I20 ->deputyarchivist<-
+2010.10.15 21:12:30 - 129.215.248.22 - Replacing gedcom record I20 ->deputyarchivist<-
+2010.10.15 21:13:13 - 129.215.248.22 - Accepted change I20_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 21:16:05 - 129.215.248.22 - Replacing gedcom record I20 ->deputyarchivist<-
+2010.10.15 21:16:33 - 129.215.248.22 - Accepted change I20_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 21:17:21 - 129.215.248.22 - Replacing gedcom record I20 ->deputyarchivist<-
+2010.10.15 21:17:30 - 129.215.248.22 - Accepted change I20_euf1.ged replace into database ->deputyarchivist<-
+2010.10.15 23:20:23 - 129.215.248.22 - Replacing gedcom record I6 ->deputyarchivist<-
+2010.10.15 23:20:38 - 129.215.248.22 - Accepted change I6_euf1.ged replace into database ->deputyarchivist<-
+2010.10.16 14:57:21 - 129.215.248.22 - Replacing gedcom record I3 ->deputyarchivist<-
+2010.10.16 14:57:45 - 129.215.248.22 - Replacing gedcom record I2 ->deputyarchivist<-
+2010.10.16 14:57:58 - 129.215.248.22 - Accepted change I3_euf1.ged replace into database ->deputyarchivist<-
+2010.10.16 14:57:58 - 129.215.248.22 - Accepted change I2_euf1.ged replace into database ->deputyarchivist<-
+2010.10.16 22:01:51 - 129.215.248.22 - Replacing gedcom record I19 ->deputyarchivist<-
+2010.10.16 22:02:06 - 129.215.248.22 - Accepted change I19_euf1.ged replace into database ->deputyarchivist<-
+2010.10.16 22:03:45 - 129.215.248.22 - Replacing gedcom record I20 ->deputyarchivist<-
+2010.10.16 22:04:07 - 129.215.248.22 - Replacing gedcom record I20 ->deputyarchivist<-
+2010.10.16 22:04:18 - 129.215.248.22 - Accepted change I20_euf1.ged replace into database ->deputyarchivist<-
+2010.10.16 22:08:34 - 129.215.248.22 - Appending new INDI record I24 ->deputyarchivist<-
+2010.10.16 22:08:55 - 129.215.248.22 - Accepted change I24_euf1.ged append into database ->deputyarchivist<-
+2010.10.16 22:09:02 - 129.215.248.22 - Logout - deputyarchivist
+2010.10.16 22:29:51 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+2010.10.16 22:30:30 - 129.215.248.22 - Replacing gedcom record I24 ->deputyarchivist<-
+2010.10.16 22:33:04 - 129.215.248.22 - Appending new INDI record I25 ->deputyarchivist<-
+2010.10.16 22:33:04 - 129.215.248.22 - Appending new FAM record F10 ->deputyarchivist<-
+2010.10.16 22:33:04 - 129.215.248.22 - Replacing gedcom record I25 ->deputyarchivist<-
+2010.10.16 22:33:04 - 129.215.248.22 - Replacing gedcom record I24 ->deputyarchivist<-
+2010.10.16 22:33:34 - 129.215.248.22 - Appending new INDI record I26 ->deputyarchivist<-
+2010.10.16 22:33:34 - 129.215.248.22 - Replacing gedcom record F10 ->deputyarchivist<-
+2010.10.16 22:33:47 - 129.215.248.22 - Accepted change I24_euf1.ged replace into database ->deputyarchivist<-
+2010.10.16 22:33:47 - 129.215.248.22 - Accepted change I25_euf1.ged replace into database ->deputyarchivist<-
+2010.10.16 22:33:47 - 129.215.248.22 - Accepted change F10_euf1.ged replace into database ->deputyarchivist<-
+2010.10.16 22:33:47 - 129.215.248.22 - Accepted change I26_euf1.ged append into database ->deputyarchivist<-
+2010.10.17 09:43:30 - 129.215.248.22 - Replacing gedcom record I12 ->deputyarchivist<-
+2010.10.17 09:52:30 - 129.215.248.22 - Replacing gedcom record I14 ->deputyarchivist<-
+2010.10.17 09:54:47 - 129.215.248.22 - Site configuration config.php updated by >deputyarchivist<
+2010.10.17 09:55:21 - 129.215.248.22 - Site configuration config.php updated by >deputyarchivist<
+2010.10.17 09:56:04 - 129.215.248.22 - Site configuration config.php updated by >deputyarchivist<
+17.10.2010 09:58:07 - 129.215.248.22 - deputyarchivist added user -> The Deputy Archivist <-
+17.10.2010 09:58:46 - 129.215.248.22 - Logout - The Deputy Archivist
+17.10.2010 09:59:08 - 129.215.248.22 - Login Failed ->deputyarchivist<-
+17.10.2010 09:59:15 - 129.215.248.22 - Login Failed ->deputyarchivist<-
+17.10.2010 09:59:26 - 129.215.248.22 - Login Failed ->deputyarchivist<-
+17.10.2010 10:00:09 - 129.215.248.22 - Anonymous user reqested password for user -> The Deputy Archivist <-
+17.10.2010 10:00:10 - 129.215.248.22 - Password request was sent to user: The Deputy Archivist
+17.10.2010 10:00:53 - 129.215.248.22 - Login Failed ->deputyarchivist<-
+17.10.2010 10:01:26 - 129.215.248.22 - Login Successful ->The Deputy Archivist<-
+17.10.2010 10:03:17 - 129.215.248.22 - The Deputy Archivist changed user -> deputyarchivist <-
+17.10.2010 15:06:19 - 129.215.248.22 - Login Failed ->deputyarchivist<-
+17.10.2010 15:06:26 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+17.10.2010 15:06:41 - 129.215.248.22 - Replacing gedcom record I12 ->deputyarchivist<-
+17.10.2010 15:06:56 - 129.215.248.22 - Accepted change I12_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 15:06:56 - 129.215.248.22 - Accepted change I14_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 15:18:17 - 129.215.248.22 - Replacing gedcom record I14 ->deputyarchivist<-
+17.10.2010 15:20:28 - 129.215.248.22 - Replacing gedcom record I19 ->deputyarchivist<-
+17.10.2010 15:21:13 - 129.215.248.22 - Replacing gedcom record I14 ->deputyarchivist<-
+17.10.2010 15:21:31 - 129.215.248.22 - Replacing gedcom record I19 ->deputyarchivist<-
+17.10.2010 15:21:45 - 129.215.248.22 - Accepted change I14_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 15:21:45 - 129.215.248.22 - Accepted change I19_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 16:04:47 - 129.215.248.22 - Replacing gedcom record I12 ->deputyarchivist<-
+17.10.2010 16:04:56 - 129.215.248.22 - Accepted change I12_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 16:07:37 - 129.215.248.22 - Appending new INDI record I27 ->deputyarchivist<-
+17.10.2010 16:08:39 - 129.215.248.22 - Replacing gedcom record I27 ->deputyarchivist<-
+17.10.2010 16:08:55 - 129.215.248.22 - Replacing gedcom record I27 ->deputyarchivist<-
+17.10.2010 16:09:58 - 129.215.248.22 - Replacing gedcom record I27 ->deputyarchivist<-
+17.10.2010 16:10:18 - 129.215.248.22 - Accepted change I27_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 16:24:18 - 129.215.248.22 - Replacing gedcom record I27 ->deputyarchivist<-
+17.10.2010 16:25:08 - 129.215.248.22 - Appending new INDI record I28 ->deputyarchivist<-
+17.10.2010 16:25:08 - 129.215.248.22 - Appending new FAM record F11 ->deputyarchivist<-
+17.10.2010 16:25:08 - 129.215.248.22 - Replacing gedcom record I28 ->deputyarchivist<-
+17.10.2010 16:25:08 - 129.215.248.22 - Replacing gedcom record I27 ->deputyarchivist<-
+17.10.2010 16:25:41 - 129.215.248.22 - Accepted change I27_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 16:25:41 - 129.215.248.22 - Accepted change I28_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 16:25:41 - 129.215.248.22 - Accepted change F11_euf1.ged append into database ->deputyarchivist<-
+17.10.2010 16:26:17 - 129.215.248.22 - Replacing gedcom record I28 ->deputyarchivist<-
+17.10.2010 16:34:49 - 129.215.248.22 - Replacing gedcom record I28 ->deputyarchivist<-
+17.10.2010 16:35:56 - 129.215.248.22 - Replacing gedcom record I28 ->deputyarchivist<-
+17.10.2010 16:36:23 - 129.215.248.22 - Replacing gedcom record I28 ->deputyarchivist<-
+17.10.2010 16:36:35 - 129.215.248.22 - Accepted change I28_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 16:37:55 - 129.215.248.22 - Replacing gedcom record I28 ->deputyarchivist<-
+17.10.2010 16:38:39 - 129.215.248.22 - Replacing gedcom record I28 ->deputyarchivist<-
+17.10.2010 16:38:53 - 129.215.248.22 - Accepted change I28_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 16:40:07 - 129.215.248.22 - Appending new INDI record I29 ->deputyarchivist<-
+17.10.2010 16:40:07 - 129.215.248.22 - Replacing gedcom record F11 ->deputyarchivist<-
+17.10.2010 16:40:07 - 129.215.248.22 - Replacing gedcom record I29 ->deputyarchivist<-
+17.10.2010 16:40:23 - 129.215.248.22 - Accepted change I29_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 16:40:23 - 129.215.248.22 - Accepted change F11_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 17:24:24 - 129.215.248.22 - Logout - deputyarchivist
+17.10.2010 17:24:36 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+17.10.2010 19:46:26 - 129.215.248.22 - Logout - deputyarchivist
+17.10.2010 19:46:45 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+17.10.2010 20:13:38 - 129.215.248.22 - Replacing gedcom record I29 ->deputyarchivist<-
+17.10.2010 20:15:05 - 129.215.248.22 - Accepted change I29_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 20:23:35 - 129.215.248.22 - Appending new INDI record I30 ->deputyarchivist<-
+17.10.2010 20:24:10 - 129.215.248.22 - Accepted change I30_euf1.ged append into database ->deputyarchivist<-
+17.10.2010 20:24:46 - 129.215.248.22 - Appending new INDI record I31 ->deputyarchivist<-
+17.10.2010 20:24:46 - 129.215.248.22 - Appending new FAM record F12 ->deputyarchivist<-
+17.10.2010 20:24:46 - 129.215.248.22 - Replacing gedcom record I31 ->deputyarchivist<-
+17.10.2010 20:24:46 - 129.215.248.22 - Replacing gedcom record I30 ->deputyarchivist<-
+17.10.2010 20:25:03 - 129.215.248.22 - Accepted change I31_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 20:25:03 - 129.215.248.22 - Accepted change F12_euf1.ged append into database ->deputyarchivist<-
+17.10.2010 20:25:03 - 129.215.248.22 - Accepted change I30_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 20:38:53 - 129.215.248.22 - Replacing gedcom record I30 ->deputyarchivist<-
+17.10.2010 20:41:03 - 129.215.248.22 - Replacing gedcom record I31 ->deputyarchivist<-
+17.10.2010 20:41:15 - 129.215.248.22 - Accepted change I30_euf1.ged replace into database ->deputyarchivist<-
+17.10.2010 20:41:15 - 129.215.248.22 - Accepted change I31_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 06:36:40 - 129.215.248.22 - Appending new INDI record I32 ->deputyarchivist<-
+18.10.2010 06:37:43 - 129.215.248.22 - Appending new INDI record I33 ->deputyarchivist<-
+18.10.2010 06:38:41 - 129.215.248.22 - Logout - deputyarchivist
+18.10.2010 06:39:08 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+18.10.2010 06:39:25 - 129.215.248.22 - Accepted change I32_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 06:39:25 - 129.215.248.22 - Accepted change I33_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 06:39:54 - 129.215.248.22 - Replacing gedcom record I33 ->deputyarchivist<-
+18.10.2010 06:41:38 - 129.215.248.22 - Replacing gedcom record I33 ->deputyarchivist<-
+18.10.2010 06:42:21 - 129.215.248.22 - Appending new INDI record I34 ->deputyarchivist<-
+18.10.2010 06:42:21 - 129.215.248.22 - Appending new FAM record F13 ->deputyarchivist<-
+18.10.2010 06:42:21 - 129.215.248.22 - Replacing gedcom record I34 ->deputyarchivist<-
+18.10.2010 06:42:21 - 129.215.248.22 - Replacing gedcom record I33 ->deputyarchivist<-
+18.10.2010 06:43:03 - 129.215.248.22 - Accepted change I33_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 06:43:04 - 129.215.248.22 - Accepted change I34_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 06:43:04 - 129.215.248.22 - Accepted change F13_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 07:10:52 - 129.215.248.22 - Appending new INDI record I35 ->deputyarchivist<-
+18.10.2010 07:10:52 - 129.215.248.22 - Replacing gedcom record F13 ->deputyarchivist<-
+18.10.2010 07:11:36 - 129.215.248.22 - Replacing gedcom record I35 ->deputyarchivist<-
+18.10.2010 07:14:13 - 129.215.248.22 - Accepted change I35_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:14:14 - 129.215.248.22 - Accepted change F13_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:16:36 - 129.215.248.22 - Appending new INDI record I36 ->deputyarchivist<-
+18.10.2010 07:16:36 - 129.215.248.22 - Appending new FAM record F14 ->deputyarchivist<-
+18.10.2010 07:16:36 - 129.215.248.22 - Replacing gedcom record I36 ->deputyarchivist<-
+18.10.2010 07:16:36 - 129.215.248.22 - Replacing gedcom record I35 ->deputyarchivist<-
+18.10.2010 07:16:49 - 129.215.248.22 - Accepted change I36_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:16:49 - 129.215.248.22 - Accepted change F14_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 07:16:49 - 129.215.248.22 - Accepted change I35_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:17:37 - 129.215.248.22 - Appending new INDI record I37 ->deputyarchivist<-
+18.10.2010 07:17:37 - 129.215.248.22 - Replacing gedcom record F14 ->deputyarchivist<-
+18.10.2010 07:18:50 - 129.215.248.22 - Replacing gedcom record I35 ->deputyarchivist<-
+18.10.2010 07:18:59 - 129.215.248.22 - Accepted change I37_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 07:18:59 - 129.215.248.22 - Accepted change F14_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:18:59 - 129.215.248.22 - Accepted change I35_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:27:27 - 129.215.248.22 - Appending new INDI record I38 ->deputyarchivist<-
+18.10.2010 07:27:27 - 129.215.248.22 - Appending new FAM record F15 ->deputyarchivist<-
+18.10.2010 07:27:27 - 129.215.248.22 - Replacing gedcom record I38 ->deputyarchivist<-
+18.10.2010 07:27:27 - 129.215.248.22 - Replacing gedcom record I33 ->deputyarchivist<-
+18.10.2010 07:27:47 - 129.215.248.22 - Appending new INDI record I39 ->deputyarchivist<-
+18.10.2010 07:27:47 - 129.215.248.22 - Replacing gedcom record F15 ->deputyarchivist<-
+18.10.2010 07:27:47 - 129.215.248.22 - Replacing gedcom record I39 ->deputyarchivist<-
+18.10.2010 07:28:04 - 129.215.248.22 - Accepted change I38_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:28:06 - 129.215.248.22 - Accepted change F15_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:28:08 - 129.215.248.22 - Accepted change I33_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:28:15 - 129.215.248.22 - Accepted change I39_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 07:37:02 - 129.215.248.22 - Appending new INDI record I40 ->deputyarchivist<-
+18.10.2010 07:37:02 - 129.215.248.22 - Replacing gedcom record F13 ->deputyarchivist<-
+18.10.2010 08:53:27 - 129.215.248.22 - Accepted change I40_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 08:53:27 - 129.215.248.22 - Accepted change F13_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:16:16 - 129.215.248.22 - Logout - deputyarchivist
+18.10.2010 12:17:57 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+18.10.2010 12:18:11 - 129.215.248.22 - Replacing gedcom record I39 ->deputyarchivist<-
+18.10.2010 12:18:21 - 129.215.248.22 - Accepted change I39_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:21:36 - 129.215.248.22 - Replacing gedcom record I32 ->deputyarchivist<-
+18.10.2010 12:21:49 - 129.215.248.22 - Accepted change I32_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:23:18 - 129.215.248.22 - Appending new INDI record I41 ->deputyarchivist<-
+18.10.2010 12:23:18 - 129.215.248.22 - Appending new FAM record F16 ->deputyarchivist<-
+18.10.2010 12:23:18 - 129.215.248.22 - Replacing gedcom record I41 ->deputyarchivist<-
+18.10.2010 12:23:18 - 129.215.248.22 - Replacing gedcom record I32 ->deputyarchivist<-
+18.10.2010 12:24:07 - 129.215.248.22 - Accepted change I41_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:24:07 - 129.215.248.22 - Accepted change F16_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 12:24:07 - 129.215.248.22 - Accepted change I32_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:24:21 - 129.215.248.22 - Replacing gedcom record I41 ->deputyarchivist<-
+18.10.2010 12:24:21 - 129.215.248.22 - Replacing gedcom record F15 ->deputyarchivist<-
+18.10.2010 12:25:20 - 129.215.248.22 - Appending new INDI record I42 ->deputyarchivist<-
+18.10.2010 12:25:20 - 129.215.248.22 - Replacing gedcom record F15 ->deputyarchivist<-
+18.10.2010 12:26:03 - 129.215.248.22 - Appending new INDI record I43 ->deputyarchivist<-
+18.10.2010 12:26:03 - 129.215.248.22 - Appending new FAM record F17 ->deputyarchivist<-
+18.10.2010 12:26:03 - 129.215.248.22 - Replacing gedcom record I43 ->deputyarchivist<-
+18.10.2010 12:26:03 - 129.215.248.22 - Replacing gedcom record I42 ->deputyarchivist<-
+18.10.2010 12:26:17 - 129.215.248.22 - Accepted change I41_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:26:17 - 129.215.248.22 - Accepted change F15_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:26:17 - 129.215.248.22 - Accepted change I42_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:26:17 - 129.215.248.22 - Accepted change I43_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:26:17 - 129.215.248.22 - Accepted change F17_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 12:26:54 - 129.215.248.22 - Appending new INDI record I44 ->deputyarchivist<-
+18.10.2010 12:26:54 - 129.215.248.22 - Replacing gedcom record F17 ->deputyarchivist<-
+18.10.2010 12:28:09 - 129.215.248.22 - Replacing gedcom record I42 ->deputyarchivist<-
+18.10.2010 12:28:36 - 129.215.248.22 - Accepted change I44_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 12:28:36 - 129.215.248.22 - Accepted change F17_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:28:36 - 129.215.248.22 - Accepted change I42_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:29:47 - 129.215.248.22 - Replacing gedcom record I44 ->deputyarchivist<-
+18.10.2010 12:30:00 - 129.215.248.22 - Replacing gedcom record I42 ->deputyarchivist<-
+18.10.2010 12:30:08 - 129.215.248.22 - Accepted change I44_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:30:08 - 129.215.248.22 - Accepted change I42_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:46:24 - 129.215.248.22 - Appending new INDI record I45 ->deputyarchivist<-
+18.10.2010 12:46:24 - 129.215.248.22 - Appending new FAM record F18 ->deputyarchivist<-
+18.10.2010 12:46:24 - 129.215.248.22 - Replacing gedcom record I45 ->deputyarchivist<-
+18.10.2010 12:46:24 - 129.215.248.22 - Replacing gedcom record I37 ->deputyarchivist<-
+18.10.2010 12:47:11 - 129.215.248.22 - Accepted change I45_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 12:47:11 - 129.215.248.22 - Accepted change F18_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 12:47:11 - 129.215.248.22 - Accepted change I37_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:08:50 - 129.215.248.22 - Appending new INDI record I46 ->deputyarchivist<-
+18.10.2010 16:08:50 - 129.215.248.22 - Replacing gedcom record F18 ->deputyarchivist<-
+18.10.2010 16:09:04 - 129.215.248.22 - Accepted change I46_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 16:09:04 - 129.215.248.22 - Accepted change F18_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:11:46 - 129.215.248.22 - Replacing gedcom record I46 ->deputyarchivist<-
+18.10.2010 16:12:11 - 129.215.248.22 - Accepted change I46_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:12:33 - 129.215.248.22 - Replacing gedcom record I45 ->deputyarchivist<-
+18.10.2010 16:22:57 - 129.215.248.22 - Accepted change I45_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:25:03 - 129.215.248.22 - Appending new INDI record I47 ->deputyarchivist<-
+18.10.2010 16:25:03 - 129.215.248.22 - Appending new FAM record F19 ->deputyarchivist<-
+18.10.2010 16:25:03 - 129.215.248.22 - Replacing gedcom record I47 ->deputyarchivist<-
+18.10.2010 16:25:03 - 129.215.248.22 - Replacing gedcom record I46 ->deputyarchivist<-
+18.10.2010 16:25:10 - 129.215.248.22 - Accepted change I47_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:25:10 - 129.215.248.22 - Accepted change F19_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 16:25:10 - 129.215.248.22 - Accepted change I46_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:26:03 - 129.215.248.22 - Replacing gedcom record F19 ->deputyarchivist<-
+18.10.2010 16:26:14 - 129.215.248.22 - Accepted change F19_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:27:06 - 129.215.248.22 - Appending new INDI record I48 ->deputyarchivist<-
+18.10.2010 16:27:06 - 129.215.248.22 - Replacing gedcom record F19 ->deputyarchivist<-
+18.10.2010 16:27:52 - 129.215.248.22 - Appending new INDI record I49 ->deputyarchivist<-
+18.10.2010 16:27:52 - 129.215.248.22 - Replacing gedcom record F19 ->deputyarchivist<-
+18.10.2010 16:28:02 - 129.215.248.22 - Accepted change I48_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 16:28:02 - 129.215.248.22 - Accepted change F19_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:28:02 - 129.215.248.22 - Accepted change I49_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 16:29:29 - 129.215.248.22 - Replacing gedcom record I49 ->deputyarchivist<-
+18.10.2010 16:29:35 - 129.215.248.22 - Accepted change I49_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:30:22 - 129.215.248.22 - Appending new INDI record I50 ->deputyarchivist<-
+18.10.2010 16:30:22 - 129.215.248.22 - Appending new FAM record F20 ->deputyarchivist<-
+18.10.2010 16:30:22 - 129.215.248.22 - Replacing gedcom record I50 ->deputyarchivist<-
+18.10.2010 16:30:22 - 129.215.248.22 - Replacing gedcom record I49 ->deputyarchivist<-
+18.10.2010 16:31:29 - 129.215.248.22 - Replacing gedcom record I48 ->deputyarchivist<-
+18.10.2010 16:34:01 - 129.215.248.22 - Replacing gedcom record I50 ->deputyarchivist<-
+18.10.2010 16:34:13 - 129.215.248.22 - Accepted change I50_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:34:13 - 129.215.248.22 - Accepted change F20_euf1.ged append into database ->deputyarchivist<-
+18.10.2010 16:34:13 - 129.215.248.22 - Accepted change I49_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:34:13 - 129.215.248.22 - Accepted change I48_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:35:13 - 129.215.248.22 - Appending new INDI record I51 ->deputyarchivist<-
+18.10.2010 16:35:13 - 129.215.248.22 - Appending new FAM record F21 ->deputyarchivist<-
+18.10.2010 16:35:13 - 129.215.248.22 - Replacing gedcom record I51 ->deputyarchivist<-
+18.10.2010 16:35:13 - 129.215.248.22 - Replacing gedcom record I50 ->deputyarchivist<-
+18.10.2010 16:36:23 - 129.215.248.22 - Appending new INDI record I52 ->deputyarchivist<-
+18.10.2010 16:36:23 - 129.215.248.22 - Replacing gedcom record F21 ->deputyarchivist<-
+18.10.2010 16:36:23 - 129.215.248.22 - Replacing gedcom record I52 ->deputyarchivist<-
+18.10.2010 16:37:13 - 129.215.248.22 - Logout - deputyarchivist
+18.10.2010 16:37:39 - 129.215.248.22 - Login Successful ->deputyarchivist<-
+18.10.2010 16:39:15 - 129.215.248.22 - Accepted change I51_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:39:15 - 129.215.248.22 - Accepted change F21_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:39:15 - 129.215.248.22 - Accepted change I50_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:39:15 - 129.215.248.22 - Accepted change I52_euf1.ged replace into database ->deputyarchivist<-
+18.10.2010 16:39:28 - 129.215.248.22 - Replacing gedcom record I52 ->deputyarchivist<-
+18.10.2010 16:39:28 - 129.215.248.22 - Replacing gedcom record F18 ->deputyarchivist<-
+18.10.2010 16:43:06 - 129.215.248.22 - Appending new INDI record I53 ->deputyarchivist<-
+18.10.2010 16:43:06 - 129.215.248.22 - Replacing gedcom record F21 ->deputyarchivist<-

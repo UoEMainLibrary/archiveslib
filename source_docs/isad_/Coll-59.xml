@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-59">GB 237
+		Coll-59</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>The Archives of
+			 the Edinburgh Royal Choral Union </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-59">
+    <did>
+      <unittitle>The Archives of
+			 the Edinburgh Royal Choral Union </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-59</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MSS 3144-3171; E2005.25 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">The Archives of the Edinburgh Royal
+		  Choral Union </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1866-1994">1866-1994 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>16 boxes (2
+		  linear metres); 11 volumes; 1 envelope (45 cm x 36 cm); 1 seal embossing
+		  machine. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The Edinburgh Choral Union was instituted on 25 November 1858 at
+		  Wood's Musical Rooms, Waterloo Place, in central Edinburgh. Its first conductor
+		  was Charles J. Hargitt, the organist at St. Mary's Roman Catholic Church,
+		  Broughton Street. The choir performed before Queen Victoria on her visit to the
+		  Edinburgh International Exhibition held on the Meadows in 1886. The title
+		  'Royal' was conferred by King George V in 1911. The Edinburgh Royal Choral
+		  Union (ERCU) sang before Queen Elizabeth II when Beethoven's 
+		9th Symphony  was conducted by Sir Thomas Beecham at the
+		opening concert of the 1956 Edinburgh International Festival. Many notable
+		soloists have sung with the ERCU since it came into existence, among them Jenny
+		Lind (1861), Isobel Baillie, Kathleen Ferrier, Peter Pears, and Dietrich
+		Fischer-Dieskau. Over the decades, the ERCU has performed many 'firsts' in
+		Scotland, most notably Elgar's 
+		Dream of Gerontius  (1903), Bach's 
+		Mass in B Minor  (1907), and Britten's 
+		War Requiem  (1964). The ERCU is famed for its annual New
+		Year's performances of the 
+		Messiah , given since 1888, and in modern times usually
+		held in the city's Usher Hall. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The archives of the Edinburgh Royal Choral Union contain rolls of
+		  members since 1866 and including lists of patrons, officers, and directors;
+		  correspondence for the period 1877-83; correspondence with members, 1957-69;
+		  correspondence with choirs, 1857-1979; minute books from 1881; accounts ledger
+		  1960-75; programmes from the 1940s onwards; bulletins and news-sheets for the
+		  National Federation of Musical Societies; press cuttings book; receipts;
+		  accounts; posters; and, the ERCU seal with its embossing machine. </p>
+      <p>There is also ERCU promotional material for concerts in the Usher
+		  Hall, Methodist Central Hall, and other locations (1950s-1990s) in the form of:
+		  posters; handbills; and season programmes. The material includes programmes of
+		  the National Federation of Music Societies, Jubilee Concert, Usher Hall, 1985,
+		  and Goldsmiths Choral Union concert (L'Entente Chorale. A Revolutionary
+		  Requiem), Royal Albert Hall, 1989, as well as material relating to the ERCU
+		  centenary in 1958. Also ERCU bulletins and archive material, and musical score
+		  (Handel. Selection from the works of G.F. Handel, Edinburgh Choral Union, 9
+		  February 1885).</p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H59 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

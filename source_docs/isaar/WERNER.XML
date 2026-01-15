@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0352 20020219 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0352</titleproper> 
+		  <subtitle>Werner | Abraham Gottlob | 1750-1817 | German geologist,
+			 inspector and teacher, Freiberg Mining Academy</subtitle> 
+		  <author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+			 University Library Special Collections Division, 19 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020219">19 February 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0352</titleproper> 
+		<subtitle>Werner | Abraham Gottlob | 1750-1817 | German geologist,
+		  inspector and teacher, Freiberg Mining Academy</subtitle> 
+		<author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+		  University Library Special Collections Division, 19 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020219">19 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0352"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0352</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0352" normal="Werner, Abraham Gottlob">Werner |
+		  Abraham Gottlob | 1750-1817 | German geologist, inspector and teacher, Freiberg
+		  Mining Academy</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Abraham Gottlob Werner was born in Wehrau, Upper Lusatia, now Polish
+			 Osiecznica, on 
+			 <date type="birth" normal="17490925">25 September 1749</date>. He had
+			 a boy's interest in rocks and minerals, which his father indulged while also
+			 arranging private tuition in other things and packing him off to the
+			 Waisenschule at Bunzlau (Boleslawiec). Werner's father was inspector of the
+			 Duke of Solm's ironworks, and he wished his son to join him there one day.
+			 Abraham clerked in the foundry during his 'teens, and began his managerial
+			 studies in Freiburg's new Bergakademie. He jumped ship to join the Saxon mining
+			 service instead of returning to the Duke of Solm's employ. He began the
+			 required course in jurisprudence at the University of Leipzig, but left without
+			 a degree once again, still distracted by mineralogy and lately historical
+			 linguistics. Geology and language, he felt, were records of analogous
+			 importance in the history of man. He freelanced a 
+			 <date type="publication" normal="1773">1773</date> book on how to
+			 recognize fossils, and this, with the intervention of an older friend, finally
+			 got him a solid job, a teaching appointment in the mining curriculum back at
+			 the Bergakademie, along with curatorship of the mineral collection there. He
+			 stayed at these twin posts for his remaining 42 years. He died in Dresden on 
+			 <date type="death" normal="18170630">30 June 1817</date>. </p> 
+		  <p>Werner the mineralogist, recognizing that chemistry and
+			 crystallography were not sophisticated enough to help establish a mineralogical
+			 system, worked up simple descriptive standards of classification instead, sure
+			 enough for the time being that external characteristics were not unrelated to
+			 chemical makeup. This was worth doing, he insisted, because mineralogy itself
+			 was the starting point for all study of the the earth. He discovered eight new
+			 minerals of his own in the course of all this. Werner the geologist was the
+			 first to work out a complete schema for the earth's structure, and in
+			 particular, the history of its formation. His account of things, the work of a
+			 nominal Pietist but a temperamental deist, avoided the biblically-charged
+			 problem of the flood. At least he was neptunist, not a vulcanist, observed
+			 traditionalists, who were mostly pacified. He believed that all rock was once
+			 sediment or precipitate in a universal ocean. His career's biggest controversy
+			 was with other geologists, the great debate over whether basalt is of aqueous
+			 or volcanic origin. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>K.E. Pabst von Ohain (fl. 
+			 <date type="single" normal="1774">1774</date>), friend and former
+			 teacher, who got Werner his faculty job at the Bergakademie, and fellow mineral
+			 collector. W.A. Lampadius (fl. 
+			 <date type="single" normal="1806">1806</date>), teacher of chemistry
+			 whom he brought to his new chemical lab at the Bergakademie; M.H. Klaproth
+			 (<date type="life-span" normal="1743/1817">1743-1817</date>), founder of
+			 quantitative mineral analysis, in close contact with Werner. Famous students
+			 included geologists and mineralogists like Leopold von Buch (<date
+			 type="life-span" normal="1774/1853">1774-1853</date>), Alexander von Humboldt
+			 (<date type="life-span" normal="1769/1859">1769-1859</date>), Jean d'Aubuisson
+			 de Voisins (<date type="life-span" normal="1769/1841">1769 - 1841</date>),
+			 Robert Jameson (<date type="life-span" normal="1774/1854">1774-1854</date>),
+			 and Friedrich Mohs (<date type="life-span"
+			 normal="1773/1839">1773-1839</date>); also romantic philosophers and writers
+			 like Gotthilf Heinrich von Schubert (<date type="life-span"
+			 normal="1780/1860">1780-1860</date>), Henrik Steffens (<date type="life-span"
+			 normal="1773/1845">1773 - 1845</date>), and Friedrich von Hardenberg, or
+			 "Novalis" (<date type="life-span" normal="1772/1801">1772-1801</date>). </p> 
+		  <p>Father, Abraham David Werner, iron foundry chief. Mother Regina
+			 Holstein Werner. He himself never married. </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p><bibref><title>Von den &#x00C3;&#x00A4;usserlichen Kennzeichen der
+			 Fossilien </title>, ( <imprint><date type="publication"
+			 normal="1774" certainty="certain">1774</date>)</imprint></bibref></p> 
+		  <p><bibref><title>"Von den verschiedernerley Mineraliensammlungen"
+			 </title>, (<imprint><date type="publication" normal="1778"
+			 certainty="certain">1778</date>)</imprint></bibref></p> 
+		  <p><bibref><title>"Kurze Klassificakation und Beschreibung der
+			 verschiedenen Gebirgsarten" </title>, (<imprint><date
+			 type="publication" normal="1786"
+			 certainty="certain">1786</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Abrahm Gottlob Werners letztes
+			 Mineral-System</title>, ( <imprint><date type="publication" normal="1817"
+			 certainty="certain">1817</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>Elected to 22 scientific societies, including these: </p> 
+		  <p>Geological Society of London</p> 
+		  <p>Institut National de France</p> 
+		  <p>Institut Imp&#x00C3;&#x00A9;rial de France</p> 
+		  <p>Imperial Society of Physics and Medicine of Moscow</p> 
+		  <p>Royal Prussian Academy of Sciences</p> 
+		  <p>Royal Stockholm Academy of Sciences</p> 
+		  <p>Wernerian Society of Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Gillespie, CC "
+			 role="editor">Gillespie, CC, ed</persname>, <title>Dictionary of Scientific
+			 Biography</title>, (<imprint><geogname source="lcsh" authfilenumber="483"
+			 normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970/1990"
+			  certainty="certain">1970-1990</date>)</imprint>, s.v. "Werner, Abraham Gottlob"
+			 by Alexander Ospovat</bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Fisher, Duncan" role="researcher">Duncan Fisher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020219">19 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1739 20020426 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1739</titleproper> 
+		  <subtitle>Arbuthnot | John | 1667-1735 | Scottish physician and
+			 satirist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 25 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020426">26 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1739</titleproper> 
+		<subtitle>Arbuthnot | John | 1667-1735 | Scottish physician and
+		  satirist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 26 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020426">26 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1739"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1739</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1739" normal="Arbuthnot, John">Arbuthnot | John
+		  | 1667-1735 | Scottish physician and satirist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>John Arbuthnot (<date type="life-span"
+			 normal="1667/1735">1667-1735</date>), physician to Queen Anne (<date
+			 type="life-span" normal="1665/1714">1665-1714</date>), was educated at
+			 Marischal College, Aberdeen and took his degree in Medicine at the University
+			 of St Andrews. Better known for his political satire and statistical analysis,
+			 he taught mathematics in London for a while, until he had the good fortune to
+			 be present when Prince George of Denmark (<date type="life-span"
+			 normal="1653/1708">1653-1708</date>) fell ill. Arbuthnot's treatment cured the
+			 prince, and he was taken on in 
+			 <date type="single" normal="1705">1705</date> as physician
+			 extraordinary to Queen Anne. In 
+			 <date type="single" normal="1709">1709</date>, he became physician in
+			 ordinary to the monarch. Arbuthnot's first paper to the Royal Society was a
+			 statistical study of demographics. He also translated a work by Huygens (<date
+			 type="life-span" normal="1629/1695">1629-1695</date>) about probability.</p> 
+		  <p>Arbuthnot was at Queen Anne's bedside when she died, and under the
+			 new regime, Arbuthnot fell out of favour and ceased to be a courtier.</p> 
+		  <p>Arbuthnot's paper, presented at the Royal Society in 
+			 <date type="single" normal="1710">1710</date>, is worth a closer
+			 look, for though it is crude, and far from conclusive; it is the first known
+			 example of statistical inference. In this paper, <bibref><title>An Argument for
+			 Divine Providence, Taken From the Constant Regularity Observ'd in the Births of
+			 Both Sexes</title></bibref>, he looks at births in London in the years 
+			 <date type="inclusive" normal="1629/1710">1629-1710</date> inclusive,
+			 a total of 82 years. What Arbuthnot noticed, is that in every single one of
+			 these years, male births outstripped female births. He argued that if sex was
+			 determined by chance - he used the image of a "two-sided die" being thrown -
+			 then only in about half of these years would male births have outstripped
+			 female births. The probability of all these years giving a male surplus, he
+			 said, was 1/(2^82) - astronomical odds against. He suggested that this was the
+			 effect of divine intervention, to make up for the increased risks of premature
+			 death men experienced at the time.</p> 
+		  <p>Whatever the merits of the paper and its dogmatic assumptions, it
+			 was the first of many statistical analyses of science, and laid the foundations
+			 for the modern science of statistics.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications</p> 
+		  <p><bibref><title>An Essay of the Usefulness of Scientific
+			 Nature</title> (<imprint><date type="publication"
+			 normal="1701">1701</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Law is a Bottomless Pit; or: History of John
+			 Bull</title> (<imprint> 
+			 <date type="publication"
+			 normal="1712">1712</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Tables of Ancient Coins, Weights and Measures</title>
+			 (<imprint><date type="publication"
+			 normal="1727">1727</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Mr John Gingligutt's Treatise Concerning the
+			 Altercation or Scolding of the Ancients</title> (<imprint><date
+			 type="publication" normal="1731">1731</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Know Yourself</title> (<imprint><date
+			 type="publication" normal="1734">1734</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Memoirs of the Extraordinary Life, Works and
+			 Discoveries of Martinus Scriblerus</title> (<imprint> 
+			 <date type="publication"
+			  normal="1741">1741</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Art of Political Lying</title></bibref></p> 
+		  <p><bibref><title>The Miscellaneous Works of the later Dr
+			 Arbuthnot</title> (<imprint> 
+			 <date type="publication"
+			  normal="1751">1751</date></imprint>)</bibref></p> 
+		  <p>Interests and activities:</p> 
+		  <p>Arbuthnot was primarily a satirist, being a prominent member of the
+			 Scriblerus Club. The Scriblerus Club existed in order to " ridicule false
+			 tastes in learning" and bad literature. They wrote the <bibref><title>Memoirs
+			 of Martinus Scriblerus</title></bibref> as a group effort, though the vast
+			 majority of the work was Arbuthnot's. He also created the patriotic character
+			 John Bull in his series <bibref><title>The History of John
+			 Bull</title></bibref>, a satire on the intrigue in European diplomacy disguised
+			 as a courtroom drama. </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1696">1696</date>: Awarded Doctor of
+			 Medicine degree (MD), University of St Andrews</p> 
+		  <p><date type="appointmentdate" normal="1704">1704</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1705">1705</date>: Appointed
+			 Physician extraordinary to the Queen</p> 
+		  <p><date type="appointmentdate" normal="1709">1709</date>: Appointed
+			 Physician in ordinary to the Queen</p> 
+		  <p><date type="appointmentdate" normal="1710">1710</date>: Elected
+			 Fellow of the Royal College of Physicians</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname role="editor"
+			 normal="Gillispie, Charles C">Gillispie, Charles C</persname>,
+			 <title>Dictionary of Scientific Biography, vol II</title>(<imprint><geogname
+			 normal="New York (N.Y., United States)" authfilenumber="483" source="lcsh">New
+			 York</geogname>,<publisher>Scribner's</publisher>,<date type="publication"
+			 normal="1970">1970</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 I</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			  certainty="certain">1908</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Encyclopaedia Britannica, vol
+			 2</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			  normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			  certainty="certain">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020426">26 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

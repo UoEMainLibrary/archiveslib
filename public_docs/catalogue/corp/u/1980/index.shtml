@@ -1,0 +1,35 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: University of Edinburgh | Edinburgh University Library | | | </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/corp/a/">Authority terms: corporate names</a> &gt; <a href="/catalogue/corp/u/">u</a><h1>University of Edinburgh | Edinburgh University Library | | | </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=corp&id=1980&term=University of Edinburgh | Edinburgh University Library | | | " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.1&view=basic">Author catalogue </a> (1600-1699) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.27&view=basic">Subject Catalogue </a> (1600-1699) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.23&view=basic">Press Catalogue </a> (1600-1699) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.3&view=basic">Author catalogue, DIL-POCOCK </a> (1600-1799) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.4&view=basic">Author catalogue, POEMS-Z, Nairn &amp; Drummond </a> (1600-1799) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.2&view=basic">Author catalogue, A-DEN </a> (1600-1799) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-2-Da.1.29&view=basic">Donations lists </a> (1619) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-2&view=basic">Acquisitions </a> (1619-1946) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-2-Da.1.32&view=basic">Donations from candidates for A.M. </a> (1627-1696) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB&view=basic">Library </a> (1636-date) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.14&view=basic">Press catalogue </a> (1636) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1&view=basic">Catalogues </a> (1636-1984) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.15&view=basic">Press catalogue </a> (1641) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.16&view=basic">Press catalogue </a> (1650-1699) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-2-Da.1.33&view=basic">Matriculation book </a> (1653-1704) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-2-Da.1.31&view=basic">Donations book </a> (1667-1824) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-1-Da.1.17&view=basic">Press Catalogue </a> (1674) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-2-Da.1.35&view=basic">Matriculation &amp; Laureation accounts </a> (1693-1765) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-2-Da.1.34&view=basic">Accessions book </a> (1693-1789) Records of the University of Edinburgh</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ADS-LIB-2-Da.1.36&view=basic">Matriculation &amp; Laureation accounts </a> (1694-1746) Records of the University of Edinburgh</li>
+</ul>
+<a href="21.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

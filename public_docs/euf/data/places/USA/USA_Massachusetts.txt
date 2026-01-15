@@ -1,0 +1,16 @@
+<!-- @version $Id: USA_Massachusetts.txt,v 1.2 2005/03/30 23:44:41 yalnifj Exp $ -->
+<!-- @see http://countyhunter.com/counties.htm -->
+Barnstable
+Dukes
+Hampden
+Nantucket
+Suffolk
+Berkshire
+Essex
+Hampshire
+Norfolk
+Worcester
+Bristol
+Franklin
+Middlesex
+Plymouth

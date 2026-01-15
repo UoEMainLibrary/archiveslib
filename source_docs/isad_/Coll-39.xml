@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-39">GB 237
+		Coll-39</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>The Allinson Papers </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-39">
+    <did>
+      <unittitle>The Allinson Papers </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-39</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MSS 3186-3197 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">The Allinson Papers </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1881-1984">1881-1984 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>1 box; 8
+		  scrapbook albums; 3 folders. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Thomas Richard Allinson held particular views on how best to restore
+		  the sick back to health again. He advocated hydrotherapy, abstention from
+		  tobacco and alcohol, fresh air, no drugs or vaccination, and a healthy
+		  vegetarian and wholemeal diet. Allinson was born 29 March 1858 in Hulme,
+		  Manchester. He went to school in Lancaster and Manchester. In 1874 he was a
+		  medical student in Edinburgh, at the Royal College of Surgeons. While in
+		  Edinburgh, he is said to have won a medal in practical chemistry, and a special
+		  prize in public health, and to have taken a double qualification as a
+		  Licentiate of the Royal College of Surgeons and Physicians, LRCSP. After
+		  studying in Edinburgh he assisted in a general practice in Hull, followed by a
+		  visit to Paris. Around this time he became interested in hydrotherapy - the use
+		  of water in the treatment of illnesses. He was next to be found assisting in a
+		  general practice in Shoreditch where he acted as police surgeon and parish
+		  doctor. While in Shoreditch, Allinson developed an opposition to stimulants
+		  such as alcohol and tobacco, advocating abstention from alcohol consumption.
+		  Vegetarianism became an interest of his too, and he joined the Food Reform
+		  Society. In 1887, he wrote an article strongly opposed to drugs which he said
+		  were poisons, and to vaccination which he said was dangerous. Instead, he
+		  advocated a healthy diet and exercise. He was of course attacked by other
+		  doctors and, after lengthy public and professional debate over his arguments,
+		  Edinburgh's Royal College of Surgeons struck him off the roll. Undaunted, he
+		  continued to use the letters Ex-LRCP.Ed after his name. In 1890, Allinson
+		  opened the Hygienic Hospital in Willesden where patients were treated according
+		  to his principles of hygienic medicine. He wrote widely on the advantages of
+		  wholemeal bread and wholemeal and vegetarian cookery, and in 1892 he purchased
+		  a stone grinding flour mill in London's Bethnal Green. This was established as
+		  the Natural Food Company Ltd., 305 Cambridge Road, London. Allinson died in
+		  1918 but after his death the demand for wholemeal bread continued to rise and
+		  two more mills were acquired in Newport, Monmouthshire, and Castleford,
+		  Yorkshire. Today, Allinson traditional flour is part of the product range of
+		  Allied Mills Ltd. The material known as the Allinson Papers was presented to in
+		  June 1987 by Booker Health Foods, one of the trade names of which, at that
+		  time, was Allinson. In the 1980s, the parent company of Booker Health Foods
+		  Ltd. was Booker McConnell plc, later Booker plc. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The collection of Allinson Papers consists of a mixed box of small
+		  printed items and pamphlets, posters, photographs, and bundles of newspaper and
+		  magazine cuttings; a number of scrapbook albums containing mainly newspaper
+		  cuttings relating to Allinson, and dating variously from 1881 to 1918; and,
+		  folders containing scrapbooks of newspaper cuttings, handbills, and lecture
+		  posters from the 1880s to 1918. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H39 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

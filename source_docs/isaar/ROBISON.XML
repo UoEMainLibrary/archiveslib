@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0254 20020123 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0254</titleproper> 
+		  <subtitle>Robison | John | 1739-1805 | professor of natural philosophy,
+			 University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 23 January 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020123">23 January 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0254</titleproper> 
+		<subtitle>Robison | John | 1739-1805 | professor of natural philosophy,
+		  University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+		  University Library Special Collections Division, 23 January 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020123">23 January 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0254"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0254</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0254" normal="Robison, John">Robison | John |
+		  1739-1805 | professor of natural philosophy, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>John Robison studied at the University of Glasgow where he graduated
+			 Master of Arts in 
+			 <date normal="1756" type="single">1756</date>. Following a trip to
+			 London in 
+			 <date normal="1758" type="single">1758</date> Robison went to London,
+			 and a year later he became the tutor to the son of Admiral Knowles who he
+			 accompanied to Quebec. In Canada Robison was employed to make surveys of the St
+			 Lawrence and neighbouring country. Upon his return to England in 
+			 <date normal="1762" type="single">1762</date> Robison was appointed
+			 by the board of longitude to travel to Jamaica on a trial voyage to take charge
+			 of the chronometer completed by the horologist John Harrison (<date
+			 normal="1693/1776" type="life-span">1693-1776</date>).</p> 
+		  <p>Once back in this country Robison proceeded to Glasgow where he met
+			 up with the engineer James Watt, who at that stage was mathematical instrument
+			 maker to the university. In 
+			 <date normal="1766" type="single">1766</date> Robison was appointed
+			 lecturer of chemistry at the University of Glasgow, following the
+			 recommendation of Joseph Black. In 
+			 <date normal="1770" type="single">1770</date> upon the appointment of
+			 Admiral Knowles as president of the Russian board of admiralty Robison
+			 accompanied him to St Petersburg as private secretary. Two years later he was
+			 offered the chair of mathematics attached to the imperial sea cadet corps of
+			 nobles at St Petersburg, with the rank of colonel.</p> 
+		  <p>Bolstered in no smalI amount by the support of William Cullen and
+			 Joseph Black, Robison became professor of natural philosophy at the University
+			 of Edinburgh in 
+			 <date normal="1773" type="single">1773</date>. He lectured on the
+			 following subjects: hydrodynamics, astronomy and optics as well as electricity
+			 and magnetism. In 
+			 <date normal="1783" type="appointmentdate">1783</date> Robison was
+			 elected the general secretary of the Royal Society of Edinburgh, a position
+			 that he occupied until within a few years of his death. In 
+			 <date normal="1799" type="publication">1799</date> he published the
+			 lectures of Joseph Black. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>no information available</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Outlines of a Course of Lectures on Mechanical
+			 Philosophy</title>, (<imprint><date type="publication" normal="1797"
+			 certainty="certain">1797</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Elements of Mechanical Philosophy</title>, ( 
+			 <imprint><date type="publication" normal="1804"
+			 certainty="certain">1804</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>A System of Mechanical Philosophy with Notes by David
+			 Brewster</title>, (<imprint><date type="publication" normal="1822"
+			 certainty="certain">1822</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1783">1783</date>: Appointed
+			 First General Secretary, Royal Society of Edinburgh</p> 
+		  <p><date type="single" normal="1898">1898</date>: Awarded Honorary
+			 Doctor of Laws (LLD)</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref> <title render="italic">Dictionary of National Biography,
+			 Vol. XVIII</title>, (<imprint><publisher>University of
+				Edinburgh</publisher>,</imprint><imprint>
+			 <geogname normal="London (England)" authfilenumber="530"
+			  source="lcsh">London</geogname><date type="publication"
+			 normal="1909" certainty="certain">1909</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname> (ed), <title
+			 render="italic">Dictionary of Scientific Biography</title>, (<imprint>
+			 <geogname normal="United States" authfilenumber="511" source="lcsh">United
+			 States of America</geogname><date type="publication" normal="1972"
+			 certainty="certain">1972</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Birse, Ronald M" role="author"> Birse,
+			 Ronald M</persname>, <title render="italic">Science at the University of
+			 Edinburgh 1583-1993</title>, (<imprint>
+			 <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+			  source="lcsh">Edinburgh</geogname>, 
+			 <publisher>University of Edinburgh</publisher>, 
+			 <date type="publication" normal="1994"
+			  certainty="certain">1994</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Grant, Sir,  Alexander"
+			  role="author">Grant, Alexander</persname>, <title render="italic">The Story of
+			 the University of Edinburgh During its First 300 Years, vol.2</title>, ( 
+			 <imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <publisher>Longmans, Green &amp; Co</publisher>, 
+			 <date type="publication" normal="1884"
+			  certainty="certain">1884</date>)</imprint></bibref></p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Talbot Rice, C" role="author">Talbot Rice,
+			 C</persname>, <title render="italic">University Portraits</title>, (<imprint>
+			 <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+			  source="lcsh">Edinburgh</geogname>, 
+			 <publisher>Edinburgh University Press</publisher>, 
+			 <date type="publication" normal="1957"
+			  certainty="certain">1957</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020123">23 January
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

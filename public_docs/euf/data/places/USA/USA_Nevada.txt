@@ -1,0 +1,19 @@
+<!-- @version $Id: USA_Nevada.txt,v 1.2 2005/03/30 23:44:41 yalnifj Exp $ -->
+<!-- @see http://countyhunter.com/counties.htm -->
+Carson
+Churchill
+Clark
+Douglas
+Elko
+Esmeralda
+Eureka
+Humboldt
+Lander
+Lincoln
+Lyon
+Mineral
+Nye
+Pershing
+Storey
+Washoe
+White Pine

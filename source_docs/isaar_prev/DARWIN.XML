@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0335" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0335 20020207 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0335</titleproper> 
+		  <subtitle>Darwin | Charles Robert | 1809-1882 | naturalist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+			 University Library Special Collections Division, 07 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020207">07 February 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0335</titleproper> 
+		<subtitle>Darwin | Charles Robert | 1809-1882 | naturalist</subtitle> 
+		<author>Compiled for the NAHSTE project by Duncan Fisher, Edinburgh
+		  University Library Special Collections Division, 07 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020207">07 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0335"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0335</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0335" normal="Darwin, Charles Robert">Darwin |
+		  Charles Robert | 1809-1882 | naturalist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Charles Robert Darwin was born on 
+			 <date type="birth" normal="18090209">9 February, 1809</date> in
+			 Shrewsbury, Shropshire. He abandoned medical studies in 
+			 <date type="single" normal="1827">1827</date> after two years in
+			 Edinburgh, but not before friends interested him in geology, in marine
+			 wildlife, and in Lamarckian evolutionary zoology. He trained half-heartedly for
+			 Anglican ordination in Christ's College, Cambridge, taking a poor degree in 
+			 <date type="single" normal="1831">1831</date>, but other friends had
+			 by then helped him set his professional sights on geology and natural history,
+			 one of them even arranging a volunteer naturalist's berth for him on the
+			 Admiralty survey vessel HMS Beagle. Darwin's five years aboard that ship,
+			 exploring the Pacific coast of South America, shaped his critical sense that
+			 species were a natural record of change, not stasis. He developed the twin
+			 notions of geological and biological mutability for which he is famous over the
+			 rest of his life. He wrote prolifically from his study in a quiet London
+			 suburb, being debarred from a conventional academic life by chronic ill health,
+			 possibly due to an infection contracted on his voyage. He died on 
+			 <date type="death" normal="18820419">19 April, 1882</date>, and lies
+			 buried (by special dispensation from the Church of England) in Westminster
+			 Abbey. </p> 
+		  <p>Inspired by recent work by Charles Lyell, Darwin laid siege to
+			 prevailing opinion that the geology of the earth was the result of successive
+			 catastrophes, the latest of which was the flood of Noah. He demonstrated in a
+			 trilogy of books on the subject how various natural forces also operated to
+			 transform the face of the planet over great amounts of time. Observing also
+			 variegation and extinction among species, and impressed by Thomas Robert
+			 Malthus' thoughts on the pressure of finite food supply, he suggested a
+			 mechanism for how evolutionary principles might work on populations of living
+			 things too. The dynamics of adapted variants and ecological niches, he tried to
+			 show the new community of paleontologists, could even extend to prehistory.
+			 Mature expression of Darwinian evolution in the animal kingdom came in the 
+			 <date type="single" normal="1859">1859</date> <bibref><title>On the
+			 Origin of Species</title></bibref> and the 
+			 <date type="single" normal="1871">1871</date> <bibref><title>The
+			 Descent of Man</title></bibref>. Adaptation among plants occupied him late in
+			 his career. He produced remarkable studies in the minutiae of things as diverse
+			 as phototropism, growth hormones, insect-eating sundews, and the ecological
+			 necessity of worms. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Darwin was exposed to geology in Edinburgh by Robert Jameson (<date
+			 type="life-span" normal="1774/1854">1774-1854</date> ), geologist and professor
+			 of natural history, and at Cambridge by Adam Sedgwick (<date type="life-span"
+			 normal="1854/1913">1854-1913</date>), zoologist. He learned of the early
+			 evolutionary teachings of Jean-Baptiste Lamarck (<date type="life-span"
+			 normal="1744/1829">1744-1829</date>) through his friendship with Robert Edmond
+			 Grant (<date type="life-span" normal="1793-1874">1793-1874</date>), Edinburgh
+			 zoologist, and grew as a naturalist at Cambridge under the mentorship of
+			 botanist and mineralogist John Stevens Henslow (<date type="life-span"
+			 normal="1796/1861">1796-1861</date>), who subsequently arranged his place on
+			 the Beagle. Good friends were Charles Lyell (<date type="life-span"
+			 normal="1797/1875">1797-1875</date>), geologist, Alfred Russel Wallace (<date
+			 type="life-span" normal="1823/1913">1823-1913</date>), naturalist, and Sir
+			 Joseph Dalton Hooker (<date type="life-span"
+			 normal="1817/1911">1817-1911</date>), director of the Royal Gardens, Kew,
+			 though not all of them friends of evolution as such, who helped get Darwin's
+			 papers read before the <corpname normal="Linnean Society of London">Linnean
+			 Society of London</corpname>, the influential venue for natural historians.
+			 </p> 
+		  <p>His grandfather was Erasmus Darwin (<date type="life-span"
+			 normal="1731/1802">1731-1802</date>), a physician, naturalist, poet, and
+			 philosopher. His father was Robert Waring Darwin (<date
+			 type="life-span" normal="1766/1848">1766-1848</date>), physician. His mother
+			 was born Susannah Wedgwood (<date type="life-span"
+			 normal="1765/1817">1765-1817</date>), daughter of the potter Josiah Wedgwood I
+			 (<date type="life-span" normal="1730/1795">1730-1795</date>). His cousin, by
+			 second marriage of his Grandfather Erasmus, was Francis Galton (<date
+			 type="normal" normal="1822/1911">1822-1911</date>), creator of the science of
+			 eugenics. Four of his children were scientists in their own right: Sir George
+			 Howard Darwin (<date type="life-span" normal="1845/1912">1845-1912</date>),
+			 mathematician and astronomer, Sir Francis Darwin (<date
+			 type="life-span" normal="1848/1925">1848-1925</date>), botanist, Leonard Darwin
+			 (<date type="life-span" normal="1850/1943">1850-1943</date>), engineer and
+			 promoter of eugenics, and Sir Horace Darwin (<date type="life-span"
+			 normal="1851/1925">1851-1925</date>), scientific engineer and founder of the
+			 Cambridge Scientific Instrument Co. His grandson was Charles Galton Darwin
+			 (<date type="life-span" normal="1887/1962">1887-1962</date>), mathematician and
+			 physicist. </p> 
+		  <p>He lived with his wife and children at their home in the village of
+			 Downe, fifteen miles from London. </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p><bibref><title>Journal of Researches into the Geology and Natural
+			 History of the Various Countries Visited by H.M.S. Beagle</title>, ( 
+			 <imprint><date type="publication" normal="1839"
+			 certainty="certain">1839</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Structure and Distribution of Coral Reefs
+			 </title>, (<imprint><date type="publication" normal="1842"
+			 certainty="certain">1842</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Geological Observations on the Volcanic Islands
+			 Visited During the Voyage of H.M.S. Beagle </title>, (<imprint><date
+			 type="publication" normal="1844"
+			 certainty="certain">1844</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Geological Observations on South America</title>, ( 
+			 <imprint><date type="publication" normal="1846"
+			 certainty="certain">1846</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Monograph of the Subclass Cirripedia, 2 vols.
+			 </title>, (<imprint><date type="publication" normal="1851"
+			 certainty="certain">1851</date> and 
+			 <date type="publication"
+			 normal="1854">1854</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Monograph of the Fossil Lepadidae, or Pedunculated
+			 Cirripedes of Great Britain </title>, (<imprint><date
+			 type="publication" normal="1851"
+			 certainty="certain">1851</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Monograph of the Fossil Balanidae and Verrucidae
+			 </title>, (<imprint><date type="publication" normal="1854"
+			 certainty="certain">1854</date>)</imprint></bibref></p> 
+		  <p><bibref><title>On the Origin of Species by Means of Natural
+			 Selection, or the Preservation of Favoured Races in the Struggle for Life
+			 </title>, (<imprint><date type="publication" normal="1859"
+			 certainty="certain">1859</date>)</imprint></bibref></p> 
+		  <p><bibref><title>On the Various Contrivances by Which British and
+			 Foreign Orchids are Fertilized by Insects, and on the Good Effects of
+			 Intercrossing </title>, (<imprint><date type="publication" normal="1862"
+			 certainty="certain">1862</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Variation of Animals and Plants Under
+			 Domestication </title>, (<imprint><date type="publication" normal="1868"
+			 certainty="certain">1868</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Descent of Man, and Selection in Relation to Sex
+			 </title>, (<imprint><date type="publication" normal="1871"
+			 certainty="certain">1871</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Expression of the Emotions in Man and Animals
+			 </title>, (<imprint><date type="publication" normal="1872"
+			 certainty="certain">1872</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Insectivorous Plants </title>, (<imprint><date
+			 type="publication" normal="1875"
+			 certainty="certain">1875</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Climbing Plants </title>, (<imprint><date
+			 type="publication" normal="1875"
+			 certainty="certain">1875</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Effects of Cross and Self Fertilization in the
+			 Vegetable Kingdom </title>, (<imprint><date type="publication" normal="1876"
+			 certainty="certain">1876</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Different Forms of Flowers on Plants of the Same
+			 Species </title>, (<imprint><date type="publication" normal="1877"
+			 certainty="certain">1877</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Power of Movement in Plants </title>, ( 
+			 <imprint><date type="publication" normal="1880"
+			 certainty="certain">1880</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Formation of Vegetable Mould, Through the Action
+			 of Worms, With Observations on Their Habits </title>, (<imprint><date
+			 type="publication" normal="1881"
+			 certainty="certain">1881</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>3 foreign doctorates, the Prussian Ordre pour le
+			 m&#x00C3;&#x00A9;rite, and membership in 57 learned societies, notably:</p> 
+		  <p><date type="appointmentdate" normal="1839">1839</date>: Elected
+			 Fellow, Royal Society of London</p> 
+		  <p><date type="appointmentdate" normal="1878">1878</date>: Elected
+			 Member, French Academy of Sciences </p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Gillespie, CC "
+			 role="editor">Gillespie, CC, ed</persname>, <title>Dictionary of Scientific
+			 Biography</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="New York">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970/1990"
+			  certainty="certain">1970-1990</date>)</imprint>, s.v. "Darwin, Charles" by
+			 Gavin de Beer</bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Fisher, Duncan" role="researcher">Duncan Fisher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020207">07 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

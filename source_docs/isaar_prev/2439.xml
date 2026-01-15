@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-Baillie-P2439 20030604 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 Baillie P2439</titleproper> 
+		  <subtitle>Dusen | Henry Pitney | Van | 1897-1975 | ecumenical
+			 leader</subtitle> 
+		  <author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+			 University Library Special Collections Division, 04 June 2003</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20030603">04 June 2003</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>ENG</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 Baillie P2439</titleproper> 
+		<subtitle>Dusen | Henry Pitney | Van | 1897-1975 | ecumenical
+		  leader</subtitle> 
+		<author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+		  University Library Special Collections Division, 04 June 2003</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20030604">04 June 2003</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-Baillie-P2439"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 Baillie P2439</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 Baillie P2439" normal="Dusen, Henry Pitney, Van">Dusen
+		  | Henry Pitney | Van | 1897-1975 | ecumenical leader</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Henry Pitney Van Dusen was educated at The University of Princeton,
+			 New College, Edinburgh, and at Union Theological Seminary, New York. He
+			 returned to Edinburgh as a postgraduate student. His challenge of the literal
+			 interpretation of the virgin birth became an obstacle to ordination but this
+			 was overcome with the support of the likes of John Foster Dulles.</p> 
+		  <p>Teaching initially at various American colleges, he returned to take
+			 up a post at Union Theological Seminary in 1926. An international figure, he
+			 was prominent in founding the World Council of Churches.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Henry Pitney Van Dusen married Elizabeth Coghill Bartholomew,
+			 daughter of Scottish cartographer John George Bartholomew</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>They found the Church there: the armed forces
+			 discover Christian missions in the Pacific</title>, (<imprint><date
+			 type="publication" normal="1945"
+			 certainty="certain">1945</date>)</imprint></bibref></p> 
+		  <p><bibref><title>World Christianity: yesterday, today,
+			 tomorrow</title>, (<imprint><date type="publication" normal="1948"
+			 certainty="certain">1948</date>)</imprint></bibref></p>
+		  <p><bibref><title>One great ground of hope: Christian missions and
+			 Christian unity</title>, (<imprint><date type="publication" normal="1961"
+			 certainty="certain">1961</date>)</imprint></bibref></p>
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1919" certainty="certain">1919</date>:
+			 graduated, University of Princeton</p> 
+		  <p><date type="single" normal="1924" certainty="certain">1924</date>:
+			 B.D., Union Theological Seminary, New York</p> 
+		  <p><date type="single" normal="1932" certainty="certain">1932</date>:
+			 Ph.D., University of Edinburgh</p> 
+		  <p><date type="single" normal="1936" certainty="certain">1936</date>:
+			 appointed Roosevelt Professor of Systematic Theology, Union Theological
+			 Seminary, New York</p> 
+		  <p><date type="single" normal="1945" certainty="certain">1945</date>:
+			 appointed President, Union Theological Seminary, New York</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref> <title>Van Dusen, Henry Pitney</title>, (<extref
+			 href="http://etc.princeton.edu/CampusWWW/Companion/van_dusen_henry.html">http://etc.princeton.edu/CampusWWW/Companion/van_dusen_henry.html</extref>,
+			 accessed <imprint><date type="single" normal="20030603">03 June
+				2003</date></imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref><corpname
+			 normal="National Council on Archives">National Council on Archives</corpname>
+			 <title>Rules for the Construction of Personal, Place and Corporate Names (NCA
+			 Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persona and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Buttars, Grant">Grant Buttars</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020604">06 June
+				2003</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,13 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Immortality</title>
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<h2>Authority term: Immortality</h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-3-6&view=basic">Apologetic Homily: The Problem of Immortality</a> (1909)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=GB-237-BAI-1-4-1-4&view=basic">The Meaning of Christian Faith: Immortality</a> (1930-1940)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4557</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-12-07">14 December 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>8 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 525/00 001/00 005</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 525/00 002/00 030</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 525/01 002/01 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 525/01 002/01 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Lismore</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 525/01 002/01 007</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1883 525/01 0009</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4557</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacGregor</part>
+                <part localType="given">Janet</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Pauper, former domestic servant, Baligarve, Lismore, Argyllshire</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1808" notBefore="1803" notAfter="1813"
+                        >c1808</fromDate><toDate standardDate="1883-06-26">26 June
+                    1883</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Janet MacGregor was born to John MacGregor, quarrier, and Effie MacGregor née
+                    MacIntyre. For much of the period covered by census records she lived alone as a
+                    pauper in Baligarve, Lismore. She died there in 1889, her death reported by a
+                    distant relative who lived nearby.</p>
+                <chronList>
+                    <chronItem><date standardDate="1808" notBefore="1803" notAfter="1813"
+                            >c1808</date><placeEntry>Lismore,
+                            Argyllshire</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1883-06-26">26 June
+                            1883</date><placeEntry>Baligarve, Lismore,
+                            Argyllshire</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

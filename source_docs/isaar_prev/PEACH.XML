@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0258 20020430 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0258</titleproper> 
+		  <subtitle>Peach | Benjamin Neeve | 1842-1926 | geologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 30 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020430">30 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0258</titleproper> 
+		<subtitle>Peach | Benjamin Neeve | 1842-1926 | geologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 30 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020430">30 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0258"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0258</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0258" normal="Peach, Benjamin Neeve">Peach |
+		  Benjamin Neeve | 1842-1926 | geologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Benjamin Neeve Peach (<date type="life-span"
+			 normal="1842/1926">1842-1926</date>) was probably introduced to science by his
+			 father, a keen naturalist and lover of natural history. When Peach was a child,
+			 his father discovered fossils of American facies in the durness limestones in
+			 Sutherland. To show his gratitude for this discovery, Roderick Impey Murchison
+			 (<date normal="1792/1871" type="life-span">1792-1871</date>), at the time
+			 Director-General of the Geological Survey, offered to complete Benjamin's
+			 education at the Royal School of Mines. Again on Murchison's recommendation, on
+			 the completion of his studies, he was taken on to the staff of the survey.</p> 
+		  <p>Peach's first job on the field was in mapping the glacial features
+			 of the landscape of Lothian. During his work, he noticed the amount of Highland
+			 rock that could be found in the Lammermuir hills. He also believed, correctly,
+			 that glaciation was the only explanation for the existence of boulder-clay.
+			 </p> 
+		  <p>Peach's judgement is said to have been excellent, and Archibald
+			 Geikie, with whom he worked, held it in much respect. He could quickly and
+			 accurately draw conclusions on the geological structure of a region. </p> 
+		  <p>As chief of the survey of the North-West Highlands, Peach was able
+			 to end the controversy between Murchison and James Nicol (<date
+			 normal="1810/1879" type="inclusive">1810-1879</date>) about the geology of
+			 Northern Scotland - in Nicol's favour.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Associated with James Geikie during work on glacial deposits in the
+			 Lothians. Benjamin Neeve Peach frequently worked with Archibald Geikie when the
+			 latter was investigating geological problems in the field.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>The Silurian Rocks of Britain</title> (<imprint><date
+			 type="publication" normal="1899">1899</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Geological Structure of the North-West Highlands
+			 of Scotland</title> (<imprint><date type="single"
+			 normal="1907">1907</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Higher Crustacea of the Carboniferous Rocks of
+			 Scotland (in Memoirs of the Geological Society)</title></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1879">1879</date>: Appointed
+			 Acting Palaeontologist in Scotland</p> 
+		  <p><date type="appointmentdate" normal="1883">1883</date>: Appointed
+			 District Geologist for the North-West Highlands</p> 
+		  <p><date type="single" normal="1892">1892</date>: Awarded Murchison
+			 Centenary Prize</p> 
+		  <p><date type="appointmentdate" normal="1892">1892</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p>Awarded Neill Medal of the Royal Society of Edinburgh</p> 
+		  <p>Awarded Honorary Doctor of Laws Degree (LLD)</p> 
+		  <p>Awarded Murchison Medal</p> 
+		  <p>Awarded Wollaston Medal</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref> <corpname normal="Royal Society" role="editor">Royal
+			 Society</corpname>, <title render="italic">Proceedings of the Royal Society of
+			 London, Series B, vol. 100</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Harrison &amp; Sons</publisher>, 
+			 <date type="publication" normal="1926"
+			 certainty="certain">1926</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Who Was Who, 1916-1928</title>, ( 
+			 <imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Adam &amp; Charles Black</publisher>, 
+			 <date type="publication" normal="1962"
+			 certainty="certain">1962</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020430">30 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

@@ -1,0 +1,21 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Article</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/a/">a</a><h1>Article</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=6071&term=Article" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="141">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-33-13&view=basic">Letter to James Cossar Ewart from Roman Prawochenski </a> (1927) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1057-3-5&view=basic">Assortment of items originally contained loosely in a bound volume </a> (1927-1957) Papers of Alan W. Greenwood</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-34-6&view=basic">Letter to James Cossar Ewart from James Ritchie </a> (1928) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-36-4&view=basic">Letter to James Cossar Ewart from Aldred F. Barker </a> (1930) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-38-4&view=basic">Letter to James Cossar Ewart from John Hammond </a> (1933) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-38-5&view=basic">Letter to James Cossar Ewart from Hubert R. Catchpole </a> (1933) Papers of James Cossar Ewart</li>
+</ul>
+<a href="121.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

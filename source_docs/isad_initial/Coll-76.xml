@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-76"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237 Coll-76
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Professor John Everett Butt (1906-1965) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237 Coll-76
+		  </unitid> 
+		<physloc>Gen. 864-865 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Professor John Everett Butt
+		  (1906-1965) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1929-1965">1929-1965 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>2 boxes.
+		  </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>John Everett Butt was born in Hoole, Cheshire, in 1906. He was
+		  educated at Shrewsbury School, and Merton College, Oxford. He became a Lecturer
+		  in English at Leeds University in 1929, and in 1930 he was Assistant Librarian
+		  at the English School Library, Oxford. From 1930 to 1946 he was a Lecturer in
+		  English at Bedford College, University of London, and during the Second World
+		  War he held administrative posts at the Ministry of Home Security and the Home
+		  Office. In 1952, he was a visiting Professor at the University of California,
+		  Los Angeles. Between 1946 and 1959, Butt was Professor of English Language and
+		  Literature at King's College (University of Durham) at Newcastle-upon-Tyne. He
+		  was appointed Regius Professor of Rhetoric and English Literature at the
+		  University of Edinburgh in 1959. His published works include 
+		<title>A bibliography of Izaak Walton's lives </title> (1930), 
+		<title>Pope's taste in Shakespeare </title> (1936), 
+		<title>A translation of Voltaire's Candide </title> (1947), and 
+		<title>The Augustan age </title> (1950). He also edited many works,
+		including, with others, 
+		<title>Of books and humankind: essays and poems presented to Bonamy
+		  Dobree </title> (1965). He had also been Editor of the 
+		<title>Review of English studies </title>. Professor John E. Butt died on
+		22 November 1965. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The Papers of Professor John Everett Butt consist of notes for
+		  lectures on English literature at the Universities of Leeds, London, Newcastle
+		  and Edinburgh. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) 
+		  <title>University of Edinburgh Journal </title>, Vol.19. 1958-1960,
+		  p.149 (Edinburgh: Oliver and Boyd). (2) 
+		  <title>Who was who </title>, Vol.6. 1961-1970 (London: Adam and Charles
+		  Black, 1972). </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Butt</emph> <emph altrender="forename">John</emph>
+		  <emph altrender="dates">1906-1965</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Durham
+		  University</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

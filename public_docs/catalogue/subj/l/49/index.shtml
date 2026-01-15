@@ -1,0 +1,29 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Lochs</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/l/">l</a><h1>Lochs</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=49&term=Lochs" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-203-3-25&view=basic">Letter to Sir Charles Lyell from William Blackadder regarding the geology of Forfarshire </a> (1825) Papers of Sir Charles Lyell</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f&view=basic">Field notebook belonging to Alexander Carmichael </a> (1867-1893) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW150-38&view=basic">Story about a water horse or each-uisge </a> (1869) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-57&view=basic">Description of a view from the top of Beinn Rà </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW116-61&view=basic">Place-name note for Loch ghro'avig </a> (1870) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW111-4&view=basic">Story about the sea at Kirkibost and Baleshear </a> (1873) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW111-73&view=basic">Story entitled 'Loch Utramal' </a> (1874) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-84&view=basic">Placename note for Loch-ceo-glais </a> (1887-1897) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-62&view=basic">Song beginning 'A sniamh mo chuigeil' </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-79&view=basic">Note about Loch Coire an Lochain </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-76&view=basic">Note about the pool Loch-li in Barraigh/Isle of Barra </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-11&view=basic">Note about how Loch Etive changed from being a lake during a storm </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-15&view=basic">Story about how Loch Awe was created and accompanying song </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-61&view=basic">Story about the creation of Lochawe from a well and accompanying song beginning 'A sniamh mo chuigeil' </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-25&view=basic">Story about crossing a loch, quoting Iain Bhain, porter </a> (1892) The Carmichael Watson Collection</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

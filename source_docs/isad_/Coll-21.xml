@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-21">GB 237
+		Coll-21</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>The Dashkov Medals </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-21">
+    <did>
+      <unittitle>The Dashkov Medals </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-21</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Medals No. 119 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">The Dashkov Medals </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1777">before
+		  1777 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>136 medals.
+		  </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">Princess Ekaterina
+		  Romanovna Vorontsova Dashkova </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>In 1777 Princess Ekaterina Romanovna Vorontsova Dashkova arrived in
+		  Scotland with her son Paul (Pavel Mikhailovich Dashkov). Her son immediately
+		  began studies at Edinburgh University, and in 1779 the Princess, still resident
+		  in Edinburgh, gave a collection of Russian commemorative medals to mark the
+		  occasion of the graduation of Paul as a Master of Arts. The medals, over 150 in
+		  number and all made of copper, were entrusted first to Professor John Robison,
+		  Professor of Natural Philosophy in the University and a Fellow of the Royal
+		  Society of Edinburgh, who was instructed to make a catalogue of them. In the
+		  early 1770s, Robison had very briefly held the Chair of Mathematics in the
+		  Imperial Naval Cadet Corps at Kronstadt, where he had been given the rank of
+		  Colonel. The medals were only handed back to the University after Robison's
+		  death in 1805. If a catalogue was ever made by Robison it did not survive, and
+		  a proper catalogue of the collection still has to be compiled. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>Some of the medals show rulers of Russia, military figures, statesmen,
+		  events of the reign of Peter the Great. Others mark events such as coronations,
+		  accessions, marriages and deaths of Russian rulers. Imperial institutions are
+		  commemorated, as are cities and buildings of the Russian empire. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H21 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

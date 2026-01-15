@@ -1,0 +1,35 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Theology</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/t/">t</a><h1>Theology</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=1269&term=Theology" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW399&view=basic">Notebook </a> (1860-1940) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-5-3&view=basic">Notes </a> (1875-1891) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-5-5&view=basic">Printed texts </a> (1875-1891) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-5&view=basic">Papers relating to John Baillie, Free Church minister, Gairloch </a> (1875-1894) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1&view=basic">Papers of John Baillie </a> (1900-1964) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-3-20&view=basic">Theology and Religious Experience </a> (1904-1912) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-3-19&view=basic">Untitled essay on theology </a> (1904-1912) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-11-11&view=basic">For Prof McIntyre </a> (1904-1960) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-2&view=basic">Student notes </a> (1906-1925) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-4-2&view=basic">University lectures </a> (1907-1960) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-4-3&view=basic">General addresses </a> (1907-1960) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-4-1-11&view=basic">The Permanent Significance of the Person of Jesus Christ </a> (1907-1960) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-4-1&view=basic">Mixed lectures and addresses </a> (1907-1960) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-7&view=basic">Papers relating to Donald Macpherson Baillie </a> (1908-1961) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-2-19&view=basic">Notes on Barker and Garvie </a> (1911) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-2-25&view=basic">Assorted notes </a> (1911-1925) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-3-1&view=basic">The Theology of Thomas Aquinas, being an Introductory Essay to the two Summae </a> (1912) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-1-17&view=basic">Theological notes &amp; quotations </a> (1915-1925) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-1-8&view=basic">History of Theology </a> (1915-1925) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-1-6&view=basic">Commonplace Notes </a> (1920-1930) Papers of Professor John Baillie, and Baillie Family Papers</li>
+</ul>
+<a href="21.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

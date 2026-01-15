@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-Baillie-P2368 20030523 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 Baillie P2368</titleproper> 
+		  <subtitle>Baillie | John | 1829-1891 | Free Church minister</subtitle> 
+		  <author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+			 University Library Special Collections Division, 23 May 2003</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20030523">23 May 2003</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>ENG</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 Baillie P2368</titleproper> 
+		<subtitle>Baillie | John | 1829-1891 | Free Church minister</subtitle> 
+		<author>Compiled for the Baillie project by Grant Buttars, Edinburgh
+		  University Library Special Collections Division, 23 May 2003</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20030523">23 May 2003</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-Baillie-P2368"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 Baillie P2368</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 Baillie P2368" normal="Baillie, John">Baillie | John |
+		  1829-1891 | Free Church minister</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>John Baillie was born at Beauly, Inverness-shire in 1829, the son of
+			 Peter Baillie and Christina Fraser. After studying at both the University of
+			 Edinburgh and Free Church College, Edinburgh, he was ordained at Moy,
+			 Inverness-shire, in 1862. In 1875 he moved to Gairloch and 10 years later
+			 married widow Annie Mackenzie, (nee Macpherson). He died at Liverpool in
+			 1891.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>John Baillie had 3 sons. John Baillie (1886-1960) was the
+			 internationally reknowned theologian. Donald Macpherson held the Chair of
+			 Systematic Theology at the University of St. Andrews. Peter Baillie (1889-1914)
+			 was a missionary doctor.</p> 
+		  <p>His nephew was Sir Duncan Colvin Baillie (1856-1919), colonial
+			 administrator.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Christ the only Lord of the conscience or, The Church
+			 of Scotland, why disestablished?</title>, (<imprint><date type="publication"
+			 normal="1852" certainty="certain">1852</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Rivers in the desert, or, Mission-scenes in
+			 Burmah</title>, (<imprint><date type="publication" normal="1858"
+			 certainty="certain">1858</date>)</imprint></bibref></p> 
+		  <p><bibref><title>St. Augustine: a biographical memoir</title>, ( 
+			 <imprint><date type="publication" normal="1859"
+			 certainty="certain">1859</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Revival: a record of facts personally witnessed,
+			 chiefly in London and its vicinity</title>, (<imprint><date type="publication"
+			 normal="1860" certainty="certain">1860</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Revival: or, What I saw in Ireland : with thoughts
+			 suggested by the same. The result of two personal visits</title>, ( 
+			 <imprint><date type="publication" normal="1860"
+			 certainty="certain">1860</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="inclusive" normal="1862">1862</date>: Ordained, Moy
+			 Inverness-shire</p> 
+		  <p><date type="inclusive" normal="1875/1891">1875-1891</date>: Minister
+			 of the Free Church, Gairloch</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref> <persname normal="author">Ewing, William</persname>, Ed.,
+			 <title>Annals of the Free Church of Scotland, 1843-1900</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="REPLACE"
+			 normal="REPLACE">Edinburgh</geogname>, 
+			 <date type="publication" normal="1914"
+			  certainty="certain">1914</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref><corpname
+			 normal="National Council on Archives">National Council on Archives</corpname>
+			 <title>Rules for the Construction of Personal, Place and Corporate Names (NCA
+			 Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persona and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Buttars, Grant">Grant Buttars</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20030523">23 May
+				2003</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

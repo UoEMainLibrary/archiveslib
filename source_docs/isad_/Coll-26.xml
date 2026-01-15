@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-26">GB 237
+		Coll-26</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers of
+			 Professor David Bayne Horn (1901-1969) </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-26">
+    <did>
+      <unittitle>Papers of
+			 Professor David Bayne Horn (1901-1969) </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-26</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 1824 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers of Professor David Bayne Horn
+		  (1901-1969) </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1969">before
+		  1969 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>15 boxes, 7
+		  notebooks (2 linear metres). </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>David Bayne Horn was born on 9 July 1901. He was educated at Edinburgh
+		  Institution, later called Melville College (now Stewart's Daniel &amp;amp;
+		  Melville College). He then studied at Edinburgh University, gaining a first
+		  class honours degree in history, MA, 1922. In 1923, Horn joined the staff of
+		  the History Department of the University as an Assistant in History. In 1927 he
+		  became a Lecturer in History, and in 1929 was awarded the degree of D.Litt. at
+		  the University for his thesis on 
+		Sir Charles Hanbury Williams and European diplomacy . Horn
+		then went on to become Professor of Modern History in 1954. A writer as well as
+		a lecturer, his main interest lay in the field of 18th century diplomatic
+		history and 18th century British foreign policy in particular. His publication
+		record includes 
+		A history of Europe, 1871-1920  (1927), 
+		British diplomatic representatives, 1689-1789  (1932), 
+		Scottish diplomatists, 1689-1789  (1944), 
+		British public opinion and the first partition of Poland 
+		(1945), 
+		British diplomatic service, 1689-1789 (1961), Frederick the Great
+		  and the rise of Prussia  (1964), 
+		Great Britain and Europe in the eighteenth century 
+		(1967). At the time of his death on 7 August 1969, Horn was engaged in writing
+		a full-length history of the University, having been given two years' leave of
+		absence for the project. In 1967 he had written a shorter history of the
+		University. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Papers of Professor Horn are a boxed, unnumbered, uncatalogued
+		  collection of papers, drafts, notes, and miscellaneous items. The most
+		  significant material relates to the proposed 'long history' of the University.
+		  Also included are background materials (drafts, notes, bibliographies,
+		  offprints, etc.) relating to Horn's publications on 18th century British
+		  diplomatic history: 
+		The British diplomatic service, 1689-1789  (1961); 
+		Great Britain and Europe in the eighteenth century 
+		(1967). There are also packets containing handwritten notes, maps, technical
+		data, clippings, photos and offprints relating to Scottish mountains and
+		climbing; various lecture notes, correspondence, bronze award medals, and loose
+		papers. </p>
+    </scopecontent>
+    <descgrp>
+      <acqinfo encodinganalog="isadg(2)324">
+        <head>Immediate source of acquisition</head>
+        <p>The collection was deposited at by Horn's daughter, Hazel Horn. An
+		  initial deposit was made in October 1969 shortly after her father's death, and
+		  then in 1977 a further large instalment of notes and papers was deposited. </p>
+      </acqinfo>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H26; Another important finding aid is the alphabetical Index
+		  to Manuscripts held at Edinburgh University Library, Special Collections and
+		  Archives. Additions to the typed slips in sheaf binders were made until 1987.
+		  </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="isadg(2)353">
+        <head>Related Units of Description</head>
+        <p>The Index to Manuscripts shows correspondence with Sir Richard Lodge
+		  at Gen. 766/1. </p>
+      </relatedmaterial>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

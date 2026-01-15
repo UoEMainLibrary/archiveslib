@@ -1,0 +1,26 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Genetics</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/g/">g</a><h1>Genetics</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=789&term=Genetics" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-2&view=basic">Manuscripts, typescripts and related correspondence </a> (1923-1975) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41&view=basic">Papers of Conrad Hal Waddington </a> (1923-1976) </li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-7&view=basic">Material relating to conferences, meetings and visits </a> (1936-1975) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-4&view=basic">Figures and plates for publications </a> (1940-1968) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-9&view=basic">Personal and departmental papers </a> (1941-1975) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-10&view=basic">Subject files in A-Z order </a> (1942-1975) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-8&view=basic">Material relating to the University of Edinburgh </a> (1946-1975) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-6&view=basic">Material relating to societies and organisations </a> (1946-1976) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-41-3&view=basic">Material relating to Waddington's lectures </a> (1955-1974) Papers of Conrad Hal Waddington</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-383&view=basic">Ecological genetics. By Prof. E. B. Ford. Pp. xv+335+16 plates. (London: Methuen and Co. Ltd.; New York: John Wiley and Sons, Inc., 1964.) 42s net. [Book review] </a> (1965) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-234&view=basic">Comparisons of the behaviour of IgG and IgM anti-Forssman antibodies in agglutination haemolysis and cytolysis </a> (1966) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-3-42&view=basic">Handwritten notes titled 'Genetics and Reproduction' </a> (1974) Papers of Dr. Alan Beatty</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

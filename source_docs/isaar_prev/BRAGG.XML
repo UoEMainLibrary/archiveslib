@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1266 20020211//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1266</titleproper> 
+		  <subtitle>Bragg | Sir | William Lawrence | 1890-1971 |
+			 physicist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 11 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020211">11 February 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1266</titleproper> 
+		<subtitle>Bragg | Sir | William Lawrence | 1890-1971 |
+		  physicist</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+		  University Library Special Collections Division, 11 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020211">11 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1266"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1266</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1266"
+		 normal="Bragg, Sir,  William Lawrence">Bragg | Sir | William Lawrence |
+		  1890-1971 | physicist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>William Lawrence Bragg was educated at first in Australia at the
+			 University of Adelaide, where he took his degree in mathematics with first
+			 class honours. He then moved to England where he entered Trinity College,
+			 Cambridge as an Allen Scholar, taking first-class honours in the Natural
+			 Science Tripos in 
+			 <date normal="1912" type="single">1912</date>. In the autumn of that
+			 year Bragg began his examination of the von Laue phenomenon and published his
+			 first paper on the subject. In 
+			 <date normal="1914" type="appointmentdate">1914</date> he was
+			 appointed as fellow and lecturer in Natural Sciences at Trinity College. Later
+			 that year he and his father were awarded the Barnard Gold Medal of the U.S.
+			 Academy of Sciences, the first of many such honours. From 
+			 <date normal="1912/1914" type="inclusive">1912-1914</date> he had
+			 been working with his father, Sir William Henry Bragg (<date normal="1862/1942"
+			 type="inclusive">1862-1942</date>) in the study of X-ray diffraction, the
+			 results of which were published in an abridged version in <bibref><title>X-rays
+			 and Crystal Structure</title></bibref> (<date normal="1915"
+			 type="single">1915</date>). As a consequence of the Braggs' research, the
+			 structures of many kinds of crystals were discovered with the aid of the X-ray
+			 spectrometer. It was for this work that the Braggs were jointly awarded the
+			 Nobel prize for physics in 
+			 <date normal="1915" type="single">1915</date>. </p> 
+		  <p>From 
+			 <date normal="1915/1919" type="inclusive">1915-1919</date>, during
+			 World War I, Bragg served as technical adviser on sound ranging in the map
+			 section of British army headquarters in France, calculating the distance of
+			 enemy artillerey from the sound of their guns. After the war Bragg succeeded
+			 Ernest Rutherford (<date normal="1871/1937" type="inclusive">1871-1937</date>)
+			 as Langworthy professor of physics at Victoria University of Manchester, and it
+			 was here that he built his first school of research for the study of metals,
+			 alloys and silicates. From 
+			 <date normal="1937/1938" type="inclusive">1937-1938</date> Bragg was
+			 director of the National Physical Laboratory, but he did not enjoy committee
+			 work and so was very grateful when he was again able to succeed Rutherford and
+			 become the Cavendish Professor of Experimental Physics at the University of
+			 Cambridge. Here he was able to found a second research school to study alloys,
+			 metals, proteins and silicates. In 
+			 <date normal="1954" type="appointmentdate">1954</date> he became
+			 director of the Royal Institution as his father had been before him in 
+			 <date normal="1940" type="appointmentdate">1940</date>, introducing
+			 many innovative science courses. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p> None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>X-rays and Crystal Structure</title>, ( 
+			 <imprint><date type="publication" normal="1915"
+			 certainty="certain">1915</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Crystalline State</title>, ( <imprint><date
+			 type="publication" normal="1934"
+			 certainty="certain">1934</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Structure of Silicates</title>, ( <imprint><date
+			 type="publication" normal="1930"
+			 certainty="certain">1930</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Electricity</title>, ( <imprint><date
+			 type="publication" normal="1936"
+			 certainty="certain">1936</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Atomic Structure of Minerals</title>, ( 
+			 <imprint><date type="publication" normal="1937"
+			 certainty="certain">1937</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Crystal Structures of Minerals</title>, ( 
+			 <imprint><date type="publication" normal="1965"
+			 certainty="certain">1965</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p> 
+			 <date normal="1914" type="single">1914</date>: Awarded Barnard
+			 Medal</p> 
+		  <p><date normal="1915" type="single">1915</date>: Awarded Nobel prize
+			 for Physics</p> 
+		  <p><date normal="1921" type="appointmentdate">1921</date>: Elected
+			 Fellow, Royal Society</p> 
+		  <p><date type="single" normal="1931">1931</date>: Awarded Hughes Medal,
+			 Royal Society</p> 
+		  <p><date type="single" normal="1941">1941</date>: Awarded
+			 knighthood</p> 
+		  <p> 
+			 <date type="single" normal="1946">1946</date>: Awarded Royal Medal,
+			 Royal Society</p> 
+		  <p> 
+			 <date type="single" normal="1948">1948</date>: Awarded Roebling
+			 Medal, Mineral Society of America</p> 
+		  <p>Elected Honorary foreign member, American Scientific Academy</p> 
+		  <p>Elected Honorary foreign member, Belgian Scientific Academy</p> 
+		  <p>Elected Honorary foreign member, Chinese Scientific Academy</p> 
+		  <p>Elected Honorary foreign member, Dutch Scientific Academy</p> 
+		  <p>Elected Honorary foreign member, French Scientific Academy</p> 
+		  <p>Elected Honorary foreign member, Swedish Scientific Academy</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Encyclopaedia Britannica, vol. 4</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication"
+			 normal="1964">1964</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Who's Who 1968-1969</title>, ( <imprint><geogname
+			 source="lcsh" authfilenumber="499" normal="Great Britain">Great
+			 Britain</geogname>, 
+			 <publisher>A and C Black Ltd</publisher>, 
+			 <date type="publication"
+			  normal="1968">1968</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">The Concise Dictionary of National
+			 Biography, From Earliest Times to 1985, vol. i </title>, (<imprint>
+			 <geogname authfilenumber="532" normal="Oxford (England)">Oxford</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			  certainty="certain">1992</date>)</imprint></bibref> </p> 
+		  <p> <bibref><title render="italic">The Columbia Encyclopedia, Sixth
+			 Edition: Bragg, Sir William Lawrence</title>, (
+			 <extref
+			  href="http://www.bartleby.com/65/br/BraggWL.html">http://www.bartleby.com/65/br/BraggWL.html</extref>
+			 <imprint>, 
+			 <date type="publication" normal="2001"
+			  certainty="uncertain">2001</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">Britannica.com</title>, (
+			 <extref href="http://www.britannica.com/">http://www.britannica.com/</extref> 
+			 <imprint>, 
+			 <date type="publication" normal="1999/2000"
+			  certainty="uncertain">1999-2000</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">The Nobel Foundation</title>, (
+			 <extref
+			  href="http://www.nobel.se/physics/laureates/1915/wl-bragg-bio.html">http://www.nobel.se/physics/laureates/1915/wl-bragg-bio.html</extref>
+			 <imprint>, 
+			 <date type="publication" normal="2001"
+			  certainty="uncertain">2001</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020211">11 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

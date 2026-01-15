@@ -1,0 +1,147 @@
+@sq-tag-makes-line-non-empty;
+
+/* Use Times New Roman for default font */
+$DOCUMENT {
+  font-family: "Times New Roman";
+  font-size: 12pt;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+$COMMENT {
+  display: block;
+  color: purple;
+  white-space: pre;
+}
+
+$PROCINS {
+  color: black;
+  background-color: #c0c0c0;
+}
+
+abstract, accessrestrict, accruals, acqinfo, add, address, addressline, admininfo, altformavail, appraisal, archdesc, archref, arrangement, author, bibliography, bibref, bibseries, bioghist, blockquote, c, c01, c02, c03, c04, c05, c06, c07, c08, c09, c10, c11, c12, change, chronitem, chronlist, container, controlaccess, corpname, creation, custodhist, dao, daodesc, daogrp, daoloc, date, defitem, did, div, dsc, ead, eadheader, eadid, edition, editionstmt, entry, event, eventgrp, extref, extrefloc, famname, filedesc, fileplan, frontmatter, function, genreform, geogname, head, head01, head02, index, indexentry, item, label, langusage, linkgrp, list, listhead, name, namegrp, note, notestmt, num, occupation, odd, organization, origination, otherfindaid, p, persname, physdesc, physloc, prefercite, processinfo, profiledesc, ptrgrp, publicationstmt, publisher, ref, refloc, relatedmaterial, repository, revisiondesc, row, runner, scopecontent, separatedmaterial, seriesstmt, sponsor, subject, subtitle, table, tbody, tfoot, tgroup, thead, title, titlepage, titleproper, titlestmt, unitdate, unitid, unittitle, userestrict {
+  display: block;
+}
+
+c01 {
+  display: block;
+  margin-left: 10pt;
+}
+
+archdesc>did {
+  display: block;
+  margin-top: 5pt;
+  color: black;
+}
+
+c02 {
+  margin-left: 20pt;
+}
+
+c03 {
+  margin-left: 20pt;
+}
+
+c01>c02>c03>scopecontent {
+  margin-left: 30pt;
+}
+
+c04 {
+  margin-left: 20pt;
+  color: black;
+}
+
+archdesc>>head {
+  margin-left: 10pt;
+}
+
+scopecontent>p {
+  margin-left: 10pt;
+}
+
+archdesc>>p {
+  margin-left: 15pt;
+}
+
+repository {
+  margin-left: 10pt;
+}
+
+archdesc>did>repository {
+  margin-left: 10pt;
+}
+
+archdesc>did>origination {
+  margin-left: 10pt;
+}
+
+archdesc>did>unittitle {
+  margin-left: 10pt;
+}
+
+archdesc>did>unitdate {
+  margin-left: 10pt;
+}
+
+archdesc>did>abstract {
+  margin-left: 10pt;
+}
+
+archdesc>did>physdesc {
+  margin-left: 10pt;
+}
+
+archdesc>did>physloc {
+  margin-left: 10pt;
+}
+
+archdesc>did>unitid {
+  margin-left: 10pt;
+}
+
+controlaccess>controlaccess {
+  margin-left: 20pt;
+}
+
+controlaccess>controlaccess>head {
+  margin-left: 25pt;
+}
+
+controlaccess>subject {
+  margin-left: 30pt;
+}
+
+controlaccess>corpname {
+  margin-left: 30pt;
+} 
+
+dsc {
+  display: inline;
+}
+
+dsc>>scopecontent {
+  margin-left: 10pt;
+}
+
+c01>did {
+  margin-left: 15pt;
+}
+
+c05 {
+  margin-left: 20pt;
+}
+
+c06 {
+  margin-left: 20pt;
+}
+
+c07 {
+  margin-left: 20pt;
+}
+
+c08 {
+  margin-left: 50pt;
+}
+
+unitid {
+}

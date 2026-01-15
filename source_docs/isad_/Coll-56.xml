@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-56">GB 237
+		Coll-56</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Maurice Lindsay
+			 Papers </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-56">
+    <did>
+      <unittitle>Maurice Lindsay
+			 Papers </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-56</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MS 2030/1-36 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Maurice Lindsay Papers </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1943-1977">1943-1977 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>10 boxes (2
+		  linear metres); 14 volumes; 2 folders. </extent>
+      </physdesc>
+      <origination encodinganalog="isadg(2)321" label="Name(s) of creators">(John) Maurice
+		  Lindsay </origination>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>(John) Maurice Lindsay, also known as Gavin Brock, was born 21 July
+		  1918 in Glasgow. He was educated at Glasgow Academy, 1926-36, then attended the
+		  Scottish National Academy of Music (now called the Royal Scottish Academy of
+		  Music) in Glasgow, 1936-39. During the war he served in the army, becoming a
+		  Captain. Between 1946 and 1947 he was drama critic for the 
+		Scottish Daily Mail  in Edinburgh, and music critic for 
+		Bulletin  in Glasgow, 1946-60. Also from 1946, he was a
+		freelance broadcaster with the BBC in Glasgow, but in 1961 he became programme
+		controller for Border Television in Carlisle. From 1962 he was production
+		controller with Border, and features executive and senior interviewer from
+		1964. From 1967, Lindsay was the Director of the Scottish Civic Trust, and
+		consultant for the Trust from 1983. Lindsay's output has been rich, including
+		poetry, biography, and local history. Lindsay was awarded the CBE in 1979. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Maurice Lindsay Papers contain poetry notebooks; drafts,
+		  manuscripts and typescripts; radio scripts; incoming correspondence and some
+		  carbon replies; articles by Lindsay; C.M. Grieve manuscripts; and, outgoing
+		  correspondence. Within the Maurice Lindsay Papers are up to three boxes
+		  containing private and personal letters (dated 1943-46) between Lindsay and his
+		  future wife and which are not available for general study until after the
+		  deaths of the writer and recipient without their express permission. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details. Note too that within the Maurice
+		  Lindsay Papers are up to three boxes containing private and personal letters
+		  (dated 1943-46) between Lindsay and his future wife and which are not available
+		  for general study until after the deaths of the writer and recipient without
+		  their express permission. </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H56 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

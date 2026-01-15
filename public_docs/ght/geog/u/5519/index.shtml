@@ -1,0 +1,15 @@
+<!--#include virtual="/ght/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Uzbekistan </title>
+
+<!--#include virtual="/ght/includes/cat_header.php" -->
+<!--#include virtual="/ght/includes/lower_header.php" -->
+
+
+<a href="/ght/catalogue.php">Catalogue</a> &gt; <a href="/ght/geog/a/">Authority terms: geographic names</a> &gt; <a href="/ght/geog/u/">u</a><h1>Uzbekistan </h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/ght/cs/viewauth.php?type=geog&id=5519&term=Uzbekistan " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1064-84&view=basic">4 (39), Thomson to Ledermann </a> (1939) Papers of Professor Walter Ledermann</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/ght/includes/footer.php" -->

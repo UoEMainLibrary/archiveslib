@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-55">GB 237 Coll-55
+		</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers of John Abercromby, 5th Lord Abercromby of Aboukir
+			 and Tullibody </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-55">
+    <did>
+      <unittitle>Papers of John Abercromby, 5th Lord Abercromby of Aboukir
+			 and Tullibody </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-55</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 1841/1-26; PC 112-116 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers of John Abercromby, 5th Lord
+		  Abercromby of Aboukir and Tullibody </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1881-1916">before 1881-1916 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>25 boxes (4
+		  m); 5 plan chest drawers. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>John Abercromby was born 15 January 1841. He entered the army in 1858,
+		  retiring as Lieutenant, Rifle Brigade in 1870. Abercromby was an archaeologist
+		  and linguist, and was vice-president of the Folklore Society, an ex-president
+		  of the Society of Antiquaries of Scotland, and an honorary member of the
+		  Finno-Ougrian Society, Helsinki, and of the Finnish Archaeological Society. He
+		  published 
+		A trip through the Eastern Caucasus , the two volume 
+		The Pre- and Proto-Historic Finns  (1898), and the two
+		volume 
+		A study of the Bronze age pottery of Great Britain and Ireland and
+		  its associated grave-goods  (1912). He died in 1924. After Abercromby's
+		death, the Library of the University of Edinburgh was bequeathed some 2,500
+		volumes of his, mostly on archaeological, ethnological and philological
+		subjects. By his will too, in 1927, a Chair of Prehistoric Archaeology was
+		created at the University of Edinburgh. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The collection holds a 19th century Irish manuscript with covering
+		  letter dated 1884. There are a large number of letters and postcards spanning
+		  the years 1881 to 1916. The collection also consists of notebooks on
+		  archaeological, philological and linguistic topics; drawings of archaeological
+		  artefacts; bundles of studies for 
+		The Pre- and Proto-Historic Finns ; material on the
+		tabulation of Finnish folk tales; printed items, notes, photographs of the
+		Canary Islands; material including photographs, press cuttings, notes on 
+		A study of the Bronze age pottery of Great Britain and Ireland and
+		  its associated grave-goods . There are inventories of household effects
+		at several addresses, and a box containing material relating to the Hon. Ralph
+		Abercromby (John Abercromby's brother). In addition to a number of photograph
+		albums of views, features and acquaintances, there are five plan chests of
+		unsorted material, mainly illustrative, and also including a folder of material
+		relating to the Hon. Ralph Abercromby. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H55 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

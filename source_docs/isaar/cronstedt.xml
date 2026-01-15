@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0691 20020417 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0691</titleproper> 
+		  <subtitle>Cronstedt | Axel Fredrik | 1722-1765 | baron | Swedish
+			 chemist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+			 University Library Special Collections Division, 17 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020417">17 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0691</titleproper> 
+		<subtitle>Cronstedt | Axel Fredrik | 1722-1765 | baron | Swedish
+		  chemist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 17 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020417">17 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0691"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0691</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0691"
+		 normal="Cronstedt, Axel Frederik">Cronstedt | Axel Fredrik | 1722-1765 | baron
+		  | Swedish chemist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Axel Fredrik Cronstedt (<date type="life-span"
+			 normal="1722/1765">1722-1765</date>) was a mining expert with the Bureau of
+			 Mines, a chemist and a metallurgist, who is remembered for his discovery of
+			 nickel in 
+			 <date type="single" normal="1751">1751</date>. His father was an
+			 officer in the Swedish military, and Cronstedt was expected to follow his
+			 father's career. However, apart from a short spell during wartime, he did not
+			 serve in the army. He studied maths at Uppsala and eventually became a
+			 prominent expert in mining.</p> 
+		  <p>To give himself more of a grounding in scientific methods, he
+			 enrolled in a course entitled "The Art of Experiment and Chemistry," given by
+			 Georg Brandt (<date normal="1694/1768" type="life-span">1694-1768</date>), the
+			 discoverer of cobalt. Cronstedt, in his study of metals, was the first to
+			 systematically use blowpipe analysis (where a small sample is burned in an
+			 intense flame and the colours produced are analysed to determine the sample's
+			 makeup). While he did not invent this method, it was Cronstedt who developed it
+			 as a useful scientific tool, and it remained in wide use until the introduction
+			 of the diffraction grating.</p> 
+		  <p>The discovery of nickel was only proved beyond all doubt by Bergman
+			 in 
+			 <date type="single" normal="1775">1775</date> - after his death - but
+			 Cronstedt was the first to identify 'kupfernickel' ("the devil's copper", as
+			 miners of the day called it) as metal in its own right, rather than a
+			 combination of copper, arsenic and other metals, as was generally believed by
+			 his contemporaries.</p> 
+		  <p>Cronstedt also introduced a new classification of metals, based on
+			 their chemical structures rather than just their appearances. </p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Axel Fredrik Cronstedt was a pupil of Georg Brandt, the discoveror
+			 of cobalt.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>F&#x00F6;rs&#x00F6;k til mineralogie, eller
+			 mineralrikets upst&#x00E4;llning (Translated into English as 'An Essay Towards
+			 a System of Mineralogy')</title>, (<imprint><date type="publication"
+			 normal="1758" certainty="certain">1758</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>Metallurgist, Bureau of Mines</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname role="editor"
+			 normal="Gillispie, Charles C">Gillispie, Charles C</persname><title>Dictionary
+			 of Scientific Biography, vol III</title>(<imprint><geogname
+			 normal="New York (N.Y., United States)" authfilenumber="483" source="lcsh">New
+			 York</geogname>,<publisher>Scribner's</publisher>,<date type="publication"
+			 normal="1971">1971</date>)</imprint></bibref> </p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Asimov, Isaac" role="editor">Asimov,
+			 Isaac</persname>, <title render="italic">Asimov's Biographical Encyclopaedia of
+			 Science and Technology</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Doubleday</publisher>, 
+			 <date type="publication" normal="1964"
+			  certainty="certain">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020417">17 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

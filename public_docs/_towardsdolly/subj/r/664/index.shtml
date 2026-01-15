@@ -1,0 +1,29 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Research</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/r/">r</a><h1>Research</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=664&term=Research" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-EUA-IN1-ACU-A1-3-6&view=basic">Notebook of Arthur Dukinfield Darbishire </a> (1897-1907) Records of the University of Edinburgh</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-18-42&view=basic">Letter to James Cossar Ewart from Arthur James Balfour </a> (1912) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-18-13&view=basic">Letter to James Cossar Ewart from John Frederick Lort-Phillips </a> (1912) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-22-19&view=basic">Letter to James Cossar Ewart from Charles Mackinnon Douglas </a> (1916) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-14-9-33-7&view=basic">Letter to James Cossar Ewart from Albert Sherbourne Le Souef </a> (1927) Papers of James Cossar Ewart</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-19&view=basic">Science and the poultry industry </a> (1950) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-106&view=basic">Animal Breeding Research </a> (1960) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-306&view=basic">Guess right on the future level of prices </a> (1963) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-339&view=basic">Mutation studies with MH2 reticuloendothelioma and Rous sarcoma viruses </a> (1964) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1207&view=basic">Book Review: Lives in the Balance. The ethics of using animals in biomedical research. Editors Jane A Smith and Kenneth M Boyd £19.50 Oxford: Oxford University Press. xvi+350- 1991 ISBN 0198547447 </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-47&view=basic">Progress report on the SAC/IAPGR hill sheep project </a> (1993) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-48&view=basic">SAC/AFRC Roslin Institute hill sheep project - report for the 4th advisory group meeting </a> (1993) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-392&view=basic">Final Report: Maximising efficiency in a variety evaluation programme; DAN 60; July 1991 to June 1994 </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-642&view=basic">Vitamin fortification levels in European commercial poultry diets and recent research on vitamins </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-603&view=basic">SAC/AFRC Roslin Institute Hill Sheep Project Report for the 5th Advisory Group Meeting </a> (1994) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

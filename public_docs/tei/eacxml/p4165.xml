@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4165</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-07-27">27 July 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>15 January 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 525/00 010/00 011</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 525/00 013/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 525/02 002/02 017</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 525/02 002/02 015</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 525/02 002/02 016</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Appin</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 525/02 002/02 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1831 525/0020 0228</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1895 525/02 0003</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW120/51</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4165</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Livingston</part>
+                <part localType="given">John</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>[Am Muillear Mòr]; Corn miller/crofter, Portnacroish, Appin</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1810">1810</fromDate><toDate
+                        standardDate="1895-03-30">30 March 1895</toDate></dateRange></existDates>
+            <biogHist>
+                <p>John Livingston, ‘Am Muillear Mòr’, corn miller, Portnacroish, Appin, was the son
+                    of Colin Livingston and Catherine née MacGregor. He was baptised on the 7
+                    October 1810. John Livingston claimed descent from the Livingstons of Achnacree
+                    in Benderloch; among his near relatives was Dr David Livingstone (1813–73)
+                    [CW102-121. John Livingston’s grandfather had the rent of Creag Churalain from
+                    the Campbells of Barcaldine, probably because he ‘went with Coilin Rua[dh]’: in
+                    other words, he was one of the Campbell followers brought in by Colin of Glenure
+                    (murdered 14 May 1752) to the forfeited Ardsheil estate in the aftermath of the
+                    Forty-Five [CW102-121]. John’s father Colin, himself a miller and probably named
+                    in honour of his own father’s patron, settled in Inverfolla, close by
+                    Invernahyle, around 1800.</p>
+                <p>According to John’s own account, Colin Livingston remained in Inverfolla for 31
+                    years, and his son for another 13 [CW102-121]. Although the date of Colin’s
+                    retiral appears to make perfect sense, given that in 1831 John would just have
+                    attained his majority – note also that he married Mary MacKichan, probably from
+                    Oban, at the end of that year, suggesting that he now had the income to keep a
+                    household and family – the son does not seem immediately to have followed the
+                    father as Inverfolla miller. In the 1841 census Colin, now a widower, was
+                    recorded as a crofter living in Taychreggan with his son John, a mason, his wife
+                    Mary, and their five children. John does not appear at Inverfolla until the 1851
+                    census, when he is recorded as a Meal Grinder, assisted by his brother-in-law
+                    John. In 1861, however, he is a mason once more, living at Portnacroish on the
+                    Ballachulish Road with his wife, two unmarried daughters, and a four-year-old
+                    niece from Perth. He would remain in Portnacroish for the rest of his life.</p>
+                <p>Ten years later the couple were living in the same area, on the Achasragain Road,
+                    with an unmarried daughter and a three-year-old granddaughter Christina L.
+                    MacPhee from Edinburgh. Christina was still living with her grandparents in
+                    1881, together with a fifteen-year-old grandson from Ardchattan, Nicol Campbell,
+                    and in 1891 too. By this time, John Livingston was recorded solely as a crofter.
+                    Nobody in the household, apparently next door to the Post Office in
+                    Portnacroish, spoke English. Christina was also the witness for her
+                    grandfather’s death certificate: John Livingston, corn miller (retired) and
+                    crofter, died of heart failure on 30 March 1895.</p>
+                <p>It is likely that Alexander Carmichael was directed to Livingston by Donald
+                    MacColl, Fasnacloich (‘Am Brocair’), after he recorded earlier that day the
+                    particulars of an eighteenth-century brooch inherited by MacColl’s wife from her
+                    grandmother Mary MacColl at Callart. Carmichael wrote down from the old miller
+                    details of the whereabouts of seven other curios and heirlooms, mostly connected
+                    with the Appin gentry. Livingston went on to give his own commentary to certain
+                    of Donald MacColl’s narratives about the district recently recorded by
+                    Carmichael, adding details such as the fact that Féill Churalain, St Cyril’s
+                    Fair, was held on 16 March: ‘Cuirealan an-diugh is Pàdraig a-màireach’
+                    [CW102-121]. </p>
+                <chronList>
+                    <chronItem><date standardDate="1810">1810</date><placeEntry>Inverfolla,
+                            Appin</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1831-12-11">11 December
+                            1831</date><event>marriage</event></chronItem>
+                    <chronItem><date standardDate="1883-09-28">28 September
+                            1883</date><placeEntry>Portnacroish,
+                            Appin</placeEntry><event>interviewed by Alexander
+                        Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1895-03-30">30 March
+                            1895</date><placeEntry>Portnacroish,
+                            Appin</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

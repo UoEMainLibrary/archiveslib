@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0185 20020122 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0185</titleproper> 
+		  <subtitle>Ewart | James Cossar | 1851-1933 | zoologist and professor of
+			 natural history, University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 22 January 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020122">22 January 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0185</titleproper> 
+		<subtitle>Ewart | James Cossar | 1851-1933 | zoologist and professor of
+		  natural history, University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+		  University Library Special Collections Division, 22 January 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020122">22 January 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0185"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0185</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0185" normal="Ewart, James Cossar">Ewart |
+		  James Cossar | 1851-1933 | zoologist and professor of natural history,
+		  University of Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>James Cossar Ewart dedicated more than half a century of his life to
+			 the field of zoology. He was also a pioneer in the study of hybridization and
+			 other issues surrounding animal breeding. </p> 
+		  <p>Cossar Ewart entered the University of Edinburgh as a medical
+			 student in 1871. After graduating three years later he acted as a demonstrator
+			 of anatomy under William Turner and was then appointed Curator of the
+			 Zoological Museum at University College, London. His main contribution to the
+			 department, which was run at the time by professor Ray Lankester, was to help
+			 organise the first course of practical zoology in the College. Between 
+			 <date normal="1874/1878" type="publication">1874-1878</date> he
+			 published several papers on subjects ranging from the structure of the lens and
+			 retina and the life history of lower organisms, including Bacillus anthracis,
+			 and for this last work, presented as thesis for the degree of Doctor of
+			 Medicine (MD) in 1878, he was awarded a gold medal.</p> 
+		  <p>At the end of the Summer term in 1878 he returned to Edinburgh and
+			 became a lecturer in Anatomy in the extra-academical School of Medicine. Two
+			 months later he was appointed Professor of Natural History at the University of
+			 Aberdeen. In the same year he founded a small marine zoological station near
+			 Aberdeen - the first of its kind in Great Britain. After three years in
+			 Aberdeen (<date type="chairspan" normal="1879/1882">1879-1882</date>), Cossar
+			 Ewart was appointed to the Chair of Natural History at Edinburgh (<date
+			 normal="1882/1927" type="chairspan">1882-1927</date>), where he carried out
+			 notable experiments in animal breeding and hybridization, disproving the theory
+			 of telegony (the supposed influence of a previous sire on the progeny of the
+			 same mother born to other sires). The period he spent at Edinburgh was a period
+			 of great expansion both in the teaching of zoology and in the range of research
+			 in the subject. Cossar Ewart was instrumental in reorganising the class of
+			 practical zoology, and further developed teaching and research in his
+			 Department by introducing lectureships in the core subjects of embryology
+			 (<date normal="1885" type="chairdate">1885</date>), invertebrate zoology (<date
+			 normal="1901" type="chairdate">1901</date>), and heredity and genetics (<date
+			 normal="1910" type="chairdate">1910</date>), to which Arthur Darbishire was
+			 appointed. </p> 
+		  <p>In 1882 Cossar Ewart became Scientific Member of the Fishery Board
+			 for Scotland, and over the next seven years he wrote several reports and papers
+			 on fisheries, including the natural history of the herring. During the period 
+			 <date normal="1888/1895" type="inclusive">1888-1895</date> he then
+			 wrote the series of well-known papers on the electric organ of the skate. From
+			 his research he proved that the electric organ of the skate was a developing
+			 not a degenerating structure.</p> 
+		  <p>In about 
+			 <date normal="1895" type="single" certainty="uncertain">1895</date>
+			 Cossar Ewart began his work in animal breeding in which he devised experiments
+			 to explore some of the problems of cross breeding and inbreeding, on reversion
+			 and on telegony. The best known of these were those in which mares of various
+			 breeds were crossed with a Burchell's zebra stallion. Cossar Ewart then
+			 presented the results of his investigations in the volume entitled the
+			 <bibref><title>Penycuick Experiments</title></bibref> (<date
+			 normal="1999" type="publication">1899</date>), which garnered much critical
+			 acclaim. The zebra hybrids also received a lot of attention when they were
+			 exhibited at the Royal Agricultural Society's Show in York in 
+			 <date normal="1900" type="single">1900</date>.</p> 
+		  <p>A few years later Cossar Ewart turned his attention to the study of
+			 the sequence and structure of different types of penguin feathers which he was
+			 able to undertake at the Royal Zoological Park in Edinburgh, the results of
+			 which he published in a paper in 
+			 <date normal="1921" type="single">1921</date>.</p> 
+		  <p> The (Royal) Zoological Society of Scotland was founded in 
+			 <date type="single" normal="1909">1909</date> and from its inception
+			 the University of Edinburgh had close ties with the Society and one of its
+			 first vice-presidents was Cossar Ewart. These strong links have been maintained
+			 to the present day, with staff at the University serving on several of the
+			 Royal Zoological Society's committees.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>no information available</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Manual of Practical Anatomy</title>, (<imprint><date
+			 type="publication" normal="1879"
+			 certainty="certain">1879</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Dissection of the Frog</title>, (<imprint><date
+			 type="publication" normal="1887"
+			 certainty="certain">1887</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Electric Organ of the Skate</title>, ( 
+			 <imprint><date type="publication" normal="1888/1889"
+			 certainty="certain">1888-1889</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Cranial Nerves and Lateral Sense Organs of
+			 Elasmobranchs</title>, (<imprint><date type="publication" normal="1889-1891"
+			 certainty="certain">1889-1891</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Development of the Limbs of the Horse</title>, ( 
+			 <imprint><date type="publication" normal="1894"
+			 certainty="certain">1894</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>A Critical Period in the Development of the
+			 Horse</title>, (<imprint><date type="publication" normal="1899"
+			 certainty="certain">1899</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Multiple Origin of Horses and Ponies</title>, ( 
+			 <imprint><date type="publication" normal="1904"
+			 certainty="certain">1904</date>)</imprint></bibref></p> 
+		  <p><bibref><title>On a Prejvalsky Hybrid</title>, (<imprint><date
+			 type="publication" normal="1907"
+			 certainty="certain">1907</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Domestic Sheep and Their Wild Ancestors</title>, ( 
+			 <imprint><date type="publication" normal="1913"
+			 certainty="certain">1913</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Moulting of the King Penguin</title>, (<imprint><date
+			 type="publication" normal="1917"
+			 certainty="certain">1917</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Nestling Feathers of the Mallard</title>, ( 
+			 <imprint><date type="publication" normal="1921"
+			 certainty="certain">1921</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1893">1893</date>: Elected
+			 Fellow, Royal Society (FRS)</p> 
+		  <p><date type="single" normal="1898">1898</date>: Awarded Neill
+			 Medal</p> 
+		  <p><date type="single" normal="1898">1898</date>: Awarded Royal Society
+			 Prize</p> 
+		  <p><date type="single" normal="1928">1928</date>: Awarded Honorary
+			 Doctorate (LLD), University of Edinburgh</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Begg, Michael J" role="author">Begg,
+			 Michael J</persname>, <title render="italic">The Natural History Collections of
+			 the University of Edinburgh, 1988</title>, (<extref
+			 href="http://helios.bto.ed.ac.uk/icapb/collection/collection_7.html">http://helios.bto.ed.ac.uk/icapb/collection/collection_7.html</extref>,
+			 <imprint><publisher>University of Edinburgh</publisher>, 
+			 <date type="publication" normal="1997"
+			 certainty="certain">1997</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			 role="editor">Gillispie, Charles C</persname>(ed), <title
+			 render="italic">Dictionary of Scientific Biography</title>, (<imprint>
+			 <geogname normal="United States" authfilenumber="511" source="lcsh">United
+			 States of America</geogname><date type="publication" normal="1972"
+			 certainty="certain">1972</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Birse, Ronald M" role="author"> Birse,
+			 Ronald M</persname>, <title render="italic">Science at the University of
+			 Edinburgh 1583-1993</title>, (<imprint>
+			 <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+			 source="lcsh">Edinburgh</geogname>, 
+			 <publisher>University of Edinburgh</publisher>, 
+			 <date type="publication" normal="1994"
+			 certainty="certain">1994</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Turner, A Logan" role="editor">Turner, A
+			 Logan</persname> (ed) <title render="italic">History of the University of
+			 Edinburgh 1833-1933</title>, (<imprint>
+			 <geogname normal="London (England)" authfilenumber="530" source="lcsh">
+			 London</geogname>, 
+			 <publisher>Oliver and Boyd</publisher>, 
+			 <date type="publication" normal="1993"
+			 certainty="certain">1933</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Howard, AV" role="author"> Howard,
+			 AV</persname>, <title render="italic">Chambers' s Dictionary of
+			 Scientists</title>, (<imprint>
+			 <geogname normal="London (England)" authfilenumber="530" source="lcsh">London
+			 </geogname>and
+			 <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+			  source="lcsh">Edinburgh</geogname>, 
+			 <publisher>W and R Chambers Ltd</publisher>, 
+			 <date type="publication" normal="1951" certainty="certain">
+				1951</date>)</imprint></bibref></p> 
+		  <p> <bibref> <title render="italic">Obituary: James Cossar
+			 Ewart</title>, (<imprint>
+			 <geogname normal="Edinburgh (Scotland)" authfilenumber="517"
+			  source="lcsh">Edinburgh</geogname>, 
+			 <publisher>University of Edinburgh Journal ,Volume six</publisher>, 
+			 <date type="publication" normal="1933/1934"
+			  certainty="certain">1933-1934</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="200201222">22 January
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

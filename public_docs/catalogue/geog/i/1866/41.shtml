@@ -1,0 +1,36 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Islay Argyllshire Scotland </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/geog/a/">Authority terms: geographic names</a> &gt; <a href="/catalogue/geog/i/">i</a><h1>Islay Argyllshire Scotland </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=geog&id=1866&term=Islay Argyllshire Scotland " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="41">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-34&view=basic">Note about otters on Ìle/Islay </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-35&view=basic">Note about the birds 'croman fion', 'croman rua', 'corrghrieach' and 'crotach' [possibly snipes, heron and plover] </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-36&view=basic">Story about geese on Ìle/Islay and vocabulary note </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-37&view=basic">Vocabulary note possibly for bird names </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-38&view=basic">Note about birds killing other birds </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-39&view=basic">Story and notes about snakes </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-40&view=basic">Note about the birds 'Corr-ghir bhreac' [corra-ghritheach breac or heron] and 'Caill-oiche' [cailleach oidhche or owl] </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-41&view=basic">Note which reads 'Studied the easgan + the torranan from fly depost eggs' </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-42&view=basic">Note about Donald MacMhuirich [Currie]'s age </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-43&view=basic">Note about horse or cow hair </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-44&view=basic">Note that Donald MacMhuirich lives in Bailmeanach </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-45&view=basic">Note which reads 'An cleireach mac crubag Dearc luachrach lotai and sin 3 siuil mhara' </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-46&view=basic">Note about herring and hake </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-47&view=basic">Note about shellfish </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-48&view=basic">Vocabulary note which reads 'Asgail = Oxter. Bradan lea[than]n = Hal[ibut]' </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-49&view=basic">Story about fishing on Ìle/Islay and Calum Cille [St Columba] </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-50&view=basic">Note which reads 'Glasag back dark clue in shell Gìmhseag thin feet as paper.' </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-51&view=basic">Story about a child abducted by an eagle </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-52&view=basic">Saying beginning 'Feuch rist e!' </a> (1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW89-53&view=basic">Rhyme beginning 'Chunna mise an Dreolla' </a> (1887) The Carmichael Watson Collection</li>
+</ul>
+<a href="21.shtml">Previous</a>
+<a href="61.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

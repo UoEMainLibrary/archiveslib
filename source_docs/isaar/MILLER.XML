@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0439 20020416 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0493</titleproper> 
+		  <subtitle>Miller | Hugh | 1802-1856 | man of letters and
+			 geologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 16 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020416">16 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0493</titleproper> 
+		<subtitle>Miller | Hugh | 1802-1856 | man of letters and
+		  geologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+		  University Library Special Collections Division, 16 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020416">16 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0493"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0493</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0493" normal="Miller, Hugh">Miller | Hugh |
+		  1802-1856 | man of letters and geologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Hugh Miller (<date type="life-span"
+			 normal="1802/1856">1802-1856</date>) was a self-taught geologist and writer.
+			 His formal education ended after a violent confrontation with his teacher, and
+			 he took a job as a stonemason, studying literature and writing poetry in his
+			 free time. It was his profession - and more precisely his contact with quarries
+			 - that sparked off his interest in geology.</p> 
+		  <p>In the 
+			 <date type="inclusive" normal="1840/1844">early 1840s</date>, the
+			 British Association for the Advancement of Science met in Edinburgh, giving
+			 Miller the chance to meet some eminent geologists including Louis Agassiz
+			 (<date normal="1807/1873" type="life-span">1807-1873</date>). His work on Old
+			 Red Sandstone - in which he identified it as a fossil-rich rock, contrary to
+			 common belief - brought him eminence in scientific circles. Miller was a
+			 correspondent of Roderick Impey Murchison (<date normal="1792/1871"
+			 type="life-span">1792-1871</date>).</p> 
+		  <p>Miller was an excellent and persuasive writer, which helped his
+			 scientific writing reach a lay audience. His talent was also used in writings
+			 on religion. Miller was involved in the controversy in the Church of Scotland
+			 that led to the creation of the Free Church, as a writer for the bi-weekly
+			 newspaper 'The Witness'. An opponent of religious sectarianism, he argued in
+			 favour of non-denominational public education. He continued creative writing
+			 throughout his life.</p> 
+		  <p>Suffering from stress and silicosis, caused by his work as a mason,
+			 he committed suicide on the day he received the final draft of his last book,
+			 <bibref><title>The Testimony of the Rocks</title></bibref>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Hugh Miller was a correspondent of Sir Roderick Impey Murchison.</p>
+		  
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable Publications:</p> 
+		  <p><bibref><title>Scenes and Legends of the North of Scotland, or the
+			 Traditional History of Cromarty</title>, <imprint> (<date type="publication"
+			 normal="1836">1836</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Old Red Sandstone ; or , New Walks in an Old
+			 Field</title>, <imprint> (<date type="publication"
+			 normal="1841">1841</date>)</imprint></bibref></p> 
+		  <p><bibref><title>My Schools and Schoolmasters; or, the Story of my
+			 Education</title>, <imprint> (<date type="publication"
+			 normal="1854">1854</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Testimony of the Rocks</title>, <imprint> (<date
+			 type="publication" normal="1857">1857</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Life and Letters of Hugh Miller</title>, 
+			 <imprint> (<date type="publication"
+			 normal="1874">1874</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1840">1840</date>: Appointed
+			 Editor, The Witness</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol IX</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1974"
+			 certainty="certain">1974</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 XIII</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1909"
+			 certainty="certain">1909</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020416">16 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

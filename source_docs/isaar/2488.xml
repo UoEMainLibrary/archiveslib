@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639" aarstatus="draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-Baillie-P2488 20020904//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 Baillie P2488</titleproper> 
+		  <subtitle>Hetherington | Sir | Hector James Wright | 1888-1965 | social
+			 philosopher</subtitle> 
+		  <author>Originally compiled for the GASHE project by John O&apos;Brien,
+			 Glasgow University Archive Services, 04 September 2002. Amended for the Baillie
+			 Project by Grant Buttars, Edinburgh University Library Special Collections
+			 Division, 03 June 2003</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20030603">03 June 2003</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>ENG</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 Baillie P2488</titleproper> 
+		<subtitle>Hetherington | Sir | Hector James Wright | 1888-1965 | social
+		  philosopher</subtitle> 
+		<author>Originally compiled for the GASHE project by John O&apos;Brien,
+		  Glasgow University Archive Services, 04 September 2002.Amended for the Baillie
+		  Project by Grant Buttars, Edinburgh University Library Special Collections
+		  Division, 03 June 2003</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20030603">03 June 2003</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-Baillie-P2488"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="Baillie"
+		 repositorycode="0237" countrycode="GB">GB 0237 Baillie P2488</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 Baillie P2488"
+		 normal="Hetherington, Sir Hector James Wright">Hetherington | Sir | Hector
+		  James Wright | 1888-1965 | social philosopher</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir Hector James Wright Hetherington (1888-1965) was born July 1888,
+			 in Cowdenbeath, Scotland. He grew up in Tillicoultry, and was educated at
+			 Dollar Academy, before entering Glasgow University in 1905. He studied
+			 classics, philosophy, and later economics, graduating M.A. with honours in
+			 1907. He had intended to become a minister of the United Free Church, but was
+			 persuaded by Sir Henry Jones, Professor of moral philosophy, to become his
+			 assistant.</p> 
+		  <p>In 1914, he left Glasgow to take up the post of Lecturer in
+			 philosophy, at Sheffield University. He only stayed in Sheffield a year, before
+			 accepting the Chair of philosophy at Cardiff. In 1920, he was appointed
+			 Principal of the Royal Albert Memorial College, Exeter. Under
+			 Hetherington&apos;s guidance, the College was reconstituted as the University
+			 College of the South West of England, and put on the grant list of the
+			 University Grants Committee. This set the College on the path to full status as
+			 the University of Exeter in 1955. He also oversaw an improvement in the
+			 College&apos;s financial position, and an expansion of the College campus.
+			 There was a similar expansion in teaching facilities, with a new department in
+			 Adult Education, and investment in the Law department.</p> 
+		  <p>In 1924, Hetherington accepted the post of Professor of moral
+			 philosophy at Glasgow University. However his stay at Glasgow was short, and in
+			 1927, he moved to Liverpool to become Vice-Chancellor of the University. During
+			 his nine years at Liverpool University, his main concern was the extension of
+			 the Library and the Students Union. Financial problems meant that other
+			 expansion projects had to be put on hold. The Union extension was completed in
+			 1935. Hetherington did not see the Library extension completed but his fund
+			 raising was vital to the project, and he received the gift of £100,000 for the
+			 extension, the largest donation that the University had received. Hetherington
+			 also saw the School of Architecture rehoused, and the planning for a new
+			 gymnasium and Organic Chemistry Laboratory was started. He also steered the
+			 University into calmer financial waters with a significant reduction of the
+			 University&apos;s capital debt.</p> 
+		  <p>In 1936, Hetherington was appointed Principal of Glasgow University,
+			 a post he would hold for the rest of his career. The University had suffered a
+			 period of contraction and financial stagnation during the depression years, and
+			 the new Principal would have to deal with the needs and difficulties brought
+			 about by the Second World War. Nevertheless, Hetherington tackled the need for
+			 new buildings with typical energy, and aided by a building grant from the
+			 University Grants Committee, saw the completion of the Student&apos;s Reading
+			 Room. This was just the beginning, and over the course of his term of office,
+			 Glasgow saw an impressive program of expansion. This included a new Engineering
+			 building, buildings for Surgery and for Virology, a building for Modern
+			 Languages, the Stevenson building, a Veterinary Hospital, extensions to the
+			 Anatomy and Zoology departments, and reconstruction of parts of the main
+			 building to give better accommodation to the departments of Mathematics,
+			 Political Economy, and Geography, as well as to the University offices. Plans
+			 were also drawn up for two Halls of Residence, a Refectory, a Mathematics
+			 building, a new Queen Margaret Union, the Adam Smith building, a Genetics
+			 building, and a new Library.</p> 
+		  <p>Hetherington also introduced improvements to the teaching facilities
+			 of the University with many new Chairs, new departments of non-professorial
+			 standing, and additional teaching staff in all departments. He brought in a new
+			 policy for hiring staff, to ensure the best people were found, and encouraged
+			 the setting up of training schemes to address the problem of a lack of highly
+			 trained technical staff in scientific departments.</p> 
+		  <p>Hetherington encouraged the students to play a full part in
+			 University life, regularly visiting the Freshers camp, the OTC, and the Halls
+			 of Residence, and supporting the work of the Graduates Association in linking
+			 graduates clubs throughout the world. He also oversaw the University&apos;s
+			 fifth centenary celebrations. He was a member of various committees, and was
+			 Chairman of the Committee of Principals and Vice-Chancellors, of the Colonial
+			 University Grants Committee, and of the Commission on the Royal University of
+			 Malta.</p> 
+		  <p>He retired in 1961, and died suddenly in London, 15 January
+			 1965.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>None</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p> 
+			 <date normal="1907" type="single">1907</date>: M.A. University of
+			 Glasgow</p> 
+		  <p> 
+			 <date normal="1915/1920" type="inclusive">1915-1920</date>: Professor
+			 of philosophy, Cardiff University</p> 
+		  <p> 
+			 <date normal="1920/1924" type="inclusive">1920-1924</date>:
+			 Principal, Royal Albert Memorial College, Exeter</p> 
+		  <p> 
+			 <date normal="1924/1927" type="inclusive">1924-1927</date>: Professor
+			 of moral philosophy, University of Glasgow</p> 
+		  <p> 
+			 <date normal="1927" type="single">1927</date>: LL.D.</p> 
+		  <p> 
+			 <date normal="1927/1936" type="inclusive">1927-1936</date>:
+			 Vice-Chancellor, Liverpool University</p> 
+		  <p> 
+			 <date normal="1936" type="single">1936</date>: Knighthood</p> 
+		  <p> 
+			 <date normal="1936/1961" type="inclusive">1936-1961</date>:
+			 Principal, University of Glasgow</p> 
+		  <p> 
+			 <date normal="1948" type="single">1948</date>: K.B.E.</p> 
+		  <p> 
+			 <date normal="1961" type="single">1961</date>: Freedom of the city of
+			 Glasgow</p> 
+		  <p> 
+			 <date normal="1962" type="single">1962</date>: G.B.E.</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref>
+			 <persname source="ncarules" normal="Hutcheson, Robert T"
+			  role="author">Hutcheson, Robert T.</persname>, <title>Hector Hetherington
+			 1888-1965, The College Courant, Vol.18, No.34</title><imprint> Glasgow, 
+			 <publisher>University of Glasgow</publisher>, 
+			 <date type="publication" normal="1965"
+			  certainty="certain">1965</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persons and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the GASHE project by
+			 <persname role="archivist" normal="O&apos;Brien, John">John
+			 O&apos;Brien</persname>, Glasgow University Archive Services, 
+			 <date type="single" normal="20020904">04 September 2002</date></p> 
+		  <p>Original GASHE ID: P0009</p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

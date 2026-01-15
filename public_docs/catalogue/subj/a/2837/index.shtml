@@ -1,0 +1,22 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Anniversaries</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/a/">a</a><h1>Anniversaries</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2837&term=Anniversaries" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-99-10-5&view=basic">Commemorative letter from the Scottish Geographical Society to the Geological Society of London </a> (1907) Papers of Professor James Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-99-10-6&view=basic">Letter to James Geikie from the University of St Andrews </a> (1911) Papers of Professor James Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-99-10-7&view=basic">Invitation to James Geikie from the Royal Society </a> (1911) Papers of Professor James Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-2-4-4&view=basic">Otago centenary </a> (1943-1948) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-6-7&view=basic">Centenary Service for Henry Duncan </a> (1946) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-2-4-5&view=basic">Dundein Day </a> (1949) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=BAI-1-6-1&view=basic">Broadcasting and the Churches </a> (1949) Papers of Professor John Baillie, and Baillie Family Papers</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-M1-1-10-9&view=basic">400th Anniversary </a> (1979-1982) Records of the University of Edinburgh</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

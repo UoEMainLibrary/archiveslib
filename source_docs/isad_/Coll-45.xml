@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-45">GB 237
+		Coll-45</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>W. H. Auden
+			 Collection </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-45">
+    <did>
+      <unittitle>W. H. Auden
+			 Collection </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-45</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MS 3080; Gen. 2239/1-2; Auden Collection
+		  1-805</physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">W. H. Auden
+		  Collection </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1920-1972">circa 1920-1972 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>3 boxes;
+		  circa 800 books. </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Wystan Hugh Auden, poet, playwright, librettist, critic, editor,
+		  translator, and hero of the Left during the Depression, was born on 21 February
+		  1907 in York. The family moved to Birmingham in 1908. At the age of eight he
+		  was sent to St. Edmund's preparatory school in Surrey, and then attended
+		  Gresham's School, Holt, in Norfolk. The young Auden was interested in science
+		  and biology, and intended to become a mining engineer, but by 1922 he had
+		  discovered poetry. In 1925 he entered Christ Church, Oxford, where he
+		  established himself as a poet. After graduating in 1928, he spent a year
+		  abroad, in Berlin. Between 1930 and 1935, Auden was a schoolmaster at
+		  Larchfield Academy, Helensburgh, Scotland, and at Downs School, Colwall, near
+		  Malvern, England. He married Erika Mann, writer, and daughter of Thomas Mann,
+		  in 1935, in order to provide her with a British passport. They would later
+		  divorce. With others, Auden founded the Group Theatre, 1932. He worked with the
+		  GPO film unit in 1935 and collaborated on films such as 
+		Night Mail  and 
+		Coal-face . He travelled to Iceland in 1936 and in 1937
+		served as a stretcher-bearer for Loyalists during the Spanish Civil War. In
+		1938 he travelled to China with Christopher Isherwood. With Isherwood, Auden
+		went to the USA in 1939, teaching there and becoming an American citizen in
+		April 1946. He was Associate Professor of English Literature, Ann Arbor
+		University, Michigan, and held a Guggenheim Research Fellowship, 1942. Between
+		1956 and 1961 he was Professor of Poetry, University of Oxford, and Honorary
+		Student of Christ Church, Oxford, 1962. Auden received King George's Gold Medal
+		for poetry, 1937; the Pulitzer Prize, 1948; the Bollingen Prize, 1953; the
+		National Book Award, 1956; the Feltrinelli Prize, 1957; and, the National Medal
+		for Literature, USA, 1954. For more than 20 years, Auden lived with Chester
+		Kallman, an American poet and close friend. Auden's first book of poetry 
+		Poems  (1934) was printed privately by Stephen Spender.
+		His early work was a fusion of material from Icelandic sagas, Old English
+		poetry, Marx, Freud, and school stories and humour. It was material produced
+		between 1933 and 1938, warning of the bad side of capitalism and the rise of
+		totalitarianism, that made him the hero of the Left, an example being 
+		Look, stranger!  (1936). On disillusionment with the Left
+		and having settled in the USA, Auden underwent deep change and edged towards
+		Christian commitment in 
+		New Year letter  (1941). From 1948, Auden established a
+		pattern of leaving New York every year to spend the summer in Europe, mainly on
+		the island of Ischia, Italy, but latterly in Kirchstetten, Austria. 
+		The shield of Achilles  (1955) and other sequences of
+		poems were published during this period. With Kallman, Auden collaborated on 
+		The rake's progress  (1951) for Igor Stravinsky. Auden
+		died in Vienna, 28 September 1973. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The W. H. Auden material is a small collection formed by gift and
+		  purchase over the years, serving as a complement to the Auden collection of
+		  around 750 printed items purchased from Auden's bibliographer, B.C.Bloomfield
+		  in 1982, and augmented by gift by him and purchase since then. The W. H. Auden
+		  material consists of an autograph essay, typescripts, and miscellaneous notes.
+		  There is correspondence in the form of postcards, and typed and hand-written
+		  letters. Most of the Bloomfield Auden collection of printed items has yet to be
+		  catalogued. In addition, in the Papers of Professor Archibald H. Campbell, not
+		  yet catalogued, there is a box containing press cuttings and letters concerning
+		  Auden and Stephen Spender, Spender letters, and some items from Auden to
+		  Campbell. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H45 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

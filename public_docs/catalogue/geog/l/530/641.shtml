@@ -1,0 +1,36 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: London England </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/geog/a/">Authority terms: geographic names</a> &gt; <a href="/catalogue/geog/l/">l</a><h1>London England </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=geog&id=530&term=London England " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="641">
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-1-2-4&view=basic">New Barbican: public enquiry file </a> (1955) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-8-2&view=basic">Woolwich: plans - St Mary's Woolwich Redevelopment Area reused layout 1955 - with suggestions by the Borough Engineer </a> (1955) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-2-3-2-b&view=basic">Tidey Street: layout plans </a> (1955) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-4-8-16&view=basic">Plans: South Bank permanent development - suggested proposal for permanent reinstatement of Thameside restaurant, </a> (1955) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-1-5&view=basic">City of London: plans - City of London river frontages and skylines </a> (1955) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-ICRPD-2&view=basic">International Conference on Regional Planning and Development </a> (1955) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-ICRPD-1&view=basic">International Centre for Regional Planning and Development (ICRPD): mixed papers (1) </a> (1955) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-5-2-1&view=basic">Plans: CDA no 5 - Elephant and Castle </a> (1955) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-2-3-4-a&view=basic">St Anne's Neighbourhood: papers and photographs </a> (1955-1956) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-D-3-3-1&view=basic">Staffing issues: staff reorganisation - 1956 - papers </a> (1955-1956) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-D-3-3&view=basic">Staffing issues: staff reorganisation - 1956 </a> (1955-1956) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-5-1&view=basic">Elephant and Castle: assorted photographs and reports </a> (1955-1956) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-5-2.5&view=basic">Elephant and Castle: drawings </a> (1955-1956) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-A-1-5-2&view=basic">Sub-committee papers: Town Planning (Control of Buildings in Areas of High Fire Risk) Special Sub-committee </a> (1955-1957) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-D-4-3-1&view=basic">Housing Division: housing estate reports </a> (1955-1957) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-1-2-5-c&view=basic">Plans: Mixed Barbican Development Plans </a> (1955-1958) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-D-2-2&view=basic">Planning manuals and methodologies: memos </a> (1955-1958) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-ICRPD&view=basic">International Centre for Regional Planning and Development (ICRPD) </a> (1955-1962) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-4-8-19&view=basic">Plans: South Bank Vauxhall SE11 - architectural appreciation </a> (1955-1965) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=GB-237-PJM-LCC-E-4-8-18&view=basic">Plans: Development of Prince's Meadow South Bank  </a> (1955-1965) The Percy Johnson-Marshall Collection</li>
+</ul>
+<a href="621.shtml">Previous</a>
+<a href="661.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4673</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2012-05-03">3 May 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+                <eventDescription>draft in progress</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2013-02-05">5 February 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2013-02-08"> 8 February 2013</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Lynne Bulmer</agent>
+                <eventDescription>draft in progress</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Baptism record (daughter)</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Births 1827 MP 1 1 1 47- Bornish St
+                            Mary's</span>
+                        <span localType="ead-repository">Scottish Catholic Archives</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Baptism record (daughter)</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Births 1830 43 1 2 1 27- Ardkenneth, St
+                            Michael's</span>
+                        <span localType="ead-repository">Scottish Catholic Archives</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 118/00 003/00 011</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 118/00 003/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for South Uist</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 118/01 003/00 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate (wife)</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1859 118/01 0023</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1868 118/01 0012</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Transcription notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW122/81</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+        </sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4673</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacIntyre</part>
+                <part localType="given">Donald</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>[Dòmhnall mac Dhòmhnaill 'ic Theàrlaich]: crofter and catechist, Aird,
+                    Benbecula</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1793" notAfter="1798" notBefore="1788">c1793</fromDate>
+                    <toDate standardDate="1868-08-09">9 August 1868</toDate>
+                </dateRange>
+            </existDates>
+            <biogHist>
+                <p>Donald MacIntyre was born around 1793, the son of fisherman Donald MacIntyre and
+                    his wife Mary née Campbell.  His place of birth is not recorded.  He married Ann
+                    Campbell and by the time of the 1841 census they were living in Aird, Benbecula
+                    with two children: Catharine (13) and Mary (10).  He worked as a crofter and was
+                    also a Roman Catholic catchist.  Ten years later, both daughters are recorded as
+                    still living in the family home in 1851.  Ann MacIntyre died on 17 May 1859.  In
+                    the 1861 census, Donald is recorded together with his elder daughter Catharine
+                    and a grandson, Archibald (2).  </p>
+                <p>Donald MacIntyre died of 'old age' on 9 August 1868 aged around 75 in Aird,
+                    Benbecula with his son-in-law Angus Wilson as the recorded informant. </p>
+                <p>He is mentioned in a story collected by Alexander Carmichael in which Father
+                    MacGregor of South Uist is described reading Ossian to his catechist Donald
+                    MacIntyre.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1793" notAfter="1798" notBefore="1788">c1793</date>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1868-08-09">9 August 1868</date>
+                        <placeEntry>Aird, Benbecula</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

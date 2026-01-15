@@ -1,0 +1,28 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Church Buildings</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/c/">c</a><h1>Church Buildings</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=2966&term=Church Buildings" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="81">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-138&view=basic">Note about 'Lag Na Comraich' </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW117-45&view=basic">Note which reads 'Friday 6th August In Eisgeadal Church' </a> (1909) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-UOL-A-2&view=basic">Second year assignments </a> (1932-1933) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-UOL-A-2-7&view=basic">"A memorial chapel / hall" </a> (1933) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-UOL-A-4-4&view=basic">"A school for boys and girls" </a> (1934-1935) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-UOL-C-1&view=basic">"HW Williams prize -design for a church" </a> (1935-1936) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-UOL-C&view=basic">Prize competitions </a> (1936-1937) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-E-2-1-4-b&view=basic">Photographs of Stepney / Poplar: east end before and after reconstruction </a> (1942-1961) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-E-2-2-7&view=basic">Lansbury Neighbourhood: Trinity Congregational Church </a> (1950-1959) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-E-2-2-6-l&view=basic">Plans of Lansbury Neighbourhood: Lansbury Catholic Church </a> (1950-1959) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-E-2-2-2-b&view=basic">Festival of Britain Exhibition: posters </a> (1951) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-LCC-A-1-5-4&view=basic">Sub-committee papers: Town Planning (Architectural and Historical Buildings etc) Sub-committee </a> (1952-1958) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW110-48&view=basic">Story about churches built by Calum Cille [St Columba] </a> (xxxx) The Carmichael Watson Collection</li>
+</ul>
+<a href="61.shtml">Previous</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

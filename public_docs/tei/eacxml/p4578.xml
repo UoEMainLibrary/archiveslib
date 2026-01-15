@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4578</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2012-05-03">03 May 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Lynne Bulmer</agent>
+                <eventDescription>draft in process</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime standardDateTime="2012-05-03">10 September 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Kirsty M Stewart</agent>
+                <eventDescription>draft in process</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>15 November 2012</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Birth 1837 040/0020 0049</span>
+                        <span localType="ead-repository">Old Parish Register</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1841 census for Reay, Caithness</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 040/00 002/00 007</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Reay, Caithness</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 040/00 001/00 024</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Marriage certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Marriage 1864 113/00 0004</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1865 113/00 0023</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Birth 1867 113/00 0008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1867 113/00 0002</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1867 113/00 0004</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>Birth record</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Birth 1869 119/00 0048</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Kyleakin, Strath</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 119/00 001/00 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Stornoway</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 088/00 005/00 004</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1891 census for Lochbroom, Ullapool</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1891 075/01 001/01 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Death certificate</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1891 098/00 0409</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote>
+            </source><source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW112/7</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source>
+            <source>
+                <sourceEntry>Notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW112/8</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4578</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Bain</part>
+                <part localType="given">Peter</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Excise Officer, Lochmaddy, North Uist and Inverness</p>
+            </descriptiveNote>
+        </identity>
+        <description>
+            <existDates>
+                <dateRange>
+                    <fromDate standardDate="1837">1837</fromDate>
+                    <toDate standardDate="1891-10-03">3 October 1891</toDate>
+                </dateRange>
+                <descriptiveNote>
+                    <p>Baptism 28 December 1837</p>
+                </descriptiveNote>
+            </existDates>
+            <biogHist>
+                <p>Peter Bain was born to George Bain, farmer and shoemaker, and Williamina Bain née
+                    Campbell. He had at least three surviving siblings in 1841. In 1864, he married
+                    Catharine MacLeod, the daughter of a police officer in Lochmaddy, North Uist and
+                    by this time Peter had become a Preventiveman, working for the Inland Revenue.
+                    The following year the couple had a son William and then twin boys George
+                    Alexander and Peter in 1867, although both twins only lived a few days. In 1869,
+                    another son was born, also called George Alexander, but following the birth
+                    Catharine died of a postpartum haemorrhage. By 1871, Peter Bain is recorded as a
+                    lodger in Kyleakin and in 1881 he is in Stornoway with sons William and George.
+                    By 1891, Peter Bain had married again, Barbara MacLeod, in Lochbroom, Ullapool
+                    and they appear to have had at least one child together. </p>
+                <p>Peter Bain died of an abdominal tumour in 1891 in Lochbroom, Ullapool and his son
+                    George Alexander Bain signed the death certificate.</p>
+                <p>In 1866 Peter met with Alexander Carmichael and copied two manuscripts for him.
+                    Carmichael had been lent the manuscripts by Mr Donald MacDonald, Kallin,
+                    Grimsay, North Uist, son of the late Lieutenant James MacDonald who wrote the
+                    manuscripts.</p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1837-12-28">1837</date>
+                        <placeEntry>Reay, Caithness</placeEntry>
+                        <event>birth</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1837-12-28">28 December 1837</date>
+                        <placeEntry>Reay, Caithness</placeEntry>
+                        <event>baptism</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1866-04-09">9 April 1866</date>
+                        <placeEntry>North Uist</placeEntry>
+                        <event>copied manuscripts for Alexander Carmichael</event>
+                    </chronItem>
+                    <chronItem>
+                        <date standardDate="1891-10-03">3 October 1891</date>
+                        <placeEntry>Lochbroom, Ullapool</placeEntry>
+                        <event>death</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

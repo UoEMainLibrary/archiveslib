@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <!--Fill in publicid attribute-->
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1064">GB
+		237 Coll-1064</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Correspondence with Sir Godfrey H. Thomson
+			 (1881-1955)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20050902" certainty="certain">02 September
+			 2005</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <!--Fill in id attribute-->
+  <archdesc level="fonds" id="GB-237-Coll-1064"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1064</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2005.18</physloc><unittitle
+		encodinganalog="isadg(2)312">Correspondence with Sir Godfrey H. Thomson
+		  (1881-1955)</unittitle><unitdate normal="1937/1955"
+		encodinganalog="isadg(2)313"
+		certainty="certain">1937-1954</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 box (3 files) </extent></physdesc><!--Replace language code if other than English with ISO 639-2 three letter	language	code.  Add further language tags if necessary-->
+		<langmaterial><language langcode="eng">English</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Ledermann, Walter</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>The psychologist and mathematical physicist Godfrey Hilton Thomson was
+		  born on 27 March 1881. He was educated at Rutherford College, Newcastle, and he
+		  studied at the Universities of Durham and Strasburg. He was awarded the degrees
+		  of B.Sc. 1903, M.Sc. 1906, D.Sc. 1913, and Ph.D. (Strasburg) 1906. Thomson
+		  became a Lecturer in Education at Armstrong College (King's College of the
+		  University of Durham) in 1909 and was raised to Professor there in 1920. In
+		  1923-1924 he was a Visiting Professor at Columbia University, New York.</p> 
+		<p> Experiences in Germany (prior to the 1919 Treaty, Strasburg had been
+		  German territory), and in the USA, brought him into close contact with
+		  educational theory and practice, and he became an authority on intelligence
+		  testing. In 1925 became Bell Professor of the Theory, History and Practice of
+		  Education at the University of Edinburgh. He was also Director of Moray House
+		  College. While at Edinburgh, Walter Ledermann, a young German, became Thomson's
+		  private assistant.</p> 
+		<p>Walter Ledermann was born in Berlin, 18 March 1911. He left Germany in
+		  1934 and came to St. Andrews in Scotland as a research student at the
+		  University. He obtained his St. Andrews Ph.D in 1936. In 1937 he became a
+		  Lecturer in Dundee and a private assistant to Thomson at the University of
+		  Edinburgh. Between 1938 and 1946 he was back at St. Andrews, and in 1940 he was
+		  awarded the degree of D.Sc. by the University of Edinburgh, the same year that
+		  he had become a British citizen. In 1944 he was elected as a Fellow of the
+		  Royal Society of Edinburgh. Throughout the late 1930s and into the 1940s and
+		  1950s, professional correspondence between Ledermann and Thomson was
+		  maintained.</p> 
+		<p>Thomson was knighted in 1949 and was also awarded the Order of Polonia
+		  Restituta. He retired in 1951. His publications include 
+		<title>The essentials of mental measurement</title> written with Dr.
+		William Brown, 
+		<title>Instinct, intelligence and character, an educational
+		  psychology</title>, 
+		<title>A modern philosophy of education</title>, and 
+		<title>The geometry of mental measurement</title>. Thomson was also
+		involved in the Northumberland mental tests, and the Moray House tests.</p> 
+		<p>Sir Godfrey Hilton Thomson died in Edinburgh on 9 February 1955. </p> 
+		<p>Ledermann had gone on to become a Lecturer at the University of
+		  Manchester in 1946, and he remained there until 1962 when he was appointed
+		  Reader at the University of Sussex. At Sussex he was one of the founding
+		  members of the School of Physical Sciences, and in 1965 he became Professor of
+		  Mathematics. Ledermann retired in 1978. He celebrated his 90th birthday in
+		  2001.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>The collection is composed of manuscript and typescript correspondence
+		  (largely letters from) Sir Godfrey Thomson between 1937 and 1954. The material
+		  includes: sheaf of correspondence (dated Feb. 1937 - Dec. 1937), Thomson to
+		  Ledermann / Horst (36 letters/postcards/items); sheaf of correspondence (dated
+		  New Years Day 1938 - Dec. 1938), Thomson to Ledermann, and some Ledermann to
+		  Thomson, and Bartlett to Thomson (58 letters/postcards/items); and, a sheaf of
+		  correspondence (dated 1939 - 1954), Thomson to Ledermann, and Thomson to Herdan
+		  (circa 50 letters/postcards/items).</p> 
+		<p>The mathematical subjects within the letters range from factorial
+		  analysis, pentad criterion, multivariate selection, correlation between
+		  estimation and selection, Bartlett's method of estimating factors, boundary
+		  conditions, minimum trace and minimum Thorstone rank, tetrad criterion,
+		  univariate selection, profile correlations and Thurstone residues, Spearman
+		  matrix, and reciprocity of persons and tests. Other topics include: social
+		  invitations; advice on articles for journals; lists of books for purchase;
+		  correlations between persons; and, tests results.</p> 
+		<p>Among the letters too there are occasional off-prints (usually single
+		  pages) from academic journals, and transcripts of formulae and estimates.</p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but also contact repository for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared</p> 
+		</otherfindaid> 
+		<relatedmaterial encodinganalog="isadg(2)353"> 
+		  <head>Related Material</head> 
+		  <p>There is a collection of correspondence with Sir Godfrey H. Thomson
+			 at the University of Adelaide Library, South Australia. Being: Correspondence
+			 of Sir R.A. Fisher. Calendar of Correspondence with Godfrey H. Thomson
+			 (Edinburgh). May 1930–December 1947. Consisting of 29 letters, including
+			 enclosure of letter to Thomson from A.C. Aitken dated 31 May 1931. 4 June 1930,
+			 11 June 1930, 16 January 1934, 27 March 1934, 3 November 1937, 23 July 1940.
+			 </p> 
+		</relatedmaterial> 
+		<note encodinganalog="isadg(2)361" audience="external">		  <!--General notes-->
+		  <p>The biographical/administrative history was compiled using: (1) for
+			 Thomson, 
+		  <title>Who was who. 1951-1960.</title> London: Adam and Charles Black,
+		  1961; (2) also for Thomson, 
+		  <title>University of Edinburgh journal.</title> Vol.17. 1953-1955. pp.
+		  255-256; (3) 
+		  <title>The MacTutor history of mathematics archive</title>.Full-text
+		  [online]. 
+		  <extref
+		  href="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Ledermann.html">Walter
+			 Ledermann</extref> [Accessed 2 September 2005]. </p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p><?xm-replace_text {Archivist's Note}?></p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph
+			 altrender="a">Mathematicians</emph></subject> 
+		  <subject><emph altrender="a">Mathematics</emph></subject> 
+		  <subject><emph altrender="a">Intelligence tests</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph
+			 altrender="surname">Thomson</emph><emph altrender="title">Sir</emph><emph
+			 altrender="forename">Godfrey H.</emph><emph
+			 altrender="dates">1881-1955</emph><emph altrender="epithet">Psychologist,
+			 Mathematical physicist</emph></persname> 
+		  <persname><emph altrender="surname">Ledermann</emph><emph
+			 altrender="title">Professor</emph><emph altrender="forename">Walter</emph><emph
+			 altrender="dates">b. 1911</emph><emph
+			 altrender="epithet">Mathematician</emph></persname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

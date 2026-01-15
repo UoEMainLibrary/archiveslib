@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-1" countrycode="GB">GB
+		237 Coll-1 </eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>The Laing Collection </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc audience="internal"> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-Coll-1"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections</corpname>
+		  </repository> 
+		<unitid encodinganalog="isadg(2)311">GB 237 Coll-1 </unitid> 
+		<physloc>Coll-1 </physloc> 
+		<physloc
+		 label="Shelfmark">La.I - La.V</physloc><unittitle
+		encodinganalog="isadg(2)312">The Laing Collection </unittitle> 
+		<unitdate encodinganalog="isadg(2)313" normal="800-1899">9th century -
+		  19th century </unitdate> 
+		<origination encodinganalog="isadg(2)321">David Laing (1793-1878)
+		  </origination> 
+		<physdesc encodinganalog="isadg(2)315"> <extent>circa 300 boxes, circa
+		  740 volumes (maximum 72 linear metres). </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<p>David Laing, eminent historian, antiquary and bibliographer, was the
+		  second son of the Edinburgh bookseller William Laing (1764-1832) and was born
+		  on 20 April 1793. He was educated at the Canongate grammar school and later on
+		  attended Greek classes at Edinburgh University. At the age of fourteen he
+		  became apprenticed to his father who, at the time, was the only bookseller in
+		  Edinburgh dealing in foreign literature. Laing was able, occasionally, to
+		  travel abroad in search of rare or curious books. In 1821, he became a partner
+		  in his father's business and throughout his life he was an avid collector of
+		  manuscripts and rescued many from destruction. The first published work of his
+		  own was 
+		<title>Auctarium Bibliothecae Edinburgenae sive Catalogus Librorum quos
+		  Gulielmus Drummondus ab Hawthornden D.D.Q. Anno 1627 </title> (1815). Among
+		other works, Laing also reprinted Thomas Craig's 
+		<title>Epithalamium on the marriage of Darnley and Mary Stuart </title>
+		(1821). When Sir Walter Scott founded the Bannatyne Club in 1823 for the
+		printing of material and tracts relating to Scottish history and literature,
+		Laing - a friend of Scott's - became Secretary of the Club and chief organiser
+		until its dissolution in the 1860s. Laing was also associated with the
+		Abbotsford Club, the Spalding Club, and the Wodrow Society, each of which had
+		been set up for the publication of manuscripts and for the revival of old
+		texts. When the keepership of the Advocates' Library fell vacant in 1818, Laing
+		was a candidate but was not elected. He became Keeper of the Library to the
+		Society of Writers to Her Majesty's Signet, a post which he occupied from 1837
+		until his death. On his appointment to the post, he gave up his business as a
+		bookseller and disposed of the stock in a public sale. Laing died at
+		Portobello, in Edinburgh, on 18 October 1878. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<p>After the death of David Laing, his private library was sold in an
+		  auction occupying thirty-one days. His collection of charters and other papers
+		  is of national importance and the most distinguished of its kind in any
+		  Scottish university. It is an essential source for the 18th century, and a much
+		  used one for all periods of Scottish history from the earliest times. The Laing
+		  Collection falls into five sections, designated as La.I., La.II., La.III.,
+		  La.IV., and La.V. </p> 
+	 </scopecontent> 
+	 <acqinfo encodinganalog="isad(g) 3.2.5./marc 541"> 
+		<p>The Laing collection, the largest single manuscript collection in
+		  Edinburgh University Library, was bequeathed in 1878. </p> 
+	 </acqinfo> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Laing</emph> <emph altrender="forename">David</emph>
+		  <emph altrender="dates">1793-1878</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Laing</emph> <emph altrender="forename">William</emph>
+		  <emph altrender="dates">1764-1832</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Scott</emph> <emph altrender="forename">Walter</emph>
+		  <emph altrender="title">Sir</emph> <emph altrender="dates">1771-1832</emph>
+		  </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Bannatyne
+		  Club</emph> <emph altrender="z">Scotland</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Signet
+		  Library</emph> <emph altrender="z">Great Britain</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Society of
+		  Writers to H.M. Signet</emph> <emph altrender="z">Edinburgh</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Antiquarians</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Archives</emph> <emph altrender="z">Scotland</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Bibliographers</emph> </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Historians</emph> </subject> 
+		<geogname role="subject" encodinganalog="marc 651"> <emph
+		  altrender="a">Scotland</emph> <emph altrender="x">History</emph> </geogname> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlists, H1; H2; H3; H4; H5; H.5.1; H5.2; H5.3; H5.4.2. Another
+		  important finding aid is the alphabetical Index to Manuscripts held at
+		  Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. As a result of a project
+		  supported by the Scottish Higher Education Funding Council (SHEFC), section IV
+		  of the Laing Collection has been conserved and catalogued. </p> 
+	 </otherfindaid> 
+	 <dsc type="analyticover"> 
+		<c01 level="series" id="GB-237-Coll-1-La.I"> 
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311">GB 0237 Coll-1/La.I </unitid> 
+			 <physloc label="Shelfmark">La.I</physloc><unittitle
+			 encodinganalog="isadg(2)312">Section I. Documents of Scottish literature and
+				history </unittitle> 
+			 <unitdate encodinganalog="isadg(2)313" normal="1400-1799">15th
+				century-18th century </unitdate> 
+			 <physdesc encodinganalog="isadg(2)315"> <extent>4 boxes, 1 folder, 2
+				volumes </extent> </physdesc> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <p>Documents of Scottish literature and history constitute Section I
+				of the Laing Collection with shelfmarks La.I. The collection contains
+				historical documents and royal letters from the time of King James III to the
+				Union of Scotland with England in 1707. There are documents with original
+				autograph signatures or holograph documents by various statesmen and noblemen,
+				and papers relating to, and letters by, ecclesiastical persons. This Section
+				also defines a band of material including papers, letters, accounts, and
+				warrants signed by English statesmen and others, and by foreign monarchs and
+				others. There are papers illustrating the ecclesiastical history of Scotland
+				from 1634 to 1685, and papers of military interest. </p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+			 <p>Contact the repository for details </p> 
+		  </accessrestrict> 
+		  <controlaccess> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Archives</emph> <emph altrender="z">Scotland</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Church history</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Church records and registers</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Military history</emph> </subject> 
+			 <geogname role="subject" encodinganalog="marc 651">
+				<emph altrender="a">Scotland</emph> <emph altrender="x">History</emph>
+				</geogname> 
+		  </controlaccess> 
+		  <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+			 <p>Handlist, H1. Another important finding aid is the alphabetical
+				Index to Manuscripts held at Edinburgh University Library, Special Collections
+				and Archives. Additions to the typed slips in sheaf binders were made until
+				1987. </p> 
+		  </otherfindaid> 
+		</c01> 
+		<c01 level="series" id="GB-237-Coll-1-La.II"> 
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311">GB 237 Coll-1/La.II </unitid> 
+			 <physloc label="Shelfmark">La.II</physloc><unittitle
+			 encodinganalog="isadg(2)312">Section II. Documents of Scottish literature and
+				history </unittitle> 
+			 <unitdate encodinganalog="isadg(2)313" normal="1500-1899">16th
+				century-19th century </unitdate> 
+			 <physdesc encodinganalog="isadg(2)315"> <extent>24 volumes, 139
+				boxes, 2 folders, 1 tube (22 linear metres) </extent> </physdesc> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <p>Documents of Scottish literature and history constitute Section II
+				of the Laing Collection with shelfmarks La.II. The collection contains
+				ecclesiastical, literary, scientific, legal, military and other miscellaneous
+				papers. </p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+			 <p>Contact the repository for details </p> 
+		  </accessrestrict> 
+		  <controlaccess> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Archives</emph> <emph altrender="z">Scotland</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Church history</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Law</emph> <emph altrender="x">History</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Military history</emph> </subject> 
+			 <geogname role="subject" encodinganalog="marc 651">
+				<emph altrender="a">Scotland</emph> <emph altrender="x">History</emph>
+				</geogname> 
+		  </controlaccess> 
+		  <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+			 <p>Handlists, H1; H5.4.2. Another important finding aid is the
+				alphabetical Index to Manuscripts held at Edinburgh University Library, Special
+				Collections and Archives. Additions to the typed slips in sheaf binders were
+				made until 1987. </p> 
+		  </otherfindaid> 
+		</c01> 
+		<c01 level="series" id="GB-237-Coll-1-La.III"> 
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311">GB 0237 Coll-1/La.III </unitid> 
+			 <physloc label="Shelfmark">La.III</physloc><unittitle
+			 encodinganalog="isadg(2)312">Section III. Bound volumes </unittitle> 
+			 <unitdate encodinganalog="isadg(2)313" normal="1200-1899">13th
+				century-19th century </unitdate> 
+			 <physdesc encodinganalog="isadg(2)315"> <extent>circa 700 volumes, 12
+				boxes (24 linear metres) </extent> </physdesc> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <p>Bound volumes constitute Section III of the Laing Collection with
+				shelfmarks La.III. This long series of bound volumes includes copies of the
+				scriptures and portions of the scriptures on vellum; breviaries and missals on
+				vellum; treatises, discourses, sermons and notes on theological matters; and,
+				treatises and notes on philosophical matters. There is historical, legal, and
+				biographical material, and also letters. Within the series too there are some
+				well known Scottish musical texts, poems, and the miniatures of Jacobean London
+				in Michael van Meer's 
+			 <title>Stammboek </title>. The Section also contains the Thorkelin
+			 Correspondence, being letters addressed to Grimur Jonsson Thorkelin. </p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+			 <p>Contact the repository for details </p> 
+		  </accessrestrict> 
+		  <controlaccess> 
+			 <persname encodinganalog="marc 700"> <emph
+				altrender="surname">Thorkelin</emph> <emph altrender="forename">Grimur
+				Jonsson</emph> <emph altrender="dates">1752-1829</emph> </persname> 
+			 <persname encodinganalog="marc 700"> <emph
+				altrender="surname">Meer</emph> <emph altrender="forename">van</emph>
+				<emph altrender="epithet">Michael</emph> </persname> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Antiquarians</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Archives</emph> <emph altrender="z">Scotland</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Law</emph> <emph altrender="x">History</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Philosophy</emph> </subject> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Theology</emph> </subject> 
+			 <geogname role="subject" encodinganalog="marc 651">
+				<emph altrender="a">Scotland</emph> <emph altrender="x">History</emph>
+				</geogname> 
+		  </controlaccess> 
+		  <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+			 <p>Handlists, H4; H5; H5.1; H5.2; and, H5.3. Handlists H4 and H5
+				refer to the 2 volumes of the 
+			 <title>Report on the Laing Manuscripts preserved in the University of
+				Edinburgh </title> (1914 and 1925) by the Historical Manuscripts Commission.
+			 Handlist H5.2 is 
+			 <title>The Stam Boek von den Michiel van Mer </title>, by David
+			 Cuthbertson. Handlist H5.3 is the 
+			 <title>Thorkelin Correspondence </title> being a list from a Ph.D.
+			 thesis submitted at Edinburgh (1972) by Miss E.H. Harvey Wood. Another
+			 important finding aid is the alphabetical Index to Manuscripts held at
+			 Edinburgh University Library, Special Collections and Archives. Additions to
+			 the typed slips in sheaf binders were made until 1987. </p> 
+		  </otherfindaid> 
+		  <bibliography> 
+			 <p> 
+			 <title>Letters to an Antiquary: the literary correspondence of G.J.
+				Thorkelin (1752-1829) </title>. Harvey Wood, E.H., 1971-72, Ph.D., Edinburgh
+			 </p> 
+		  </bibliography> 
+		</c01> 
+		<c01 level="series" id="GB-237-Coll-1-La.IV"> 
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311">GB 0237 Coll-1/La.IV </unitid> 
+			 <physloc label="Shelfmark">La.IV</physloc><unittitle
+			 encodinganalog="isadg(2)312">Section IV. The Papers of David Laing </unittitle>
+			 
+			 <unitdate encodinganalog="isadg(2)313" normal="1115-1895"
+			  certainty="uncertain">circa 1115-1895 </unitdate> 
+			 <physdesc encodinganalog="isadg(2)315"> <extent>40 volumes, 72 boxes
+				(10 linear metres) </extent> </physdesc> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <p>The Papers of David Laing constitute Section IV of the Laing
+				Collection with shelfmarks La.IV. Contained within the Papers are: Laing family
+				documents, biographical material relating to David Laing, Laing family
+				correspondence, and Bannatyne Club papers; notes and drafts etc on various
+				subjects including personal subjects, artists, architects, engravers, drama,
+				Edinburgh, printers and early printing, and art; transcripts of poems and notes
+				on poems, poets and prose; royal letters including papers, notes and
+				transcripts of letters of Margaret, Queen of Scotland and of James V,
+				1503-1537; transcripts of State Papers, Scottish correspondence; transcripts of
+				letters of the Duke of Rothes between 1660-1671; transcripts and notes relating
+				to John Knox; and, the Wodrow transcripts. </p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+			 <p>Contact the repository for details </p> 
+		  </accessrestrict> 
+		  <controlaccess> 
+			 <persname encodinganalog="marc 700"> <emph altrender="surname">James
+				IV</emph> <emph altrender="forename">King of Scotland</emph>
+				<emph altrender="dates">1473-1513</emph> </persname> 
+			 <persname encodinganalog="marc 700"> <emph altrender="surname">James
+				V</emph> <emph altrender="forename">King of Scotland</emph>
+				<emph altrender="dates">1512-1542</emph> </persname> 
+			 <persname encodinganalog="marc 700"> <emph
+				altrender="surname">Knox</emph> <emph altrender="forename">John</emph>
+				<emph altrender="dates">c1514-1572</emph> </persname> 
+			 <persname encodinganalog="marc 700"> <emph
+				altrender="surname">Margaret</emph> <emph altrender="forename">Queen</emph>
+				<emph altrender="epithet">consort of James IV</emph> <emph
+				altrender="epithet">King of Scotland</emph> <emph
+				altrender="dates">1489-1541</emph> </persname> 
+			 <persname encodinganalog="marc 700"> <emph
+				altrender="surname">Leslie</emph> <emph altrender="forename">John</emph>
+				<emph altrender="epithet">Earl of Rothes</emph> <emph
+				altrender="dates">c1630-1681</emph> </persname> 
+			 <persname encodinganalog="marc 700"> <emph
+				altrender="surname">Tudor</emph> <emph altrender="forename">Margaret</emph>
+				<emph altrender="dates">1489-1541</emph> </persname> 
+			 <corpname encodinganalog="marc 610"> <emph altrender="a">Bannatyne
+				Club</emph> <emph altrender="a">Scotland</emph> </corpname> 
+			 <geogname role="subject" encodinganalog="marc 651">
+				<emph altrender="a">Scotland</emph> <emph altrender="x">History</emph>
+				</geogname> 
+		  </controlaccess> 
+		  <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+			 <p>Handlist, H4; Another important finding aid is the alphabetical
+				Index to Manuscripts held at Edinburgh University Library, Special Collections
+				and Archives. Additions to the typed slips in sheaf binders were made until
+				1987. As a result of a project supported by the Scottish Higher Education
+				Funding Council (SHEFC), section IV of the Laing Collection has been conserved
+				and catalogued. </p> 
+		  </otherfindaid> 
+		</c01> 
+		<c01 level="series" id="GB-237-Coll-1-La.V"> 
+		  <did> 
+			 <unitid encodinganalog="isadg(2)311">GB 0237 Coll-1/La.V </unitid> 
+			 <physloc label="Shelfmark">La.V</physloc><unittitle
+			 encodinganalog="isadg(2)312">Section V. The Laing Charters </unittitle> 
+			 <unitdate encodinganalog="isadg(2)313" normal="854-1837">854-1837
+				</unitdate> 
+			 <physdesc encodinganalog="isadg(2)315"> <extent>66 boxes, and
+				miscellaneous (10 linear metres) </extent> </physdesc> 
+		  </did> 
+		  <scopecontent encodinganalog="isadg(2)331"> 
+			 <p>The Laing Charters constitute Section V of the Laing Collection
+				with shelfmarks La.V. There are some 3,300 charters and writs, mainly Scottish,
+				and mainly of the 16th and 17th centuries, although the earliest is a charter
+				in Anglo-Saxon dated 854 and the latest is dated 1837. Some of the charters
+				still have their original seals. The persons referred to in the material
+				include abbots, vicars, parsons, baillies, provosts, and persons of high rank,
+				office and title. There are armorial seals, seals with merchant's marks,
+				episcopal seals, monastic seals, local seals, royal seals, and foreign seals.
+				</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+			 <p>Contact the repository for details </p> 
+		  </accessrestrict> 
+		  <controlaccess> 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Charters</emph> <emph altrender="x">Collections</emph> </subject>
+			 
+			 <subject source="lcsh" encodinganalog="marc 650"> <emph
+				altrender="a">Seals (Law)</emph> </subject> 
+			 <geogname role="subject" encodinganalog="marc 651">
+				<emph altrender="a">Scotland</emph> <emph altrender="x">History</emph>
+				</geogname> 
+		  </controlaccess> 
+		  <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+			 <p>Handlists, H2 and H3; Handlist H2 is the work by John Anderson, 
+			 <title>Calendar of the Laing Charters </title>, Edinburgh: James
+			 Thin, 1899. Handlist H3 is 
+			 <title>Seals on the Laing Charters </title> described by William Rae
+			 Macdonald. Another important finding aid is the alphabetical Index to
+			 Manuscripts held at Edinburgh University Library, Special Collections and
+			 Archives. Additions to the typed slips in sheaf binders were made until 1987.
+			 </p> 
+		  </otherfindaid> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-25">GB 237
+		Coll-25</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers of Thomas
+			 Nelson &amp;amp; Sons Ltd. </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-25">
+    <did>
+      <unittitle>Papers of Thomas
+			 Nelson &amp;amp; Sons Ltd. </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-25</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">Gen. 1728/1-821 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers of Thomas Nelson &amp;amp; Sons
+		  Ltd. </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1861-1960">1861-1960 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>66 boxes,
+		  156 document bundles, 290 letter books, 27 ledgers (64 linear metres).
+		  </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The British publishing firm of Nelson is still a prominent one. The
+		  firm has a long history and its name is derived from a small bookselling
+		  business established in Edinburgh in 1789. The founder of the bookshop was
+		  Thomas Neilson (1780-1861). Neilson extended his interests to include
+		  publishing, particularly of religious and educational texts, and he began with
+		  the publication, in monthly parts, of 
+		The Pilgrim's Progress . In 1818, the name of the firm was
+		changed to Thomas Nelson because of the tendency among customers to misspell
+		Neilson. In 1835, Thomas was joined in the business by his son William Nelson
+		(1816-1887) and a little later by his younger son Thomas Nelson (1822-1892) who
+		joined the firm at the age of seventeen. The business, located in Edinburgh's
+		West Bow, gradually built up and extended based on the formula of reprinting
+		standard authors at low prices. In 1852, the elder Thomas retired, and in 1858
+		the name of the firm changed to Thomas Nelson and Sons, as it has remained ever
+		since. Earlier, in 1844, the younger Thomas was given the task of establishing
+		a London branch in Paternoster Row, and in 1854 a New York office opened in the
+		city's Nassau Street. In Edinburgh during 1845-46, the firm transferred from
+		the West Bow to larger custom-built premises at Hope Park just to the south of
+		the old part of the city. At Hope Park, with a workforce of six hundred, all
+		the activities connected with the production of books were carried out under
+		one roof: printing, stereotyping, bookbinding, lithographing, engraving,
+		woodcutting, warehousing, and even dyeing of the plain white calico used in
+		bindings. From 1856, colour-printing became a feature of their production and
+		by 1860 the firm was the leading publisher of cheap colour-printed titles. In
+		1878 however, the Hope Park factory caught fire and nothing was saved except
+		the stereotyped plates. Even as the building burned, Thomas was ordering new
+		machinery and temporary accommodation, and within a year new buildings were
+		raised and all departments were in full production again. From his earliest
+		years with the firm, Thomas exhibited a mechanical bent and in 1850 he invented
+		a rotary press with curved stereotyped plates fixed on cylinders and with a
+		continuous web of paper - the type of press used in the newspaper industry well
+		into the 20th century. The production of Thomas Nelson and Sons was largely
+		focused on story books and books of travel and adventure by popular authors,
+		and particularly intended for young readers. A series of school books was
+		initiated, and after the Education Act of 1871 which had prompted a demand for
+		improved school-books Nelson's began their series of 
+		Royal readers . In the early 1900s, and certainly in 1907,
+		John Buchan (1875-1940), writer of fiction and history, was a member and
+		literary adviser to Thomas Nelson and Sons. The firm also published his work.
+		Nelson had also published works by Bagehot, Belloc, G.K.Chesterton, Erskine
+		Childers, H. J. Newbolt, Mark Twain, and H.G. Wells, among many others. Today,
+		Nelson's is one of Britain's leading publishers of educational titles, offering
+		materials for all ages, from nursery level to further education, and in all
+		subject areas. In March 2000 its head office was in Walton-on-Thames, Surrey.
+		</p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The Papers of Thomas Nelson &amp;amp; Sons Ltd. consist of: general
+		  day books, ledgers, account books, details of sundry creditors, letter books,
+		  and commission books for the years 1861-1915; general correspondence and
+		  letters to and from a variety of individuals 1895-1960; material from trade
+		  representatives, editorial notices, sales department material; and other
+		  miscellaneous material. Within the Nelson Papers there is a very large body of
+		  correspondence between John Buchan and Nelson's covering the years 1909-1929.
+		  The correspondence includes letters about manuscripts submitted from authors,
+		  about photographs and other illustrations for works, about translations of
+		  works published, about terms of contract and royalties, and about new work
+		  published by other firms. The correspondence also deals with Buchan's own
+		  material. The Buchan Correspondence consists of over 4,700 letters and has been
+		  given the shelfmark Gen. 1728/B/1-14. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlists, H25; H25.1 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

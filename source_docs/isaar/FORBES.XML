@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0234 20011019 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0234</titleproper> 
+		  <subtitle>Forbes | Edward | 1815-1854 | professor of natural history,
+			 University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Sarah Higgins , Edinburgh
+			 University Library Special Collections Division, 19 October 2001</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20011019">19 October 2001</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0234</titleproper> 
+		<subtitle>Forbes | Edward | 1815-1854 | professor of natural history,
+		  University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Sarah Higgins , Edinburgh
+		  University Library Special Collections Division, 19 October 2001</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20011019">19 October 2001</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0234"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0234</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0234" normal="Forbes, Edward">Forbes | Edward |
+		  1815-1854 | professor of natural history, University of Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Edward Forbes was born 
+			 <date type="single" normal="18150212">12 February 1815</date> in
+			 Douglas, Isle of Man and died 
+			 <date type="single" normal="18541118">18 November 1854</date>, near
+			 Edinburgh. He was a pioneer in the field of biogeography and palaeontology, his
+			 major work being the essay <bibref><title>On the Connection Between the
+			 Distribution of the Existing Fauna and Flora of the British Isles and the
+			 Changes Which Have Affected their Area</title>, (<imprint><date
+			 type="publication" normal="1846"
+			 certainty="certain">1846</date>).</imprint></bibref></p> 
+		  <p>As a student at the University of Edinburgh, he studied medicine,
+			 but also undertook instruction in natural history under Robert Jameson and
+			 Robert Graham.</p> 
+		  <p>In 
+			 <date type="single" normal="1833">1833</date> Forbes undertook a
+			 botanical tour of Norway, publishing his results in the <bibref><title>Magazine
+			 for Natural History</title></bibref>. Shortly afterwards he gave up medicine as
+			 a career and attended natural history lectures in Paris before travelling to
+			 Algeria to study fresh-water and land molluscs. He served as naturalist on HMS
+			 Beacon, surveying both the Grecian Archipelago and parts of Asia Minor in both 
+			 <date type="single" normal="1838">1838</date> and 
+			 <date type="single" normal="1841">1841</date>. </p> 
+		  <p>In 
+			 <date type="appointmentdate" normal="1842">1842</date>, Forbes became
+			 the secretary and curator of the Museum of Economic Geology, run by the
+			 Geological Society of London at Jermyn Street. In 
+			 <date type="chairdate" normal="1843">1843</date> he was appointed
+			 professor of botany at King's College, London. In 
+			 <date type="appointmentdate" normal="1844">1844</date> he resigned
+			 from the Museum of Economic Geology to take up the duties of palaeontologist to
+			 the Geological Survey of Great Britain. In 
+			 <date type="chairdate" normal="1851">1851</date> he progressed to
+			 professor of natural history at the Government School of Mines. 3 years later
+			 he was appointed professor of natural history at the University of Edinburgh,
+			 but died 6 months after taking up the position.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Forbes' father was a banker</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>A History of British Mollusca, and Their
+			 Shells</title>, (<imprint><date type="publication" normal="1853"
+			 certainty="certain">1853</date>)</imprint></bibref></p> 
+		  <p><bibref><title> A History of British Starfishes, and Other Animals
+			 of the Class Echinodermata</title>, (<imprint><date type="publication"
+			 normal="1841" certainty="certain">1841</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Travels in Lyela</title>, (<imprint><date
+			 type="publication" normal="1847"
+			 certainty="certain">1847</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1843">1843</date>: Elected
+			 Fellow, Linnean Society (FLS)</p> 
+		  <p><date type="appointmentdate" normal="1845">1845</date>: Elected
+			 Fellow, Royal Society (FRS)</p> 
+		  <p><date type="appointmentdate" normal="1853">1853</date>: Appointed
+			 President, Geological Society of London</p> 
+		  <p><date type="appointmentdate" normal="1853">1853</date>: Appointed
+			 President, British Association Geological Section</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref><title render="italic">The Concise Dictionary of National
+			 Biography, From Earliest Times to 1985, vol. i </title>, (<imprint>
+			 <geogname authfilenumber="532" normal="Oxford (England)">Oxford</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			  certainty="certain">1992</date>)</imprint></bibref> </p> 
+		  <p> <bibref> <title render="italic">Encyclopaedia Britannica, vol
+			 9</title>, (<imprint> <geogname normal="London (England)"
+			 authfilenumber="530">London</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			  certainty="certain">1964</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref><corpname
+			 normal="National Council on Archives">National Council on Archives</corpname>
+			 <title>Rules for the Construction of Personal, Place and Corporate Names (NCA
+			 Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Higgins, Sarah">Sarah Higgins</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20010919">19 October
+				2001</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

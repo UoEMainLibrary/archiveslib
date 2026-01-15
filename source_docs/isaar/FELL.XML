@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1862 20020624//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1862</titleproper> 
+		  <subtitle>Fell | Dame | Honor Bridget | 1900-1986 | biologist and
+			 Director of Strangeways Research Laboratory</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+			 University Library Special Collections Division, 24 June 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020211">24 June 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1862</titleproper> 
+		<subtitle>Fell | Dame | Honor Bridget | 1900-1986 | biologist and
+		  Director of Strangeways Research Laboratory</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+		  University Library Special Collections Division, 11 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020211">11 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1862"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1862</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1862" normal="Fell, Dame, Honor Bridget">Fell |
+		  Dame | Honor Bridget | 1900-1986 | biologist and Director of Strangeways
+		  Research Laboratory</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Honor Fell's contribution to science was in the development of the
+			 'organ culture method'. This enabled scientists to grow living diffentiated
+			 cells, largely obtained from the embryos of warm blooded animals, to create
+			 cultures that mimic the behaviour of organs in the animal body. She inherited
+			 her interest in animals and biology from her father and as a child, and whilst
+			 at school, she kept ferrets. Her final years at school were spent at Madras
+			 College, St. Andrews from where she went to Edinburgh University in 
+			 <date normal="1918" type="single">1918</date>. In 
+			 <date normal="1922" type="single">1922</date> she graduated in
+			 Zoology.</p> 
+		  <p>At the time, the Director at the Institute of Animal Breeding at
+			 Edinburgh was Professor Francis Crew who sent her to Dr. Strangeways at
+			 Cambridge to acquire the new technique of tissue culture. Crew describes how
+			 her extraordinary talents were recognised, and in 
+			 <date normal="1923" type="single">1923</date> she was offered a place
+			 at the Strangeways Laboratory. Whilst working there she obtained her PhD in
+			 (<date normal="1924" type="single">1924</date>) and later her DSc in (<date
+			 normal="1932" type="single">1932</date>) from the University of Cambridge. The
+			 development of specific cell groups or organ cultures enabled the exploration
+			 of the life, characteristics and reactions of cells to beneficial and adverse
+			 substances without the risks involved in exposing the cells of living human
+			 organs.</p> 
+		  <p>Fell specialised in the cells of bone and cartilage. Her most
+			 significant work was in the role of the immune system in causing rheumatoid
+			 arthritis. Her second contribution to science was the direction, with Dr F.G.
+			 Spears, of the Strangeways Laboratory. Originally this was a small laboratory
+			 founded next to the Cambridge Research Hospital for investigating the pathology
+			 of rheumatoid arthritis and linked diseases. Honor became director in 
+			 <date normal="1927" type="single">1927</date>. The laboratory's
+			 survival was partly due to her skilful financial management of research grants
+			 from the Medical Research Council and donors. In the 
+			 <date normal="1930/1939" type="single">1930s</date> the Laboratory
+			 pioneered the development of radiobiology - the effects of X-rays on living
+			 animal tissue. This was a direct result of Honor's offer of study facilities to
+			 scientists who were refugees of the 2nd World War. </p> 
+		  <p>Despite limited resources the laboratory expanded, particularly with
+			 the construction in 
+			 <date normal="1938" type="single">1938</date> of a new wing funded by
+			 the Rockerfeller Foundation. By 
+			 <date normal="1970" type="single">1970</date> the Laboratory
+			 possessed an international reputation and comprised 62 scientists and 29
+			 technicians from all over the world. In retirement, in the role of a research
+			 worker at the Department of Immunology at Cambridge University Department of
+			 Pathology, she once again took up the immunobiology of rheumatoid disease. She
+			 returned to Strangeways in 
+			 <date normal="1976" type="single">1976</date> and remained there,
+			 still working in the laboratory, until within four weeks of her death in 
+			 <date normal="1986" type="deathdate">1986</date>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p> Honor Fell published on organ culture techniques with Strangeways
+			 (<date normal="1920/1929" type="inclusive" certainty="uncertain">1920s</date>),
+			 Robison (<date normal="1930-1939" type="inclusive"
+			 certainty="uncertain">1930s</date>), Allsopp and Brieger (<date
+			 normal="1940/1949" type="inclusive" certainty="uncertain">1940s</date>). In the
+			 
+			 <date normal="1950/1959" type="inclusive"
+			 certainty="uncertain">1950s</date> she published with Dingle, Mellanby and Pelc
+			 on the effects of Vitamin A and cortisone on tissue culture. Her rheumatoid
+			 work was carried out in the 
+			 <date normal="1960/1969" type="inclusive"
+			 certainty="uncertain">1960s</date> and 
+			 <date certainty="uncertain" normal="1970/1979"
+			 type="inclusive">1970s</date> with Dingle, Coombs and Barratt. </p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: Fell's bibliography comprises 145 papers the
+			 first was published in 1922, and the last posthumously in 1986. Biographical
+			 sources: Dame Janet Vaughan, Biographical Memoirs of Fellows of the Royal
+			 Society 1987, vol. 33, pp237-259</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date normal="1943" type="appointmentdate">1943</date>: Appointed
+			 Foulerton Research Fellow, Royal Society</p> 
+		  <p><date normal="1953" type="appointmentdate">1953</date>: Elected
+			 Fellow, Royal Society of London</p> 
+		  <p><date normal="1955" type="appointmentdate">1955</date>: Elected
+			 Fellow, Girton College, Cambridge</p> 
+		  <p><date normal="1957" type="appointmentdate">1957</date>: Elected
+			 Foreign Honorary Member, American Academy of Arts and Sciences, Boston</p> 
+		  <p><date normal="1959" type="single">1959</date>: Awarded Honorary LLD,
+			 Edinburgh</p> 
+		  <p><date normal="1963" type="single">1963</date>: Awarded Dame of the
+			 British Empire</p> 
+		  <p> 
+			 <date normal="1963" type="appointmentdate">1963</date>: Appointed
+			 Royal Society Research Professor</p> 
+		  <p><date normal="1964" type="single">1964</date>: Awarded Honorary DSc,
+			 Oxon</p> 
+		  <p><date normal="1964" type="single">1964</date>: Awarded Honorary ScD,
+			 Harvard</p> 
+		  <p><date normal="1965" type="single">1965</date>: Awarded Prix
+			 Charles-Léopold Mayer, French Academy of Science</p> 
+		  <p><date normal="1975" type="single">1975</date>: Awarded Honorary MD,
+			 Leiden</p> 
+		  <p><date normal="1977" type="appointmentdate">1977</date>: Appointed,
+			 Walker-Ames Professor, University of Washington, Seattle</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Vaughan, Dame, Janet"
+			 role="editor">Vaughan, Dame Janet</persname><title>Biographical Memoirs of
+			 Fellows of the Royal Society, vol. 33</title>, ( <imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <date type="publication"
+			  normal="1987">1987</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="researcher" normal="Stewart, Margaret">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020211">24 June
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

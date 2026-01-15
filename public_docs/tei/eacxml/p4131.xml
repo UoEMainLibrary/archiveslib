@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4131</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2010-07-27">27 July 2010</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Scott Broderick</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+            <maintenanceEvent>
+                <eventType>revised</eventType>
+                <eventDateTime>15 January 2014</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Guinevere Barlow</agent>
+            </maintenanceEvent>
+        </maintenanceHistory><sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1851 census for Ardchattan</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 504/00 005/00 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1861 census for Ardchattan</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 504/00 005/00 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Ardchattan</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 504/00 001/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1881 census for Ardchattan</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1881 504/00 001/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote>
+            </source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1889 504/00 0010</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source>
+                <sourceEntry>Field notebook of Alexander Carmichael</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">GB 237 Coll-97/CW120/25</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote>
+            </source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4131</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">Carmichael</part>
+                <part localType="given">Mary</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Domestic servant, housekeeper, Linnieveithe, Glen Creran, Ardchattan</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1807" notBefore="1802" notAfter="1812"
+                        >c1807</fromDate><toDate standardDate="1889-08-08">8 August
+                    1889</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Mary Carmichael, daughter of Hugh Carmichael, tailor, and Margaret Carmichael née
+                    MacNiven, was born in the parish of Appin. Evidently she had an illegitimate
+                    child: this may or may not have been the girl recorded as her eight-year-old
+                    niece Bell Carmichael from Hamilton who was living with her in Achnacreebeag,
+                    Ardchattan Parish, in 1851 when she is first traceable on the census. Although
+                    Mary was then recorded as a pauper (labourer), by 1861 she was working as a
+                    dairymaid, living by herself in the same house. Ten years later she is recorded
+                    as a domestic servant in the household of Hugh MacColl, unmarried farmer at
+                    Dalachaolish on the south shore of Loch Creran. By 1881 she was living with her
+                    grandson Donald MacPhee, ploughman, his wife Mary and two sons, at Linneveithe,
+                    evidently a house just beyond Drumavuic on the south side of the River Creran. </p>
+                <p>Mary Carmichael died of palsy in 1889 and her grandson Donald MacPhee is recorded
+                    as witness on her death certificate.</p>
+                <p>Alexander Carmichael recorded the Fenian lay Laoidh na Ceàrdaich from Mary
+                    Carmichael, Drumavuic, on the 29 August 1883 [CW120/80], on the way back down
+                    Glen Creran after his first interview with the foxhunter Donald MacColl, ‘Am
+                    Brocair’, in Fasnacloich. The hurried way Carmichael dashed down the text
+                    suggests that he was not entirely involved with the performance. Mary may also
+                    have given Carmichael the items which followed: the song Am bun a’ chruidh cha
+                    chaidil mi [or, better, cha chaithris mi: see, for example, John Mackenzie
+                    (ed.), <span localType="mods-titleinfo">Sàr-Obair nam Bàrd Gaelach</span>
+                    (Edinburgh, 1882), 367, with an associated local legend concerning a fairy
+                    lover, as well as a tale about a changeling wife [CW120/82]. </p>
+                <chronList>
+                    <chronItem><date standardDate="1807" notAfter="1812" notBefore="1802"
+                            >c1807</date><placeEntry>Appin</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1883-08-29">29 August 1883</date><placeEntry>Glen
+                            Creran, Ardchattan</placeEntry><event>interviewed by Alexander
+                            Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1889-08-08">8 August
+                            1889</date><placeEntry>Linnieveithe, Glen Creran,
+                            Ardchattan</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

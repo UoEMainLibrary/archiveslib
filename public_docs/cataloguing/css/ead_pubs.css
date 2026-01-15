@@ -1,0 +1,515 @@
+ead:before
+{
+ display: block;
+ font-weight:bold;
+ text-align:center;
+ content: "Edinburgh University Library Special Collections: EAD catalogue";
+}
+
+ead
+{
+background-color: #cccccc;
+font-family: arial,sans-serif;
+}
+
+eadheader:before
+{
+display: block;
+background-color: #ccff99;
+  content: "HEADER METADATA";
+}
+
+eadheader
+{
+display: block;
+background-color: #ccff99;
+}
+
+eadid:before
+{
+display: block;
+content: "Reference code:";
+}
+
+eadid:after
+{
+display: block;
+font-style: italic;
+font-size: 8pt;
+content: "Complete in form 'GB 237 Coll-.....' or 'GB 237 EUA .....'.  All collections must be registered in the collections database..  Complete @publicid attribute.";
+}
+
+eadid
+{
+display: inline;
+background-color: #ffffff;
+content: " ";
+}
+
+filedesc:before
+{
+display: block;
+content: "Title:";
+}
+
+filedesc:after
+{
+display: block;
+font-style: italic;
+font-size: 8pt;
+content: "Title for fonds/collection.";
+}
+
+filedesc
+{
+display: inline;
+background-color: #ffffff;
+content: " ";
+}
+
+archdesc {
+  background-color: #FFCCCC;
+}
+
+descgrp {
+  background-color: #ffffcc;
+  padding-left: 5pt;
+}
+
+
+dsc:before
+{
+font-weight: bold;
+content: "Lower levels of description";
+}
+
+dsc {
+  display: block;
+  margin-left:5pt;
+  background-color: #9999cc;
+}
+
+c {
+  display:block;
+  background-color: #cccc99; 
+  margin-left: 5pt;
+  border-top-style:solid;
+  border-left-style:solid;
+  border-color: #000000;
+  border-width: 1px;
+  content: " " attr(level) attr(otherlevel);
+}
+
+head {
+  font-weight: bold;
+}
+
+p {
+  display: block;
+  padding: 2pt;
+  background-color: #ffffff;
+  content: " ";
+}
+
+item {
+  display: list-item;
+  margin-left: 12pt;
+  list-style-type: disc;
+}
+
+did {
+  background-color: #99FFFF;
+  margin-top: 5pt;
+  margin-bottom: 5pt;
+  margin-left: 5pt;
+  margin-right: 5pt;
+}
+
+title {
+  font-style: italic;
+}
+
+
+
+/*REPOSITORY*/
+
+repository 
+{
+  display: none;
+}
+
+unitid:before, physloc:before, unittitle:before, unitdate:before, physdesc:before, langmaterial:before, origination:before, bioghist:before, scopecontent:before
+{
+
+display: block;
+font-weight: bold;
+color: #000000;
+  border-top-style:solid;
+  border-right-style:solid;
+  border-left-style:solid;
+  border-color: #000000;
+  border-width: 1px;
+}
+
+unitid:after, physloc:after, unittitle:after, unitdate:after, physdesc:after, langmaterial:after, origination:after, bioghist:after, scopecontent:after
+{
+
+display: block;
+font-size: 8pt;
+font-style: italic;
+  border-bottom-style:solid;
+  border-right-style:solid;
+  border-left-style:solid;
+  border-color: #000000;
+  border-width: 1px;
+}
+
+unitid, physloc, unittitle, unitdate, physdesc, langmaterial, origination, bioghist, scopecontent
+{
+
+  display: inline;
+  background-color:#ffffff;
+  border-right-style:solid;
+  border-left-style:solid;
+  border-color: #000000;
+  border-width: 1px;
+  content:" ";
+}
+
+/*UNITID*/
+unitid:before
+{
+content:"Reference Code";
+} 
+
+unitid:after
+{
+  content:"Complete in form 'GB 237 Coll-.....' or 'GB 237 EUA .....'.  All collections must be registered in the collections database.";
+} 
+
+/* PHYSLOC*/
+ physloc:before
+{
+content:"Physical location or shelfmark";
+} 
+
+physloc:after
+{
+  content:"Enter physical location, box code(s) or shelfmark";
+} 
+
+/* UNITTITLE*/
+ unittitle:before
+{
+content:"Title";
+} 
+
+unittitle:after
+{
+  content:"Enter title";
+} 
+
+/* UNITDATE*/
+ unitdate:before
+{
+content:"Date(s)";
+} 
+
+unitdate:after
+{
+  content:"Enter date or datespan and also complete @normal attribute, all according to guidelines.";
+} 
+
+/* PHYSDESC*/
+ physdesc:before
+{
+content:"Extent and medium of the unit of description";
+} 
+
+physdesc:after
+{
+  content:"Enter extent in linear metres for fonds and either linear metres or number of units for lower-levels (remove @type and @unit attributes as applicable). Use <genreform> tag if required.";
+} 
+
+/* LANGMATERIAL*/
+ langmaterial:before
+{
+content:"Language(s) of material";
+} 
+
+langmaterial:after
+{
+  content:"Enter language of material into <language> tag, completing @lang attribute with 3-letter ISO code.  Repeat <language> tag if additional languages present.";
+}
+
+/* ORIGINATION*/
+ origination:before
+{
+content:"Name of creator(s)";
+} 
+
+origination:after
+{
+  content:"Enter name(s) of creator(s) wrapped in <persname>, <corpname> or <famname> tags, taken from Authorities Database.";
+}
+
+bioghist:after, scopecontent:after
+{
+  background-color:inherit;
+  content:"Enter text within <p> tags.  Use other sub-tags as appropriate.";
+}
+
+phystech:before, arrangement:before, custodhist:before, acqinfo:before, appraisal:before, accruals:before, accessrestrict:before, userestrict:before, altformavail:before, originalsloc:before, otherfindaid:before, relatedmaterial:before, bibliography:before, note:before, processinfo:before
+{
+display: block;
+background-color:#cccc99;
+font-weight: bold;
+color: #000000;
+  border-top-style:solid;
+  border-right-style:solid;
+  border-left-style:solid;
+  border-color: #000000;
+  border-width: 1px;
+}
+
+phystech:before
+{
+content: "Physical characteristics and technical requirements"
+}
+
+arrangement:before
+{
+content: "System of arrangement"
+}
+
+custodhist:before
+{
+content: "Archival history"
+}
+
+acqinfo:before
+{
+content: "Immediate source of acquisition or transfer"
+}
+
+appraisal:before
+{
+content: "Appraisal"
+}
+
+accruals:before
+{
+content: "Accruals"
+}
+
+accessrestrict:before
+{
+content: "Conditions governing access"
+}
+
+userestrict:before
+{
+content: "Conditions governing reproduction"
+}
+
+altformavail:before
+{
+content: "Existence and location of copies"
+}
+
+originalsloc:before
+{
+content: "Existence and location of originals"
+}
+
+otherfindaid:before
+{
+content: "Other finding aids"
+}
+
+relatedmaterial:before
+{
+content: "Related material"
+}
+
+bibliography:before
+{
+content: "Publication note"
+}
+
+note:before
+{
+content: "Note"
+}
+
+processinfo[encodinganalog = 'isadg(2)371']:before
+{
+content: "Archivists note"
+}
+
+processinfo[encodinganalog = 'isadg(2)373']:before
+{
+content: "Date of description"
+}
+
+processinfo[encodinganalog = 'isadg(2)371']:after
+{
+  display: block;
+  border-bottom-style:solid;
+  border-right-style:solid;
+  border-left-style:solid;
+  border-color: #000000;
+  border-width: 1px; 
+  font-size: 8pt;
+  font-style: italic;
+  background-color:inherit;
+  content:"Enter text within <p> tags.  Use other sub-tags as appropriate.";
+}
+
+processinfo[encodinganalog = 'isadg(2)373']:after
+{
+  display: block;
+  border-bottom-style:solid;
+  border-right-style:solid;
+  border-left-style:solid;
+  border-color: #000000;
+  border-width: 1px; 
+  font-size: 8pt;
+  font-style: italic;
+  background-color:inherit;
+  content:"Enter text within <p> tags.  Use other sub-tags as appropriate.";
+}
+
+phystech:after, arrangement:after, custodhist:after, acqinfo:after, appraisal:after, accruals:after, accessrestrict:after, userestrict:after, altformavail:after, originalsloc:after, otherfindaid:after, relatedmaterial:after, bibliography:after, note:after
+{
+  display: block;
+  border-bottom-style:solid;
+  border-right-style:solid;
+  border-left-style:solid;
+  border-color: #000000;
+  border-width: 1px; 
+  font-size: 8pt;
+  font-style: italic;
+  background-color:inherit;
+  content:"Enter text within <p> tags.  Use other sub-tags as appropriate.";
+}
+
+bioghist:before 
+{
+  background-color: #99ccff;
+  content:"Administrative/Biographical History";
+}
+
+bioghist {
+  background-color: #99ccff;
+}
+
+scopecontent:before 
+{
+  background-color: #CCCCFF;
+  content:"Scope and Content";
+}
+
+scopecontent {
+  background-color: #CCCCFF;
+}
+
+phystech, arrangement, custodhist, acqinfo, appraisal, accruals, accessrestrict, userestrict, altformavail, originalsloc, otherfindaid, relatedmaterial, bibliography, note, processinfo
+{
+  display: block;
+  background-color:#cccc99;
+  border-left-style:solid;
+  border-right-style:solid;
+  border-color: #000000;
+  border-width: 1px;
+}
+
+archdesc>controlaccess
+{
+  display: block;
+  padding-left: 5pt;
+}
+
+controlaccess>controlaccess
+{
+  display: block;
+  background-color:#ffcc99;
+  border-left-style:solid;
+  border-right-style:solid;
+  border-color: #000000;
+  border-width: 1px;
+}
+
+controlaccess>controlaccess:before
+{
+  display: block;
+  background-color:#ffcc99;
+  font-weight:bold;
+  border-top-style:solid;
+  border-left-style:solid;
+  border-right-style:solid;
+  border-color: #000000;
+  border-width: 1px;
+}
+
+controlaccess>controlaccess[encodinganalog = 'NAHSTE381']:before
+{
+content: "Subjects"
+}
+
+controlaccess>controlaccess[encodinganalog = 'NAHSTE382']:before
+{
+content: "Personal names"
+}
+
+controlaccess>controlaccess[encodinganalog = 'NAHSTE383']:before
+{
+content: "Corporate names"
+}
+
+controlaccess>controlaccess[encodinganalog = 'NAHSTE384']:before
+{
+content: "Places"
+}
+
+controlaccess>controlaccess:after 
+{
+  display: block;
+  background-color: inherit;
+  border-bottom-style:solid;
+  border-left-style:solid;
+  border-right-style:solid;
+  border-color: #000000;
+  border-width: 1px;
+  margin-bottom:5pt;
+  font-size: 8pt;
+  font-style: italic;
+}
+
+controlaccess>controlaccess[encodinganalog = 'NAHSTE381']:after 
+{
+  content:"Enter text within <subject> tags, taken from Authorities Database.";
+}
+
+controlaccess>controlaccess[encodinganalog = 'NAHSTE382']:after 
+{
+  content:"Enter text within <persname> tags, taken from Authorities Database.";
+}
+
+controlaccess>controlaccess[encodinganalog = 'NAHSTE383']:after 
+{
+  content:"Enter text within <corpname> tags, taken from Authorities Database.";
+}
+
+controlaccess>controlaccess[encodinganalog = 'NAHSTE384']:after 
+{
+  content:"Enter text within <geogname> tags, taken from Authorities Database.";
+}
+
+subject, persname, corpname, geogname {
+  display: block;
+  margin-left: 5pt;
+  margin-bottom: 2pt;
+  background-color: #ffffff;
+  content: " ";
+}

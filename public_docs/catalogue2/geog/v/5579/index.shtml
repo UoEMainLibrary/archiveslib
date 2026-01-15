@@ -1,0 +1,12 @@
+<!--#include virtual="/catalogue2/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Venice Italy </title>
+<!--#include virtual="/catalogue2/includes/lower_header.php" -->
+
+
+<h2>Authority term: Venice Italy </h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=gb-237-coll-1310-1-1-20&view=basic">Postcard to Lady Thomson from Florence S Padaluco, Venice, congratulating Thomson on his Knighthood</a> (1949)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue2/includes/footer.php" -->

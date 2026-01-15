@@ -1,0 +1,19 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Brain</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/b/">b</a><h1>Brain</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=4242&term=Brain" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-3-484&view=basic">The structure of the diencephalon of the fowl Gallus domesticus </a> (1968) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-483&view=basic">[Book review] A stereotaxic atlas of the brain of the chick (Gallus domesticus), by W J Kuenzel and M Masson, 1988. 166pp., illiustrated. Baltimore: The John Hopkins University Press. £44.50. ISBN 0 8018 37500 6 </a> (1989) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1240&view=basic">Prolactin-induced uptake of (14C)-2-deoxyglucose in the brain of the ring dove (Streptopelia risoria) </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-772&view=basic">[14C]2-Deoxyglucose uptake in the brain of the ring dove (Streptopelia risoria). II. Differential uptake at the onset of incubation </a> (1995) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-825&view=basic">The Development of Brain and Behaviour in the Chicken, by Leslie J. Rogers. CAB International, Wallingford, U.K., 1995, 288 pp. £45 (US$77.50) [book review] </a> (1995) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

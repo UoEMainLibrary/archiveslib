@@ -1,0 +1,23 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Histology</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/h/">h</a><h1>Histology</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=2403&term=Histology" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="21">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-650&view=basic">Evidence for a possible major histocompatibility complex (BoLA) in cattle </a> (1978) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-686&view=basic">Analysis of alloantisera against bovine lymphocytes. Joint report of the 1st International Bovine Lymphocyte Antigen (BoLA) Workshop </a> (1979) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-783&view=basic">A method for freezing sheep lymphocytes prior to cytotoxicity testing </a> (1982) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-818&view=basic">Monoclonal antibodies potentially detecting bovine MHC products </a> (1983) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-845&view=basic">Effect of season of birth and of hemicastration on the histology of the testis of 6-month-old lambs </a> (1984) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-5-52&view=basic">The histology and ultrastructure of ectopic cartilaginous and osseous nodules in the lungs of young broiler with an ascitic syndrome  </a> (1988) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1036&view=basic">Avian tibial dyschondroplasia: a comparison of the incidence and severity as assessed by gross examination and histopathology </a> (1991) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1074&view=basic">Initial studies of osteopenia in laying hens </a> (1991) Roslin Offprints Collection</li>
+</ul>
+<a href="index.shtml">Previous</a>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

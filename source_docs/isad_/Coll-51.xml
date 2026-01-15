@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-51">GB 237
+		Coll-51</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Papers relating to Sir Roderick Impey Murchison and his
+			 Family </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-51">
+    <did>
+      <unittitle>Papers relating to Sir Roderick Impey Murchison and his
+			 Family </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code"> GB 237 Coll-51
+		  </unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MS 2216; MSS 2262-2268 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Papers relating to Sir Roderick Impey
+		  Murchison and his Family </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1771-1935">1771-1935 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>7 boxes (1
+		  m). </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>Roderick Impey Murchison was born 19 February 1792 at Tarradale, in
+		  Ross-shire, Scotland. He was the eldest son of Kenneth Murchison by his wife,
+		  the daughter of Roderick Mackenzie of Fairburn. Murchison went to grammar
+		  school in Durham and in 1805 was sent to the military college, Great Marlow,
+		  after which he joined the 36th regiment and saw action in Portugal and at
+		  Corunna. Murchison's army career also took him to Sicily, Ireland, and Paris.
+		  Marriage in 1814 marked a turning point in his life and a tour of Europe was
+		  followed by a settled country life. In the early 1820s, acquaintanceship with
+		  Sir Humphrey Davy encouraged the pursuit of a scientific career and in 1824 he
+		  attended lectures at the Royal Institution. In 1825 he became a fellow of the
+		  Geological Society of London and that same year his first paper was read to the
+		  Society, on the geology of parts of Sussex, Hants and Surrey. In the following
+		  five years Murchison explored Scotland, France, and the Alps, working with Adam
+		  Sedgwick and Charles Lyell. In 1831 he was elected president of the Geological
+		  Society and the same year he and Sedgwick began a study of Wales. Murchison's
+		  studies of the Early Paleozic rocks in South Wales were the basis of his work 
+		The Silurian System  (1839). With the establishment of the
+		Silurian system, research into the geology of south western England and the
+		Rhineland founded the Devonian System, and Russian explorations became the
+		basis for his proposal of the Permian System. Out of the Russian expeditions,
+		Murchison, with others, wrote 
+		The geology of Russia in Europe and the Ural Mountains 
+		(1845). Murchison was knighted in 1846, and he was appointed director general
+		of the Geological Survey of Great Britain, and director of the Royal School of
+		Mines and the Museum of Practical Geology, London, in 1855. Between 1863 and
+		1871 he was Patron of the Edinburgh Geological Society and in 1871 he founded a
+		chair of geology and mineralogy at the University of Edinburgh. Struck by
+		paralysis in 1870, Murchison died after an attack of bronchitis on 22 October
+		1871. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The material in the collection includes single letters to and from
+		  Roderick Impey Murchison, 1816-1865; the history, chronology, and genealogy of
+		  the family; documents relating to Murchison's father, Kenneth Murchison,
+		  1751-1796; and, materials relating to Murchison himself, such as notebooks,
+		  account books, passport, diary, medals, and illuminated scroll. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H51 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

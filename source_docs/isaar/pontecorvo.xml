@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1352 20020612//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1352</titleproper> 
+		  <subtitle>Pontecorvo | Guido | 1907-1999 | Italian
+			 geneticist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+			 University Library Special Collections Division, 12 June 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020612">12 June 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1352</titleproper> 
+		<subtitle>Pontecorvo | Guido | 1907-1999 | Italian geneticist</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart , Edinburgh
+		  University Library Special Collections Division, 12 June 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020612">12 June 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1352"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1352</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1352" normal="Pontecorvo, Guido">Pontecorvo |
+		  Guido | 1907-1999 | Italian geneticist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Guido Pontecorvo's long association with animal genetics sprang from
+			 his interest in biology whilst he was a schoolboy in his native Pisa. He
+			 studied at Pisa University, and was already a reputable researcher in genetics
+			 at Florence when he was dismissed as a result of the anti-semitism of the
+			 Italian authorities during the fascist era. The head of Animal Genetics at
+			 Edinburgh University, Alick Buchanan-Smith, had met 'Ponte' in Edinburgh the
+			 previous year and offered him a research post. </p> 
+		  <p>At King's Buildings Ponte worked with other European refugees who
+			 were expert researchers in this field, and together they laid the foundations
+			 at Edinburgh of a new phase of genetical science. Despite a period of
+			 internment as an enemy alien, Pontecorvo completed his PhD (<date normal="1941"
+			 type="single">1941</date>) on the chromosomes of fruit flies (Drosophila). In 
+			 <date normal="1945" type="single">1945</date> he was appointed the
+			 first lecturer in Genetics at Glasgow University, and under his professorship
+			 of Genetics there from 
+			 <date normal="1955/1968" type="inclusive">1955-1968</date> the
+			 department gained an international reputation for the excellence of its
+			 research.</p> 
+		  <p>Later he switched from Drosophila to the genetics of the fungus
+			 Aspergillus Nidulans because it allowed him to contribute towards the urgent
+			 development of penicillin at the end of World War II, and also because it
+			 allowed him to more easily study the structure and function of the gene -
+			 rather than its biochemistry. This medium led to the discovery of asexual
+			 reproduction (parasexual cycle) in fungi, and to his later theory that the gene
+			 was a functional unit. He was thus a pioneer of microbial genetics, or more
+			 specifically the genetics of mutation and chromosomal translocations, and the
+			 genetics of a new micro-organism. </p> 
+		  <p>Independently he also recognised, correctly, that the parasexual
+			 cycle if studied in cell cultures would contribute to the knowledge of human
+			 genetics. From 
+			 <date normal="1968/1975" type="inclusive">1968-1975</date> he was at
+			 the Imperial Cancer Research Fund laboratories in London. Whilst working there
+			 on mammalian cancer he devised the polyethylene glycol method of fusing animal
+			 cells. A building at Glasgow University has been named in his honour.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Pontecorvo's studies in genetics were inspired whilst assisting the
+			 plant geneticist E. Avanzi at the Faculty of Agriculture in Florence. His first
+			 collaborator in Scotland was the German geneticist, Hermann Muller 
+			 <date normal="1890/1967" type="inclusive">1890-1967</date> with whom
+			 he developed a method of producing sterile hybrids from crossing species. At
+			 Edinburgh too he discovered in collaboration with J.A. Roper in 
+			 <date normal="1950" type="single">1950</date> the cycle that causes
+			 genetic re-assortment without sexual reproduction (parasexual cycle). Whilst at
+			 Glasgow he and E. Kafer mapped new mutations in a single step and chromosomal
+			 translocations in A. nidulans.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: numerous research papers and monographs
+			 including:</p> 
+		  <p><bibref><title>Trends in Genetic Analysis</title>, ( <imprint><date
+			 type="publication" normal="1959"
+			 certainty="certain">1959</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Topics in Genetic Analysis</title>, ( <imprint><date
+			 type="publication" normal="1984"
+			 certainty="certain">1984</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p> 
+			 <date normal="1955" type="appointmentdate">1955</date>: Elected
+			 Fellow, Royal Society</p> 
+		  <p><date normal="1955" type="appointmentdate">1955</date>: Appointed
+			 President and founder member of the Institute of Biology</p> 
+		  <p><date normal="1955" type="appointmentdate">1955</date>: Appointed
+			 President and Secretary, Genetical Society of Great Britain</p> 
+		  <p><date normal="1962" type="appointmentdate">1962</date>: Appointed
+			 Leeuwenhoek Lecturer, Royal Society</p> 
+		  <p><date type="single" normal="1978">1978</date>: Awarded Darwin Medal
+			 of Royal Society </p> 
+		  <p><date type="single" normal="1978">1978</date>: Awarded Hansen Prize
+			 for Microbiology, Carlsberg Foundation</p> 
+		  <p> 
+			 <date type="appointmentspan" normal="1982/1983">1982-1983</date>:
+			 Appointed Raman Professor, Indian Academy of Science</p> 
+		  <p> 
+			 <date type="appointmentdate" normal="1984">1984</date>: Appointed
+			 Honorary Fellow, Indian Academy of Science</p>
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p> <bibref><title render="italic">Fungal Genetics Newsletter</title>,
+			 ( <extref
+			 href="http://www.fgsc.net/fgn47/47obit.htm">http://www.fgsc.net/fgn47/47obit.htm</extref>
+			 <imprint>, 
+			 <date type="publication" normal="1999"
+			 certainty="uncertain">1999</date>)</imprint></bibref></p> 
+		  <p> <bibref><title render="italic">A Dictionary of Scientists,
+			 OUP</title>, ( <extref
+			 href="wysiwig://10/http://xrefer.com/entry/495028">wysiwig://10/http://xrefer.com/entry/495028</extref>
+			 <imprint>, 
+			 <date type="publication" normal="2000"
+			 certainty="uncertain">2000</date>)</imprint> </bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="researcher" normal="Stewart, Margaret">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020612">12 June
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

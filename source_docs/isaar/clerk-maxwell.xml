@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1314 20020523 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1314</titleproper> 
+		  <subtitle>Clerk-Maxwell | James | 1831-1879 | professor of experimental
+			 physics, University of Cambridge</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 23 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020523">23 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1314</titleproper> 
+		<subtitle>Clerk-Maxwell | James | 1831-1879 | professor of experimental
+		  physics, University of Cambridge</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 23 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020523">23 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1314"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1314</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1314"
+		 normal="Clerk-Maxwell, James">Clerk-Maxwell | James | 1831-1879 | professor of
+		  experimental physics, University of Cambridge</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>James Clerk Maxwell (<date type="life-span"
+			 normal="1831/1879">1831-1879</date>), one of the finest scientific minds in
+			 history, was mocked at school for his perceived stupidity. Though he had shown
+			 scientfic curiosity from a very young age, Maxwell's intelligence was not
+			 immediately obvious to his more literary-minded peers at the Edinburgh Academy,
+			 partly because of his interest in science, which they did not understand, and
+			 partly because of his reluctance to socialise with them. Whatever the reasons,
+			 he only slowly emerged from this isolation when his school marks began to show
+			 his exceptional talents. He went on to study at the universities in Edinburgh
+			 and Cambridge.</p> 
+		  <p>Maxwell wrote his first paper (which was delivered on his behalf, to
+			 the Royal Society of Edinburgh), on the subject of ovals, when he was just
+			 fourteen, and though most of its contents had already been explained by
+			 Ren&#x00E9; Descartes (<date type="life-span"
+			 normal="1595/1650">1595-1650</date>), centuries earlier, it was a remarkable
+			 achievement for a fourteen-year-old. In his lifetime, Maxwell wrote another
+			 hundred and twenty-eight papers, on diverse subjects such as electromagnetism,
+			 the kinetic theory of gases, astrophysics, optics and the theory of colours,
+			 among others. It is, however, for his work in four key areas that he is famous:
+			 electromagnetism, astrophysics, comparative colourimetry and rarified gas
+			 dynamics. In electromagnetism, he described magnetic and electric effects as
+			 (undefined) changes in the ether and made the link between electricity,
+			 magnetism and light. In astrophysics, he won the Adams prize for his proof that
+			 the rings of Saturn are made of numerous small solid particles, rather than
+			 solid rings (to be stable, these would have to have their mass so concentrated
+			 in one area to make it visible as a satellite from Earth) or liquid. The study
+			 of rarified gas dynamics, which he invented, was another field in which he
+			 distinguished himself - he explained in terms of gas dynamics the motion of
+			 William Crookes' (<date type="life-span" normal="1832/1919">1832-1919</date>)
+			 'radiometer', which had been taken as evidence that light could exert pressure,
+			 which would have confirmed the particle theory of radiation. Maxwell proved
+			 that the motion could be attributed to the effects of the rarified gas that
+			 remained within the near-vacuum that the radiometer resided in. Finally,
+			 Maxwell conducted a series of experiments on colour, in which he found out that
+			 any colour could be created by adding or subtracting any other three colours,
+			 and made a number of experiments to determine to what extent experience of
+			 colour is subjective.</p> 
+		  <p>Maxwell held the chair of natural philosophy at Marischal College,
+			 Aberdeen from 
+			 <date type="chairdate" normal="1856">1856</date> until he lost it in
+			 the amalgamation of Aberdeen's colleges into the University of Aberdeen in 
+			 <date type="single" normal="1860">1860</date>. In the same year, he
+			 was appointed professor at King's College, London, where much of his important
+			 work was carried out. He retired in 
+			 <date type="single" normal="1865">1865</date>, to live at his home in
+			 Glenlair, until he was persuaded, in 
+			 <date type="chairdate" normal="1871">1871</date>, to become professor
+			 of experimental physics at the University of Cambridge. In this position, he
+			 founded the Cavendish Laboratory and supervised its construction. He occupied
+			 the chair at Cambridge until his untimely death at the age of 48.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>James Clerk Maxwell was a lifelong friend of Peter Guthrie Tait
+			 (<date type="life-span" normal="1831-1901">1831-1901</date>). At the University
+			 of Edinburgh, he was influenced by James David Forbes (<date type="life-span"
+			 normal="1809/1868">1809-1868</date>) and at Cambridge by GG Stokes (<date
+			 type="life-span" normal="1819/1903">1819-1903</date>).</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>On the Stability of Saturn's Rings</title>, ( 
+			 <imprint><date type="publication" normal="1859"
+			 certainty="certain">1859</date>)</imprint></bibref></p>
+		  <p><bibref><title>Illustrations of the Dynamical Theory of
+			 Gases</title>, (<imprint><date type="publication" normal="1860"
+			 certainty="certain">1860</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Theory of Heat</title>, (<imprint><date
+			 type="publication" normal="1870"
+			 certainty="certain">1870</date>)</imprint></bibref></p> 
+		  <p><bibref><title>A Treatise on Electricity and Magnetism</title>, ( 
+			 <imprint><date type="publication" normal="1873"
+			 certainty="certain">1873</date>)</imprint></bibref></p>
+		  <p><bibref><title>Matter and Motion</title> (<imprint><date
+			 type="publication" normal="1876">1876</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Electrical Researches of the Hon. Henry
+			 Cavendish</title>, (<imprint><date type="publication" normal="1879"
+			 certainty="certain">1879</date>)</imprint></bibref></p> 
+		  <p><bibref><title>An Elementary Treatise on Electricity and
+			 Magnetism</title>, ( <imprint><date type="publication" normal="1881"
+			 certainty="certain">1881</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1854">1854</date>: Awarded Batchelor of
+			 Science (BSc) degree, University of Cambridge</p> 
+		  <p><date type="chairspan" normal="1856/1860">1856-1860</date>:
+			 Appointed Professor of Natural Philosophy, Marischal College, Aberdeen</p> 
+		  <p><date type="single" normal="1857">1857</date>: Awarded Adams
+			 Prize</p> 
+		  <p><date type="single" normal="1860">1860</date>: Awarded Rumford Medal
+			 of the Royal Society</p> 
+		  <p><date type="chairspan" normal="1860/1865">1860-1865</date>:
+			 Appointed Professor of Natural Philosophy, King's College, London</p> 
+		  <p><date type="chairdate" normal="1871">1871</date>: Appointed
+			 Cavendish Professor of Experimental Physics, University of Cambridge</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, </title></bibref><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol IX</title>, ( <imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1974"
+			 certainty="certain">1974</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Proceedings of the Royal Society of Edinburgh, vol
+			 10</title>, (<imprint><geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <date type="publication" normal="1880"
+			 certainty="certain">1880</date>)</imprint></bibref></p> 
+		  <p><bibref><title>James Clerk Maxwell</title>, (<extref
+			 href="http://www-history.mcs.st-andrews.ac.uk/history/Mathematicians/Maxwell.html">http://www-history.mcs.st-andrews.ac.uk/history/Mathematicians/Maxwell.html</extref>,
+			 <imprint><publisher>University of St Andrews</publisher>, 
+			 <date type="publication" normal="1997"
+			 certainty="certain">1997</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020523">23 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

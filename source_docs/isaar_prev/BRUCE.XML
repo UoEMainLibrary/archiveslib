@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0830 20020531 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0830</titleproper> 
+		  <subtitle>Bruce | William Speirs | 1867-1921 | polar explorer and
+			 oceanographer</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 31 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020531">31 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0830</titleproper> 
+		<subtitle>Bruce | William Speirs | 1867-1921 | polar explorer and
+		  oceanographer</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 31 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020531">31 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0830"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0830</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0830" normal="Bruce, William Spiers">Bruce |
+		  William Speirs | 1867-1921 | polar explorer and oceanographer</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>William Speirs Bruce (<date type="lifespan"
+			 normal="1867/1921">1867-1921</date>) led the Scottish National Antarctic
+			 Expedition of 
+			 <date type="inclusive" normal="1902/1904">1902-1904</date>, along
+			 with many other scientific expeditions to both Polar Regions of the world.
+			 Bruce studied at Norfolk County School, before reading medicine at the
+			 University of Edinburgh, but gave up his studies in 
+			 <date type="single" normal="1892">1892</date>, before he qualified as
+			 a doctor, in order to take part in a whaling expedition to the oceans
+			 surrounding the Falklands. Though he was, officially, ship's surgeon, he spent
+			 most of his time sealing and making 2-hourly meteorological observations over a
+			 3-month period - the evidence gained in these observations of the weather
+			 giving the first ever evidence of the Antarctic anticyclone. </p> 
+		  <p>For several years, Bruce perfected his scientific technique at the
+			 meteorological observatory on Ben Nevis. Then, over a periond of about 20
+			 years, he made repeated visits to the arctic island of Spitsbergen in the
+			 Svalbard archipelago, in association with the prince of Monaco. He became the
+			 major expert on the area, having carried out meteorological, zoological,
+			 geological and geographical surveys of the island. These led to the economic
+			 development of the archipelago, mainly for coal mining. Bruce also carried out
+			 ornithological work there, discovering new species of arctic bird, and
+			 discovering more about known species - he was, for example, the first to find
+			 chicks of the sanderling, on Spitsbergen. </p> 
+		  <p> The expedition for which he is remembered, however, is the
+			 remarkably successful Scottish National Antarctic Expedition of 
+			 <date type="inclusive" normal="1902/1904">1902-1904</date>. The
+			 observations made by this expedition completely changed the way Antarctica was
+			 seen, from a geographical point of view, as well as the way the surrounding
+			 islands were seen from a zoological perspective. During this trip, a base was
+			 set up on South Georgia, a new area, Coats Land (named in honour of the Coats
+			 brothers, who had bankrolled the enterprise) was discovered and 1100 species of
+			 animal were catalogued, 212 of them previously unknown to science. The seas
+			 around the Antarctic were explored in the yacht 'Scotia'. </p> 
+		  <p>Bruce did not, however, always enjoy the good luck that made the
+			 Antarctic expedition such a success. In 
+			 <date type="single" normal="1907">1907</date>, Bruce founded the
+			 Scottish Oceanographical Laboratory, an organisation he had great ambitions
+			 for, hoping it would one day challenge Monaco as a centre for oceanographical
+			 sciences. However, it was not to be, and it was disbanded in 
+			 <date type="single" normal="1920">1920</date>, the year before his
+			 death, due to his ill health, and the lack of other people of Bruce's stature
+			 to continue the work. In 
+			 <date type="inclusive" normal="1910/1911">1910-1911</date>, Bruce
+			 tried to raise funds for a second Antarctic expedition, but this enterprise too
+			 would end in failure. A whaling business he managed in the Seychelles from 
+			 <date type="single" normal="1914">1914</date> failed too, killed off
+			 by the outbreak of war. </p> 
+		  <p>He was honoured by several learned societies for his work. He did
+			 not publish widely nor attempt to publicise his work, and it is perhaps this,
+			 along with the lack of spectacular upsets like those that dogged Scott and
+			 Shackleton's polar expeditions, that meant Bruce has been largely forgotten by
+			 the public.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Bruce was influenced by James Cossar Ewart at the University of
+			 Edinburgh (<date type="life-span" normal="1851/1933">1851-1933</date>). His
+			 Antarctic expedition was funded by the Coats brothers, textile manufacturers
+			 from Glasgow.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Report on the Scientific Results of the Voyage of
+			 S.Y. 'Scotia', 1902-1904</title>, (<imprint><date type="publication"
+			 normal="1904/1914" certainty="certain">c1909</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1904">1904</date>: Awarded Gold Medal of
+			 the Royal Scottish Geographical Association</p> 
+		  <p><date type="single" normal="1910">1910</date>: Awarded Patron's
+			 Medal of the Royal Geographical Society</p> 
+		  <p><date type="single" normal="1911">1911</date>: Awarded honorary
+			 Doctor of Laws (LL.D) degree, University of Aberdeen</p> 
+		  <p><date type="single" normal="1913">1913</date>: Awarded Neill Prize
+			 and Medal of the Royal Society of Edinburgh </p> 
+		  <p><date type="single" normal="1920">1920</date>: Awarded Livingstone
+			 Medal of the Hispanic Society of America</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><corpname normal="Royal Society of Edinburgh">Royal Society
+			 of Edinburgh</corpname>, <title>Proceedings of the Royal Society of Edinburgh,
+			 vol XLII</title>, (<imprint><geogname source="lcsh"
+			 authfilenumber="517" normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Neill and Company</publisher>, 
+			 <date type="publication" normal="1923"
+			  certainty="certain">1923</date>)</imprint></bibref> </p> 
+		  <p><bibref><persname source="ncarules" normal="Davis, HWC"
+			 role="editor">Davis, HWC</persname> and
+			 <persname normal="Weaver, JRH" role="editoe">Weaver, JRH</persname>,
+			 <title>Dictionary of National Biography 1912-1921</title>, (<imprint><geogname
+			 source="lcsh" authfilenumber="530" normal="London (England)">London</geogname>,
+			 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1927"
+			  certainty="certain">1927</date>)</imprint></bibref></p> 
+		  <p><bibref> <title>Antarctic Explorers: William S. Bruce</title>,
+			 (<extref
+			 href="http://www.south-pole.com/p0000093.htm">http://www.south-pole.com/p0000093.htm</extref>, 
+			 <imprint><publisher>Antarctic Philately</publisher>, 
+			 <date type="publication" normal="1992/2002"
+			  certainty="certain">c1997</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on Archives
+			 </corpname> <title>Rules for the Construction of Personal, Place and Corporate
+			 Names (NCA Rules) </title> <imprint> 
+			 <date type="publication" normal="1997">1997
+				</date></imprint></bibref> and <bibref>
+			 <corpname normal="International Council on Archives">International Council on
+			 Archives: Ad Hoc Committee on Descriptive Standards </corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF </title> <imprint> 
+			 <date type="publication" normal="1995">1995
+				</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020531">31 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

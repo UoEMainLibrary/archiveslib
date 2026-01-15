@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+    <control><recordId>GB-237-eac-p4278</recordId><maintenanceStatus>new</maintenanceStatus>
+        <publicationStatus>inProcess</publicationStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Special Collections, Edinburgh University Library</agencyName>
+        </maintenanceAgency><languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn" xml:lang="Gla">Gaelic</script>
+        </languageDeclaration><conventionDeclaration>
+            <abbreviation>ISAAR(CPF)</abbreviation>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span localType="bibTitle">International Standard Archival Authority Record For
+                    Corporate Bodies, Persons and Families</span>
+            </citation>
+        </conventionDeclaration><maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime standardDateTime="2011-05-13">13 May 2011</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Stephen Hall</agent>
+                <eventDescription>draft completed</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory><sources><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1841 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1841 108/00 005/00 001</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1851 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1851 108/00 005/00 008</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source><source xmlns:ns1="http://www.w3.org/1999/xlink"
+                ns1:type="simple">
+                <sourceEntry>1861 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1861 108/00 004/00 002</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>1871 census for Barra</sourceEntry>
+                <descriptiveNote>
+                    <p><span localType="ead-unitid">Census 1871 108/00 004/00 003</span>
+                        <span localType="ead-repository">General Register Office for
+                        Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Death certificate</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">Death 1875 108/00 0014</span>
+                        <span localType="ead-repository" xmlns:ns1="http://www.w3.org/1999/xlink"
+                            >General Register Office for Scotland</span></p>
+                </descriptiveNote></source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB237/Coll-97/CW7/16</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source><source><sourceEntry>Transcription notebook of Alexander
+                    Carmichael</sourceEntry><descriptiveNote>
+                    <p><span localType="ead-unitid">GB237/Coll-97/CW7/114</span><span
+                            localType="ead-repository">Edinburgh University Library</span></p>
+                </descriptiveNote></source></sources></control>
+    <cpfDescription>
+        <identity>
+            <entityId>GB-237-EAC-p4278</entityId>
+            <entityType>person</entityType>
+            <nameEntry>
+                <part localType="family">MacNeil</part>
+                <part localType="given">Roderick</part>
+            </nameEntry>
+            <descriptiveNote>
+                <p>Crofter, Barra</p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates><dateRange><fromDate standardDate="1790" notAfter="1795" notBefore="1785"
+                        >c1790</fromDate><toDate standardDate="1875-03-19">19 March
+                    1875</toDate></dateRange></existDates>
+            <biogHist>
+                <p>Roderick MacNeil was born c1790 to Donald and Ann MacNeil née NacNeil. Roderick
+                    followed his father in being a crofter. The earliest record of Roderick MacNeil,
+                    aged 45, is from the 1841 Census where it indicates that he was living with his
+                    wife Flora (aged 40) with his nine children: John (22), a fisherman, Anne (20),
+                    a fisherwoman, Michael (20), Alexander (20), Mearon [Marion] (12), Anthony (10),
+                    Donald (8), Eoin (6) and Rory (5) on Mingulary. The 1851 Census indicates that
+                    Roderick was crofting three acres of land and is now only supporting his wife,
+                    three sons Anthony, Donald and John (Eoin), and a grandson, Donald (4). In 1861
+                    the family are still present on Mingulay with their children Donald and Rory,
+                    and two grandchildren Donald and Rory. Carmichael acquired much information of
+                    Mingulary from Roderick in 1868, and again in May 1871 when Roderick told him of
+                    the song 'Taigh Mor Thunga'. Carmichael also notes that Roderick was also known
+                    as 'Ruarai mac Dhonuil' or 'Ruarai an ruma' (on account of a hogshead of rum he
+                    found on the shore 'from the contents of which he nearly died'). By 1871
+                    Roderick was a widower and pauper and was living with one of his sons (not
+                    identified in the Census) and his family. In March 1875 Roderick MacNeil died at
+                    the age of 95 of natural causes, and his son-in-law James McNeil signed the
+                    certificate.</p>
+                <chronList>
+                    <chronItem><date standardDate="1790" notAfter="1795" notBefore="1785"
+                            >c1790</date><placeEntry>Barra</placeEntry><event>birth</event></chronItem>
+                    <chronItem><date standardDate="1868">1868</date><placeEntry>Mingulary, Isle of
+                            Barra, Inverness-shire</placeEntry><event>visited by Alexander
+                            Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1871-05-22">22 May
+                            1871</date><placeEntry>Mingulary, Isle of Barra,
+                            Inverness-shire</placeEntry><event>visited by Alexander
+                            Carmichael</event></chronItem>
+                    <chronItem><date standardDate="1875-03-19">19 March
+                            1875</date><placeEntry>Mingulary,
+                        Barra</placeEntry><event>death</event></chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

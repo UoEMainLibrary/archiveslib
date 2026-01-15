@@ -1,0 +1,31 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Lismore Argyllshire Scotland </title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/geog/a/">Authority terms: geographic names</a> &gt; <a href="/catalogue/geog/l/">l</a><h1>Lismore Argyllshire Scotland </h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=geog&id=3748&term=Lismore Argyllshire Scotland " -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="121">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-105&view=basic">Note about cow footmarks </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-40&view=basic">A toast </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-106&view=basic">Note about 'Clach Gill O'ar' </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-41&view=basic">Story entitled 'Baran Na Bachuil Agus na 2 [Dà] Ighnean Rua' </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-42&view=basic">Note about Fear Achnacrois </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-43&view=basic">Note about the 'Romhanach' on Lismore </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-45&view=basic">Note about the 'eacara' </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-46&view=basic">Note about 'Tom-seilg' </a> (1883) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120&view=basic">Field notebook of Alexander Carmichael </a> (1883-1887) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW120-245&view=basic">Note which reads 'Gobha mor Latharna lived at B[aile] Ghobhan said an amusing aisling' </a> (1884) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-59&view=basic">Archaeological note about a circle at Cillant-suidhe [Cille an t-Suidhe] </a> (1886) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-85&view=basic">Etymological note for the placename 'Tir Laidhgeann' </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-84&view=basic">Notes on rocks around Iona and Lismore; whether the rocks have been sculpted; and place-names connected to them </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126g-15&view=basic">Song beginning 'Cas a mhoga-luirein' </a> (1888-1898) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-12&view=basic">Note about the place 'Tobar nan clarsairean' </a> (1892) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW126f-45&view=basic">Story about the murder of an Appin man by Macleans of Duart </a> (1892) The Carmichael Watson Collection</li>
+</ul>
+<a href="101.shtml">Previous</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

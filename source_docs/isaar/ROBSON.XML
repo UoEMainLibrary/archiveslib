@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT GB 0237
+		NAHSTE P1865 20020710//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1865</titleproper> 
+		  <subtitle>Robson | JM | 1900-1982 | geneticist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+			 University Library Special Collections Division, 10 July 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020703">10 July 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1865</titleproper> 
+		<subtitle>Robson | JM | 1900-1982 | geneticist</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart , Edinburgh
+		  University Library Special Collections Division, 10 July 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020710">10 July 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1865"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1865</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1865" normal="Robson, JM">Robson | JM |
+		  1900-1982 | geneticist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>J.M. Robson's pharmacological research paved the way for the
+			 development of the contraceptive pill in the 
+			 <date normal="1960/1969" type="inclusive"
+			 certainty="uncertain">1960s</date>. </p>
+		  <p>Robson was born in Belgium in 
+			 <date normal="1900" type="single">1900</date>, but his family
+			 (Rabinovitch), who were originally Russian, migrated to Leeds before World War
+			 I. He attended school in Leeds and graduated from Leeds University in medicine
+			 in 
+			 <date normal="1925" type="single">1925</date>. There were no posts
+			 available in physiological research that he had begun at Leeds so he accepted
+			 an appointment at the Institute of Animal Breeding in Edinburgh in 
+			 <date normal="1930" type="appointmentdate">1930</date>. Whilst there
+			 he undertook research on the effects of gonadotrophins in pregnancy, and also
+			 supervised the Pregnancy Diagnosis Station that had been founded by the
+			 Institute's director Professor Francis Crew. </p>
+		  <p>In 
+			 <date normal="1932" type="appointmentdate">1932</date> he was
+			 appointed lecturer at the Department of Pharmacology at the University of
+			 Edinburgh, and thereafter pharmacology became his specialism, though he
+			 maintained a strong interest in hormone research. In addition to studies of the
+			 effects of hormones on the human uterus, he also worked on toxicology and
+			 chemotherapy. In 
+			 <date normal="1946" type="appointmentdate">1946</date> he was
+			 appointed Reader in Pharmacology at Guy's Hospital Medical School, and was
+			 Professor of Pharmacology there from 
+			 <date normal="1950/1968" type="appointmentspan">1950-1968</date>,
+			 when he retired.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>In the 
+			 <date normal="1940/1949" type="inclusive">1940s</date> he
+			 collaborated with Charlotte Auerbach (<date normal="1899/1994"
+			 type="life-span">1899-1994</date>) on the causes of cell mutagenisis in fruit
+			 flies (Drosophila) by mustard gas. He had first made the discovery that mustard
+			 gas, like radiation, could cause cell mutagenisis in the 
+			 <date normal="1930/1934" certainty="uncertain" type="inclusive">early
+				1930s</date> whilst at the Institute of Animal Breeding in Edinburgh. His other
+			 collaborators were: with Bertold Paul Wiesner, Marshall and George Bell on sex
+			 hormones, with C.A. Keele on endocrinology, and with Marian on the chemistry of
+			 steroids.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>By 1969 Robson estimated that he had published 259 scientific
+			 papers. In addition to these he also published a number of monographs
+			 including:<bibref><title>Recent Advances in Sex and Reproductive
+			 Physiology</title>, ( <imprint><date type="publication"
+			 normal="1934" certainty="certain">1934</date>)</imprint></bibref>
+			 <bibref><title>Recent Advances in Pharmacology</title>, ( <imprint><date
+			 type="publication" normal="1950"
+			 certainty="certain">1950</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head>
+		  <p>Held numerous appointments and honours amongst these are:</p> 
+		  <p> 
+			 <date normal="1932" type="single">1932</date>: Awarded D.Sc,
+			 University of Edinburgh</p> 
+		  <p><date normal="1968" type="appointmentdate">1968</date>: Appointed
+			 Professor Emeritus, Guy's Hospital Medical School</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Boyd, John Morton"
+			 role="editor">James F. Crowe</persname> and
+			 <persname source="ncarules" normal="Boyd, John Morton" role="editor">James F.
+			 Dove </persname> (eds.)<title>Perspectives on Genetics: Anecdotal, Historical
+			 and Critical Commentaries, 1987-1988</title>, ( <imprint>
+			 <geogname source="lcsh" authfilenumber="511" normal="United States">United
+			 States</geogname>, 
+			 <date type="publication"
+			  normal="1993">1993</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Who's Who 1978</title>, ( <imprint><geogname
+			 source="lcsh" authfilenumber="499" normal="Great Britain">Great
+			 Britain</geogname>, 
+			 <publisher>A and C Black Ltd</publisher>, 
+			 <date type="publication"
+			 normal="1978">1978</date>)</imprint></bibref></p>
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="researcher" normal="Stewart, Margaret">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020710">10 July
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

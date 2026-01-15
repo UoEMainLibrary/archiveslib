@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0137 20011122 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE-P0137</titleproper> 
+		  <subtitle>Geikie | Sir | Archibald | 1835-1924 | professor of geology,
+			 University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 22 November 2001</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20011122">22 November 2001</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services.</creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P01317</titleproper> 
+		<subtitle>Geikie | Sir | Archibald | 1835-1924 | professor of geology,
+		  University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Grant Buttars, Edinburgh
+		  University Library Special Collections Division, 05 August 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020805">05 August 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0137"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0137</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0137" normal="Geikie, Sir Archibald">Geikie |
+		  Sir | Archibald | 1835-1924 | professor of geology, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir Archibald Geikie was born at Edinburgh in 1835, the son of John
+			 Stuart Geikie, businessman, and composer, and Isabella Thom. He married Alice
+			 Gabrielle Pignatel in 1871. His education was at Black's school, then Edinburgh
+			 High School and he showed a great aptitude for study and his interest in
+			 science was furthered in the direction of geology when he and his friends
+			 discovered fossils at Burdiehouse quarries. Geikie was influenced by scientists
+			 such as naturalist John Fleming, to whom he was introduced by his father, and
+			 by the many books on geolgy which he consumed, most notably Hugh Miller's
+			 <bibref><title>Old Red Sandstone</title></bibref>.</p> 
+		  <p>Geikie's professional life began initially in banking, which he did
+			 not enjoy and 1851 saw his a newspaper publication of his <bibref><title>Three
+			 Weeks in Arran by a Young Geologist</title></bibref>, which led to an
+			 introduction to Hugh Miller. He also became acquainted with publisher Alexander
+			 Macmillan, geologist James David Forbes and Andrew Crombie Ramsay. </p> 
+		  <p>The banking career abandoned, he matriculated at the University of
+			 Edinburgh in 1854 but had to leave the following year for financial reasons. A
+			 recommendation by both Miller and Ramsay to Sir Roderick Impey Murchison, newly
+			 appointed head of the Geological Survey, secured Geikie a position there as
+			 mapping assistant. The following years saw him make the acquaintance of
+			 distinguished scientists such as Leonard Horner and Sir Charles Lyell.</p> 
+		  <p>His official work was supplemented by research during his holiday
+			 time, travelling throught the British Isles and Europe. 1867 saw him appointed
+			 director of the newly created branch, the Scottish Geological Survey. When
+			 Murchison founded the chair of geology in 1870 at the University of Edinburgh,
+			 Geikie was his choice as professor and he was appointed the following year.
+			 </p> 
+		  <p>Geikie's field and research work took him all over the British Isles
+			 and to many parts of Europe. He successfully combined his duties to both posts
+			 as well as devoting time to private research and writing. As well as his
+			 scientific writings, Geikie wrote several well-known biographical and
+			 historical books including <bibref><title>Memoirs of Sir Roderick Impey
+			 Murchison</title></bibref> (<date normal="1875"
+			 type="publication">1875</date>), <bibref><title>Andrew Crombie
+			 Ramsay</title></bibref> (<date normal="1895" type="publication">1895</date>),
+			 <bibref><title>Edward Forbes</title></bibref> (<date normal="1861"
+			 type="publication">1861</date>), and <bibref><title>Founders of
+			 Geology</title></bibref>(<date normal="1897" type="publication">1897</date>).
+			 1924 saw the publication of his own autobiography.</p> 
+		  <p>He went on to succeed Sir Andrew Crombie Ramsay as head of the
+			 Geological Survey of Great Britain in 1881, which he held until his retiral in
+			 1901. This saw him relocate to London and take a more active role in many
+			 scientific societies. Those relating to the Royal Society, he took particular
+			 interest in after his retiral, serving as secretary and president.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>His brother was James Geikie (1839-1915), who succeeded Sir
+			 Archibald as Professor of Geology at the University of Edinburgh in 1882.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Scenery of Scotland</title>, (<imprint><date
+			 type="publication" normal="1865"
+			 certainty="certain">1865</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Account of the Progress of the Geological Survey in
+			 Scotland</title>, (<imprint><date type="publication" normal="1865"
+			 certainty="certain">1865</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Physical Geography</title>, (<imprint><date
+			 type="publication" normal="1873"
+			 certainty="certain">1873</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Colliers of Carrick</title>, (<imprint><date
+			 type="publication" normal="1873"
+			 certainty="certain">1873</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Life of Sir Roderick I Murchison, Bart</title>, ( 
+			 <imprint><date type="publication" normal="1875"
+			 certainty="certain">1875</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Outlines of Field Geology</title>, (<imprint><date
+			 type="publication" normal="1877"
+			 certainty="certain">1877</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Elementary Lessons in Field Geology</title>, ( 
+			 <imprint><date type="publication" normal="1877"
+			 certainty="certain">1877</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Text-book of Geology</title>, (<imprint><date
+			 type="publication" normal="1882"
+			 certainty="certain">1882</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Geological Sketches at Home and Abroad</title>, ( 
+			 <imprint><date type="publication" normal="1882"
+			 certainty="certain">1882</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Classbook of Geology; Illustrated with
+			 Woodcuts</title>, (<imprint><date type="publication" normal="1886"
+			 certainty="certain">1886</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Geology</title>, (<imprint><date type="publication"
+			 normal="1886" certainty="certain">1886</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Memoir of Sir Andrew Crombie Ramsay</title>, ( 
+			 <imprint><date type="publication" normal="1895"
+			 certainty="certain">1895</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Founders of Geology</title>, (<imprint><date
+			 type="publication" normal="1897"
+			 certainty="certain">1897</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Ancient Volcanoes of Great Britain</title>, ( 
+			 <imprint><date type="publication" normal="1897"
+			 certainty="certain">1897</date>)</imprint></bibref></p> 
+		  <p><bibref><title>History of the Geography of Scotland; with Maps and
+			 Illustrations</title>, (<imprint><date type="publication" normal="1906"
+			 certainty="certain">1906</date>)</imprint></bibref></p> 
+		  <p><bibref><title>French Impression of Scotland and the Scots in the
+			 Year 1784</title>, (<imprint><date type="publication" normal="1907"
+			 certainty="certain">1907</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Charles Darwin as Geologist</title>, (<imprint><date
+			 type="publication" normal="1909"
+			 certainty="certain">1909</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Birds of Shakespeare</title>, (<imprint><date
+			 type="publication" normal="1916"
+			 certainty="certain">1916</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Annals of the Royal Society Club: the Record of a
+			 London Dining-Club in the Eighteenth and Nineteenth Centuries</title>, ( 
+			 <imprint><date type="publication" normal="1917"
+			 certainty="certain">1917</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1861">1861</date>: Elected
+			 Fellow, Royal Society of Edinburgh</p> 
+		  <p><date type="appointmentdate" normal="1865">1865</date>: Elected
+			 Fellow, Royal Society of London</p> 
+		  <p><date type="appointmentdate" normal="1867">1867</date>: Appointed
+			 Director, Scottish Geological Survey</p> 
+		  <p><date type="appointmentdate" normal="1870">1870</date>: Appointed
+			 First Professor of Geology, the University of Edinburgh </p> 
+		  <p><date type="appointmentdate" normal="1881">1881</date>: Appointed
+			 Head, Geological Survey</p> 
+		  <p><date type="single" normal="1881">1881</date>: Awarded Murchison
+			 Medal</p> 
+		  <p><date type="appointmentdate" normal="1890">1890</date>: Appointed
+			 President, Geological Society</p> 
+		  <p><date type="single" normal="1890">1890</date>: Awarded
+			 Knighthood</p> 
+		  <p><date type="single" normal="1895">1895</date>: Awarded Woolaston
+			 Medal</p> 
+		  <p><date type="single" normal="1896">1896</date>: Awarded Royal Medal,
+			 Royal Society of London</p> 
+		  <p><date type="appointmentdate" normal="1907">1907</date>: Appointed
+			 Knight Commander, Order of the Bath</p> 
+		  <p><date type="appointmentdate" normal="1910">1910</date>: Appointed
+			 President, the Classical Association</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Dictionary of Scientific Biography, Volume II
+			 </title>, ( <imprint><geogname source="lcsh" authfilenumber="483"
+			 normal="New York (NY, United States)">New York</geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication"
+			 normal="1981">1981</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Buttars">Grant Buttars</persname>, Edinburgh
+			 University Library Special Collections Division, 
+			 <date type="single" normal="20020805">05 August
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

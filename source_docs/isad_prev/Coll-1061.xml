@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-1061">GB
+		237 Coll-1061</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Arie e Cantate del Bononcini. Works of Giovanni Battista
+			 Bononcini (1670-1747)</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh, EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20050623" certainty="certain">23 June
+			 2005</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD generated XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation> 
+		<langusage>This finding-aid is in<language
+		  langcode="ENG">English</language></langusage><descrules
+		encodinganalog="isadg(2)372" audience="external">Descriptions compiled in line
+		  with the following standards: 
+		  <bibref> 
+			 <corpname
+			  normal="International Council on Archives Committee on Descriptive Standards"
+			  source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint><date type="publication"
+			 certainty="certain" normal="2000">2000</date></imprint> </bibref> and 
+		  <bibref> 
+			 <corpname normal="National Council on Archives" source="ncarules"
+			  role="author">National Council on Archives</corpname><title> Rules for the
+				Construction of Personal, Place and Corporate Names</title>, <imprint><date
+			 type="publication" normal="1997"
+			 certainty="certain">1997</date></imprint></bibref></descrules> 
+	 </profiledesc> 
+	 <!--Enter revisiondesc here if required-->
+  </eadheader> 
+  <archdesc level="fonds" id="GB-237-Coll-1061"> 
+	 <did> 
+		<unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+		  Coll-1061</unitid> 
+		<physloc label="Shelfmark"
+		 encodinganalog="shelfmark">E2005.15</physloc><unittitle
+		encodinganalog="isadg(2)312">Arie e Cantate del Bononcini. Works of Giovanni
+		  Battista Bononcini (1670-1747)</unittitle><unitdate normal="1723/1724"
+		encodinganalog="isadg(2)313" certainty="uncertain">c.
+		  1724</unitdate><repository label="Repository"
+		encodinganalog="NAHSTE31">Edinburgh University Library, Special
+		  Collections</repository> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 vol. music mss. </extent></physdesc> 
+		<langmaterial><language langcode="eng">English</language>;
+		  <language langcode="ita">Italian</language></langmaterial> 
+		<origination label="Name of Creator(s)"
+		 encodinganalog="isadg(2)321">Bononcini, Giovanni Battista</origination> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322"> 
+		<head>Administrative/Biographical History</head> 
+		<p>Giovanni Battista Bononcini was born in Modena, Italy in 1670. He was
+		  the eldest son of Giovanni Maria Bononcini (1642-1678). Bononcini trained as a
+		  cellist in Bologna where he published two collections of trios (1685) and three
+		  of sinfonie (1685-1687). He was a member of the Accademia Filarmonica, and was
+		  a musician at San Petronio, and maestro di cappella at Monte San Giovanni,
+		  Modena </p> 
+		<p>Bononcini went to Milan, commissioned to the Duke of Modena, and then
+		  to Rome. In Rome he worked with the poet Silvio Stampiglia on, among other
+		  things, an opera, 
+		<title>Il trionfo di Camilla</title>, which was the highlight of the
+		Naples Carnival 1696-1697.</p> 
+		<p>In 1698, Bononcini was recruited to the court of Leopold I (Holy Roman
+		  Emperor) in Vienna where he became a favourite of Joseph, the son and heir, who
+		  succeeded as Joseph II (Holy Roman Emperor) in 1705. He was joined in Vienna by
+		  Stampiglia and his own younger brother Antonio Maria Bononcini, also a cellist
+		  and opera composer. On the death of Joseph II in 1711, Bononcini left the court
+		  in Vienna for Rome where he stayed until 1719.</p> 
+		<p>Bononcini's work made Italian opera popular in England, partly because
+		  it was translated for English voices. In 1719, he was invited to London by the
+		  Earl of Burlington to become a composer for the Royal Academy of Music under
+		  the direction of G. F. Haendel (Handel). In London, he was well received and
+		  his opera 
+		<title>Astarto</title> opened at the King's Theatre, Haymarket, in 1720.
+		In the early 1720s he spent some time in Paris, and on his return to London he
+		became director of the private concerts of the Duchess of Marlborough, a post
+		he held until 1731.</p> 
+		<p>The early 1730s again saw him in Paris and Lisbon. His last known work
+		  was a 
+		<title>Te Deum </title> commissioned by the Empress Maria Theresa in
+		1741. Cellist and composer Giovanni Battista Bononcini died in Vienna in
+		1747.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>A manuscript copy of musical works contained in one volume, composed
+		  of, arie by Bononcini : 
+		  <list> 
+			 <item><title>Sembre tiranno amor</title></item> 
+			 <item><title>Se amar mi vuoi</title></item> 
+			 <item><title>Ascolta o Figlio</title></item> 
+			 <item><title>E'ver che mi piacette</title></item> 
+			 <item><title>Clori dal colle al prato</title></item> 
+			 <item><title>Merce' d'amico raggio</title></item> 
+			 <item><title>Quanto piace agl'occhi mici</title></item> 
+			 <item><title>Veggio la bella dori</title></item> 
+			 <item><title>Usignuol che col mio canto</title></item> 
+			 <item><title>Combattuta alma mia</title></item> 
+			 <item><title>Fissai caro mio</title></item> 
+			 <item><title>Clori bell' idol mio</title></item> 
+			 <item><title>Torno a voi piante amorose</title></item> 
+			 <item><title>La nuvoletta</title></item> 
+		  </list> </p> 
+		<p>There are also two arie by Handel (G. F. Haendal): 
+		  <list> 
+			 <item><title>Poterti dir vorrei</title></item> 
+			 <item><title>Son confusa Pastorella</title></item> 
+		  </list></p> 
+	 </scopecontent> 
+	 <!--Delete any tags not required--><descgrp> 
+		<head>Administrative Information</head> 
+		<custodhist> 
+		  <head>Archival History</head> 
+		  <p>An older catalogue card indicates P 1422 Baillie Coll. and M 78
+			 BON-4</p> 
+		</custodhist> 
+		<acqinfo encodinganalog="isadg(2)324"> 
+		  <head>Immediate Source of Acquisition</head> 
+		  <p>Reid Music Library</p> 
+		</acqinfo> 
+		<accessrestrict encodinganalog="isadg(2)341"> 
+		  <head>Conditions Governing Access</head> 
+		  <p>Open to bona fide researchers, but please contact repository for
+			 details in advance.</p> 
+		</accessrestrict> 
+		<otherfindaid encodinganalog="isadg(2)345"> 
+		  <head>Other Finding Aids</head> 
+		  <p>None prepared</p> 
+		</otherfindaid> 
+		<note encodinganalog="isadg(2)361" audience="external"> 
+		  <p>Much biographical and encyclopaedic information about Giovanni
+			 Battista Bononcini online. The biographical notes here were created using 
+			 <extref href="http://www.baroquemusic.org/bqxbononci.html">Baroque
+				Composers and Musicians. Giovanni Battista Bononcini.</extref></p> 
+		</note> 
+		<processinfo encodinganalog="isadg(2)371"> 
+		  <head>Archivist's Notes</head> 
+		  <p>Compiled by Graeme D. Eddie, Edinburgh University Library, Special
+			 Collections.</p> 
+		</processinfo></descgrp> 
+	 <controlaccess encodinganalog="NAHSTE38"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE381"> 
+		  <head>Subjects</head>		  <!-- LCSH -->
+		  <subject source="lcsh"><emph altrender="a">Music</emph><emph
+			 altrender="y">18th century</emph><emph altrender="x"></emph></subject> 
+		  <subject><emph altrender="a">Violoncellists</emph></subject> 
+		  <subject><emph altrender="a">Composers</emph></subject> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head>		  <!-- NCA Rules -->
+		  <persname rules="ncarules"><emph
+			 altrender="surname">Bononcini</emph><emph altrender="forename">Giovanni
+			 Battista</emph><emph altrender="dates">1670-1747</emph><emph
+			 altrender="epithet">Cellist, Composer</emph></persname> 
+		  <persname><emph altrender="surname">Handel</emph><emph
+			 altrender="forename">George Frideric</emph><emph
+			 altrender="dates">1685-1759</emph></persname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

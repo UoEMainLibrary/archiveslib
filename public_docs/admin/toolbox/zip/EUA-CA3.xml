@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ead>
+   <eadheader>
+      <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 EUA GD25">GB
+		237 EUA CA3</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Collection of 17th century Student
+			 Advertisements</titleproper>
+         </titlestmt>
+      </filedesc>
+   </eadheader>
+   <archdesc level="fonds" id="GB-237-EUA-CA3">
+      <did>
+         <repository>Edinburgh University Library Special Collections</repository>
+         <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 EUA
+		  CA3</unitid>
+         <physloc encodinganalog="shelfmark" label="Shelfmark"/>
+         <unittitle encodinganalog="isadg(2)312">Collection of 17th Century Student Advertisements</unittitle>
+         <unitdate encodinganalog="isadg(2)313" label="Date" normal="1680/1681">1680-1681</unitdate>
+         <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+            <extent>2 handbills</extent>
+         </physdesc>
+         <origination encodinganalog="isadg(2)321">Students of the University of
+		  Edinburgh</origination>
+         <langmaterial>
+            <language langcode="eng">English</language>
+            <language langcode="lat">Latin</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="isadg(2)322"/>
+      <scopecontent encodinganalog="isadg(2)331">
+         <p>2 printed advertisements, one advertising a Christmas day protest
+		  against Roman Catholicism, the other a performance of 
+		<title>Eunuchus</title> by Terence (Publius Terentius Afer).</p>
+      </scopecontent>
+      <controlaccess encodinganalog="NAHSTE38">
+         <controlaccess encodinganalog="NAHSTE383">
+            <corpname authfilenumber="" normal=""/>
+         </controlaccess>
+      </controlaccess>
+      <descgrp>
+         <arrangement>
+            <head>System of Arrangement</head>
+            <p>Arranged in chronological order.</p>
+         </arrangement>
+         <acqinfo>
+            <head>Immediate Source of Acquisition</head>
+            <p>Unknown</p>
+         </acqinfo>
+         <appraisal>
+            <head>Appraisal</head>
+            <p>This has been appraised.</p>
+         </appraisal>
+         <accruals>
+            <head>Accruals</head>
+            <p>No accruals expected.</p>
+         </accruals>
+         <userestrict>
+            <head>Conditions Governing Reproduction</head>
+            <p/>
+         </userestrict>
+         <accessrestrict>
+            <head>Conditions Governing Access</head>
+            <p>No restrictions.</p>
+         </accessrestrict>
+         <altformavail/>
+         <originalsloc/>
+         <otherfindaid>
+            <head>Other Finding Aids</head>
+            <p>Printed version of this catalogue is available in Special Collections
+		  Reading Room.</p>
+         </otherfindaid>
+         <relatedmaterial/>
+         <separatedmaterial/>
+         <odd/>
+         <bibliography/>
+         <prefercite/>
+         <processinfo/>
+      </descgrp>
+      <dsc>
+         <c id="GB-237-EUA-CA3-1" level="item">
+            <did>
+               <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				EUA CA3/1</unitid>
+               <physloc encodinganalog="shelfmark" label="Shelfmark"/>
+               <unittitle encodinganalog="isadg(2)312" label="Title">Burning of an Effigy of the
+				Pope</unittitle>
+               <unitdate encodinganalog="isadg(2)313" label="Date" normal="1680">1680</unitdate>
+               <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+                  <extent>1 advertisement</extent>
+               </physdesc>
+               <language langcode="eng">English</language>
+               <origination encodinganalog="isadg(2)321">Students of the University of
+				Edinburgh</origination>
+            </did>
+            <bioghist encodinganalog="isadg(2)322">
+               <p>In the late 17th century there was great excitement over the
+				'Popish plot' and the Catholic heir presumptive to the Crown, (The Duke of
+				York) was also resident in Edinburgh. Some Edinburgh students announced their
+				intention to burn 'an effigy of the Pope of Rome' . This advertisement included
+				a warning to keep forty paces distance, 'since we hate tumults'. The students
+				succeeded in carrying out their intention, in spite of the combined resistance
+				of the College authorities, the Town guard and the regular troops.</p>
+               <p>The students were charged with treason by the Privy Council who
+				closed the College, with its re-opening conditional on formal parental
+				assurances of good behaviour! Soon afterward, another pamphlet was published
+				'humbly rescuing the actors from the Imputation of Disloyalty and
+				Rebellion'.</p>
+               <p>An indication of the religious troubles and student disciplinary
+				problems of the latter seventeenth century may be glimpsed in the wording of
+				this item.</p>
+            </bioghist>
+            <scopecontent encodinganalog="isadg(2)331">
+               <p>Printed advertisement, signed by 'Robert Brown, Secretary of State
+				to all our Theatrical and Extra-literal Divertisements', announcing the
+				intention by students to burn an effigy of the Pope at noon on Christmas Day
+				1680.</p>
+            </scopecontent>
+            <descgrp/>
+         </c>
+      </dsc>
+      <dsc>
+         <c id="GB-237-EUA-CA3-2" level="item">
+            <did>
+               <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237
+				EUA CA3/2</unitid>
+               <physloc encodinganalog="shelfmark" label="Shelfmark"/>
+               <unittitle encodinganalog="isadg(2)312" label="Title">Performance of Terence's 
+				Eunuchus</unittitle>
+               <unitdate encodinganalog="isadg(2)313" label="Date" normal="1681">1681</unitdate>
+               <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+                  <extent>1 advertisement</extent>
+               </physdesc>
+               <language langcode="lat">Latin</language>
+               <origination encodinganalog="isadg(2)321">Students of the University of
+				Edinburgh</origination>
+            </did>
+            <scopecontent encodinganalog="isadg(2)331">
+               <p>Printed advertisement, written in Latin, concerning the
+				performance of an amateur production 
+			 <title>Eunuchus</title> by Terence (Publius Terentius Afer), which
+			 seems to have involved a joint operation with some pupils of Kelso High School.
+			 It may well be one of the earliest surviving amateur playbills.</p>
+            </scopecontent>
+            <descgrp/>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

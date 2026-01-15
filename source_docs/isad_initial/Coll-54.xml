@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-54"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237 Coll-54
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Robert Nye Manuscripts </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20061110">10 November 2006</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds" id="GB-237-Coll-54"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-54 </unitid>
+		
+		<physloc>MSS 2881-2916; MSS 2938-2940; MSS 3122-3123; E99.39; E2004.1;
+		  E2005.30 </physloc><unittitle encodinganalog="isad(g) 3.1.2./marc 245">Robert
+		  Nye Manuscripts </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1969-1996">1969-2005</unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>63 archive
+		  boxes, and 1 envelope/folder (minumum 7m. shelving)</extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>The writer Robert Nye was born 15 March 1939 in London. He attended
+		  Southend High School, a traditional grammar school, and began writing when he
+		  was thirteen. Between leaving school in 1955 and starting to write full-time in
+		  1961, he held a variety of jobs including newspaper reporter, milkman, labourer
+		  in a market-garden, and ward orderly in a sanatorium. These jobs supported him
+		  in his poetry writing. In 1961, Nye moved to North Wales to absorb himself in
+		  full-time writing. Later on he settled in Edinburgh where he lived until 1977,
+		  then he moved to Ireland. In 1961, he published his first collection of poems, 
+		<title>Juvenilia 1 </title>, and a second volume 
+		<title>Juvenilia 2 </title> was published in 1963. Around this time he
+		became successful as a reviewer, becoming poetry editor for 
+		<title>The Scotsman </title> in 1967 and poetry critic for the 
+		<title>Times </title> in 1971. In addition to criticism and poetry,
+		writing for children provided an outlet, 
+		<title>Taliesin </title> (1966) and 
+		<title>March has horse's ears </title> (1966) being his first books for
+		children. These were based on a re-telling of Welsh tales. Other works for
+		children, poetry, and short stories followed. Nye has written novels too, 
+		<title>Doubtfire </title> (1967), then 
+		<title>Falstaff </title> (1976), 
+		<title>Merlin </title> (1978) and 
+		<title>Faust </title> (1980). In 2006, Nye was still living in
+		Ireland.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The collection includes, largely: working notes; drafts; typescripts;
+		  correspondence; source material; and, publishing house material. The
+		  collection, received at various points since the 1990s, is formed by the
+		  following components:</p> 
+		<p> MSS 2881-2916 (35 archive boxes), containing material relating to: 
+		  <list> 
+			 <item>- 
+				<title>Merlin</title> - working notes, drafts, typescript, copies
+				of source material, proofs, copies of poster, and cover design</item> 
+			 <item>- 
+				<title>Faust</title> - notebooks, corrected/uncorrected typescript,
+				copies of source material</item> 
+			 <item>- 
+				<title>The voyage of the Destiny</title> - typescript, proofs,
+				copies of source material</item> 
+			 <item>- 
+				<title>The memoirs of Lord Byron</title> - notes, manuscripts and
+				typescripts</item> 
+			 <item>- 
+				<title>Falstaff</title> - typescript versions for solo performance,
+				fliers</item> 
+			 <item>- various BBC scripts (late-19060s-1970s)</item> 
+			 <item>- material relating to short stories and other smaller works,
+				such as: 
+				<title>The facts of lief</title>, 
+				<title>The bird of the golden land</title>, 
+				<title>Wishing gold</title>, and 
+				<title>Owain Glendwyr</title> etc</item> 
+			 <item>- correspondence (1970s-1992), files on financial matters,
+				colour transparencies etc</item> 
+			 <item>- 
+				<title>Mrs Shakespeare </title> - miscellaneous criticism, talks
+				and essays, typescripts, proofs and reviews</item> 
+			 <item>- 
+				<title>The life and death of my Lord Gilles de Rais</title> -
+				notes, letters, typescript, proofs</item> 
+			 <item>- and, other material</item> 
+		  </list></p> 
+		<p>MSS 2938-2940 (3 archive boxes), which contain: 
+		  <list> 
+			 <item>- correspondence (1992-1996)</item> 
+		  </list></p> 
+		<p> MSS 3122-3123 (2 archive boxes), containing material relating to: 
+		  <list> 
+			 <item>- 
+				<title>Collected poems</title> - notebooks, manuscript material,
+				tyescript material, correspondence, proofs, dust-jacket proofs</item> 
+			 <item>- 
+				<title>Henry James and other poems</title> - proofs</item> 
+			 <item>- material relating to 
+				<title>Spine-chilling tales</title> or later title 
+				<title>Lord Fox and other spine chilling tales</title></item> 
+		  </list></p> 
+		<p>E99.39 (10 archive boxes), containing material relating to: 
+		  <list> 
+			 <item>- 
+				<title>Mrs. Shakespeare</title> - a play for radio</item> 
+			 <item>- drafts of book reviews for the 
+				<title>Scotsman</title>, 
+				<title>The Times</title>, the 
+				<title>Literary Review</title>, and the 
+				<title>Sunday Telegraph</title>, 1996-1999</item> 
+			 <item>- obituaries (notes and drafts and texts)</item> 
+			 <item>- Nye's own correspondence; and letters from
+				correspondents</item> 
+			 <item>- 
+				<title>The late Mr. Shakespeare</title> - drafts, typescript,
+				author's proof etc</item> 
+			 <item>- reviews</item>
+		  </list></p> 
+		<p> E2004.1 (1 folder/envelope), containing: 
+		  <list> 
+			 <item>- correspondence between Robert Graecen and Robert Nye (1970s)
+				and relating to items (poetry) for publishing, and relating to the reviewing of
+				poetry</item> 
+		  </list></p> 
+		<p> E2005.30 (13 archive boxes), containing material relating to: 
+		  <list> 
+			 <item>- manuscript and typescript notes of reviews for 
+				<title>The Scotsman</title> and the 
+				<title>Times</title> 2002-2005; notes for 
+				<title>The life and death of my Lord Gilles de Rais</title>, 
+				<title>Selection of the poems of Laura Riding</title>, 
+				<title>The late Mr. Shakespeare</title>, and 
+				<title>Mr. Shakespeare: the complete works</title>; 
+				<title>Gingember: a drama in three acts</title>; also,
+				correspondence</item> 
+			 <item>- correspondence</item> 
+			 <item>- 
+				<title>How delightful to meet Mr. Hodgson!</title></item> 
+			 <item>- original drafts of biography of the Scottish poet Norman
+				Cameron with related correspondence; draft of study of Seamus Heaney;
+				typescript of unpublished autobiography of Sean Haldane and unpublished
+				biography of Ralph Hodgson</item> 
+			 <item>- notes for novels and notes toward 
+				<title>The good thief</title>; typescript of unpublished play by
+				Bill Watson; proofs of novel 
+				<title>Tiberius</title>, by Alan Massie; proofs of 
+				<title>Bloodaxe book of contemporary women poets</title></item> 
+			 <item>- manuscript and typescript drafts and correction to poems for 
+				<title>The rain and the glass: 99 poems, new and selected</title>;
+				and, corrected proofs of 
+				<title>Sixteen poems</title></item> 
+		  </list></p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Some material closed, otherwise generally open to bona fide
+		  researchers, but please contact repository for details in advance of visit.</p>
+		
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph altrender="surname">Nye</emph>
+		  <emph altrender="forename">Robert</emph> <emph altrender="dates">b. 1939</emph>
+		  </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> <emph altrender="y">20th century</emph>
+		  </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> <emph altrender="x">Criticism,
+		  Textual</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>Handlist, H54. Within handlist is an index of correspondents and box
+		  content relevant to all parts: MSS 2881-2916; MSS 2938-2940; MSS 3122-3123;
+		  E99.39; E2004.1; and, E2005.30</p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isadg(2)353"> 
+		<head>Related Material</head> 
+		<p>Within the Special Collections, Edinburgh University Library, and
+		  noted in the paper-format Index to Manuscripts, there are letters to Robert Nye
+		  from C.M.Grieve (Hugh MacDiarmid) 1969-1975, and a letter from Mrs.Grieve, at
+		  shelfmark Gen. 1930/16/1-7.</p> 
+	 </relatedmaterial> 
+	 <processinfo encodinganalog="isadg(2)371"> 
+		<head>Archivist's Notes</head> 
+		<p>Compiled by Graeme D Eddie, Edinburgh University Library, Special
+		  Collections.</p> 
+	 </processinfo> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph altrender="surname">Nye</emph>
+		  <emph altrender="forename">Robert</emph> <emph altrender="dates">b. 1939</emph>
+		  </persname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> <emph altrender="y">20th century</emph>
+		  </subject> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> <emph altrender="x">Criticism,
+		  Textual</emph> </subject> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

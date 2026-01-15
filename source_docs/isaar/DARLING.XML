@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<!DOCTYPE isaarcpf SYSTEM "file:///C|/Program%20Files/SoftQuad/XMetaL%202/Rules/isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P2042 20020626//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P2042</titleproper> 
+		  <subtitle>Darling | Sir | Frank Fraser | 1903-1979 | human ecologist
+			 and senior lecturer in ecology and conservation, University of
+			 Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+			 University Library Special Collections Division, 11 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020626">26 June 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P2042</titleproper> 
+		<subtitle>Darling | Sir | Frank Fraser | 1903-1979 | human ecologist and
+		  senior lecturer in ecology and conservation, University of Edinburgh</subtitle>
+		
+		<author>Compiled for the NAHSTE project by Margaret Stewart , Edinburgh
+		  University Library Special Collections Division, 11 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020211">11 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P2042"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P2042</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P2042"
+		 normal="Darling, Sir, Frank Fraser">Darling | Sir | Frank Fraser | 1903-1979 |
+		  human ecologist and senior lecturer in ecology and conservation, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Frank Fraser Darling's contribution to ecology and nature
+			 conservation was in his development of ecological survey - the analysis of the
+			 interdependent relationship between man, his native landscape and the wildlife
+			 of his locality. He was born in the stable loft of a farm in Chesterfield. His
+			 mother refused to give him into care. He was unconventional and ambitious and
+			 much of this can be attributed to his mother's determination to overcome, what
+			 in those days was, the crippling social disadvantage of illegitimacy. His
+			 earliest experiences of nature were in dawn walks with is mother in the 'great
+			 wood' near their home. He left school at fifteen and worked on a farm before
+			 studying at the Midland Agricultural College. Here he heard about the work of
+			 the Institute of Animal Genetics at Edinburgh University, and in the early 
+			 <date normal="1930/1939" certainty="uncertain"
+			  type="inclusive">1930s</date> the Director, Francis Crew (<date
+			 normal="1886/1973" type="life-span">1886-1973</date>) offered him a place there
+			 to study for a PhD. </p> 
+		  <p>Fraser Darling's work on Blackface sheep introduced him to the
+			 Scottish landscape, and shortly afterwards he combined this with his genetical
+			 knowledge in a series of pioneering studies of the relationship between red
+			 deer and the highlander, and the impact of the introduction of sheep in the 
+			 <date certainty="uncertain" normal="1800/1899" type="inclusive">19th
+				century</date>. He also studied the behavioural patterns of grey seals and
+			 sea-birds. In the 
+			 <date normal="1940/1949" type="inclusive">1940s</date> he took up
+			 farming again, and his books on island life mark a shift towards what was to
+			 become field survey - the human habitat, or 'human ecology' as he called it.
+			 These studies integrated the disciplines of zoology and genetics with those of
+			 natural history and conservation, and brought him to the attention of the
+			 natural historian Sir Julian Huxley (<date normal="1887/1975"
+			 type="life-span">1887-1975</date>). Darling's work influenced Tom Johnston
+			 (<date normal="1881/1965" type="life-span">1881-1965</date>) who, as Secretary
+			 of State for Scotland at the end of World War II, undertook to develop the
+			 Highlands. Darling became the leading figure in Johnston's crofting improvement
+			 programme, but the independent and unorthodox opinions he expressed in Natural
+			 History of the Highlands and Islands (<date normal="1947"
+			 type="single">1947</date>) and West Highland Survey (<date normal="1955"
+			 type="single">1955</date>) curtailed his hopes of a senior government
+			 appointment. Despite this he had become a popular national figure to the Scots,
+			 and his scientific reputation was extremely high. He was offered a senior
+			 lectureship in the Zoology Department at Edinburgh University, and became
+			 Huxley's representative at the 
+			 <date normal="1949" type="single">1949</date> UNESCO conservation
+			 conference. </p> 
+		  <p>In his early fifties, in his own words, he became a cosmopolitan.
+			 The US government invited him to apply his principles of 'human ecology', and
+			 his travels in America and Mexico resulted in Pelican in the Wilderness:
+			 Odyssey of a Naturalist (<date normal="1956" type="publication">1956</date>).
+			 This book highlighted a theme that had emerged in his Scottish studies - the
+			 abuse of nature by man. Thus Darling's interpretation of the term ecology
+			 became its defining characteristic in the 
+			 <date normal="1960/1999" type="inclusive" certainty="uncertain">late
+				20th century</date>. He repeated the methodology of his Scottish studies of red
+			 deer in his 
+			 <date normal="1952" type="single">1952</date> study of the impact of
+			 the introduction of Siberian reindeer on native caribou and the consequences of
+			 this for the Eskimo population. In the 
+			 <date normal="1950/1959" certainty="uncertain"
+			 type="inclusive">1950s</date> he undertook a series of 'ecological
+			 reconnaissances' in Africa: as a result of which he 'dominated the field of
+			 African ecology'. The diminution of wildlife in the game reserves and the need
+			 for management policies on ecological principles was extremely pressing. </p> 
+		  <p>From 
+			 <date normal="1956/1961" certainty="uncertain"
+			 type="inclusive">1956-1961</date> he toured Uganda, Kenya, Tanzania and The
+			 Sudan. He travelled on foot, by Land Rover and by air in the wet and dry
+			 seasons. His holistic overview of complex ecosystems was augmented by the
+			 advice of experts in the field. His conclusions encompassed issues as diverse
+			 as tribal law, game management, game hunting - which he condemned as vandalism,
+			 animal husbandry, flora and colonial politics. The novelty and enduring
+			 significance of Fraser Darling's work arose from the union of his intuition
+			 with the discipline of rigorous scientific investigation. He warned against
+			 superficial and simplistic interpretations, and intensely disliked the
+			 'specialists' who saw their role as information-providers for politicians. To
+			 Darling science's purpose was to discover the principles that underlie the
+			 complexity of nature in its widest sense.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>He collaborated with William Orr, J.H. Ashworth and Cytovich on
+			 genetics, with A.S. Leopold, John Morton Boyd and John Markham on the natural
+			 history of Scotland, and with R.F. Dasmann and John P. Milton on conservation
+			 issues in the USA.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Fraser Darling published numerous papers in scientific journals, and
+			 over 21 monographs. Notable publications:</p> 
+		  <p><bibref><title>The Physiological and Genetical Aspects of Sterility
+			 in Domesticated Animals </title>, ( <imprint><date type="publication"
+			 normal="1932" certainty="certain">1932</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Biology of the Fleece of the Scottish Mountain
+			 Blackface </title>, ( <imprint><date type="publication"
+			 normal="1932" certainty="certain">1932</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>A Herd of Red Deer </title>, ( <imprint><date
+			 type="publication" normal="1937"
+			 certainty="certain">1937</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Bird Flocks and the Breeding Cycle </title>, ( 
+			 <imprint><date type="publication" normal="1938"
+			 certainty="certain">1938</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Seasons and the Farmer: a Book for Children
+			 </title>, ( <imprint><date type="publication" normal="1939"
+			 certainty="certain">1939</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Island Years </title>, ( <imprint><date
+			 type="publication" normal="1940"
+			 certainty="certain">1940</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Seasons and the Fisherman </title>, ( 
+			 <imprint><date type="publication" normal="1941"
+			 certainty="certain">1941</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Story of Scotland </title>, ( <imprint><date type="publication"
+			 normal="1942" certainty="certain">1942</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Care of Farm Animals </title>, ( <imprint><date
+			 type="publication" normal="1943"
+			 certainty="certain">1943</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Crofting Agriculture </title>, ( <imprint><date
+			 type="publication" normal="1945"
+			 certainty="certain">1945</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Alaska: An Ecological Reconnaissance </title>, ( 
+			 <imprint><date type="publication" normal="1953"
+			 certainty="certain">1953</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>An Ecological Renaissance of the Mara Plains in Kenya
+			 Colony </title>, ( <imprint><date type="publication" normal="1960"
+			 certainty="certain">1960</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Wild life in an African territory: a study made for
+			 the Game and Tsetse Control Dept. of Northern Rhodesia </title><imprint><date
+			 type="publication" normal="1960"
+			 certainty="certain">1960</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Impacts of Man on the Biosphere </title> 
+			 <imprint><date type="publication" normal="1969"
+			 certainty="certain">1969</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p> 
+			 <date normal="1933/1936" type="inclusive">1933-1936</date>: Awarded
+			 Barnard Medal</p> 
+		  <p><date normal="1934" type="single">1934</date>: Elected Fellow, Royal
+			 Society of Edinburgh</p> 
+		  <p><date normal="1936/1939" type="appointmentspan">1936-1939</date>:
+			 Appointed Carnegie Research Fellow</p> 
+		  <p><date type="single" normal="1947">1947</date>: Awarded Mungo Park
+			 Medal, Royal Scottish Geographical Society</p> 
+		  <p><date type="single" normal="1969">1969</date>: Awarded Reith
+			 Lectures, 'Wilderness and Plenty'</p> 
+		  <p> 
+			 <date type="single" normal="1970">1970</date>: Awarded Knighthood</p>
+		  
+		  <p> 
+			 <date type="appointmentspan" normal="1970/1973">1970-1973</date>:
+			 Appointed member of the Royal Commission on Environmental Pollution</p> 
+		  <p> 
+			 <date type="single" normal="1972">1972</date>: Awarded Centenary
+			 Medal, US National Park Service</p>
+		  <p> 
+			 <date type="single" normal="1973">1973</date>: Created Commandeur,
+			 Order of the Golden Ark (Netherlands)</p>
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Boyd, John Morton"
+			 role="editor">John Morton Boyd (ed.)</persname><title>Fraser Darling in Africa:
+			 A Rhino in the Whistling Thorn</title>, ( <imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <date type="publication"
+			 normal="1992">1992</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Who's Who 1978</title>, ( <imprint><geogname
+			 source="lcsh" authfilenumber="499" normal="Great Britain">Great
+			 Britain</geogname>, 
+			 <publisher>A and C Black Ltd</publisher>, 
+			 <date type="publication"
+			  normal="1978">1978</date>)</imprint></bibref></p>
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="researcher" normal="Stewart, Margaret">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020626">26 June
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

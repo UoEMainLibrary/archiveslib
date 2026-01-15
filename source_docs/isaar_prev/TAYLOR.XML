@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1870 20020307 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1870</titleproper> 
+		  <subtitle>Taylor | Sir | Geoffrey Ingram | 1886-1975 | physicist,
+			 mathematician and engineer</subtitle> 
+		  <author>Compiled for the NAHSTE project by Margaret Stewart , Edinburgh
+			 University Library Special Collections Division, 18 June 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020307">07 March 2003</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1870</titleproper> 
+		<subtitle>Taylor | Sir | Geoffrey Ingram | 1886-1975 | physicist,
+		  mathematician and engineer</subtitle> 
+		<author>Compiled for the NAHSTE project by Margaret Stewart, Edinburgh
+		  University Library Special Collections Division, 18 June 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020618">18 June 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1870"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1870</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1870"
+		 normal="Taylor, Sir, Geoffrey Ingram">Taylor | Sir | Geoffrey Ingram |
+		  1886-1975 | physicist, mathematician and engineer</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Geoffrey Ingram Taylor has been described as 'one of the great
+			 physical scientists of this century'. He was an intuitive, independent and
+			 original thinker with an 'adventurous curiosity' (Batchelor, 1996) in the
+			 tradition of Clerk Maxwell, Kelvin and Rayleigh. He was born and educated in
+			 London where his father was an artist. He decided to become a scientist at the
+			 age of eleven after attending lectures on telegraphy at the Royal Institution.
+			 He became an enthusiastic amateur, and with the assistance of his friends and
+			 his mother (a daughter of the scientist George Boole) he conducted experiments
+			 at home. Whilst still at school he constructed a sea-worthy sailing dingy in
+			 his bedroom. Some of his experimental methods were deceptively simple and used
+			 everyday objects such as adhesive tape, paint rollers and water-bells.
+			 Similarly, in later years he often illustrated his ideas with ingenious models.
+			 In his final year at the University College School he obtained a scholarship to
+			 Trinity College, Cambridge where he studied mathematics and natural science. He
+			 graduated in 
+			 <date normal="1908" type="single">1908</date> and was awarded a major
+			 scholarship. His first research paper in 
+			 <date normal="1909" type="single">1909</date> was on quanta. His
+			 later studies on continuum mechanics, meteorology and dislocation theory took
+			 place entirely at Trinity and the Cavendish Laboratories. During World War I he
+			 was employed by the Royal Flying Corps and trained as a pilot in order to
+			 better design aircraft propellors. From his knowledge of meteorology and
+			 working with wind tunnels in the laboratory he improved the design of aircraft
+			 wings. However, his greatest contribution to science was in fluid mechanics and
+			 the statistical theory of turbulence in which he was able to exercise his
+			 considerable gift in mathematics. His studies of velocity fluctuations and
+			 distribution arrived at a description of turbulence based on a statistical
+			 method that is still taught today. His investigation of the stability of steady
+			 flow between concentric circular cylinders in relative rotation was a classic
+			 investigation that established hydrodynamic stability studies as a branch of
+			 the science of fluid mechanics. During World War II he carried out experiments
+			 on the detonation and impact of high explosives, and later in the war this
+			 included nuclear work at Los Alamos. After the war his work in this and on the
+			 development of supersonic aircraft was of considerable importance to the
+			 government and he was a member of the Aeronautical Research Committee. He
+			 retired in 
+			 <date normal="1952" type="single">1952</date>, but continued to work
+			 as before. He now concentrated on problems that he could work on in a simple
+			 laboratory - this suited his tendency to solve problems by reference to
+			 concrete images. For instance, it was not known in 
+			 <date normal="1954" type="single">1954</date> how to measure the
+			 second ceofficient of viscocity. Taylor devised a incompressible liquid with
+			 separated gas bubbles suspended in it. The dissipation of the gas in the liquid
+			 during expansion was a consequence of the shear viscosity of the liquid. Thus
+			 the bulk viscocity could be easily calculated. Other late work included the
+			 longitudinal dispersion in flow in tubes, movement through porous surfaces and
+			 the dynamics of sheets of liquids. His final research paper was published when
+			 he was 83, six years before he died. In this he resumed his interest in
+			 electrical activity in thunderstorms (jets of conducting liquid motivated by
+			 electrical fields). G.I. Taylor was essentially an applied scientist, for
+			 instance, in the 
+			 <date normal="1930/1939" type="inclusive"
+			  certainty="uncertain">1930s</date> he invented the 'CQR' anchor which was far
+			 stronger and more manageable and that any used hitherto - it was used for all
+			 sorts of smaller craft including seaplanes. Aspects of his life were subsumed
+			 into his work. His recurrent interest in the movement of air and water, and by
+			 extension his studies of the movement of unicellular marine creatures and the
+			 weather, were related to his life-long love of sailing.</p> 
+		  <p>At the outbreak of World war I, Taylor was employed in the design
+			 and operation of aeroplanes. This work led him to think about the limiting
+			 strengths of materials and greatly impacted on his future projects in later
+			 life. Upon his return from the War, Taylor became in 
+			 <date normal="1923" type="appointmentdate">1923</date>, the Royal
+			 Society Yarrow research professor, enabling him to cease teaching activities,
+			 which he had never truly enjoyed. During World War II he was a consultant and
+			 adviser to civil and military authorities on high explosives, researching the
+			 effects of blast-waves, and when the war was over he took up his research once
+			 again until he retired in 
+			 <date normal="1952" type="single">1952</date>. Despite this he
+			 continued his research at Cambridge until 
+			 <date normal="1972" type="single">1972</date>. Geoffrey Ingram Taylor
+			 was elected to membership of academic societies in many countries including the
+			 United States, France, Italy, Sweden, the Netherlands, India, Poland and USSR.
+			 He received honorary degrees from more than a dozen universities around the
+			 world and over twenty medals for his contributions to applied mathematics.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>During World War I he worked with A.A. Griffiths on fluid mechanics.
+			 Between the wars he collaborated with C.F. Elam and W.S. Farren on crystals. In
+			 the 
+			 <date normal="1930/1939" type="inclusive"
+			  certainty="uncertain">1930s</date> he worked with J.W. MacColl on the
+			 aerodynamics at supersonic speeds, and with H. Quinney on metallurgy. During
+			 World War II his work on explosives was assisted by R.M Davies and H.
+			 Jones.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications: </p> 
+		  <p><bibref><title>Scientific Papers of Sir Geoffrey Ingram Taylor,
+			 edited by GK Batchelor, vol 1, Mechanics of Solids</title>, (<imprint><date
+			 type="publication" normal="1958"
+			 certainty="certain">1958</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Scientific Papers of Sir Geoffrey Ingram Taylor,
+			 edited by GK Batchelor, vol 2, Meteorology, Oceanography and Turbulent
+			 Flow</title>, (<imprint><date type="publication" normal="1960"
+			 certainty="certain">1960</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Scientific Papers of Sir Geoffrey Ingram Taylor,
+			 edited by GK Batchelor, vol 3, Aerodynamics and the Mechanics of Projectiles
+			 and Explosions</title>, (<imprint><date type="publication" normal="1963"
+			 certainty="certain">1963</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Scientific Papers of Sir Geoffrey Ingram Taylor,
+			 edited by GK Batchelor, vol 4, Mechanics of Fluids; Miscellaneous
+			 Papers</title>, (<imprint><date type="publication" normal="1971"
+			 certainty="certain">1971</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1919">1919</date>: Elected
+			 Fellow, Royal Society</p> 
+		  <p><date type="single" normal="1933">1933</date>: Awarded Royal Medal,
+			 Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1938">1938</date>: Elected
+			 Fellow, Royal Society of Edinburgh</p> 
+		  <p><date type="single" normal="1944">1944</date>: Awarded Copley Medal,
+			 Royal Society</p> 
+		  <p><date type="single" normal="1944">1944</date>: Awarded
+			 Knighthood</p> 
+		  <p><date type="single" normal="1945">1945</date>: Elected Member, U.S.
+			 National Academy of Sciences</p> 
+		  <p><date type="single" normal="1947">1947</date>: Awarded American
+			 Medal for Merit</p> 
+		  <p><date type="appointmentdate" normal="1951">1951</date>: Elected
+			 Fellow, Accademia dei Lincei, Rome</p> 
+		  <p><date type="single" normal="1952">1952</date>: Elected Member,
+			 Indian Academy of Sciences</p> 
+		  <p><date type="single" normal="1953">1953</date>: Awarded Honorary
+			 degree, University of Edinburgh</p> 
+		  <p><date type="single" normal="1954">1954</date>: Awarded Gold Medal,
+			 Royal Aeronautical Society</p> 
+		  <p><date type="single" normal="1954">1954</date>: Awarded Exner Medal,
+			 Oesterreichischer Gewerbeverein</p> 
+		  <p><date type="single" normal="1956">1956</date>: Awarded De Morgan
+			 Medal, London Maths Society</p> 
+		  <p><date type="single" normal="1958">1958</date>: Awarded International
+			 Panetti Prize and Medal, Accademia delle Scienze di Torino</p> 
+		  <p><date type="single" normal="1958">1958</date>: Awarded Dutch Medal,
+			 Akkademia van Wetenschafen</p> 
+		  <p><date type="single" normal="1959">1959</date>: Awarded Kelvin Gold
+			 Medal, Institution of Civil Engineers</p> 
+		  <p><date type="single" normal="1962">1962</date>: Awarded Faraday
+			 Award</p> 
+		  <p><date type="single" normal="1962">1962</date>: Awarded Franklin
+			 Medal, Franklin Institute, United States</p> 
+		  <p><date type="single" normal="1964">1964</date>: Awarded Platinum
+			 Medal, Institute of Metals</p> 
+		  <p><date type="single" normal="1965">1965</date>: Awarded James Watt
+			 International Gold Medal</p> 
+		  <p><date type="appointmentdate" normal="1966">1966</date>: Elected
+			 Member, Academy of Sciences, U.S.S.R</p> 
+		  <p><date type="single" normal="1969">1969</date>: Awarded Order of
+			 Merit</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="Batchelor, GK"
+			 role="editor">Batchelor, G.K</persname><title>The Life and Legacy of G.I.
+			 Taylor, (portraits).</title>, ( <imprint><geogname
+			 source="lcsh" authfilenumber="499" normal="Great Britain">Great
+			 Britain</geogname>, 
+			 <publisher>Cambridge University Press</publisher>, 
+			 <date type="publication"
+			  normal="1996">1996</date>)</imprint></bibref></p> 
+		  <p><bibref><persname source="ncarules" normal="Batchelor, GK"
+			 role="editor">Batchelor, G.K</persname><title>Biographical Memoirs of Fellows
+			 of the Royal Society, vol. 33</title>, ( <imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			  normal="London (England)">London</geogname>, 
+			 <date type="publication"
+			  normal="1987">1987</date>)</imprint></bibref></p> 
+		  <p><bibref><persname source="ncarules" normal="Pippard, Sir, Brian D"
+			 role="editor">Pippard, Sir, Brian D</persname><title>'Obituary', Physics
+			 Today</title>, ( <imprint> 
+			 <date type="publication" normal="197509">September
+				1975</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname normal="Stewart, Margaret" role="researcher">Margaret
+			 Stewart</persname>, Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020618">18 June
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

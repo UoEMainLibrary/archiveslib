@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" publicid="GB 237 Coll-80"
+	  encodinganalog="isad(g) 3.1.1./marc 852" countrycode="GB">GB 237 Coll-80
+		</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Professor William Lindsay Renwick (1889-1970) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852">GB 237 Coll-80</unitid> 
+		<physloc>Gen. 1926-1927 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Professor William Lindsay
+		  Renwick (1889-1970) </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1945-1959">1945-1959 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>2 file
+		  volumes, 2 boxes. </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>William Lindsay Renwick was born in Glasgow on 6 January 1889. He
+		  studied at Glasgow University, graduating with First Class Honours in English
+		  in 1911. He then went on to study French and Italian Literature at Toulouse,
+		  the Sorbonne, and the British School in Rome. After the war he studied at
+		  Merton College, Oxford, where he received a B.Litt. for a thesis on Edmund
+		  Spenser. During the First World War Renwick served with the Cameronians
+		  (Scottish Rifles), 1914-1919, experiencing trench warfare. In 1921 he was
+		  appointed Professor of English Language and Literature at King's College
+		  (University of Durham) at Newcastle-upon-Tyne. Prior to that appointment he was
+		  a Lecturer at Glasgow University. During the Second World War he spent a year
+		  in China as a visiting Professor, lecturing with the British Council. Renwick
+		  came to Edinburgh University in 1945 and was Regius Professor of Rhetoric and
+		  English until 1959. During his time at Edinburgh the sub-department of English
+		  for Foreign Students was established and he was also involved in the setting up
+		  of the School of Scottish Studies. His publications include 
+		<title>Edmund Spenser - An essay on renaissance poetry </title> (1925), 
+		<title>Spenser's works </title> (1928), 
+		<title>John of Bordeaux </title> (1936), 
+		<title>The beginnings of English literature </title> (1939), a
+		contribution to the 
+		<title>Oxford history of English literature </title> dealing with the
+		period 1715-1815. He also edited Spenser's 
+		<title> A view of the present state of Ireland </title> (1934). William
+		Lindsay Renwick died in Edinburgh on 25 November 1970. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The papers of Professor Renwick consist largely of material on Edmund
+		  Spenser. More specifically there are notes on sources for 
+		<title>A view of the present state of Ireland </title>, and for 
+		<title>The Shepheards calendar </title>, as well as collations of textual
+		and bibliographical variants of 
+		<title>The Faerie Queen </title>. There is a draft essay on 
+		<title>The Faerie Queen </title>; a typescript of a lecture; short notes
+		mostly relating to Spenser; and, miscellaneous correspondence and papers mostly
+		on Scholartis Press editions. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <odd encodinganalog="isad(g) 3.5.1"> 
+		<note encodinganalog="isad(g) 3.6.1./marc 500"> 
+		  <p>The biographical history was compiled using the following material:
+			 (1) 
+		  <title>Who's who 1968-1969 </title> (New York: St. Martin's Press,
+		  1968). (3) 
+		  <title>University of Edinburgh Journal </title>, Vol.13. 1944-1945,
+		  pp.69-70 (Edinburgh: Oliver and Boyd). (4) 
+		  <title>University of Edinburgh Journal </title>, Vol.25. 1971-1972,
+		  p.70 (Edinburgh: Oliver and Boyd). </p> 
+		</note> 
+	 </odd> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Renwick</emph> <emph altrender="forename">William
+		  Lindsay</emph> <emph altrender="dates">1889-1970</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Spenser</emph> <emph altrender="forename">Edmund</emph>
+		  <emph altrender="dates">1552-1599</emph> </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Durham
+		  University</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">English literature</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+  </archdesc>
+</ead>

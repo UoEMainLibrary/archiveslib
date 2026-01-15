@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0385 20020211 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0385</titleproper> 
+		  <subtitle>GB 0237 NAHSTE P0385</subtitle> 
+		  <author>Compiled for the NAHSTE project by Grant Buttars , Edinburgh
+			 University Library Special Collections Division, 11 February 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20010211">11 February 2001</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0385</titleproper> 
+		<subtitle>Thomson | Sir | William | 1824-1907 | Baron Kelvin | professor
+		  of natural philosophy, University of Glasgow</subtitle> 
+		<author>Compiled for the NAHSTE project by Grant Buttars , Edinburgh
+		  University Library Special Collections Division, 11 February 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020211">11 February 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0385"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0385</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0385" normal="Thomson, Sir, William">Thomson |
+		  Sir | William | 1824-1907 | Baron Kelvin | professor of natural philosophy,
+		  University of Glasgow</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir William Thomson was Professor of Natural Philosophy at Glasgow
+			 University from 
+			 <date type="appointmentspan" normal="1846/1899"
+			  certainty="certain">1846-1899</date>, where he had previously studied. Spending
+			 some time in Paris, he met Joseph Liouville (<date normal="1809/1882"
+			 type="life-span">1809-1882</date>) and others, and this was hugely influential
+			 on the path he went on to follow. He developed earlier work done by Sadi Carnot
+			 (<date normal="1796/1832" type="life-span">1796-1832</date>), and James
+			 Prescott Joule (<date normal="1818/1889" type="life-span">1818-1889</date>), on
+			 the two thermodynamic laws of equivalence and transformation, as well as
+			 producing the doctrine of available energy.</p> 
+		  <p>His aquaintance with Hermann Ludwig Ferdinand von Helmholtz (<date
+			 type="lifespan" normal="1821/1894">1821-1894</date>) from 
+			 <date type="single" normal="1855">1855</date> laid the basis for
+			 developing the mathematical theory of electrical oscillation. This in turn led
+			 to his work on wireless telegraphy. Further work in the field of electricity
+			 saw his participation in the laying of cable across the Atlantic and his
+			 advocation of the establishment of electrical standards. Thomson also applied
+			 mathematics to magnetism and was in favour of metrication.</p> 
+		  <p>Thomson related his work in science to the practical needs of the
+			 world. He contributed a new mariner's compass and tide prediction apparatus to
+			 the maritime world and showed the possibilities of hydro-electricity.
+			 Collaboration with James White, a Glasgow optical and philosophical instrument
+			 maker, led to the eventual establishment of the firm, Kelvin &amp; White, which
+			 later became Kelvin &amp; Hughes.</p> 
+		  <p></p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>His father was James Thomson (<date type="lifespan"
+			 normal="1786/1849">1786-1849</date>), Professor of Mathematics at the Royal
+			 Institution, Belfast, and then at the University of Glasgow.</p> 
+		  <p>His father-in-law was chemist Walter Crum (<date type="lifespan"
+			 normal="1796/1867">1796-1867</date>).</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Noteable publications:</p> 
+		  <p><bibref><title>Treatise on Natural Philosophy</title>, ( 
+			 <imprint><date type="publication" normal="1867"
+			 certainty="certain">1867</date>)</imprint></bibref> (contibution to)</p> 
+		  <p><bibref><title>Reprint of Papers on Electrostatics and
+			 Magnetism</title>, ( <imprint><date type="publication" normal="1872"
+			 certainty="certain">1872</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Mathematical and Physical Papers</title>, ( 
+			 <imprint><date type="publication" normal="1911"
+			 certainty="certain">1911</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date normal="1845" type="single">1845</date>: Awarded Bachelor of
+			 Arts, University of Cambridge</p> 
+		  <p><date normal="1845" type="single">1845</date>: Awarded Smith's
+			 Prize, University of Cambridge</p> 
+		  <p><date normal="1890/1894" type="chairspan">1846-1899</date>:
+			 Appointed Chair of Natural Philosophy, University of Glasgow</p> 
+		  <p><date normal="1851" type="appointmentdate">1851</date>: Elected
+			 Fellow, Royal Society</p> 
+		  <p><date normal="1856" type="appointmentdate">1856</date>: Royal
+			 Society Bakerian lecturer</p> 
+		  <p><date normal="1866" type="single">1866</date>: Awarded
+			 Knighthood</p> 
+		  <p><date normal="1871" type="appointmentdate">1871</date>: Appointed
+			 President, British Association (Edinburgh)</p> 
+		  <p><date normal="1881" type="appointmentdate">1881</date>: Appointed
+			 President, British Association, Physical and Mathematical Section (York)</p> 
+		  <p><date normal="1883" type="single">1883</date>: Awarded Royal Society
+			 Copley Medal</p> 
+		  <p><date type="appointmentdate" normal="1883">1883</date>: Appointed
+			 Honorary Fellow, Edinburgh Maths Society</p> 
+		  <p><date normal="1898/1900" type="appointmentspan">1898-1900</date>:
+			 Appointed President, London Maths Society</p> 
+		  <p><date type="single" normal="1892">1892</date>: Awarded Baronetcy</p>
+		  
+		  <p><date normal="1890/1894" type="appointmentspan">1890-1894</date>:
+			 Appointed President, Royal Society</p> 
+		  <p><date normal="1902" type="single">1902</date>: Awarded Order of
+			 Merit</p> 
+		  <p><date normal="1902" type="appointmentdate">1902</date>: Appointed
+			 Privy Councillor</p> 
+		  <p><date normal="1904" type="appointmentdate">1904</date>: Appointed
+			 Chancellor, University of Glasgow</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><persname source="ncarules" normal="REPLACE"
+			 role="author">Gillispie, Charles Coulston (Ed.)</persname>, <title>Dictionary
+			 of Scientific Biography</title>, (<imprint><geogname source="lcsh"
+			 authfilenumber="483" normal="New York (New York, United States)">New
+			 York</geogname>, 
+			 <publisher>Charles Scribner's Sons</publisher>, 
+			 <date type="publication" normal="1976"
+			 certainty="certain">1976</date>)</imprint></bibref></p> 
+		  <p> <bibref><title>Encyclopaedia Britannica</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1976"
+			 certainty="certain">1976</date>)</imprint></bibref></p> 
+		  <p><bibref> <title>Concise Dictionary of National Biography</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="532"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			 certainty="certain">1992</date>)</imprint></bibref></p> 
+		  <p><bibref><persname source="ncarules"
+			 normal="University of St Andrews" role="author">University of St
+			 Andrews</persname>, <title>William Thomson (Lord Kelvin)</title>, (<extref href="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Thomson.html">http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Thomson.html</extref>,
+			 <imprint><publisher>University of St Andrews</publisher>, 
+			 <date type="publication" normal="199907" certainty="certain">July
+				1999</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref><corpname
+			 normal="National Council on Archives">National Council on Archives</corpname>
+			 <title>Rules for the Construction of Personal, Place and Corporate Names (NCA
+			 Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persona and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Buttars, Grant">Grant Buttars</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020211">11 February
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

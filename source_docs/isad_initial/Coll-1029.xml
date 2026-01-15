@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader> 
+	 <eadid mainagencycode="237" encodinganalog="isad(g) 3.1.1./marc 852"
+	  countrycode="GB" publicid="GB 237 Coll-1029 ">GB 237 Coll-1029 </eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="isad(g) 3.1.2./marc 245">Papers of
+			 Alexander Monro (1733-1817) </titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20050223">23 February 2005</date> 
+		  <item>Converted from EAD 1.0 to 2002 by v1to02.xsl
+			 (sy2003-10-15).</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc
+	encodinganalog="isad(g) 3.1.4./isad(g) 3.4.1./isad(g) 3.4.4./marc 351$c"
+	level="fonds" id="GB-237-Coll-1029"> 
+	 <did> 
+		<repository> 
+		  <corpname>Edinburgh University Library, Special Collections and
+			 Archives </corpname> </repository> 
+		<unitid encodinganalog="isad(g) 3.1.1./marc 852"> GB 237
+		  Coll-1029</unitid> 
+		<physloc>Gen. 569-579 </physloc><unittitle
+		encodinganalog="isad(g) 3.1.2./marc 245">Papers of Alexander Monro (1733-1817)
+		  </unittitle> 
+		<unitdate encodinganalog="isad(g) 3.1.3./marc 260"
+		 normal="1774/1775">1774-1775 </unitdate> 
+		<physdesc encodinganalog="isad(g) 3.1.5./marc 300$a"> <extent>10 volumes,
+		  1 bundle </extent> </physdesc> 
+	 </did> 
+	 <bioghist encodinganalog="isad(g) 3.2.2./marc 545"> 
+		<p>Alexander Monro, secundus, younger son of Alexander Monro, primus
+		  (1697-1767), was born in Edinburgh on 20 May 1733. He was educated at Mr.
+		  Mundell's School in the city, and in 1752 he entered Edinburgh University to
+		  pursue medical studies. From 1753, he occasionally lectured for his father who
+		  was Professor of Anatomy and Surgery, and in July 1755 he became Joint
+		  Professor with his father. In October 1755 he took the degree of Doctor of
+		  Medicine, the subject of his dissertation being 
+		<title>De Testibus et Semine in variis Animalibus </title>. After
+		graduating he went to London to attend William Hunter's lectures, then visited
+		Paris, Leyden, and Berlin. In 1758 he succeeded his father as Professor of
+		Anatomy at Edinburgh University and the following year he was elected Fellow of
+		the Royal College of Physicians. He became President of that body in 1779. His
+		works included 
+		<title>Observations on the structure and functions of the nervous system
+		  </title> (1783), 
+		<title>Structure and physiology of fishes explained and compared with
+		  those of man and other animals </title> (1785), 
+		<title>Bursae Mucosae </title> (1788), and 
+		<title>The brain, the eye, and the ear </title> (1797). Between 1798 to
+		1808, Monro shared the Professorship with his son, Alexander Monro, tertius
+		(1773-1859). Monro died on his estate at Craiglockhart, Edinburgh, on 2 October
+		1817. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="isad(g) 3.3.1./marc 520"> 
+		<p>The papers of Alexander Monro, secundus, consist of lecture notes on
+		  anatomy. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="isad(g) 3.4.2./marc 540"> 
+		<p>Contact the repository for details </p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Monro</emph> <emph altrender="forename">Alexander</emph>
+		  <emph altrender="dates">1697-1767</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Monro</emph> <emph altrender="forename">Alexander</emph>
+		  <emph altrender="dates">1733-1817</emph> </persname> 
+		<persname encodinganalog="marc 700"> <emph
+		  altrender="surname">Monro</emph> <emph altrender="forename">Alexander</emph>
+		  <emph altrender="dates">1773-1859</emph> </persname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Edinburgh
+		  University</emph> </corpname> 
+		<corpname encodinganalog="marc 610"> <emph altrender="a">Royal College of
+		  Physicians of Edinburgh</emph> </corpname> 
+		<subject source="lcsh" encodinganalog="marc 650"> <emph
+		  altrender="a">Anatomy</emph> </subject> 
+	 </controlaccess> 
+	 <otherfindaid encodinganalog="isad(g) 3.4.6."> 
+		<p>An important finding aid is the alphabetical Index to Manuscripts held
+		  at Edinburgh University Library, Special Collections and Archives. Additions to
+		  the typed slips in sheaf binders were made until 1987. </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="isad(g) 3.5.3."> 
+		<p>The Index to Manuscripts shows, at various shelfmarks, references to
+		  notes of lectures on anatomy by Alexander Monro taken by a student, lectures on
+		  surgery delivered by Monro, lectures on anatomy, and miscellaneous letters.
+		  </p> 
+	 </relatedmaterial> 
+  </archdesc>
+</ead>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Department of Special Collections :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0910 20020430 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0910</titleproper> 
+		  <subtitle>Adams | William Grylls | 1836-1915 | professor of natural
+			 philosophy, King's College London</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Department of Special Collections, 30 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Department of Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020430">30 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0910</titleproper> 
+		<subtitle>Adams | William Grylls | 1836-1915 | professor of natural
+		  philosophy, King's College London</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 30 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020430">30 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0910"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0910</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0910" normal="Adams, William Grylls">Adams |
+		  William Grylls | 1836-1915 | professor of natural philosophy, King's College
+		  London</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>William Grylls Adams (<date type="life-span"
+			 normal="1836/1915">1836-1915</date>), professor of Natural Philosophy at King's
+			 College, London, was important for his role in the discovery of the
+			 photoelectric effect. He was born into a family of prosperous farmers, and was
+			 educated at St John's College, Cambridge. His brother was John Couch Adams
+			 (<date type="life-span" normal="1819/1892">1819-1892</date>), the astronomer
+			 who discovered Neptune.</p> 
+		  <p>In 
+			 <date type="appointmentdate" normal="1863">1863</date>, Adams joined
+			 James Clerk Maxwell (<date type="life-span"
+			 normal="1831/1879">1831-1879</date>) in the Department of Natural Philosophy,
+			 and in 
+			 <date type="chairdate" normal="1865">1865</date>, he succeeded
+			 Maxwell as professor, holding the post for the next forty years. </p> 
+		  <p>In 
+			 <date type="single" normal="1839">1839</date>, Alexandre Edmond
+			 Becquerel (<date type="life-span" normal="1820/1891">1820-1891</date>)
+			 discovered that illumination of one of two metal plates in a dilute acid
+			 altered the electromotive force (EMF) produced by this cell. In 
+			 <date type="single" normal="1876">1876</date>, with his student R. E.
+			 Day, Adams discovered that illuminating a junction between selenium and
+			 platinum also has a photovoltaic effect, though in this case, an EMF is
+			 actually produced, not altered. This effect is the basis for the modern solar
+			 cell. </p> 
+		  <p>His links with the Kew Observatory Committee of the Royal Society
+			 and the Board of Visitors of the Royal Observatory led him into work on
+			 terrestrial magnetism. He wrote several papers on this subject. Adams also
+			 carried out a study into the relative benefits of oil and electric light for
+			 lighthouses.</p> 
+		  <p>After his brother John's death, William Adams edited and published
+			 his brother's papers - both the scientific papers he had published and the
+			 manuscripts of those that he had not published. This was published in two
+			 parts, in 
+			 <date type="publication" normal="1896">1896</date> and 
+			 <date type="publication" normal="1901">1901</date>.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>William Grylls Adams was the brother of John Couch Adams, who
+			 discovered Neptune. William Grylls Adams also worked under James Clerk Maxwell
+			 for a short while.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>None</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1863">1863</date>: Appointed
+			 Lecturer in Natural Philosophy, King's College, London</p> 
+		  <p><date type="chairspan" normal="1865/1905">1865-1905</date>:
+			 Appointed Professor of Natural Philosophy, King's College, London</p> 
+		  <p><date type="appointmentspan" normal="1878/1880">1878-1880</date>:
+			 President of the Physical Society of London</p> 
+		  <p><date type="appointmentdate" normal="1880">1880</date>: President of
+			 the Mathematical and Physical Section of the British Association for the
+			 Advancement of Science</p> 
+		  <p>Elected Fellow of the Royal Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><corpname normal="Royal Society" role="editor">Royal
+			 Society</corpname>, <title>Proceedings of the Royal Society of London, Series
+			 A, vol. 91</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Harrison and Sons</publisher>, 
+			 <date type="publication" normal="1915"
+			 certainty="certain">1915</date>)</imprint></bibref> </p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020430">30 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

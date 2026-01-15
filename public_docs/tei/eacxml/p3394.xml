@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="eac.css"?>
+<eac-cpf xmlns="http://eac.staatsbibliothek-berlin.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://eac.staatsbibliothek-berlin.de http://www3.iath.virginia.edu/eac/cpf/schema/cpf.xsd">
+    <control>
+        <recordId>p-3344</recordId>
+        <otherRecordId/>
+        <maintenanceStatus>new</maintenanceStatus>
+        <maintenanceAgency>
+            <agencyCode>GB-237</agencyCode>
+            <agencyName>Edinburgh University Library</agencyName>
+            <descriptiveNote>
+                <p>
+                    <span>Special Collections</span>, <span>Edinburgh University Library</span>,
+                        <span>George Square</span> ,<span>Edinburgh</span>, <span>EH8 9LJ</span></p>
+            </descriptiveNote>
+        </maintenanceAgency>
+        <languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Latn">Latin</script>
+            <descriptiveNote>
+                <p>
+                    <span/>
+                </p>
+            </descriptiveNote></languageDeclaration>
+        <conventionDeclaration>
+            <abbreviation/>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span/>
+            </citation>
+            <descriptiveNote>
+                <p>
+                    <span/>
+                </p>
+            </descriptiveNote></conventionDeclaration>
+        <localTypeDeclaration>
+            <abbreviation/>
+            <citation xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <span/>
+            </citation>
+            <descriptiveNote>
+                <p>
+                    <span/>
+                </p>
+            </descriptiveNote></localTypeDeclaration>
+        <localControlEntry localType="">
+            <term xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple"/>
+            <date/>
+        </localControlEntry>
+        <maintenanceHistory>
+            <maintenanceEvent>
+                <eventType>created</eventType>
+                <eventDateTime>03 October 2009</eventDateTime>
+                <agentType>human</agentType>
+                <agent>Grant Buttars</agent>
+                <eventDescription>first draft created</eventDescription>
+            </maintenanceEvent>
+        </maintenanceHistory>
+        <sources>
+            <source xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+                <sourceEntry>
+                    <span/>
+                </sourceEntry>
+                <descriptiveNote>
+                    <p>
+                        <span/>
+                    </p>
+                </descriptiveNote>
+            </source>
+        </sources>
+    </control>
+    <cpfDescription>
+        <!---->
+        <identity>
+            <entityId>GB-237-eac-p3944</entityId>
+            <entityType>person</entityType>
+            <nameEntryParallel>
+                <nameEntry>
+                    <part localType="surname">Reid</part>
+                    <part localType="forename">John</part></nameEntry>
+            </nameEntryParallel>
+            <descriptiveNote>
+                <p>
+                    <span>General, and Founder of the Reid Chair of Music, University of
+                        Edinburgh</span>
+                </p>
+            </descriptiveNote></identity>
+        <description>
+            <existDates>
+                <dateRange><fromDate standardDate="1712">1712</fromDate><toDate standardDate="1807"
+                        >1807</toDate></dateRange>
+                <descriptiveNote>
+                    <p>
+                        <span>born 1712, died 1807</span>
+                    </p>
+                </descriptiveNote></existDates>
+            <biogHist>
+                <p>The son of Alexander Robertson of Straloch in Perthshire, John Robertson or Reid
+                    was educated at the University of Edinburgh and received a commission in Lord
+                    Loudon's regiment of Highlanders in 1745; he subsequently adopted his mother's
+                    maiden name as his own, she being a Reid of Straloch. He served with the
+                    regiment on the Hanoverian side during the 1745 rebellion, and afterwards in the
+                    Netherlands, Martinique, and British North America. He purchased some 35,000
+                    acres in Vermont, which were seized by settlers from New England in 1774, and he
+                    lost his claim to them at the outbreak of the American War of Independence in
+                    1776.</p>
+                <p>He returned to London, where he was promoted to the rank of General, and died in
+                    1807. A good flautist and composer, especially of music for wind bands, his
+                    best-remembered tune today is 'In the Garb of Old Gaul'. </p>
+                <p>In spiter of his losses he left a sum of over £50,000 for the founding of a Chair
+                    of Music at the University of Edinburgh, the money to be further applied to the
+                    purchase of a library or for any other proper purpose. The Chair was established
+                    in 1839, after the death of his daughter who had a life-interest in the estate,
+                    and £400 per annum was put to the purchase of rare and costly books for the
+                    University Library. These have included early printed and finely illustrated
+                    books and mediaeval manuscripts. Originally these were shelved in the Reid Room
+                    in Old College, which was reserved for the use of professors and senior
+                    lecturers. This was the first fund available to the Library for purchasing
+                    historical research volumes that were not simply textbooks. </p>
+                <chronList>
+                    <chronItem>
+                        <date standardDate="1745">1745</date>
+                        <event>received commission in Lord Loudon's regiment of Highlanders</event>
+                    </chronItem>
+                </chronList>
+            </biogHist>
+        </description>
+    </cpfDescription>
+</eac-cpf>

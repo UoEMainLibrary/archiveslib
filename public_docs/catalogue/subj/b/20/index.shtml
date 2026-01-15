@@ -1,0 +1,32 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Botany</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/b/">b</a><h1>Botany</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=20&term=Botany" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-205&view=basic">Papers of Dr. John Walker </a> (1731-1803) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-205-2-3&view=basic">Papers in geography, science, and letters </a> (1743-1783) Papers of Dr. John Walker</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1373-13&view=basic">Letter book, etc. </a> (1792-1793) Notebooks of Robert Jameson</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-206-1&view=basic">Minutes </a> (1808) Records of the Wernerian Natural History Society</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-1502&view=basic">Material relating to John Lowe </a> (1856-1898) </li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-5-5&view=basic">Answers to queries </a> (1860-1899) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-9-1&view=basic">Notes for lectures on 'Geographical Evolution' </a> (1860-1899) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-5-3&view=basic">Notes on Examinations for the Falconer Fellowship </a> (1860-1899) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW113-1&view=basic">Copy of the memorials of Captain Dugald Carmichael </a> (1864) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW113-2&view=basic">Copy of a list of plants discovered by Captain Carmichael and short biography </a> (1864) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-203-1-528-529&view=basic">Notes by William Carruthers </a> (1866) Papers of Sir Charles Lyell</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-203-1-527&view=basic">Letter to Sir Charles Lyell from William Carruthers </a> (1866) Papers of Sir Charles Lyell</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-8-1&view=basic">Edinburgh Museum of Science and Art Syllabus of Lectures </a> (1867-1868) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW90-64&view=basic">Quotation about sea-pink and scurvy-grass </a> (1867-1877) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-8-4&view=basic">Proof copy of article on 'The Geological Influences which have Affected the Course of British History' </a> (1881) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-74-7-2&view=basic">Lecture on the 'Volcanic History of Britain' </a> (1886) Papers and Correspondence of Sir Archibald Geikie</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=Coll-97-CW122-59&view=basic">Archaeological note about a circle at Cillant-suidhe [Cille an t-Suidhe] </a> (1886) The Carmichael Watson Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=EUA-IN1-ACU-C1&view=basic">Institute of Cell and Molecular Biology </a> (1990-1993) Records of the University of Edinburgh</li>
+</ul>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->

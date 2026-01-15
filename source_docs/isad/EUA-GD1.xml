@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader audience="internal" findaidstatus="edited-full-draft"> 
+	 <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 EUA GD1">GB
+		237 EUA GD1</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Records of the University of Edinburgh Rectorial
+			 Association</titleproper> 
+		</titlestmt> 
+		<publicationstmt><publisher>Edinburgh University Library</publisher> 
+		  <address> 
+			 <addressline>University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<list>
+		  <item>No revisions to date.</item>
+		</list> 
+	 </revisiondesc> 
+  </eadheader> 
+  <frontmatter audience="internal"> 
+	 <titlepage> 
+		<titleproper>Records of the University of Edinburgh Rectorial
+		  Association</titleproper> 
+		<author audience="internal">Compiled by Grant Buttars, Deputy University
+		  Archivist, 02 March 2005</author> 
+		<publisher audience="internal">Edinburgh University Library </publisher> 
+		<date type="single" audience="internal">02 March 2005</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <archdesc level="fonds" id="GB-237-EUA-GD1"> 
+	 <did> 
+		<head>Collection Summary</head><repository label="Repository"
+		audience="external" encodinganalog="NAHSTE31"> Edinburgh University Library,
+		  Special Collections</repository><!--2.2.1: UNITID: complete TYPE-->
+		<unitid label="Reference Code" encodinganalog="isadg(2)311"
+		 countrycode="GB" repositorycode="237" audience="external">GB 237 EUA
+		  GD1</unitid> 
+		<physloc encodinganalog="eulsc1" label="Shelfmark">Box
+		  EUA-A-47</physloc><unittitle label="Title" encodinganalog="isadg(2)312"
+		audience="external">Records of the University of Edinburgh Rectorial
+		  Association</unittitle><unitdate label="Date(s)" encodinganalog="isadg(2)313"
+		type="inclusive" certainty="certain" normal="1887"
+		audience="external">1887</unitdate> 
+		<physdesc label="Extent and Medium of the Unit of Description"
+		 encodinganalog="isadg(2)315" audience="external">
+		  <extent type="linear" unit="metre">1 volume</extent> </physdesc> 
+		<origination label="Name of Creator(s)" encodinganalog="isadg(2)321"
+		 audience="external"> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 EUA C2841"
+			normal="University of Edinburgh Rectorial Association"
+			role="creator">University of Edinburgh Rectorial Association</corpname>
+		  </origination><langmaterial encodinganalog="isadg(2)343"
+		label="Language/scripts of material" audience="external">This material is in
+		  <language langcode="eng">English</language></langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="isadg(2)322" audience="external"> 
+		<head>Administrative / Biographical History</head> 
+		<p>The University of Edinburgh Rectorial Association was established in
+		  1887 "for the purpose of securing the return of a Lord Rector of someone who
+		  will attend the meetings of the University Court, and who is in thorough touch
+		  with the students". Executive Committee members included SW Carruthers, Robert
+		  Cochrane Buist and William K Dickson.</p> 
+	 </bioghist> 
+	 <scopecontent audience="external" encodinganalog="isadg(2)331"> 
+		<head>Scope and Content</head> 
+		<p>1 volume containing minutes (starting from one end) and correspondence
+		  (starting from the other).</p> 
+	 </scopecontent> 
+	 <controlaccess encodinganalog="NAHSTE38" audience="external"> 
+		<head>Index</head> 
+		<controlaccess encodinganalog="NAHSTE382"> 
+		  <head>People</head> 
+		  <persname source="ncarules" authfilenumber="GB 0237 EUA P2842"
+			normal="Buist, Robert Cochrane"><emph altrender="surname">Buist</emph> |
+			 <emph altrender="forenames">Robert Cochrane</emph> | <emph
+			 altrender="dates">1860-1939</emph> | <emph
+			 altrender="epithet">Obstetrician</emph></persname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="NAHSTE383"> 
+		  <head>Businesses and Organisations</head> 
+		  <corpname source="ncarules" authfilenumber="GB 0237 EUA C2841"
+			normal="University of Edinburgh Rectorial Association"><emph
+			 altrender="a">University of Edinburgh Rectorial Association</emph></corpname> 
+		</controlaccess> 
+	 </controlaccess><descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo encodinganalog="isadg(2)324" audience="external"> 
+		  <head>Immediate Source of Acquisition or Transfer</head> 
+		  <p>Donated by SW Carruthers in 1934</p> 
+		</acqinfo> 
+		<appraisal encodinganalog="isadg(2)332" audience="external"> 
+		  <head>Appraisal, Destruction and Scheduling Information</head> 
+		  <p> This material has been appraised.</p> 
+		</appraisal> 
+		<accruals encodinganalog="isadg(2)333" audience="external"> 
+		  <head>Accruals</head> 
+		  <p> No accruals expected.</p> 
+		</accruals> 
+		<arrangement encodinganalog="isadg(2)334" audience="external"> 
+		  <head>System of Arrangement</head> 
+		  <p> The arrangement of this material reflects the original order in
+			 which it was received.</p> 
+		</arrangement> 
+		<accessrestrict encodinganalog="isadg(2)341" audience="external"> 
+		  <head>Conditions Governing Access</head> 
+		  <p> This material is unrestricted.</p> 
+		</accessrestrict><userestrict encodinganalog="isadg(2)342"
+		audience="external"> 
+		  <head>Conditions Governing Reproduction</head> 
+		  <p> Applications for permission to quote should be sent to the Director
+			 of Collections. Reproduction subject to usual conditions: educational use and
+			 condition of documents.</p> 
+		</userestrict><phystech encodinganalog="isadg(2)344" audience="external">
+		  
+		  <head>Physical Characteristics and Technical Requirements</head> 
+		  <p> None which affect the use of this
+			 material</p></phystech><originalsloc encodinganalog="isadg(2)351"
+		audience="external"> 
+		  <head> Existence and Location of Originals</head> 
+		  <p> This material is original.</p></originalsloc> 
+		<altformavail encodinganalog="isadg(2)352" audience="external"> 
+		  <head>Existence and Location of Copies</head> 
+		  <p> No known copies.</p> 
+		</altformavail> 
+		<processinfo audience="internal"> 
+		  <processinfo encodinganalog="isadg(2)373" audience="internal"> 
+			 <head>Date(s) of Description</head> 
+			 <p> 
+				<persname source="ncarules" role="archivist"
+				 normal="Buttars, Grant">Grant Buttars</persname><date type="descriptiondate"
+				normal="20050302" certainty="certain">02 March 2005</date></p> 
+		  </processinfo> 
+		</processinfo></descgrp> 
+  </archdesc>
+</ead>

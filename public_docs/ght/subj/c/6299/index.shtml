@@ -1,0 +1,19 @@
+<!--#include virtual="/ght/includes/top_header.php" -->
+<title>Godfrey Thomson Project: Child psychology</title>
+
+<!--#include virtual="/ght/includes/cat_header.php" -->
+<!--#include virtual="/ght/includes/lower_header.php" -->
+
+
+<a href="/ght/catalogues">Catalogue</a> &gt; <a href="/ght/subj/a/">Authority terms: subjects</a> &gt; <a href="/ght/subj/c/">c</a><h1>Child psychology</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/ght/cs/viewauth.php?type=subj&id=6299&term=Child psychology" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1310&view=basic">Papers of Godfrey H. Thomson </a> (1890-1978) </li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-EUA-IN1-ACU-G1&view=basic">Records of the Godfrey Thomson Unit for Educational Research </a> (1896-1979) Records of the University of Edinburgh</li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1310-1-7&view=basic">Papers regarding Hector's development </a> (1917-1927) Papers of Godfrey H. Thomson</li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1310-3-2&view=basic">The Psychology of Teaching </a> (1930) Papers of Godfrey H. Thomson</li>
+<li><a href="/ght/cs/viewcat.pl?id=GB-237-Coll-1446&view=basic">Material collected by Elsie G. Taylor </a> (1947-2007) </li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/ght/includes/footer.php" -->

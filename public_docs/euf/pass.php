@@ -1,0 +1,1 @@
+<?php echo (crypt('dav1dla1ng')); ?>

@@ -1,0 +1,15 @@
+<!--#include virtual="/catalogue2/includes/top_header.php" -->
+<title>Manuscripts and Archives catalogue: Aberdeen Scotland </title>
+<!--#include virtual="/catalogue2/includes/lower_header.php" -->
+
+
+<h2>Authority term: Aberdeen Scotland </h2>
+<ol class="termslist" start="1">
+<li><a href="/catalogue2/cs/viewcat.pl?id=gb-237-coll-1310-3-1-2-34&view=basic">Alfred Gilchrist Lecture: The Progress and Present Aspects of Educational Science</a> (1952)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=gb-237-coll-1310-3-1-2-36&view=basic">Address to the students of the Aberdeen Training Centre</a> (1954)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=gb-237-coll-1310-1-1-26-15&view=basic">Letter from Rex Knight</a> (1955)</li>
+<li><a href="/catalogue2/cs/viewcat.pl?id=gb-237-coll-1310-1-1-27-1&view=basic">Letters of condolence to Hector following Thomson's death</a> (1955)</li>
+</ol>
+<p>
+<p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue2/includes/footer.php" -->

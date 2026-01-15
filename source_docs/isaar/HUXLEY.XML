@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0305 20020530 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0305</titleproper> 
+		  <subtitle>Huxley | Thomas Henry | 1825-1895 | man of science</subtitle>
+		  
+		  <author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+			 University Library Special Collections Division, 30 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020530">30 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0305</titleproper> 
+		<subtitle>Huxley | Thomas Henry | 1825-1895 | man of science</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 30 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020530">30 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0305"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0305</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0305" normal="Huxley, Thomas Henry">Huxley |
+		  Thomas Henry | 1825-1895 | man of science</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Thomas Henry Huxley (<date type="life-span"
+			 normal="1825/1895">1825-1895</date>), popularly known as 'Darwin's Bulldog'
+			 because of his defence of the theories of Charles Darwin (<date
+			 type="life-span" normal="1809/1882">1809-1882</date>), was a much more complex
+			 person than this simplistic image of an unquestioning defender of Darwinism
+			 would suggest. Though his father was a school mathematics teacher and assistant
+			 headmaster, Huxley had little formal schooling (by some accounts, no more than
+			 two years in all), and he was largely self-taught. His talent for drawing,
+			 which was useful to him in later life when describing the animals he
+			 investigated, was already clear when he was a child. He had initially hoped to
+			 study mechanical engineering, but was pressured by his family into studying
+			 medicine. Aged 14, Huxley attended a post-mortem, and seems to have caught a
+			 disease or poisoning (the nature of which is not known precisely) that affected
+			 his health for the rest of his life, requiring occasional recuperative trips to
+			 the countryside.</p> 
+		  <p>Huxley studied medecine at Charing Cross hospital, and graduated
+			 with an MB from the recently founded University of London in 
+			 <date type="single" normal="1845">1845</date>. Soon after, he joined
+			 the Royal Navy, and was attached, first to HMS Victory (Nelson's ship) when he
+			 worked at Haslar hospital, then to HMS Rattlesnake. It was on this ship that he
+			 took part - officially as ship's surgeon - in the expedition of 
+			 <date type="inclusive" normal="1846/1850">1846-1850</date> to Torres
+			 Straights, near Australia. During this trip, with little equipment, Huxley
+			 studied the marine life of the region. One of his papers, on the subject of the
+			 organisms he had observed, was published in the Royal Society's
+			 <bibref><title>Philosophical Transactions</title></bibref> while he was still
+			 in Australia, and, shortly after his return to Britain, the work he had carried
+			 out gained him election to the Royal Society. He took leave from the Navy to
+			 carry out scientific work, but he entered into argument with the navy over
+			 payment for his scientific work, and eventually left the forces, causing him
+			 financial trouble that was resolved when he was recruited by the Royal School
+			 of Mines (a precursor of modern-day Imperial College) as a lecturer in Natural
+			 History.</p> 
+		  <p>Huxley's scientific work can be defined as following three fairly
+			 distinct periods (though there is, of course some overlap). The first, carried
+			 out when he was studying, was in the field of human anatomy. During this
+			 period, he discovered a previously unknown layer in the root of hair, which is
+			 now know as Huxley's layer. The second period of work coincided largely with
+			 the expedition and its aftermath. The subject of study here was microscopic
+			 marine life. He reclassified hydroid polyps and medusae as belonging to one
+			 group, hydrozoa. The connection he made was based on their dual membrane
+			 structure, a feature he compared to the serous and mucous structures of embryos
+			 of higher animals. The animals he categorised thus form the core of the group
+			 now known as coelenterata. Later, he investigated the embryology of
+			 vertebrates, saying that investigating adult forms of animals is not sufficient
+			 to conclusively prove that two species are similar. Huxley insisted that it was
+			 necessary to examine the entire development of the animals from conception to
+			 make a proper judgement.</p> 
+		  <p>The third period of Huxley's scientific career is that which earned
+			 him his canine sobriquet which was related to Darwin's ground-breaking
+			 <bibref><title>Origin of Species</title></bibref>. Darwin and Huxley were good
+			 friends, and before the book's publication in 
+			 <date type="publication" normal="1849">1859</date>, Darwin sent
+			 Huxley the proof of his book, expecting considerable criticism. Unexpectedly,
+			 Huxley praised the book enthusiastically and, presciently, warned Darwin of the
+			 coming wrath of the creationists. Huxley was, however, not completely
+			 unthinking in his praise, in 
+			 <date type="single" normal="1862">1862</date>, in his address to the
+			 Geological Society, he announced that he saw natural selection as a hypothesis,
+			 as there was not yet any evidence of specialisation of animals through the
+			 eras, which the theory of natural selection predicted. This was in line with
+			 his agnosticism, a word he coined (though he did not mean it in today's
+			 strictly religious sense of the word, rather he took it to mean scepticism of
+			 that which cannot be proved, allied with acceptance of what can be
+			 scientifically proven). After the <bibref><title>Origin of
+			 Species</title></bibref> publication, the controversy Huxley had predicted
+			 materialised, and he took a large part in it, publishing justifications of the
+			 theory. He also, notoriously, engaged in a feud against naturalist Richard Owen
+			 (<date type="life-span" normal="1804/1892">1804-1892</date>) and his acolyte,
+			 Samuel Wilberforce (<date type="life-span"
+			 normal="1805/1873">1805-1873</date>), Bishop of Oxford, at the 
+			 <date type="single" normal="1860">1860</date> meeting of the British
+			 Association for the Advancement of Science, which he comprehensively won, by
+			 pointing out the Bishop's scientific blunders and attacking their attempt to
+			 pervert science.</p> 
+		  <p>Owen's contestation of Darwin was not in fact over the entire
+			 contents of Darwin's book, but over the idea (only hinted at in the
+			 <bibref><title>Origin of Species</title></bibref>) that man was descended from
+			 apes. Owen argued, with some evidence from studies of primates' and humans'
+			 brains, that the differences between humans and apes are greater than the
+			 difference between apes and the lower primates. He was effectively arguing that
+			 men were not descended from apes. Through experiments, Huxley eventually proved
+			 that Owen was mistaken, and that there was overwhelming evidence to suggest
+			 humans were in the same zoological group as apes and other primates. By 
+			 <date type="single" normal="1870">1870</date>, Huxley was fully
+			 convinced by the theory of evolution, and retracted his statement of eight
+			 years earlier to the Geological Society. Palaeontological evidence of the
+			 specialisation of horses' feet had been found in the change in the structure of
+			 their feet from toes to hooves. </p> 
+		  <p>Huxley also carried out some palaeontological work himself,
+			 primarily on the devonian fish Agassiz had investigated, correcting some of his
+			 work. This fell into the Darwinist period of his life.</p> 
+		  <p>Huxley took an active interest in education, being an influential
+			 member of the School Board of London, in which he argued the case for liberal
+			 education. Interestingly, despite his scepticism of religion, he supported
+			 teaching of the Bible in schools, though as a moral work, piece of good
+			 literature and moral basis of British society, rather than as instruction in
+			 religion. He also frequently delivered lectures to working mens' classes. He
+			 firmly believed that even complex ideas could be communicated to the vast
+			 majority of the population if explained properly. Some of his best lectures are
+			 said to have been for these groups.</p> 
+		  <p>He had much faith in science and scientists, and once said, that
+			 "The man of science is the sworn interpreter of nature in the highest court of
+			 reason". This trust of what could be scientifically proved formed the basis of
+			 agnosticism (in his sense of the word) as much as the scepticism for all that
+			 could not be proved to his satisfaction.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Thomas Henry Huxley was a personal friend and professional defender
+			 of Charles Darwin and had a close associate of Sir Joseph Dalton Hooker. His
+			 son, Leonard Huxley, was a biographer and grandchildren Aldous Huxley, Julian
+			 Huxley and Andrew Fielding Huxley all gained fame. Aldous Huxley was the author
+			 of many books, including science-fiction novel <bibref><title>Brave New
+			 World</title></bibref>, Julian Huxley was a biologist and philosopher, and
+			 secretary-general of UNESCO and Andrew Fielding Huxley was a physiologist</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Zoological Evidences as to Man's Place in
+			 Nature</title>, (<imprint><date type="publication" normal="1863"
+			 certainty="certain">1863</date>)</imprint></bibref></p> 
+		  <p><bibref><title>On the Causes of Phenomena of Organic Nature</title>,
+			 (<imprint><date type="publication" normal="1863"
+			 certainty="certain">1863</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Elementary Lessons in Physiology</title>, ( 
+			 <imprint><date type="publication" normal="1866"
+			 certainty="certain">1866</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Manual of the Comparative Anatomy of Vertebrated
+			 Animals</title>, (<imprint><date type="publication" normal="1871"
+			 certainty="certain">1871</date>)</imprint></bibref></p> 
+		  <p><bibref><title>Elementary Biology</title>, (<imprint><date
+			 type="publication" normal="1875"
+			 certainty="certain">1875</date>)</imprint></bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="single" normal="1845">1845</date>: Awarded Batchelor of
+			 Medicine (MB) degree, University of London</p> 
+		  <p><date type="single" normal="1851">1851</date>: Elected Fellow of the
+			 Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1854">1854</date>: Appointed
+			 Lecturer in Natural History, Government School of Mines</p> 
+		  <p><date type="appointmentdate" normal="1855">1855</date>: Appointed
+			 Naturalist to the Geological Society</p> 
+		  <p><date type="chairspan" normal="1863/1869">1863-1869</date>:
+			 Appointed Hunterian Professor at the Royal College of Surgeons</p> 
+		  <p><date type="chairspan" normal="1855/1858">1855-1858</date>:
+			 Appointed Fullerian Professor at the Royal Institution</p> 
+		  <p><date type="appointmentspan" normal="1870/1872">1870-1872</date>:
+			 Appointed Member of the School Board of London</p> 
+		  <p><date type="appointmentspan" normal="1883/1885">1883-1885</date>:
+			 Elected President of the Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1892">1892</date>: Appointed
+			 Privy Councillor</p> 
+		  <p><date type="appointmentspan" normal="1869/1870">1869-1870</date>:
+			 Elected President of the Geological Society</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref> <title>Concise Dictionary of National Biography</title>, ( 
+			 <imprint><geogname source="lcsh" authfilenumber="532"
+			 normal="London (England)">London (England)</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1992"
+			  certainty="certain">1992</date>)</imprint></bibref> </p> 
+		  <p> <bibref><title render="italic">Encyclopaedia Britannica, vol
+			 11</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="502"
+			  normal="Chicago (Illinois), United States">Chicago</geogname>, 
+			 <publisher>William Benton</publisher>, 
+			 <date type="publication" normal="1964"
+			  certainty="certain">1964</date>)</imprint></bibref></p> 
+		  <p><bibref><persname source="ncarules" normal="Gillispie, CC"
+			 role="author">Gillispie, CC</persname>, <title>Dictionary of Scientific
+			 Biography, vol IV</title>, (<imprint><geogname source="lcsh"
+			 authfilenumber="483" normal="New York (New York, United States)">New York (New
+			 York, United States)</geogname>, 
+			 <publisher>Charles Scribner's Sons</publisher>, 
+			 <date type="publication" normal="1972"
+			 certainty="certain">1972</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020530">30 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

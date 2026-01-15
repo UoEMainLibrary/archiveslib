@@ -1,0 +1,28 @@
+<!--#include virtual="/towardsdolly/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: Chromosomes</title>
+
+<!--#include virtual="/towardsdolly/includes/cat_header.php" -->
+<!--#include virtual="/towardsdolly/includes/lower_header.php" -->
+
+
+<a href="/towardsdolly/catalogue.php">Catalogue</a> &gt; <a href="/towardsdolly/subj/a/">Authority terms: subjects</a> &gt; <a href="/towardsdolly/subj/c/">c</a><h1>Chromosomes</h1>
+<table summary="layout" border="0"><tr><td valign="top"><!--#include virtual="/towardsdolly/cs/viewauth.php?type=subj&id=330&term=Chromosomes" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="1">
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-5-14&view=basic">Page titled 'Reference list. Mammalian chromosome numbers and preparations' </a> (1956) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-3-27&view=basic">Typescript titled 'Chromosomal determination of sex in mammals' </a> (1958) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-218&view=basic">The chromosomes of goat x sheep hybrids </a> (1966) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-3-35&view=basic">Typecript titled 'Chromosomes and sex in vertebrates' </a> (1966) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1364-3-36&view=basic">Typescript titled 'Chromosomal influences on sex and fertility in vertebrates' </a> (1966) Papers of Dr. Alan Beatty</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-1-215&view=basic">The chromosomes of goats, sheep and their hybrids </a> (1966) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-826&view=basic">Localization of the PGD and TGF-beta-1 loci to pig chromosome 6q </a> (1990) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-995&view=basic">Developmental potential and chromosome constitution of strontium-induced mouse parthenogenones </a> (1991) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1080&view=basic">Localization on pig chromosome 6 of five markers: GPI, APOE, TGFb1, ENO1 and PGD, carried by human chromosomes 1 and 19 using in situ hybrydization </a> (1991) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-2-1095&view=basic">The development of a genetic and physical map of the porcine genome (Pig Gene Mapping Project - PiGMaP) </a> (1992) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-538&view=basic">Pig chromosome 10 markers from P1 clones </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-578&view=basic">Conserved synteny between human chromosome 6 and pig chromosomes 1 and 7 </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-397&view=basic">Characterization of microsatellites from flow-sorted porcine Chromosome 13 </a> (1994) Roslin Offprints Collection</li>
+<li><a href="/towardsdolly/cs/viewcat.pl?id=GB-237-Coll-1362-4-537&view=basic">Anchorage of an unassigned linkage group to pig Chromosome 10 with P1 clones </a> (1994) Roslin Offprints Collection</li>
+</ul>
+</td></tr></table><p></p>
+<!--#include virtual="/towardsdolly/includes/footer.php" -->

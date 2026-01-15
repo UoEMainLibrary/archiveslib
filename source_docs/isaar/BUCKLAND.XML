@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0161 20020402 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0161</titleproper> 
+		  <subtitle>Buckland | William | 1784-1856 | geologist and
+			 palaeontologist</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher , Edinburgh
+			 University Library Special Collections Division, 02 April 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020402">02 April 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date </item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0161</titleproper> 
+		<subtitle>Buckland | William | 1784-1856 | geologist and
+		  palaeontologist</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 02 April 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020402">02 April 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0161"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0161</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0161" normal="Buckland, William">Buckland |
+		  William | 1784-1856 | geologist and palaeontologist</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>William Buckland (<date type="life-span"
+			 normal="1784/1856">1784-1856</date>), a reverend's son from Devon, was an
+			 eminent geologist and academic, as well as a prominent moderate Anglican
+			 priest. He was educated at St. Mary's College, Winchester and at Corpus Christi
+			 College, Oxford, from which he graduated with a BA in 
+			 <date type="single" normal="1805">1805</date>. In 
+			 <date type="appointmentdate" normal="1808">1808</date>, he was
+			 ordained as a priest, and in 
+			 <date type="appointmentdate" normal="1813">1813</date> he was
+			 appointed as a reader in mineralogy at the University of Oxford. Contrary to
+			 some references, Buckland was not actually a professor. The confusion arises
+			 because he published his works as "professor Buckland" in London, no doubt to
+			 be taken more seriously. As well as his academic duties, he was Canon of Christ
+			 Church Cathedral in Oxford, chairman of the Oxford Gas Company, and also a
+			 practical geologist applying his knowledge, for example, to farm drainage.</p> 
+		  <p>While not a radical thinker - no sweeping new theories came from him
+			 - Buckland was a competent, though not universally respected geologist, due to
+			 his eccentric and decidedly un-Victorian enthusiasm for his subject. Among his
+			 important discoveries were deposits of coprolites (fossilised faeces) at Lyme
+			 Regis, which proved the carnivorous nature of certain ancient animals, and
+			 signs of ancient glacial erosion in Scotland, which led to the theory of
+			 glaciation being expounded, though he was never entirely comfortable with it.
+			 At one point, Buckland also believed he had proved the existence of the flood,
+			 by looking at strata and fossil remains in caves, though he later came to a
+			 compromise view, where the landscape of Britain was formed by a combination of
+			 glaciation and floodwater from the glaciers.</p> 
+		  <p>Buckland is said to have been an entertaining and eloquent speaker
+			 on his subject, which led some to appreciate his work all the more and led
+			 others to despise him for "reducing the science to buffoonry".</p> 
+		  <p>There are conflicting reports of the number of scientific papers he
+			 wrote; the Royal Society talks of 53, Agassiz talks of 66.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Reliquiae Diluviana; or Observations on the Organic
+			 Remains Contained in Caves, Fissures and Diluvial Gravel, and on Other
+			 Geological Phenomena Attesting the Action of a Universal Deluge</title>, ( 
+			 <imprint><date type="publication" normal="1823"
+			 certainty="certain">1823</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Geology and Mineralogy Considered With Reference to
+			 Natural Theology</title>, (<imprint><date type="publication" normal="1836"
+			 certainty="certain">1836</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentdate" normal="1808">1808</date>: Appointed
+			 Fellow, Corpus Christi College, Oxford</p> 
+		  <p><date type="appointmentdate" normal="1808">1808</date>: Ordained
+			 Priest of the Church of England</p> 
+		  <p><date type="appointmentdate" normal="1813">1813</date>: Appointed
+			 Reader in Mineralogy, University of Oxford</p> 
+		  <p><date type="appointmentdate" normal="1818">1818</date>: Appointed
+			 Reader in Geology, University of Oxford</p> 
+		  <p><date type="appointmentdate" normal="1818">1818</date>: Elected
+			 Fellow of the Royal Society</p> 
+		  <p><date type="single" normal="1822">1822</date>: Awarded Copley Medal
+			 of the Royal Society</p> 
+		  <p><date type="appointmentspan" normal="1824/1825">1824-1825</date>:
+			 Elected President, Geological Society</p> 
+		  <p><date type="appointmentdate" normal="1825">1825</date>: Appointed
+			 Canon, Christ Church Cathedral, Oxford</p> 
+		  <p><date type="appointmentdate" normal="1832">1832</date>: Elected
+			 President of the British Association for the Advancement of Science</p> 
+		  <p><date type="appointmentspan" normal="1840/1841">1840-1841</date>:
+			 Elected President, Geological Society</p> 
+		  <p><date type="single" normal="1848">1848</date>: Awarded Wollaston
+			 Medal</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Gillispie, Charles C"
+			  role="editor">Gillispie, Charles C</persname>, <title
+			 render="italic">Dictionary of Scientific Biography, vol II</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="483"
+			  normal="New York (N.Y.), United States">New York </geogname>, 
+			 <publisher>Scribner's</publisher>, 
+			 <date type="publication" normal="1970"
+			 certainty="certain">1970</date>)</imprint></bibref> </p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Lee, Sidney" role="editor">Lee,
+			 Sidney</persname>, <title render="italic">Dictionary of National Biography, vol
+			 III</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Smith, Elder &amp; Co</publisher>, 
+			 <date type="publication" normal="1908"
+			 certainty="certain">1908</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the <bibref>
+			 <corpname normal="National Council on Archives">National Council on
+			 Archives</corpname> <title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title> <imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref> <corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive Standards</corpname>
+			 <title>International Standard Archival Authority Record for Corporate Bodies,
+			 Persons and Families (ISAAR)CPF</title> <imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020402">02 April
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

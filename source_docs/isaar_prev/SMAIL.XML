@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1169 28 May 2002 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1169</titleproper> 
+		  <subtitle>Smail | James Cameron | 1880-1970 | principal of Heriot-Watt
+			 College</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 28 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020528">28 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1169</titleproper> 
+		<subtitle>Smail | James Cameron | 1880-1970 | principal of Heriot-Watt
+		  College</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 28 May 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020528">28 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1169"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1169</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1169" normal="Smail, James Cameron">Smail |
+		  James Cameron | 1880-1970 | principal of Heriot-Watt College</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>James Cameron Smail (<date type="life-span"
+			 normal="1880/1970">1880-1970</date>) was principal of Heriot-Watt College and
+			 the architect of a period of considerable expansion in the college. </p> 
+		  <p>Smail was educated at Daniel Stewart's College in Edinburgh, before
+			 entering higher education at Heriot-Watt College, where he studied engineering.
+			 He also spent time at the Royal College of Science and the London School of
+			 Economics. In 
+			 <date type="appointmentdate" normal="1911">1911</date>, after several
+			 years in the government of Ireland, working for the Department of Agriculture
+			 and Technical Instruction, he entered into employment with the London County
+			 Council. He held a number of positions over the years, including Head of the
+			 Trade Schools, Head of the Technology Branch and others, but his most famous
+			 contribution was as District Manager of the Metropolitan Munitions Committee.
+			 In this wartime post, he directed the manufacture of munitions in the
+			 department's workshops. For this, he was awarded his MBE.</p> 
+		  <p>On leaving the London County Council in 
+			 <date type="single" normal="1928">1928</date>, he was appointed
+			 principal of his alma mater, Heriot-Watt. During his tenure, the college
+			 underwent a series of changes, but Smail's modernisation of the organisation
+			 was cut short by the Second World War, and was only completed by his successor,
+			 Hugh Bryan Nisbet (<date type="life-span" normal="1902/1969">1902-1969</date>).
+			 Nonetheless, Smail was able to expand the college's real estate from the
+			 cramped accommodation that it had, until then, occupied, re-established the
+			 chair of physics and the department of pharmacy. He also established the first
+			 proper library the college ever had. This library is now called the Cameron
+			 Smail library, in his honour. He also fostered links with other technical
+			 institutions, through the Association of Technical Institutions and the
+			 Association of Principals of Technical Institutions.</p> 
+		  <p>Smail chose to support many educational and cultural organisations.
+			 He sat on the boards of several learned societies, was a member of the Advisory
+			 Council of the Scottish Education Department, served as vice-president of the
+			 Royal Society of Edinburgh, was president of the Royal Scottish Society of Arts
+			 and chairman of the council of the Royal Scottish Geological Society, to name
+			 but a few of the positions he held.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p>None</p> 
+		  <p>Interests and activites:</p> 
+		  <p>James Cameron Smail was interested in art, he was president of the
+			 Royal Scottish Society of Arts and a member of the Royal Fine Art
+			 Commission.</p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date type="appointmentspan" normal="1902/1911">1902-1911</date>:
+			 Appointed Inspector, Department of Agriculture and Technical Instruction
+			 (Ireland)</p> 
+		  <p><date type="appointmentspan" normal="1911/1919">1911-1919</date>:
+			 Appointed Organiser of Trade Schools, London County Council</p> 
+		  <p><date type="appointmentspan" normal="1915/1918">1915-1918</date>:
+			 Appointed District Manager of the Metropolitan Munitions Committee</p> 
+		  <p><date type="appointmentspan" normal="1915/1918">1915-1918</date>:
+			 Appointed Manager of London County Council manufature of munitions and training
+			 of munitions workers</p> 
+		  <p><date type="appointmentspan" normal="1919/1928">1919-1928</date>:
+			 Appointed Head of Technology Branch and Assistant Education Officer
+			 (Technology), London County Council</p> 
+		  <p><date type="appointmentspan" normal="1928/1950">1928-1950</date>:
+			 Appointed Principal, Heriot-Watt College</p> 
+		  <p><date type="appointmentdate" normal="1929">1929</date>: Elected
+			 Fellow of the Royal Society of Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1930/1946">1930-1946</date>:
+			 Appointed Member of the Advisory Council of the Scottish Education
+			 Department</p> 
+		  <p><date type="appointmentspan" normal="1931/1932">1931-1932</date>:
+			 Appointed Chairman of the Council of the Association of Technical
+			 Institutions</p> 
+		  <p><date type="appointmentspan" normal="1934/1938">1934-1938</date>:
+			 Elected Chairman of the Council of the Royal Scottish Geographical Society</p> 
+		  <p><date type="appointmentspan" normal="1937/1940">1937-1940</date>:
+			 Elected Vice-President of the Royal Society of Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1938/1939">1938-1939</date>:
+			 Appointed President of the Association of Principals of Technical
+			 Institutions</p> 
+		  <p><date type="appointmentspan" normal="1944/1964">1944-1964</date>:
+			 Appointed Member of the Royal Fine Art Commission or Scotland</p> 
+		  <p><date type="appointmentspan" normal="1950/1953">1950-1953</date>:
+			 Elected President of the Royal Scottish Society of Arts</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref><title>Who's Who 1968-1969</title>, (<imprint><geogname
+			 source="lcsh" authfilenumber="483"
+			 normal="New York (New York, United States">New York</geogname>, 
+			 <publisher>St Martin's Press</publisher>, 
+			 <date type="publication" normal="1967"
+			  certainty="certain">1967</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Year Book of the Royal Society of Edinburgh
+			 1971-1972, Sessions 1969-1971</title>, (<imprint><geogname source="lcsh"
+			 authfilenumber="517" normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>Royal Society of Edinburgh</publisher>, 
+			 <date type="publication" normal="1972"
+			  certainty="certain">1972</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			  normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="REPLACE">28 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

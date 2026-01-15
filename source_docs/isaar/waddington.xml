@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P0355-20020125//EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P0355</titleproper> 
+		  <subtitle>Waddington | Conrad Hal | 1905-1975 | embryologist and
+			 professor of animal genetics, University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Andrew Thomson, Edinburgh
+			 University Library Special Collections Division, 25 January 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020125">25 January 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P0355</titleproper> 
+		<subtitle>Waddington | Conrad Hal | 1905-1975 | embryologist and
+		  professor of animal genetics, University of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Andrew Thomson , Edinburgh
+		  University Library Special Collections Division, 25 January 2002</author> 
+		<publisher>Edinburgh University Library Special Collections
+		  Division</publisher> 
+		<date type="single" normal="20020125">25 January 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P0355"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P0355</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P0355"
+		 normal="Waddington, Conrad Hal">Waddington | Conrad Hal | 1905-1975 |
+		  embryologist and professor of animal genetics, University of
+		  Edinburgh</authentry> 
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Conrad Hal Waddington was educated at the University of Cambridge
+			 where he took the natural sciences tripos, graduating in geology in 
+			 <date normal="1926" type="single">1926</date>. His early postgraduate
+			 years included studies in geology, palaeontology, philosophy, and embryology.
+			 Between 
+			 <date normal="1933/1945" type="inclusive">1933-1945</date>,
+			 Waddington was Embryologist and Lecturer in Zoology at Strangeways Research
+			 Laboratory, Cambridge. He showed in 1933 that chemical messengers from certain
+			 tissues encourage others to grow. These studies of embryonic development led
+			 him to research the regulatory effects of genes on tissue and organ
+			 development. During the Second World War, Waddington engaged in operatios
+			 research for the military.</p> 
+		  <p> From 
+			 <date normal="1947" type="single">1947</date> Waddington occupied the
+			 post of chief geneticist at the new National Animal Breeding and Genetics
+			 Research Organisation (NABGRO), combining it with the position of chair of
+			 animal genetics at the University of Edinburgh, and a research institute was
+			 thus formed. In the 
+			 <date normal="1950/1959" certainty="uncertain"
+			  type="inclusive">1950s</date>, the Institute of Animal Genetics (as it was
+			 named) grew into the largest genetics department in the UK and one of the
+			 largest in the world. However, by the end of the 
+			 <date normal="1950/1959" certainty="uncertain"
+			  type="inclusive">1950s</date>, it had become more and more compartmentalised,
+			 and Waddington himself had become interested in the setting up of an
+			 Epigenetics laboratory.</p> 
+		  <p> In the 
+			 <date normal="1960/1969" certainty="uncertain"
+			  type="inclusive">1960s</date> Waddington played a major role in the expansion
+			 of the biology faculty of the University of Edinburgh. In 
+			 <date normal="1970" type="single">1970</date>, he accepted an
+			 invitation from the State University of New York to spend two years in Buffalo
+			 occupying the Albert Einstein Chair in Science. Waddington held honorary
+			 degrees from the universities of Aberdeen, Dublin, Geneva, Montreal and Prague.
+			 He had a long record of publication, from 1939-1974.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p> None</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Introduction to Modern Genetics</title>, ( 
+			 <imprint><date type="publication" normal="1939"
+			 certainty="certain">1939</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Organisers and Genes</title> ( <imprint><date
+			 type="publication" normal="1940"
+			 certainty="certain">1940</date>)</imprint></bibref></p> 
+		  <p><bibref><title>The Scientific Attitude</title>(<imprint><date
+			 type="publication" normal="1941"
+			 certainty="certain">1941</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Science and Ethics, (ed)</title> (<imprint><date type="publication"
+			 normal="1942" certainty="certain">1942</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Epigenetics of Birds</title> (<imprint><date type="publication"
+			 normal="1952" certainty="certain">1952</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Principles of Embryology</title> (<imprint><date type="publication"
+			 normal="1956" certainty="certain">1956</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Ehical Animal</title> (<imprint><date
+			 type="publication" normal="1960"
+			 certainty="certain">1960</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Nature of Life</title> (<imprint><date
+			 type="publication" normal="1961"
+			 certainty="certain">1961</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>New Patterns in Genetics and Development</title> (
+			 <imprint><date type="publication" normal="1962"
+			 certainty="certain">1962</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Biology for the Modern World</title> (<imprint><date
+			 type="publication" normal="1962"
+			 certainty="certain">1962</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Principles of Development and Differentiation,
+			 (ed)</title> (<imprint><date type="publication" normal="1966"
+			 certainty="certain">1966</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Towards a Theoretical Biology, vols. I and II</title>
+			 (<imprint><date type="publication" normal="1969"
+			 certainty="certain">1969</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Towards a Theoretical Biology, vol. III</title> (
+			 <imprint><date type="publication" normal="1970"
+			 certainty="certain">1970</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Behind Appearance</title> (<imprint><date
+			 type="publication" normal="1970"
+			 certainty="certain">1970</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Gifford Lectures, the Nature of the Mind</title> (
+			 <imprint><date type="publication" normal="1972"
+			 certainty="certain">1972</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>Operational Research in World War Two (with Kenny,
+			 Longuet-Higgins and Lucas)</title> (<imprint><date type="publication"
+			 normal="1973" certainty="certain">1973</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Development of Mind</title> (<imprint><date
+			 type="publication" normal="1973"
+			 certainty="certain">1973</date>)</imprint></bibref> </p> 
+		  <p><bibref><title>The Evolution of an Evolutionist</title> (
+			 <imprint><date type="publication" normal="1975"
+			 certainty="certain">1975</date>)</imprint></bibref> </p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p><date normal="1934/1945" type="inclusive">1934-1945</date>: Elected
+			 Fellow, Christ's College, University of Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1948">1948</date>: Elected
+			 Fellow, Royal Society</p> 
+		  <p><date type="appointmentdate" normal="1957">1957</date>: Elected
+			 Member, Finnish Academy</p> 
+		  <p><date type="appointmentdate" normal="1958">1958</date>: Awarded
+			 Commander of the Order, British Academy (CBE)</p> 
+		  <p><date type="appointmentdate" normal="1959">1959</date>: Elected
+			 Member, American Academy of Arts and Sciences</p> 
+		  <p><date type="appointmentdate" normal="1974">1974</date>: Elected
+			 Fellow, Deutsche Akademie der Naturforscher Leopoldina</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref>
+			 <persname source="ncarules" normal="Birse, Ronald M" role="author">Birse,
+			 Ronald M</persname>, <title render="italic">Science at the University of
+			 Edinburgh 1583-1993</title>, (<imprint>
+			 <geogname source="lcsh" authfilenumber="517"
+			 normal="Edinburgh (Scotland)">Edinburgh</geogname>, 
+			 <publisher>University of Edinburgh</publisher>, 
+			 <date type="publication" normal="1994"
+			 certainty="certain">1994</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <corpname normal="University of Edinburgh" source="ncarules"
+			 role="author">University of Edinburgh</corpname>, <title
+			 render="italic">Waddington Environment Library</title>, (
+			 <extref
+			 href="http://www.cecs.ed.ac.uk/library/index.html">http://www.cecs.ed.ac.uk/library/index.html</extref>,
+			 <imprint><publisher>University of Edinburgh</publisher>, 
+			 <date type="publication" normal="1998"
+			 certainty="certain">1998</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <corpname normal="University of Edinburgh" source="ncarules"
+			 role="author">University of Edinburgh</corpname><title
+			 render="italic">University of Edinburgh Journal, vol. 27, Obituary: Conrad Hal
+			 Waddington</title>, ( <imprint><publisher>University of Edinburgh Graduates
+				Association</publisher>, 
+			 <date type="publication" certainty="certain"
+			 normal="1975/1976">1975-1976</date>)</imprint></bibref></p> 
+		  <p> <bibref>
+			 <corpname source="ncarules" normal="Encyclopaedia Britannica Online"
+			 role="author">Encyclopaedia Britannica Online</corpname>,
+			 <title render="italic">Waddington, CH</title>, (
+			 <extref href="http://www.eb.co.uk/">http://www.eb.co.uk</extref>, 
+			 <imprint><publisher>Encyclopaedia Britannica Online</publisher>, 
+			 <date type="publication" normal="undated"
+			 certainty="certain">undated</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Thomson, Andrew">Andrew Thomson</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020125">25 January
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

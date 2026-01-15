@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader>
+    <eadid countrycode="GB" mainagencycode="237" publicid="GB 237 Coll-43">GB 237
+		Coll-43</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Edinburgh Geological Society </titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Edinburgh University Library</publisher>
+        <address>
+          <addressline>George Square</addressline>
+          <addressline>Edinburgh, EH8 9LJ</addressline>
+          <addressline>Scotland</addressline>
+          <addressline>United Kingdom</addressline>
+        </address>
+        <date normal="" certainty=""></date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>EAD generated in XMetal, adapting methodology developed by the
+		  NAHSTE project in 2001.</creation>
+      <langusage>This finding-aid is in<language langcode="eng">English</language>
+      </langusage>
+      <descrules encodinganalog="isadg(2)372" audience="external">Descriptions
+		  compiled in line with the following standards: 
+		  <bibref>
+          <corpname normal="International Council on Archives Committee on Descriptive Standards" source="ncarules" role="author">International Council on Archives Committee on
+				Descriptive Standards</corpname>, 
+			 <title render="italic">ISAD(G) General International Standard
+				Archival Description</title>, 
+			 <edition>2nd edition</edition>, <imprint>
+            <date type="publication" certainty="certain" normal="2000">2000</date>
+          </imprint>
+        </bibref> and 
+		  <bibref>
+          <corpname normal="National Council on Archives" source="ncarules" role="author">National Council on Archives</corpname>
+          <title> Rules for the Construction of Personal, Place and Corporate
+				Names</title>, <imprint>
+            <date type="publication" normal="1997" certainty="certain">1997</date>
+          </imprint>
+        </bibref>
+      </descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" id="GB-237-Coll-43">
+    <did>
+      <unittitle>Edinburgh Geological Society </unittitle>
+      <repository>Edinburgh University Library Special Collections</repository>
+      <unitid encodinganalog="isadg(2)311" label="Reference code">GB 237 Coll-43</unitid>
+      <physloc encodinganalog="shelfmark" label="Shelfmark">MSS 2917-2935 </physloc>
+      <unittitle encodinganalog="isadg(2)312" label="Title">Edinburgh Geological Society
+		  </unittitle>
+      <unitdate encodinganalog="isadg(2)313" label="Date" normal="1834-1990">1834-1990 </unitdate>
+      <physdesc encodinganalog="isadg(2)315" label="Extent and Medium of the Unit of Description">
+        <extent>19 boxes (3
+		  m). </extent>
+      </physdesc>
+      <langmaterial encodinganalog="isadg(2)343" label=""/>
+    </did>
+    <bioghist encodinganalog="isadg(2)322">
+      <p>The Edinburgh Geological Society was formed in 1834. It was born out
+		  of a meeting of eleven members of a class in mineralogy conducted by Mr
+		  Alexander Rose. The meeting was held on Thursday 4 December 1834 in Robertson's
+		  Tavern, Milne's Close, in the city, where the decision was taken to start a
+		  society for "Discussion and Mutual Instruction". The society was to
+		  meet in Mr Rose's house at 2 Drummond Street, and was to be known as the
+		  Geological Society. Its first President was John Castle, and its first
+		  Secretary, James Brodie. Both were members of Mr Rose's class. The first
+		  scientific meeting of the Society was held on 8 December 1834, and the subject
+		  for discussion being whether or not Arthur's Seat (a hill in the city's
+		  Holyrood Park) was of volcanic origin. In 1863, the Society elected Sir
+		  Roderick Impey Murchison as its first Patron (1863-71), and he was followed by
+		  Sir Charles Lyell (1871-75). While today the Edinburgh Geological Society draws
+		  on the considerable geological expertise of the Grant Institute (the Department
+		  of Geology and Geophysics, University of Edinburgh) and the British Geological
+		  Survey (at Murchison House), it welcomes and encourages amateur and
+		  professional alike to become involved in its lectures and excursions. The
+		  primary requirement for membership is an interest in geology. The Society has
+		  acquired such prestige that there is little difficulty in attracting high
+		  calibre speakers on a wide variety of subjects. Lecture meetings are held
+		  throughout the winter in the Grant Institute (Kings Buildings site). In the
+		  summer, a varied programme of excursions is organised. The Society publishes 
+		The Edinburgh Geologist  once or twice a year. This
+		publication consists of short papers on a wide range of geological topics with
+		descriptions of geological localities. </p>
+    </bioghist>
+    <scopecontent encodinganalog="isadg(2)331">
+      <p>The collection contains minute books of general and council meetings
+		  from 1834 to 1982; treasurer's accounts; laws, lists and rolls of members;
+		  membership applications; and, billets of meetings 1879 to 1939, and 1939-1990;
+		  correspondence; and, papers read 1863-64. Printed items include a history of
+		  the Edinburgh Geological Society; proceedings of the Society; copies of the 
+		Edinburgh Geologist ; leaflets; and geological excursion
+		guides. </p>
+    </scopecontent>
+    <descgrp>
+      <accessrestrict encodinganalog="isadg(2)341">
+        <head>Conditions Governing Access</head>
+        <p>Contact the repository for details </p>
+      </accessrestrict>
+      <otherfindaid encodinganalog="isadg(2)345">
+        <head>Finding Aids</head>
+        <p>Handlist, H43 </p>
+      </otherfindaid>
+    </descgrp>
+    <controlaccess encodinganalog="NAHSTE38">
+      <controlaccess encodinganalog="NAHSTE381">
+        <head>Indexing:</head>
+        <subject authfilenumber="999999999">Awating indexing</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

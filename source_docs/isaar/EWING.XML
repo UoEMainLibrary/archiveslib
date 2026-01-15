@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE isaarcpf SYSTEM "isaar.dtd">
+<isaarcpf> 
+  <aarheader audience="internal" langencoding="ISO 639"
+	aarstatus="edited-full-draft"> 
+	 <aarid source="GB-0237" type="FPI"> "-//Edinburgh University Library
+		Special Collections Division :: Archival Authority Records//DOCUMENT
+		GB-0237-NAHSTE-P1760 20020527 //EN" </aarid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GB 0237 NAHSTE P1760</titleproper> 
+		  <subtitle>Ewing | Sir | James Alfred | 1855-1935 | principal,
+			 University of Edinburgh</subtitle> 
+		  <author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+			 University Library Special Collections Division, 27 May 2002</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Edinburgh University Library Special Collections
+			 Division</publisher> 
+		  <address> 
+			 <addressline>The University of Edinburgh</addressline> 
+			 <addressline>George Square</addressline> 
+			 <addressline>Edinburgh EH8 9LJ</addressline> 
+			 <addressline>Scotland</addressline> 
+			 <addressline>United Kingdom</addressline> 
+		  </address> 
+		  <date type="single" normal="20020527">27 May 2002</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>XML generated using the ISAAR(CPF) DTD and XMetal template
+		  prepared, as part of the NAHSTE project, in collaboration with the GASHE
+		  project, by Sarah Higgins, Edinburgh University Library Special Collections
+		  Division, 2001, with assistance from Pete Johnston, Lesley Richmond and Moira
+		  Rankin, Glasgow University Archive Services. </creation> 
+		<langusage> 
+		  <language>EN</language> 
+		</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<list> 
+		  <item>No revisions to date</item> 
+		</list> 
+	 </revisiondesc> 
+  </aarheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>GB 0237 NAHSTE P1760</titleproper> 
+		<subtitle>Ewing | Sir | James Alfred | 1855-1935 | principal, University
+		  of Edinburgh</subtitle> 
+		<author>Compiled for the NAHSTE project by Olivier Usher, Edinburgh
+		  University Library Special Collections Division, 27 May 2002</author> 
+		<publisher>Edinburgh University Library Department of Special
+		  Collections</publisher> 
+		<date type="single" normal="20020527">27 May 2002</date> 
+	 </titlepage> 
+  </frontmatter> 
+  <aar id="GB-0237-NAHSTE-P1760"> 
+	 <authcontrolarea> 
+		<head>AUTHORITY CONTROL AREA</head> 
+		<unitid label="Identity Code" encodinganalog="isaar11" type="NAHSTE"
+		 repositorycode="0237">GB 0237 NAHSTE P1760</unitid> 
+		<authentry encodinganalog="isaar13" label="Authority Entry"
+		 authfilenumber="GB 0237 NAHSTE P1760" normal="Ewing, Sir, James Alfred">Ewing |
+		  Sir | James Alfred | 1855-1935 | principal, University of Edinburgh</authentry>
+		
+	 </authcontrolarea> 
+	 <infoarea encodinganalog="isaar2"> 
+		<head>INFORMATION AREA</head> 
+		<occsphere encodinganalog="isaar226"> 
+		  <head>Occupation, Sphere of Activity</head> 
+		  <p>Sir James Alfred Ewing (<date type="life-span"
+			 normal="1855/1935">1855-1935</date>), principal of the University of Edinburgh
+			 from 
+			 <date type="1916" normal="appointmentdate">1916</date>, was born in
+			 Dundee, his father a minister in the Free Church of Scotland. As a child, he
+			 would frequently carry out "experiments" that led to "fearsome explosions" in
+			 his attic and the intentional administration of electric shocks. He attended
+			 West End Academy and Dundee High School, before going to study engineering at
+			 the University of Edinburgh, William Thomson, Baron Kelvin (<date
+			 type="life-span" normal="1824/1907">1824-1907</date>) and PG Tait (<date
+			 type="life-span" normal="1831/1901">1831-1901</date>) among his teachers.</p> 
+		  <p>During the long summer vacations of his university years, he
+			 assisted in the laying cables for the Great Western Telegraph Co during its
+			 wire laying expeditions, including one to Brazil. These expeditions were led by
+			 William Thomson and HC Fleeming Jenkin (<date type="life-span"
+			 normal="1833/1885">1833-1885</date>), both of whom would have a significant
+			 impact on his life. It was on Jenkin's recommendation that Ewing was appointed
+			 Professor of Mechanical Engineering and Physics at the Imperial University of
+			 Tokyo, Japan, in 
+			 <date type="chairdate" normal="1878">1878</date>. After five years in
+			 the far East, Ewing returned to Scotland to take up the post of Professor of
+			 Engineering at University College Dundee (now the University of Dundee). In 
+			 <date type="chairdate" normal="1890">1890</date>, he was appointed
+			 Professor of Mechanism and Applied Mechanics at the University of Cambridge. He
+			 became Principal and Vice-Chancellor of the University of Edinburgh in 
+			 <date type="appointmentdate" normal="1916">1916</date>.</p> 
+		  <p>Early in his career, while in Japan, Ewing studied the frequent
+			 earthquakes that occurred there, and invented instruments that were able to
+			 measure seismic activity. However, the bulk of his important work was carried
+			 out later in his life, when he was professor at Cambridge and finally Principal
+			 at Edinburgh. At Cambridge, he transformed his department into, effectively, a
+			 department of engineering, and increased its size. Ewing was, in 
+			 <date type="single" normal="1890">1890</date>, asked by the Admiralty
+			 to establish a training program for officers in the navy, which contained a
+			 considerable element of engineering education. Ewing was also responsible for
+			 the report into the effectiveness of a proposed steam turbine power station at
+			 Cambridge. His favourable report led indirectly to the turbine's introduction
+			 as a mode of propulsion for navy ships. His most famous contribution to
+			 society, however, took place during the First World War, when he was placed at
+			 the head of 'Room 40', the British codebreaking operation. Messages decoded by
+			 his organisation led to the battles of Jutland and Dogger Bank. They also
+			 decoded the 'Zimmermann telegram', sent by the German foreign minister to his
+			 minister in Mexico, which made the United States join the war. The telegram had
+			 outlined a policy of encouraging Mexico to join the war in Europe, in return
+			 for German assistance in a planned invasion of the United States. Ewing
+			 resigned his position in 'Room 40' in 
+			 <date type="single" normal="1917">1917</date>, because he found it
+			 impossible to carry out this job and that of Principal at Edinburgh at the same
+			 time.</p> 
+		  <p>In his tenure as Principal at Edinburgh, Ewing made numerous changes
+			 to the University, notably the establishment of a new science campus at King's
+			 Buildings, which allowed science and engineering, which had, to that date, been
+			 fairly weak at Edinburgh, to expand and evolve. This expansion was aided by his
+			 creation of several new chairs in the Faculty of Science and Engineering.</p> 
+		  <p>Ewing's main contributions to science were the discovery of
+			 hysteresis and the investigation of metals that have been streched. He
+			 discovered 'slip-bands', microscopic disruptions in the crystalline makeup of
+			 iron that has been streched beyond its elastic limit.</p> 
+		</occsphere> 
+		<relships encodinganalog="isaar228"> 
+		  <head>Relationships</head> 
+		  <p>Alfred James Ewing was influenced while at university by physicists
+			 William Thomson (Baron Kelvin) and Peter Guthrie (PG) Tait and engineer Henry
+			 Charles (HC) Fleeming Jenkin.</p> 
+		</relships> 
+		<otherinfo encodinganalog="isaar229"> 
+		  <head>Other Significant Information</head> 
+		  <p>Notable publications:</p> 
+		  <p><bibref><title>Treatise on Earthquake Management</title> (
+			 <imprint><date type="publication"
+			 normal="1883">1883</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Magnetic Induction in Iron and Other Metals</title> (
+			 <imprint><date type="publication"
+			 normal="1891">1891</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Steam Engine and Other Heat Engines</title> (
+			 <imprint><date type="publication"
+			 normal="1894">1894</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Strength of Materials</title> (<imprint><date
+			 type="publication" normal="1899">1899</date></imprint>)</bibref></p> 
+		  <p><bibref><title>The Mechanical Production of Gold</title> (
+			 <imprint><date type="publication"
+			 normal="1908">1908</date></imprint>)</bibref></p> 
+		  <p><bibref><title>Thermodynamics for Engineers</title> (<imprint><date
+			 type="publication" normal="1920">1920</date></imprint>)</bibref></p> 
+		</otherinfo> 
+		<honqual encodinganalog="nahste2210"> 
+		  <head>Honours, Qualifications and Appointments</head> 
+		  <p>CB, 1907 /KCB 1911 /FRS 1887/ FRSE 1878, /president, rse, 1924-1929/
+			 1929 - albert medal of the royal society of arts /1932 - president, BAAS/1878
+			 (on jenkin's recommendation): appointed professor of mechanical engineering and
+			 physics at imperial university of tokyo /1883: professor of engineering,
+			 dundee/ 1890: appointed professor of mechanism and applied mechanics, uCamb
+			 /1903: director of naval education/ 1916 principal and v-c of UnivEd</p> 
+		  <p><date type="chairdate" normal="1878">1878</date>: Appointed
+			 Professor of Mechanical Engineering and Physics, Imperial University of
+			 Tokyo</p> 
+		  <p><date type="appointmentdate" normal="1878">1878</date>: Elected
+			 Fellow of the Royal Society of Edinburgh</p> 
+		  <p><date type="chairdate" normal="1883">1883</date>: Appointed
+			 Professor of Engineering, University College Dundee</p> 
+		  <p><date type="chairdate" normal="1890">1890</date>: Appointed
+			 Professor of Mechanism and Applied Mechanics, University of Cambridge</p> 
+		  <p><date type="appointmentdate" normal="1903">1903</date>: Appointed
+			 Director of Naval Education</p> 
+		  <p><date type="single" normal="1907">1907</date>: Created Comander of
+			 the Order of the Bath</p> 
+		  <p><date type="single" normal="1911">1911</date>: Created Knight
+			 Commander of the Order of the Bath (KCB) </p> 
+		  <p><date type="appointmentspan" normal="1914-1917">1914-1917</date>:
+			 Head of 'Room 40' military codebreaking unit</p> 
+		  <p><date type="appointmentdate" normal="1916">1916</date>: Appointed
+			 Principal and Vice-Chancellor, University of Edinburgh</p> 
+		  <p><date type="appointmentspan" normal="1924/1929">1924-1929</date>:
+			 Elected President of the Royal Society of Edinburgh</p> 
+		  <p><date type="single" normal="1929">1929</date>: Awarded Albert Medal
+			 of the Royal Society of Arts</p> 
+		</honqual> 
+	 </infoarea> 
+	 <notearea encodinganalog="ISAAR3"> 
+		<archnote encodinganalog="isaar31"> 
+		  <head>Notes</head> 
+		  <p>List of sources for the biographical information:</p> 
+		  <p><bibref> <persname normal="Wickham-Legg, LG" role="editor">LG
+			 Wickham-Legg</persname>, <title>Dictionary of National Biography
+			 1931-1940</title>, <imprint><geogname source="lcsh"
+			 authfilenumber="530" normal="London (England)">London</geogname>, 
+			 <publisher>Oxford University Press</publisher>, 
+			 <date type="publication" normal="1949"
+			 certainty="certain">1949</date>)</imprint></bibref></p> 
+		  <p><bibref> <title>Obituary Notices of Fellows of the Royal Society of
+			 London, No. 4</title>, (<imprint><geogname source="lcsh" authfilenumber="530"
+			 normal="London (England)">London</geogname>, 
+			 <publisher>Royal Society</publisher>, 
+			 <date type="publication" normal="1935"
+			 certainty="certain">1935</date>)</imprint></bibref></p> 
+		</archnote> 
+		<rules encodinganalog="isaar32"> 
+		  <head>Rules or Conventions</head> 
+		  <p>Authority record created according to the<bibref><corpname
+			 normal="National Council on Archives">National Council on
+			 Archives</corpname><title>Rules for the Construction of Personal, Place and
+			 Corporate Names (NCA Rules)</title><imprint> 
+			 <date type="publication" normal="1997">1997</date></imprint></bibref>
+			 and <bibref><corpname normal="International Council on Archives">International
+			 Council on Archives: Ad Hoc Committee on Descriptive
+			 Standards</corpname><title>International Standard Archival Authority Record for
+			 Corporate Bodies, Persona and Families (ISAAR)CPF</title><imprint> 
+			 <date type="publication"
+			 normal="1995">1995</date></imprint></bibref></p> 
+		</rules> 
+		<creationdate encodinganalog="isaar33"> 
+		  <p>Personal name authority record compiled for the NAHSTE project by
+			 <persname role="archivist" normal="Usher, Olivier">Olivier Usher</persname>,
+			 Edinburgh University Library Special Collections Division, 
+			 <date type="single" normal="20020527">27 May
+				2002</date></p></creationdate> 
+	 </notearea> 
+  </aar>
+</isaarcpf>

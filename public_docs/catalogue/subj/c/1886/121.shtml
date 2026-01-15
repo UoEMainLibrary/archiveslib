@@ -1,0 +1,36 @@
+<!--#include virtual="/catalogue/includes/top_header.php" -->
+<title>Archives and Manuscripts catalogue: College Buildings</title>
+
+<!--#include virtual="/catalogue/includes/cat_header.php" -->
+<!--#include virtual="/catalogue/includes/lower_header.php" -->
+
+
+<a href="/catalogue/">Search/Browse</a> &gt; <a href="/catalogue/subj/a/">Authority terms: subjects</a> &gt; <a href="/catalogue/subj/c/">c</a><h1>College Buildings</h1>
+<table summary="layout"><tr><td valign="top"><!--#include virtual="/catalogue/cs/viewauth.php?type=subj&id=1886&term=College Buildings" -->
+<span class="termsListHeader">
+Occurs in:</span><ul class="termslist" start="121">
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-13-2&view=basic">University of Edinburgh Comprehensive Development Area: Buccleuch Place survey - preliminary survey of accommodation as used May 1969 </a> (1969) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5-3-3&view=basic">University of Edinburgh, King's Buildings Development: KB Centre site plan </a> (1969) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5-7-3&view=basic">University of Edinburgh, King's Buildings Development: engineering growth plans </a> (1969) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-1-8-6&view=basic">University of Edinburgh: CDA proposals </a> (1969) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-G-1-2&view=basic">University of Edinburgh: Extension to Peffermill playing fields phase 2A </a> (1969) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-13&view=basic">University of Edinburgh Comprehensive Development Area: Buccleuch Place redevelopment </a> (1969-1972) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-E-4&view=basic">University of Edinburgh: Mound Lawnmarket Comprehensive Development Area: New College </a> (1969-1974) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-1-8-3&view=basic">University of Edinburgh development: city development plan </a> (1969-1979) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-G-1-3&view=basic">University of Edinburgh: Royal nurseries Edinburgh - playing fields layout plans </a> (1970) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-G-1-1&view=basic">University of Edinburgh: Peffermill playing fields feasibility study </a> (1970) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-4-5&view=basic">University of Edinburgh - King's Buildings roads: details of the perimeter road adjacent to site for Institute of Geological Sciences </a> (1970) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-11&view=basic">University of Edinburgh: Proposed Physical Education Building: model photographs </a> (1970-1979) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-7-1-1&view=basic">Chambers Street plans as existing </a> (1971) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-14-1&view=basic">University of Edinburgh Comprehensive Development Area: feasibility studies of miscellaneous areas </a> (1971-1979) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-9-2&view=basic">University of Edinburgh Medical School extension: development reports </a> (1971-1981) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-9-1&view=basic">University of Edinburgh Medical School extension: architectural model and photographs of the model </a> (1971-1981) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-9-4&view=basic">University of Edinburgh Medical School extension: construction photographs </a> (1971-1981) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-B-1-8-4&view=basic">City and Royal Burgh of Edinburgh development plan: University: Nicolson Street Comprehensive Development Area </a> (1972) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5-3-5&view=basic">University of Edinburgh, King's Buildings Development: King's Buildings centre - phase 2 </a> (1972-1973) The Percy Johnson-Marshall Collection</li>
+<li><a href="/catalogue/cs/viewcat.pl?id=PJM-PJMA-EUD-D-5-3-1&view=basic">University of Edinburgh, King's Buildings Development: King's Buildings Centre phases 2 and 3 </a> (1972-1973) The Percy Johnson-Marshall Collection</li>
+</ul>
+<a href="101.shtml">Previous</a>
+<a href="141.shtml">Next</a>
+</td></tr></table><p>Please note that not all collection catalogues have yet been indexed by authority terms. This browse facility will ONLY locate those where this work has been done.</p>
+<!--#include virtual="/catalogue/includes/footer.php" -->
