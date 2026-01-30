@@ -9,24 +9,24 @@ include "../../mgt_config/sql.php";
 include "../includes/header.php";
 echo "<title>Archives and Manuscripts: Directory of Photographs</title>";
 if (MYSQLIMODE) {
-	$id = mysqli_real_escape_string($_GET['id']);
-	$term = mysqli_real_escape_string($_GET['term']);
-	$filter = mysqli_real_escape_string($_GET['filter']);
-	$prefix = mysqli_real_escape_string($_GET['prefix']);
-	$number = mysqli_real_escape_string($_GET['number']);
+	$id = mysqli_real_escape_string($id_link, $_GET['id']);
+	$term = mysqli_real_escape_string($id_link, $_GET['term']);
+	$filter = mysqli_real_escape_string($id_link, $_GET['filter']);
+	$prefix = mysqli_real_escape_string($id_link, $_GET['prefix']);
+	$number = mysqli_real_escape_string($id_link, $_GET['number']);
 } else {
-	$id = mysql_real_escape_string($_GET['id']);
+	$id = mysql_real_escape_string($id_link, $_GET['id']);
 	//	$id = $_GET['id'];
-	$term = mysql_real_escape_string($_GET['term']);
+	$term = mysql_real_escape_string($id_link, $_GET['term']);
 	//$term = $_GET['term'];
 
-	$filter = mysql_real_escape_string($_GET['filter']);
+	$filter = mysql_real_escape_string($id_link, $_GET['filter']);
 	//$filter = $_GET['filter'];
 
-	$prefix = mysql_real_escape_string($_GET['prefix']);
+	$prefix = mysql_real_escape_string($id_link, $_GET['prefix']);
 	//$prefix = $_GET['prefix'];
 
-	$number = mysql_real_escape_string($_GET['number']);
+	$number = mysql_real_escape_string($id_link, $_GET['number']);
 	//$number = $_GET['number'];
 }
 ?>
