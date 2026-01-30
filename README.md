@@ -11,3 +11,4 @@ gbrown_redacted
 ._.vscode  
 .vscode/  
 mgt_config  
+public_docs/euf/data/places/ISR/ #this is because there are a number of corrupted filenames that git can't process.
