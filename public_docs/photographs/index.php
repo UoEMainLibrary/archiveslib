@@ -72,6 +72,8 @@ if (MYSQLIMODE) {
 
 	<?php
 
+	$func = $_GET['func'] ?? '';
+
 	if ($_GET['func'] != "about") {
 		echo "<div align='right'><a href='" . $_SERVER['PHP_SELF'] . "?func=about'>About this Resource</a></div>";
 	}
