@@ -1,7 +1,7 @@
-<?php 	 $view = $_GET['view'];
-   		 $subview = $_GET['subview'];
+<?php 	 $view = $_GET['view'] ?? '';
+   		 $subview = $_GET['subview'] ?? '';
 		 $imgid = isset($_GET['id']) ? $_GET['id'] : null;
-		 $year = $_GET['year'];
+		 $year = $_GET['year'] ?? '';
 		 $image = isset($_GET['image']) ? $_GET['image'] : null;
 
         //SR 16/09/2024 -commenting out as not set to anything		 
