@@ -74,12 +74,12 @@ if (MYSQLIMODE) {
 
 	$func = $_GET['func'] ?? '';
 
-	if ($_GET['func'] != "about") {
+	if ($func != "about") {
 		echo "<div align='right'><a href='" . $_SERVER['PHP_SELF'] . "?func=about'>About this Resource</a></div>";
 	}
 
 
-	if ($_GET['func'] == "results") {
+	if ($func == "results") {
 
 		$sql_str = "SELECT * FROM eua_photographs WHERE uoe LIKE 'y' AND Description LIKE '%$term%' ORDER BY dateFrom ASC";
 
@@ -104,7 +104,7 @@ if (MYSQLIMODE) {
 
 		echo "</table>";
 
-	} elseif ($_GET['func'] == "filter") {
+	} elseif ($func == "filter") {
 
 		$sql_str = "SELECT * FROM eua_photographs WHERE uoe LIKE 'y' AND " . $filter . " LIKE 'y' ORDER BY dateFrom ASC";
 
@@ -128,7 +128,7 @@ if (MYSQLIMODE) {
 		}
 		echo "</table>";
 
-	} elseif ($_GET['func'] == "related") {
+	} elseif ($func == "related") {
 
 		$sql_str = "SELECT * FROM eua_photographs WHERE Prefix LIKE '$prefix' AND Number LIKE '$number' ORDER BY dateFrom ASC";
 
@@ -153,7 +153,7 @@ if (MYSQLIMODE) {
 		}
 		echo "</table>";
 
-	} elseif ($_GET['func'] == "detail") {
+	} elseif ($func == "detail") {
 
 		$sql_str = "SELECT * FROM eua_photographs WHERE id LIKE '$id'";
 
@@ -181,7 +181,7 @@ if (MYSQLIMODE) {
 
 		echo "</table>";
 
-	} elseif ($_GET['func'] == "about") {
+	} elseif ($func == "about") {
 
 		echo "<h2>About this Resource</h2>";
 
@@ -196,7 +196,7 @@ if (MYSQLIMODE) {
 	}
 
 
-	if ($_GET['func'] != "about") {
+	if ($func != "about") {
 		echo "<p>This is not a comprehensive database of all our photographs.  Please also use our main <a href='/catalogue/'>Archives &amp; Manuscripts catalogue</a> to identify items.</p>";
 
 		echo "<p style='font-weight:bold; margin-top:15px;'>This database contains unverified data complied from various legacy typescript lists and indexes.  It is being made available as an interim means of identifying key photographs and related items in our collections.  Please accept that there will be some typographical and other errors present.</p>";
